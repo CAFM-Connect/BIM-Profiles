@@ -1,1 +1,2 @@
 Hallo Azure via git
+Jetzt ohne Ä im GIT-Comment
