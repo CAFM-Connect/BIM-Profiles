@@ -1,0 +1,3048 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" id="ifcXML4" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>CAFM-Connect Katalog 2014</name>
+    <time_stamp>2014-07-17T08:39:25</time_stamp>
+    <author>Aengenvoort</author>
+    <organization>CAFM-Connect</organization>
+    <preprocessor_version>.NET API etask.ifc</preprocessor_version>
+    <originating_system>.NET API etask.ifc</originating_system>
+    <authorization>file created with .NET API etask.ifc</authorization>
+    <documentation>PropertyCatalogView</documentation>
+  </header>
+  <IfcProject id="i100" GlobalId="2HGmC7hjn1mRc41i9NxUWF">
+    <UnitsInContext>
+      <Units>
+        <IfcSIUnit id="i101" UnitType="lengthunit" Name="metre" />
+        <IfcSIUnit id="i102" UnitType="lengthunit" Prefix="milli" Name="metre" />
+        <IfcSIUnit id="i103" UnitType="lengthunit" Prefix="centi" Name="metre" />
+        <IfcSIUnit id="i104" UnitType="areaunit" Name="square_metre" />
+        <IfcSIUnit id="i105" UnitType="volumeunit" Name="cubic_metre" />
+        <IfcSIUnit id="i106" UnitType="electricvoltageunit" Name="volt" />
+        <IfcSIUnit id="i107" UnitType="thermodynamictemperatureunit" Name="degree_celsius" />
+        <IfcSIUnit id="i108" UnitType="massunit" Prefix="kilo" Name="gram" />
+        <IfcDerivedUnit id="i109" UnitType="volumetricflowrateunit">
+          <Elements>
+            <IfcDerivedUnitElement id="i110" Exponent="3">
+              <Unit xsi:type="IfcSIUnit" UnitType="lengthunit" />
+            </IfcDerivedUnitElement>
+            <IfcDerivedUnitElement id="i111" Exponent="-1">
+              <Unit xsi:type="IfcConversionBasedUnit" Name="Hour" UnitType="timeunit">
+                <ConversionFactor>
+                  <ValueComponent>
+                    <IfcTimeMeasure-wrapper>3600.</IfcTimeMeasure-wrapper>
+                  </ValueComponent>
+                  <UnitComponent>
+                    <IfcSIUnit UnitType="timeunit" />
+                  </UnitComponent>
+                </ConversionFactor>
+              </Unit>
+            </IfcDerivedUnitElement>
+          </Elements>
+        </IfcDerivedUnit>
+        <IfcSIUnit id="i112" UnitType="powerunit" Name="watt" />
+        <IfcSIUnit id="i113" UnitType="powerunit" Prefix="kilo" Name="watt" />
+        <IfcSIUnit id="i114" UnitType="pressureunit" Name="pascal" />
+      </Units>
+    </UnitsInContext>
+  </IfcProject>
+  <IfcClassification id="i115" Edition="Version 1.01" EditionDate="2014-07-17T08:39:28" Name="CAFM-Connect Katalog 2015" />
+  <IfcRelAssociatesClassification id="i116" GlobalId="2tvlldn0n0NveCXBFHIL9y" Name="CAFM-Connect Katalog 2015 - Alle Properties zu IfcClassification">
+    <RelatedObjects>
+      <IfcProject ref="i100" xsi:nil="true" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification ref="i115" xsi:nil="true" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i117" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Sort="0">
+    <ReferencedSource>
+      <IfcClassification ref="i115" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i118" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i119" Identification="331" Name="Tragende Außenwände" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i120" Identification="331.10" Name="Brandwände (tragend, außen)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i119" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i121" Identification="332" Name="Nichttragende Außenwände" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i122" Identification="333" Name="Außenstützen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i123" Identification="334" Name="Außentüren, -tore und -fenster" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i124" Identification="334.10" Name="Türe, handbetätigt" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i125" Identification="334.20" Name="Türe, kraftbetätigt" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i126" Identification="334.30" Name="Tor, handbetätigt" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i127" Identification="334.40" Name="Tor, kraftbetätigt" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i128" Identification="334.50" Name="Fenster, handbetätigt" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i129" Identification="334.60" Name="Fenster, kraftbetätigt" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i123" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i130" Identification="335" Name="Außenwandbekleidungen (außen)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i131" Identification="336" Name="Außenwandbekleidungen (innen)" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i132" Identification="337" Name="Elementierte Außenwände" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i133" Identification="338" Name="Sonnenschutz" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i134" Identification="339" Name="Außenwände, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i118" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i135" Identification="339.10" Name="Umwehrungen nach außen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i134" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i136" Identification="339.20" Name="Kellerlichtschächte mit Gitterrosten" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i134" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i137" Identification="339.90" Name="Sonstige Elemente an Außenwänden" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i134" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i138" Identification="339.91" Name="Rankgerüste (außen)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i137" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i139" Identification="340" Name="Innenwände, -türen, -tore und -fenster" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i140" Identification="341" Name="Tragende Innenwände" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i141" Identification="341.10" Name="Brandwände (tragend, innen)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i140" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i142" Identification="341.12" Name="Durchführungen Kabel durch Brandwände" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i141" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i143" Identification="341.13" Name="Durchführungen Rohrleitungen durch Brandwände" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i141" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i144" Identification="341.14" Name="Durchführungen Lüftungskanäle durch Brandwände" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i141" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i145" Identification="341.15" Name="Durchführungen pneumatischer Förderleitungen durch Brandwände" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i141" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i146" Identification="342" Name="Nichttragende Innenwände" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i147" Identification="342.10" Name="Trennwand (kraftbetätigt)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i146" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i148" Identification="342.20" Name="Glaswände" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i146" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i149" Identification="343" Name="Innenstützen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i150" Identification="344" Name="Innentüren, -tore und -fenster" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i151" Identification="344.10" Name="Türe, handbetätigt" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i152" Identification="344.20" Name="Türe, kraftbetätigt" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i153" Identification="344.30" Name="Tor, handbetätigt" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i154" Identification="344.40" Name="Tor, kraftbetätigt" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i155" Identification="344.50" Name="Fenster, handbetätigt" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i156" Identification="344.60" Name="Fenster, kraftbetätigt" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i150" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i157" Identification="345" Name="Innenwandbekleidungen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i158" Identification="346" Name="Elementierte Innenwände" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i159" Identification="349" Name="Innenwände, sonstiges" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i139" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i160" Identification="349.10" Name="Umwehrungen innen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i159" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i161" Identification="349.11" Name="Treppengeländer" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i160" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i162" Identification="350" Name="Decken" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i163" Identification="351" Name="Deckenkonstruktionen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i162" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i164" Identification="351.10" Name="Treppen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i163" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i165" Identification="352" Name="Deckenbeläge / Bodenbeläge" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i162" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i166" Identification="353" Name="Deckenbekleidungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i162" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i167" Identification="359" Name="Decken, sonstiges" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i162" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i168" Identification="359.10" Name="Geländer und Umwehrungen gegen Lufträume im Gebäudeinneren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i167" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i169" Identification="360" Name="Dächer" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i170" Identification="361" Name="Dachkonstruktionen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i169" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i171" Identification="362" Name="Dachfenster, Dachöffnungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i169" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i172" Identification="362.10" Name="Natürliche Rauch- und Wärmeabzugsanlagen (NRA, RWA)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i171" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i173" Identification="362.20" Name="Kuppel kraftbetätigt (nicht RWA)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i171" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i174" Identification="363" Name="Dachbeläge" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i169" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i175" Identification="364" Name="Dachbekleidungen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i169" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i176" Identification="369" Name="Dächer, sonstiges" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i169" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i177" Identification="369.10" Name="Geländer und Umwehrungen bei Flachdächern, Dachterrassen und dgl." Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i176" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i178" Identification="369.20" Name="Anschlagpunkte zur Absturzsicherung (Sekuranten)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i176" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i179" Identification="370" Name="Baukonstruktive Einbauten" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i180" Identification="371" Name="Allgemeine Einbauten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i179" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i181" Identification="371.10" Name="Regalanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i180" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i182" Identification="371.11" Name="Rollregalanlagen (kraftbetätigte)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i181" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i183" Identification="372" Name="Besondere Einbauten" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i179" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i184" Identification="372.10" Name="Bühnentechnische Einbauten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i183" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i185" Identification="372.12" Name="Schutzvorhänge" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i184" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i186" Identification="372.20" Name="Badetechnische Einbauten" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i183" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i187" Identification="372.22" Name="Schwimmbeckenzubehör" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i186" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i188" Identification="372.21" Name="Schwimm- und Badebecken" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i186" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i189" Identification="372.23" Name="Hubböden" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i186" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i190" Identification="372.40" Name="Schul- und Sport-Einbauten" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i183" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i191" Identification="372.41" Name="Kletterwände, Sprossenwände, Gitterleitern" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i190" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i192" Identification="372.42" Name="Hochziehbare Sportgeräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i190" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i193" Identification="372.43" Name="Trennvorhänge in Sporthallen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i190" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i194" Identification="372.30" Name="Kirchentechnische Einbauten" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i183" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i195" Identification="372.31" Name="Glockenstühle und Glocken" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i194" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i196" Identification="372.50" Name="Luftfahrttechnische Einbauten" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i183" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i197" Identification="372.51" Name="Fluggastbrücken" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i196" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i198" Identification="379" Name="Baukonstruktive Einbauten, sonstiges" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i179" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i199" Identification="390" Name="Sonstige baukonstruktive Elemente" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i117" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i200" Identification="391" Name="Baustelleneinrichtung" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i199" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i201" Identification="391.10" Name="Baustellenaufzüge" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i200" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i202" Identification="391.11" Name="Baustellenaufzüge (elektrisch, mit Personenbeförderung)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i201" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i203" Identification="391.12" Name="Baustellenaufzüge (elektrisch, ohne Personenbeförderung)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i201" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i204" Identification="391.90" Name="Flucht- und Rettungswege auf Baustellen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i200" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i205" Identification="392" Name="Gerüste" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i199" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i206" Identification="400" Name="BAUWERK - TECHNISCHE ANLAGEN" Sort="1">
+    <ReferencedSource>
+      <IfcClassification ref="i115" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i207" Identification="410" Name="Abwasser-, Wasser-, Gasanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i208" Identification="411" Name="Abwasseranlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i207" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i209" Identification="411.10" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i210" Identification="411.20" Name="Abläufe" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i211" Identification="411.30" Name="Einbauteile" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i212" Identification="411.40" Name="Pumpen / Hebeanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i213" Identification="411.60" Name="Abscheideranlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i214" Identification="411.70" Name="Neutralisierungsanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i215" Identification="411.80" Name="Kontroll-, Reinigungs- und Sammelschächte" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i216" Identification="411.90" Name="Absperreinrichtungen und Rückstauverschlüsse" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i208" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i217" Identification="412" Name="Wasseranlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i207" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i218" Identification="412.10" Name="Trinkwasserversorgungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i219" Identification="412.11" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i220" Identification="412.12" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i221" Identification="412.13" Name="Druckerhöhungsanlage" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i222" Identification="412.14" Name="Mess- und Zähleinrichtungen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i223" Identification="412.15" Name="Filter" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i224" Identification="412.16" Name="Zirkulationsnetz" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i218" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i225" Identification="412.20" Name="Sanitäre Einrichtungsgegenstände" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i226" Identification="412.21" Name="Wasser-, Dusch-, Badeanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i225" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i227" Identification="412.22" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i225" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i228" Identification="412.23" Name="Einrichtungsgegenstände" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i225" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i229" Identification="412.24" Name="Spülkästen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i225" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i230" Identification="412.25" Name="Druckspüler" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i225" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i231" Identification="412.30" Name="Dezentrale Trinkwasser-Erwärmungsanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i232" Identification="412.40" Name="Trinkwasser- Aufbereitungsanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i233" Identification="412.60" Name="Nichttrinkwasseranlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i234" Identification="412.61" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i233" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i235" Identification="412.62" Name="Absperreinrichtungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i233" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i236" Identification="412.64" Name="Brunnenwasserversorgung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i233" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i237" Identification="412.65" Name="Zierbrunnen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i233" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i238" Identification="412.70" Name="Regenwassernutzungsanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i239" Identification="412.80" Name="Trinkwasser-Hausanschluss" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i217" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i240" Identification="413" Name="Gasanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i207" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i241" Identification="413.10" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i240" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i242" Identification="413.20" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i240" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i243" Identification="413.30" Name="Flüssiggastanks" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i240" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i244" Identification="419" Name="Abwasser-, Wasser-, Gasanlagen, sonstiges" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i207" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i245" Identification="419.70" Name="Hygienische Einrichtungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i244" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i246" Identification="419.71" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i247" Identification="419.72" Name="Absperr-, Entleerungs- und Entnahmearmaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i248" Identification="419.73" Name="Zentraleinheiten einschließlich Pumpe" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i249" Identification="419.74" Name="Dezentrale Desinfektionseinheiten" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i250" Identification="419.75" Name="UV-Desinfektion" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i251" Identification="419.76" Name="Elektrolytische Desinfektion" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i245" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i252" Identification="419.80" Name="MSR-Technik und Antriebselemente" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i244" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i253" Identification="419.81" Name="MSR-Technik" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i254" Identification="419.82" Name="Elektromotoren" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i255" Identification="419.83" Name="Riementriebe" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i256" Identification="419.84" Name="Antriebskupplungen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i257" Identification="419.85" Name="Kettentriebe" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i258" Identification="419.86" Name="Getriebe" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i252" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i259" Identification="419.90" Name="Elektrische/elektronische Steuereinrichtungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i244" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i260" Identification="419.91" Name="Näherungselektronik" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i259" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i261" Identification="419.92" Name="Lichtschranken" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i259" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i262" Identification="419.93" Name="Alarm- und Störmeldeeinrichtungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i259" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i263" Identification="419.94" Name="Druckschalter" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i259" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i264" Identification="420" Name="Wärmeversorgungsanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i265" Identification="421" Name="Wärmeerzeugungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i264" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i266" Identification="421.10" Name="Wärmeerzeuger" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i267" Identification="421.11" Name="Wasserkessel" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i268" Identification="421.12" Name="Dampfkessel" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i269" Identification="421.13" Name="Wärmepumpen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i270" Identification="421.14" Name="Solarkollektoren" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i271" Identification="421.15" Name="Blockheizkraftwerke (BHKW) (wärmegeführt)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i272" Identification="421.16" Name="Brennstoffzellenheizgeräte" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i273" Identification="421.17" Name="Elektroheizungen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i274" Identification="421.18" Name="Wärmetauscher" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i275" Identification="421.19" Name="Fernwärmeübergabestation" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i266" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i276" Identification="421.20" Name="Rohrleitungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i277" Identification="421.21" Name="Ausdehnungsgefäße" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i276" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i278" Identification="421.22" Name="Druckerhöhungsanlage/ Druckhaltung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i276" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i279" Identification="421.23" Name="Minimal- und Maximaldruckbegrenzer" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i276" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i280" Identification="421.24" Name="Heizungsverteiler" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i276" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i281" Identification="421.30" Name="Feuerungsanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i282" Identification="421.31" Name="Brenner" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i281" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i283" Identification="421.36" Name="Direkte Strahlungsheizung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i281" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i284" Identification="421.40" Name="Abgasanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i285" Identification="421.41" Name="Abgasleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i286" Identification="421.42" Name="Schalldämpfer" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i287" Identification="421.43" Name="Abgaswärmetauscher" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i288" Identification="421.44" Name="Abgasklappen, Zugbegrenzer" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i289" Identification="421.45" Name="Abgasventilatoren" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i290" Identification="421.46" Name="Schornsteine" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i291" Identification="421.47" Name="Entwässerungseinrichtungen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i292" Identification="421.48" Name="Abgasmesseinrichtungen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i284" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i293" Identification="421.50" Name="Wassererwärmungsanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i294" Identification="421.60" Name="Schaltschrank, Regelanlage, Leittechnik, Druckluftstation" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i295" Identification="421.70" Name="Antriebselemente" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i296" Identification="421.71" Name="Elektromotoren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i295" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i297" Identification="421.72" Name="Riementriebe" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i295" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i298" Identification="421.73" Name="Antriebskupplungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i295" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i299" Identification="421.74" Name="Kettentriebe" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i295" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i300" Identification="421.75" Name="Getriebe" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i295" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i301" Identification="421.90" Name="Heizölläger und -leitungen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i265" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i302" Identification="422" Name="Wärmeverteilnetze" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i264" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i303" Identification="422.80" Name="Rohrnetz" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i302" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i304" Identification="422.81" Name="Pumpen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i303" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i305" Identification="422.82" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i303" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i306" Identification="422.83" Name="Schmutzfänger" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i303" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i307" Identification="422.84" Name="Rohrleitungen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i303" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i308" Identification="423" Name="Raumheizflächen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i264" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i309" Identification="423.16" Name="Mess- und Zähleinrichtungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i308" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i310" Identification="423.17" Name="Heizkörper" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i308" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i311" Identification="423.18" Name="Flächenheizung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i308" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i312" Identification="429" Name="Wärmeversorgungsanlagen, sonstiges" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i264" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i313" Identification="430" Name="Lufttechnische Anlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i314" Identification="430.00" Name="Gemeinsame Bauteile lufttechnischer Anlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i313" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i315" Identification="430.10" Name="Ventilatoren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i316" Identification="430.20" Name="Wärmetauscher" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i317" Identification="430.21" Name="Wärmerückgewinnung WRG (I)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i318" Identification="430.22" Name="Elektro-Lufterwärmer" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i319" Identification="430.23" Name="Luftkühler (Luft/Flüssigkeit)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i320" Identification="430.24" Name="Verdampfer (Luft/Kältemittel)" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i321" Identification="430.25" Name="Wärmerückgewinnung WRG (II)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i322" Identification="430.26" Name="Kreuzstrom-Wärmetauscher" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i323" Identification="430.27" Name="Rotations-Wärmeübertrager" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i324" Identification="430.28" Name="Lufterhitzer (Luft/Flüssigkeit)" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i316" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i325" Identification="430.30" Name="Luftfilter" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i326" Identification="430.40" Name="Luftbe- und -entfeuchter" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i327" Identification="430.41" Name="Luftbefeuchter (Medium: Wasser)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i328" Identification="430.42" Name="Tropfenabscheider / Gleichrichter" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i329" Identification="430.43" Name="Luftbefeuchter (Medium: Dampf; mit eigenem Dampferzeuger)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i330" Identification="430.44" Name="Luftbefeuchter (Medium: Dampf; ohne eigenen Dampferzeuger)" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i331" Identification="430.45" Name="Ultraschall-, Zerstäubungs- und Hybridbefeuchter" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i332" Identification="430.46" Name="Dampferzeuger" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i333" Identification="430.47" Name="Entfeuchter" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i326" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i334" Identification="430.50" Name="Bauelemente des Luftleitungssystems" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i335" Identification="430.51" Name="Wetterschutzgitter" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i336" Identification="430.52" Name="Gitter und Verteiler" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i337" Identification="430.53" Name="Brandschutzklappen (BSK)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i338" Identification="430.54" Name="Klappen (außer Brandschutzklappen)" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i339" Identification="430.55" Name="Luftleitungen und Kammern" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i340" Identification="430.56" Name="Volumenstrom- und Mischregler" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i341" Identification="430.57" Name="Absperr- und Abgleichelemente" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i342" Identification="430.58" Name="Induktionsgeräte und vergleichbare Nachbehandlungsgeräte" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i334" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i343" Identification="430.60" Name="Schaltschrank, Regelanlage, Leittechnik, Druckluftstation" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i344" Identification="430.70" Name="Antriebselemente" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i314" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i345" Identification="430.71" Name="Elektromotoren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i344" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i346" Identification="430.72" Name="Riementriebe" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i344" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i347" Identification="430.73" Name="Antriebskupplungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i344" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i348" Identification="430.74" Name="Kettentriebe" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i344" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i349" Identification="430.75" Name="Getriebe" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i344" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i350" Identification="431" Name="Lüftungsanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i313" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i351" Identification="431.20" Name="Lüftungsanlagen für Feuerstätten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i352" Identification="431.40" Name="Lufterhitzer, Torluftschleier" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i353" Identification="431.50" Name="Sonderabluftanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i354" Identification="431.60" Name="Jet-Ventilatoren" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i355" Identification="431.80" Name="Rauchschutz-Druckanlagen (DRA)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i356" Identification="431.90" Name="Maschinelle Rauch- und Wärmeabzugsanlagen (MRA, RWA)" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i350" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i357" Identification="434" Name="Kälteanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i313" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i358" Identification="434.10" Name="Verdichter/ Kältemaschine" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i359" Identification="434.20" Name="Wärmetauscher" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i360" Identification="434.21" Name="Wassergekühlter Verflüssiger" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i359" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i361" Identification="434.22" Name="Luftgekühlter Verflüssiger" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i359" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i362" Identification="434.23" Name="Verdampfer (Flüssigkeit/Kältemittel)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i359" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i363" Identification="434.25" Name="Verdunstungsverflüssiger" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i359" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i364" Identification="434.24" Name="Verdampfer (Luft/Kältemittel)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i359" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i365" Identification="434.30" Name="Anlagenteile" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i366" Identification="434.31" Name="Rohrleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i365" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i367" Identification="434.32" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i365" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i368" Identification="434.33" Name="MSR- und Sicherheitseinrichtung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i365" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i369" Identification="434.34" Name="Mess- und Anzeigegeräte" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i365" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i370" Identification="434.35" Name="Druckhaltung" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i365" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i371" Identification="434.40" Name="Rückkühlanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i372" Identification="434.42" Name="Trockenrückkühlanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i371" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i373" Identification="434.41" Name="Verdunstungsrückkühlanlagen (Kühltürme)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i371" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i374" Identification="434.60" Name="Antriebselemente" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i375" Identification="434.61" Name="Elektromotoren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i374" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i376" Identification="434.62" Name="Riementriebe" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i374" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i377" Identification="434.63" Name="Antriebskupplungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i374" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i378" Identification="434.64" Name="Getriebe" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i374" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i379" Identification="434.70" Name="Rohrnetz (Sekundärkreislauf)" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i380" Identification="434.71" Name="Pumpen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i381" Identification="434.72" Name="Armaturen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i382" Identification="434.73" Name="Schmutzfänger" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i383" Identification="434.74" Name="Rohrleitungen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i384" Identification="434.79" Name="Raumkühlflächen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i385" Identification="434.75" Name="Ausdehnungsgefäße" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i386" Identification="434.76" Name="Kälteverteiler" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i379" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i387" Identification="434.80" Name="Absorber" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i388" Identification="434.81" Name="Absorber-Wärmetauscher" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i387" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i389" Identification="434.82" Name="Pumpen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i387" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i390" Identification="434.83" Name="Antriebselemente" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i387" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i391" Identification="434.84" Name="Absorber-Kreislauf (Lithium-Wasser)" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i387" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i392" Identification="434.90" Name="Elektrische Einrichtungen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i357" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i393" Identification="434.91" Name="Schalt- und Steuerschränke" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i392" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i394" Identification="434.92" Name="Sicherheitseinrichtungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i392" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i395" Identification="438" Name="dezentrale  Kleinkälteanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i313" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i396" Identification="438.10" Name="Splitgeräte" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i395" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i397" Identification="439" Name="Lufttechnische Anlagen, sonstiges" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i313" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i398" Identification="440" Name="Starkstromanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i399" Identification="441" Name="Hoch- und Mittelspannungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i400" Identification="441.10" Name="Hoch- und Mittelspannungsschaltanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i399" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i401" Identification="441.20" Name="Transformatorenstationen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i399" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i402" Identification="442" Name="Eigenstromversorgungsanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i403" Identification="442.10" Name="Sicherheitsstromversorgungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i404" Identification="442.11" Name="Dieselmotorische Netzersatzanlagen (NEA)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i403" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i405" Identification="442.12" Name="Zentrale Batterie- / Akkumulatorenanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i403" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i406" Identification="442.13" Name="Schwungmassenanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i403" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i407" Identification="442.20" Name="Wasserkraftanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i408" Identification="442.30" Name="Windkraftanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i409" Identification="442.40" Name="Photovoltaikanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i410" Identification="442.50" Name="Brennstoffzellenanlagen (stromgeführt)" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i411" Identification="442.60" Name="Blockheizkraftwerke (BHKW) (stromgeführt)" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i412" Identification="442.70" Name="Gasturbinenanlagen (stromgeführt)" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i413" Identification="442.90" Name="Sonstige Eigenstromversorgungsanlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i402" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i414" Identification="443" Name="Niederspannungsschaltanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i415" Identification="443.10" Name="Niederspannungshauptverteiler" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i416" Identification="443.20" Name="Blindstromkompensationsanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i417" Identification="443.30" Name="Messverteilungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i418" Identification="443.40" Name="Gleichstromversorgungsschränke" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i419" Identification="443.50" Name="Schaltanlagenleittechnik" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i420" Identification="443.60" Name="USV-Anlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i414" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i421" Identification="444" Name="Niederspannungsinstallationsanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i422" Identification="444.10" Name="Unter-/ Schaltverteiler" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i421" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i423" Identification="445" Name="Beleuchtungsanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i424" Identification="445.10" Name="Allgemeinbeleuchtung" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i423" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i425" Identification="445.20" Name="Sicherheitsbeleuchtung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i423" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i426" Identification="445.30" Name="Laseranlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i423" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i427" Identification="446" Name="Blitzschutz- und Erdungsanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i428" Identification="447" Name="Zutrittskontrollanlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i429" Identification="449" Name="Starkstromanlagen, sonstiges" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i398" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i430" Identification="450" Name="Fernmelde- und informationstechnische Anlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i431" Identification="451" Name="Telekommunikationsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i432" Identification="451.10" Name="Zentrale" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i431" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i433" Identification="452.20" Name="Endgeräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i431" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i434" Identification="452" Name="Such- und Signalanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i435" Identification="453" Name="Zeitdienstanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i436" Identification="453.10" Name="Zentrale" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i435" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i437" Identification="453.20" Name="Terminal" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i435" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i438" Identification="454" Name="Elektroakustische Anlagen (ELA)" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i439" Identification="455" Name="Fernseh- und Antennenanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i440" Identification="455.10" Name="Fernsehanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i439" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i441" Identification="455.11" Name="Zentrale" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i440" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i442" Identification="455.12" Name="Endgeräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i440" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i443" Identification="455.20" Name="Antennenanlagen (auf Gebäuden)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i439" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i444" Identification="456" Name="Gefahrenmelde- und Alarmanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i445" Identification="456.10" Name="Brandmeldeanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i446" Identification="456.11" Name="Rauchwarnmelder" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i445" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i447" Identification="456.12" Name="Zentrale" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i445" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i448" Identification="456.20" Name="CO-Warnanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i449" Identification="456.30" Name="Gaswarnanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i450" Identification="456.40" Name="Einbruch- und Überfallmeldeanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i451" Identification="456.50" Name="Videoüberwachungsanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i452" Identification="456.60" Name="BOS-Anlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i453" Identification="456.70" Name="Notrufanlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i454" Identification="456.80" Name="Hausalarmanlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i444" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i455" Identification="457" Name="Übertragungsnetze" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i456" Identification="459" Name="Fernmelde- und informationstechnische Anlagen, sonstiges" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i430" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i457" Identification="460" Name="Förderanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i458" Identification="461" Name="Aufzugsanlage" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i459" Identification="461.01" Name="Antrieb" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i460" Identification="461.02" Name="Steuerung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i461" Identification="461.03" Name="Regelung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i462" Identification="461.04" Name="Geschwindigkeitsbegrenzer" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i463" Identification="461.05" Name="Fahrkorb" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i464" Identification="461.06" Name="Fahrkorb und Türantrieb" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i465" Identification="461.07" Name="Absturzsicherung" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i466" Identification="461.08" Name="Schachttüren" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i467" Identification="461.09" Name="Notrufsystem" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i458" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i468" Identification="462" Name="Fahrtreppen, Fahrsteige" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i469" Identification="463" Name="Befahranlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i470" Identification="463.10" Name="Fassadenbefahranlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i469" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i471" Identification="464" Name="Transportanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i472" Identification="465" Name="Krananlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i473" Identification="466" Name="Lifter" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i474" Identification="469" Name="Förderanlagen, sonstiges" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i457" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i475" Identification="469.10" Name="Hebebühnen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i474" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i476" Identification="469.20" Name="Mehrfachparker" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i474" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i477" Identification="470" Name="Nutzungsspezifische Anlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i478" Identification="471" Name="Küchentechnische Anlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i479" Identification="471.80" Name="Getränkeschankanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i478" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i480" Identification="471.81" Name="Getränke-/Grundstoffbehälter" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i479" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i481" Identification="471.82" Name="Druckgasflaschen für Getränkeschankanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i479" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i482" Identification="471.81" Name="Geschirrspülmaschinen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i478" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i483" Identification="471.82" Name="Kühlraum" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i478" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i484" Identification="471.83" Name="Kühlschänke" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i478" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i485" Identification="471.84" Name="Kochgeräte" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i478" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i486" Identification="472" Name="Wäscherei- und Reinigungsanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i487" Identification="472.10" Name="Zentralstaubsauganlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i486" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i488" Identification="473" Name="Medienversorgungsanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i489" Identification="473.10" Name="Druckluftversorgungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i488" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i490" Identification="473.11" Name="Drucklufterzeuger" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i489" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i491" Identification="473.12" Name="Druckluftbehälter" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i489" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i492" Identification="473.13" Name="Druckluftaufbereitung und -verteilung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i489" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i493" Identification="473.11" Name="Sauerstoffversorgungsanlage" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i488" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i494" Identification="473.20" Name="Versorgungsanlagen für technisches Gase" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i488" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i495" Identification="474" Name="Medizin- und labortechnische Anlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i496" Identification="475" Name="Feuerlöschanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i497" Identification="475.10" Name="Wasser-Löschanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i498" Identification="475.11" Name="Sprinkleranlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i497" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i499" Identification="475.12" Name="Sprühwasser-Löschanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i497" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i500" Identification="475.13" Name="Wasser-Feinsprüh-Löschanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i497" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i501" Identification="475.14" Name="Schaum-Löschanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i497" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i502" Identification="475.20" Name="Gas-Löschanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i503" Identification="475.30" Name="Sonstige Löschanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i504" Identification="475.31" Name="Pulverlöschanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i503" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i505" Identification="475.32" Name="Funkenlöschanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i503" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i506" Identification="475.33" Name="Einrichtungsschutzanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i503" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i507" Identification="475.34" Name="Sonderlöschanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i503" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i508" Identification="475.50" Name="Wandhydrantenanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i509" Identification="475.51" Name="Wandhydranten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i508" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i510" Identification="475.52" Name="Hydranten Steigleitungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i508" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i511" Identification="475.53" Name="Außenhydrant" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i508" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i512" Identification="475.70" Name="Feuerlöscher" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i513" Identification="475.80" Name="Löschdecken" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i496" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i514" Identification="476" Name="Badetechnische Anlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i515" Identification="476.10" Name="Aufbereitungs- / Desinfektionsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i516" Identification="476.20" Name="Wasserspeicher / Ausgleichsbehälter" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i517" Identification="476.30" Name="Rohrleitungen, Druckgeräte, Pumpen und Zubehör" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i518" Identification="476.50" Name="Badetechnische Einbauten" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i519" Identification="476.51" Name="Hubbadewannen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i518" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i520" Identification="476.52" Name="Steckbeckenspüler" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i518" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i521" Identification="476.90" Name="Gegenstrom-Schwimmanlage" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i522" Identification="476.40" Name="Filteranlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i514" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i523" Identification="477" Name="Prozesswärme-, kälte- und -luftanlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i524" Identification="478" Name="Entsorgungsanlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i525" Identification="479" Name="Nutzungsspezifische Anlagen, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i477" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i526" Identification="480" Name="Gebäudeautomation" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i206" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i527" Identification="481" Name="Automationssysteme" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i528" Identification="481.10" Name="Feldgeräte" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i527" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i529" Identification="481.11" Name="Sensoren" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i528" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i530" Identification="481.12" Name="Aktoren" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i528" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i531" Identification="481.13" Name="Dezentrale busfähige Baugruppen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i528" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i532" Identification="481.20" Name="Regler" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i527" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i533" Identification="481.30" Name="Unterstationen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i527" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i534" Identification="482" Name="Schaltschränke" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i535" Identification="482.10" Name="Schaltschränke mit Steuerungsteilen (MSR)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i534" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i536" Identification="482.20" Name="Schaltschränke mit Leistungsteilen (MSR)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i534" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i537" Identification="483" Name="Management- und Bedieneinrichtungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i538" Identification="483.10" Name="Zentraleinheit (Rechner)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i537" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i539" Identification="483.20" Name="Peripheriegeräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i537" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i540" Identification="483.21" Name="Eingabegeräte" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i539" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i541" Identification="483.22" Name="Ausgabegeräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i539" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i542" Identification="483.23" Name="Anzeigegeräte" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i539" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i543" Identification="483.24" Name="Externe Speicher" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i539" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i544" Identification="483.30" Name="Unterzentralen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i537" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i545" Identification="483.40" Name="Software" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i537" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i546" Identification="484" Name="Raumautomationssysteme" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i547" Identification="485" Name="Übertragungsnetze" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i548" Identification="489" Name="Gebäudeautomation, sonstiges" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i526" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i549" Identification="500" Name="AUSSENANLAGEN" Sort="2">
+    <ReferencedSource>
+      <IfcClassification ref="i115" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i550" Identification="510" Name="Geländeflächen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i551" Identification="511" Name="Oberboden" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i550" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i552" Identification="512" Name="Boden" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i550" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i553" Identification="519" Name="Geländeflächen, sonstiges" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i550" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i554" Identification="520" Name="Befestigte Flächen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i555" Identification="521" Name="Wege" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i556" Identification="522" Name="Straßen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i557" Identification="523" Name="Plätze, Höfe" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i558" Identification="524" Name="Stellplätze" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i559" Identification="525" Name="Sportplatzflächen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i560" Identification="526" Name="Spielplatzflächen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i561" Identification="526.10" Name="Spielplatzgeräte" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i560" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i562" Identification="527" Name="Gleisanlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i563" Identification="528" Name="Nutzungsspezifisch befestigte Flächen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i564" Identification="528.10" Name="Flächen für die Feuerwehr" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i563" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i565" Identification="528.20" Name="Bahnsteige" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i563" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i566" Identification="528.30" Name="Flugbetriebsflächen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i563" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i567" Identification="529" Name="Befestigte Flächen, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i554" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i568" Identification="530" Name="Baukonstruktionen in Außenanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i569" Identification="531" Name="Einfriedungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i570" Identification="531.10" Name="Mauern, Zäune" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i569" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i571" Identification="531.20" Name="Türen in Einfriedung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i569" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i572" Identification="531.25" Name="Tore in Einfriedung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i569" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i573" Identification="531.30" Name="Schrankenanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i569" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i574" Identification="531.40" Name="Wegesperren" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i569" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i575" Identification="532" Name="Schutzkonstruktionen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i576" Identification="533" Name="Mauern, Wände" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i577" Identification="534" Name="Rampen, Treppen, Tribünen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i578" Identification="535" Name="Überdachungen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i579" Identification="536" Name="Brücken, Stege" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i580" Identification="537" Name="Kanal- und Schachtbauanlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i581" Identification="537.10" Name="Kanalisationsleitungen, Abwasserleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i580" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i582" Identification="537.11" Name="Mischwasserleitungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i581" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i583" Identification="537.12" Name="Schmutzwasserleitungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i581" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i584" Identification="537.13" Name="Regenwasserleitungen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i581" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i585" Identification="537.20" Name="Kanalisationsschächte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i580" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i586" Identification="538" Name="Wasserbauliche Anlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i587" Identification="538.20" Name="Löschwasser-Rückhaltebecken" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i586" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i588" Identification="538.40" Name="Brunnen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i586" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i589" Identification="538.41" Name="Zierbrunnen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i588" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i590" Identification="539" Name="Baukonstruktionen in Außenanlagen, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i568" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i591" Identification="539.10" Name="Freistehende Schornsteine" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i590" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i592" Identification="539.11" Name="Freistehende Mauerwerksschornsteine" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i591" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i593" Identification="539.12" Name="Freistehende Stahlschornsteine" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i591" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i594" Identification="540" Name="Technische Anlagen in Außenanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i595" Identification="541" Name="Abwasseranlagen, Grundstücksentwässerungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i596" Identification="541.10" Name="Kleinkläranlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i595" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i597" Identification="541.20" Name="Sammelgruben" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i595" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i598" Identification="541.60" Name="Abscheideranlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i595" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i599" Identification="541.61" Name="Abscheideranlagen für Leichtflüssigkeiten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i598" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i600" Identification="541.62" Name="Abscheideranlagen für Fette" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i598" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i601" Identification="541.63" Name="Abscheideranlagen für Stärke" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i598" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i602" Identification="541.64" Name="Sand- und Schlammfänge" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i598" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i603" Identification="542" Name="Wasseranlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i604" Identification="543" Name="Gasanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i605" Identification="543.20" Name="Flüssiggasanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i604" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i606" Identification="543.21" Name="Flüssiggastanks" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i605" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i607" Identification="544" Name="Wärmeversorgungsanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i608" Identification="545" Name="Lufttechnische Anlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i609" Identification="546" Name="Starkstromanlagen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i610" Identification="546.50" Name="Außenbeleuchtungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i609" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i611" Identification="547" Name="Fernmelde- und informationstechnische Anlagen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i612" Identification="547.10" Name="Antennenanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i611" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i613" Identification="547.11" Name="Antennenanlagen (bis 10 m Höhe)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i612" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i614" Identification="547.12" Name="Antennenanlagen (über 10 m Höhe)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i612" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i615" Identification="547.20" Name="Verkehrssignalanlagen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i611" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i616" Identification="548" Name="Nutzungsspezifische Anlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i617" Identification="548.10" Name="Medienversorgungsanlagen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i616" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i618" Identification="548.20" Name="Tankläger" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i616" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i619" Identification="548.21" Name="Tankläger &lt; 10.000 l" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i618" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i620" Identification="548.22" Name="Tankläger &gt; 10.000 l" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i618" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i621" Identification="548.30" Name="Tankstellenanlagen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i616" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i622" Identification="548.40" Name="Flugfeldbetankungsanlagen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i616" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i623" Identification="549" Name="Technische Anlagen in Außenanlagen, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i594" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i624" Identification="550" Name="Einbauten in Außenanlagen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i625" Identification="551" Name="Allgemeine Einbauten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i624" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i626" Identification="551.20" Name="Fahrradständer" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i625" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i627" Identification="552" Name="Besondere Einbauten" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i624" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i628" Identification="559" Name="Einbauten in Außenanlagen, sonstiges" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i624" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i629" Identification="560" Name="Wasserflächen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i630" Identification="561" Name="Abdichtungen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i629" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i631" Identification="562" Name="Bepflanzungen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i629" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i632" Identification="569" Name="Wasserflächen, sonstiges" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i629" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i633" Identification="570" Name="Pflanz- und Saatflächen" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i634" Identification="571" Name="Oberbodenarbeiten" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i635" Identification="572" Name="Vegetationstechnische Bodenbearbeitung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i636" Identification="573" Name="Sicherungsbauweisen" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i637" Identification="574" Name="Pflanzen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i638" Identification="574.10" Name="Bäume" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i637" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i639" Identification="574.20" Name="Büsche, Sträucher" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i637" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i640" Identification="575" Name="Rasen und Ansaaten" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i641" Identification="576" Name="Begrünung unterbauter Flächen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i642" Identification="579" Name="Pflanz- und Saatflächen, sonstiges" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i633" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i643" Identification="590" Name="Sonstige Außenanlagen" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i549" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i644" Identification="600" Name="AUSSTATTUNG" Sort="3">
+    <ReferencedSource>
+      <IfcClassification ref="i115" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i645" Identification="610" Name="Ausstattung" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i644" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i646" Identification="611" Name="Möbel/Inventar" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i647" Identification="611.10" Name="Unterbringungsmöbel" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i646" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i648" Identification="611.20" Name="Tische" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i646" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i649" Identification="611.30" Name="Stühle" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i646" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i650" Identification="611.30" Name="Gartengeräte" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i646" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i651" Identification="611.31" Name="Rasenmäher" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i650" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i652" Identification="611.31" Name="Gartengeräte, mechanische und akkubetriebene" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i650" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i653" Identification="611.32" Name="Gartengeräte, elektrische (mit Netzstrom)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i650" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i654" Identification="611.33" Name="Gartengeräte, (verbrennungs-) motorische" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i650" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i655" Identification="611.33-1" Name="Rasenmäher" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i654" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i656" Identification="612" Name="Elektrische Geräte" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i657" Identification="611.21" Name="Steh- und Tischlampen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i656" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i658" Identification="611.22" Name="Steh- und Tischventilatoren" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i656" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i659" Identification="611.29" Name="Elektrische Verlängerungs- und Geräteanschlussleitungen mit Stecker" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i656" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i660" Identification="613" Name="EDV-Ausstattung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i661" Identification="613.10" Name="PCs, Server" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i660" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i662" Identification="613.20" Name="Bildschirme, Monitore, Displays, Sichtgeräte, Beamer" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i660" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i663" Identification="613.30" Name="Tastaturen, Tableaus, Eingabe-, Bediengeräte" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i660" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i664" Identification="613.40" Name="Drucker, Plotter, Ausgabegeräte" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i660" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i665" Identification="614" Name="Werkstattausrüstung" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i666" Identification="614.10" Name="Mechanische Handwerkzeuge" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i667" Identification="614.20" Name="Elektrische Handwerkzeuge" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i668" Identification="614.30" Name="Elektrische Messgeräte" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i669" Identification="614.40" Name="Ortsfeste Werkzeugmaschinen" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i670" Identification="614.50" Name="Schweißgeräte" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i671" Identification="614.60" Name="Flüssiggasflaschen" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i665" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i672" Identification="615" Name="Arbeits- und Hubarbeitsbühnen" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i673" Identification="615.10" Name="Fahrbare Hubarbeitsbühnen" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i672" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i674" Identification="615.20" Name="Fahrbare Arbeitsbühnen" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i672" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i675" Identification="616" Name="Winden, Hub- und Zuggeräte" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i676" Identification="617" Name="Leitern und Tritte" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i677" Identification="617.10" Name="Anlegeleitern" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i678" Identification="617.20" Name="Stehleitern" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i679" Identification="617.30" Name="Mehrzweckleitern" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i680" Identification="617.40" Name="Podestleitern" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i681" Identification="617.50" Name="Mechanische Leitern" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i682" Identification="617.60" Name="Steigleitern (ortsfeste)" Sort="5">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i683" Identification="617.70" Name="Hängeleitern" Sort="6">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i684" Identification="617.90" Name="Tritte" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i676" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i685" Identification="618" Name="Personenaufnahmemittel, nicht stationäre" Sort="7">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i686" Identification="619" Name="Ausstattung, sonstiges" Sort="8">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i687" Identification="619.10" Name="Sicherheits- und Gesundheitsschutzkennzeichnung" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i686" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i688" Identification="619.11" Name="Flucht- und Rettungspläne" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i687" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i689" Identification="619.12" Name="Alarmpläne" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i687" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i690" Identification="619.13" Name="Feuerwehrpläne" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i687" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i691" Identification="619.30" Name="Persönliche Schutzausrüstung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i686" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i692" Identification="619.40" Name="Einrichtungen zur Ersten Hilfe" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i686" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i693" Identification="619.42" Name="Rettungsgeräte, Rettungstransportmittel" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i692" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i694" Identification="612" Name="Besondere Ausstattung" Sort="9">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i645" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i695" Identification="612.10" Name="Büroausstattung" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i694" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i696" Identification="612.11" Name="Bürogeräte (ortsfeste elektrische)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i695" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i697" Identification="612.12" Name="Bürogeräte (ortsveränderliche elektrische)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i695" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i698" Identification="612.13" Name="Bürogeräte (mechanische)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i695" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i699" Identification="612.20" Name="Küchenausstattung" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i694" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i700" Identification="612.21" Name="Küchengeräte (ortsfeste elektrische)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i699" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i701" Identification="612.22" Name="Küchengeräte (ortsveränderliche elektrische)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i699" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i702" Identification="612.23" Name="Küchengeräte (mechanische)" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i699" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i703" Identification="612.30" Name="Schulausstattung" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i694" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i704" Identification="612.31" Name="Schulische Geräte (ortsfeste elektrische)" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i703" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i705" Identification="612.32" Name="Schulische Geräte (ortsveränderliche elektrische)" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i703" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i706" Identification="612.33" Name="Schultafeln" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i703" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i707" Identification="612.40" Name="Turngeräte, Sportgeräte" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i694" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i708" Identification="612.50" Name="Ausstattungen und Geräte für die Feuerwehr" Sort="4">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i694" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i709" Identification="620" Name="Kunstwerke" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i644" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i710" Identification="630" Name="Stoffe und Materialien" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i644" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i711" Identification="631" Name="Gefahrstoffe" Sort="0">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i710" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i712" Identification="632" Name="Abfallstoffe" Sort="1">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i710" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i713" Identification="633" Name="Brennstoffe" Sort="2">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i710" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i714" Identification="634" Name="Wassergefährdende Stoffe" Sort="3">
+    <ReferencedSource>
+      <IfcClassificationReference ref="i710" xsi:nil="true" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+</ifcXML>

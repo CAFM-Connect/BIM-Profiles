@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" id="ifcXML4" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+
+    <!--**********************************************************************************************
+	 ****** Eingebetteter Katalog der Raumnutzungsarten
+	 ****** (portiert von 2x3 aus CC_Catalog_V1.0 nach 2x4 hier)
+	 ********************************************************************************************** -->
+
+  <IfcClassification id="cc1_2" Name="Katalog Raumnutzungsarten" Source="CAFM-Connect-Katalog-Ausschuss"  Description="CAFMConnectCatalogueOfSpaceTypes" Edition="1.06" EditionDate="2014-12-09T06:23:37" />
+  <IfcRelAssociatesClassification id="cc1_3" GlobalId="0n3u9_QbH6sOh2u3lcO2Xo">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i100"/>
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="cc1_2"/>
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="cc1_DIN277" Identification="DIN277" Name="IfcDIN277" Description="DIN 277-2 (2005-02) Flächensystematik nach DIN 277-2 (Ausgabe Februar 2005) Grundflächen und Rauminhalte von Bauwerken im Hochbau - Gliederung der Netto-Grundfläche" Sort="0">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF1" Identification="DIN277_NF1" Name="NF 1 Wohnen und Aufenthalt" Description="Wohnräume" Sort="1">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_11" Identification="DIN277_1.1" Name="1.1 Wohnräume" Description="Wohnräume" Sort="11">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_12" Identification="DIN277_1.2" Name="1.2 Gemeinschaftsräume" Description="Gemeinschaftsräume" Sort="12">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_13" Identification="DIN277_1.3" Name="1.3 Pausenräume" Description="Pausenräume" Sort="13">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_14" Identification="DIN277_1.4" Name="1.4 Warteräume" Description="Warteräume" Sort="14">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_15" Identification="DIN277_1.5" Name="1.5 Speiseräume" Description="Speiseräume" Sort="15">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_16" Identification="DIN277_1.6" Name="1.6 Hafträume" Description="Hafträume" Sort="16">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF1"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF2" Identification="DIN277_NF2" Name="NF 2 Büroarbeit" Description="Büroarbeit" Sort="2">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_21" Identification="DIN277_2.1" Name="2.1 Büroräume" Description="Büroräume" Sort="21">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_22" Identification="DIN277_2.2" Name="2.2 Grossraumbüros" Description="Grossraumbüros" Sort="22">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_23" Identification="DIN277_2.3" Name="2.3 Besprechungsräume" Description="Besprechungsräume" Sort="23">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_24" Identification="DIN277_2.4" Name="2.4 Konstruktionsräume" Description="Konstruktionsräume" Sort="24">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_25" Identification="DIN277_2.5" Name="2.5 Schalterräume" Description="Schalterräume" Sort="25">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_26" Identification="DIN277_2.6" Name="2.6 Bedienungsräume" Description="Bedienungsräume" Sort="26">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_27" Identification="DIN277_2.7" Name="2.7 Aufsichtsräume" Description="Aufsichtsräume" Sort="27">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_28" Identification="DIN277_2.8" Name="2.8 Bürotechnikräume" Description="Bürotechnikräume" Sort="28">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_29" Identification="DIN277_2.9" Name="2.9 Sonstige Büroflächen" Description="Sonstige Büroflächen" Sort="29">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF2"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF3" Identification="DIN277_NF3" Name="NF 3 Produktion, Experimente, Arbeit" Description="Produktion, Experimente, Arbeit" Sort="3">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_31" Identification="DIN277_3.1" Name="3.1 Werkhallen" Description="Werkhallen" Sort="31">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_32" Identification="DIN277_3.2" Name="3.2 Werkstätten" Description="Werkstätten" Sort="32">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_33" Identification="DIN277_3.3" Name="3.3 Technologische Labors" Description="Technologische Labors" Sort="33">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_34" Identification="DIN277_3.4" Name="3.4 Physikal-, Elektrotechniklabors" Description="Physikal-, Elektrotechniklabors" Sort="34">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_35" Identification="DIN277_3.5" Name="3.5 Chemisch-, Biologische Labors" Description="Chemisch-, Biologische Labors" Sort="35">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_36" Identification="DIN277_3.6" Name="3.6 Räume für Tierhaltung" Description="Räume für Tierhaltung" Sort="36">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_37" Identification="DIN277_3.7" Name="3.7 Räume für Pflanzenzucht" Description="Räume für Pflanzenzucht" Sort="37">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_38" Identification="DIN277_3.8" Name="3.8 Küchen" Description="Küchen" Sort="38">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_39" Identification="DIN277_3.9" Name="3.9 Sonderarbeitsräume" Description="Sonderarbeitsräume" Sort="39">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF3"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF4" Identification="DIN277_NF4" Name="NF 4 Lagern, Verteilen und Verkaufen" Description="Lagern, Verteilen und Verkaufen" Sort="4">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_41" Identification="DIN277_4.1" Name="4.1 Lagerräume" Description="Lagerräume" Sort="41">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_42" Identification="DIN277_4.2" Name="4.2 Sammlungsräume, Archive" Description="Sammlungsräume, Archive" Sort="42">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_43" Identification="DIN277_4.3" Name="4.3 Kühlräume" Description="Kühlräume" Sort="43">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_44" Identification="DIN277_4.4" Name="4.4 Annahme- und Ausgaberäume" Description="Annahme- und Ausgaberäume" Sort="44">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_45" Identification="DIN277_4.5" Name="4.5 Verkaufsräume" Description="Verkaufsräume" Sort="45">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_46" Identification="DIN277_4.6" Name="4.6 Ausstellungsräume" Description="Ausstellungsräume" Sort="46">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_49" Identification="DIN277_4.9" Name="4.9 Sonstige Lagerräume" Description="Sonstige Lagerräume" Sort="49">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF4"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF5" Identification="DIN277_NF5" Name="NF 5 Bildung, Kultur und Unterricht" Description="Bildung, Kultur und Unterricht" Sort="5">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_51" Identification="DIN277_5.1" Name="5.1 Unterrichtsräume mit festem Gestühl" Description="Unterrichtsräume mit festem Gestühl" Sort="51">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_52" Identification="DIN277_5.2" Name="5.2 Unterrichts- und Übungsräume" Description="Unterrichts- und Übungsräume" Sort="52">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_53" Identification="DIN277_5.3" Name="5.3 Besondere Unterrichtsräume" Description="Besondere Unterrichtsräume" Sort="53">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_54" Identification="DIN277_5.4" Name="5.4 Bibliotheksräume" Description="Bibliotheksräume" Sort="54">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_55" Identification="DIN277_5.5" Name="5.5 Sporträume" Description="Sporträume" Sort="55">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_56" Identification="DIN277_5.6" Name="5.6 Versammlungsräume" Description="Versammlungsräume" Sort="56">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_57" Identification="DIN277_5.7" Name="5.7 Bühnen- und Studioräume" Description="Bühnen- und Studioräume" Sort="57">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_58" Identification="DIN277_5.8" Name="5.8 Schauräume" Description="Schauräume" Sort="58">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_59" Identification="DIN277_5.9" Name="5.9 Sakralräume" Description="Sakralräume" Sort="59">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF5"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF6" Identification="DIN277_NF6" Name="NF 6 Heilen und Pflegen" Description="Heilen und Pflegen" Sort="6">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_61" Identification="DIN277_6.1" Name="6.1 Allgemeinmedizinische Räume" Description="Allgemeinmedizinische Räume" Sort="61">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_62" Identification="DIN277_6.2" Name="6.2 Fachmedizinische Räume" Description="Fachmedizinische Räume" Sort="62">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_63" Identification="DIN277_6.3" Name="6.3 Intensivmedizinische Räume" Description="Intensivmedizinische Räume" Sort="63">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_64" Identification="DIN277_6.4" Name="6.4 Räume für Strahlendiagnostik" Description="Räume für Strahlendiagnostik" Sort="64">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_65" Identification="DIN277_6.5" Name="6.5 Räume für Strahlentherapie" Description="Räume für Strahlentherapie" Sort="65">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_66" Identification="DIN277_6.6" Name="6.6 Rehabilitation und Physiotherapie" Description="Rehabilitation und Physiotherapie" Sort="66">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_67" Identification="DIN277_6.7" Name="6.7 Allgemeine Bettenräume" Description="Allgemeine Bettenräume" Sort="67">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_68" Identification="DIN277_6.8" Name="6.8 Besondere Bettenräume" Description="Besondere Bettenräume" Sort="68">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_69" Identification="DIN277_6.9" Name="6.9 Sonstige Pflegeräume" Description="Sonstige Pflegeräume" Sort="69">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF6"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_NF7" Identification="DIN277_NF7" Name="NF 7 Sonstige Nutzflächen" Description="Sonstige Nutzflächen" Sort="7">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_71" Identification="DIN277_71" Name="7.1 Sanitärräume" Description="Sanitärräume" Sort="71">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_72" Identification="DIN277_72" Name="7.2 Garderoben" Description="Garderoben" Sort="72">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_73" Identification="DIN277_73" Name="7.3 Abstellräume" Description="Abstellräume" Sort="73">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_74" Identification="DIN277_74" Name="7.4 Fahrzeugabstellfläche" Description="Fahrzeugabstellfläche" Sort="74">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_75" Identification="DIN277_75" Name="7.5 Fahrgastflächen" Description="Fahrgastflächen" Sort="75">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_76" Identification="DIN277_76" Name="7.6 Räume für zentrale Technik" Description="Räume für zentrale Technik" Sort="76">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_77" Identification="DIN277_77" Name="7.7 Schutzräume" Description="Schutzräume" Sort="77">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_79" Identification="DIN277_79" Name="7.9 Sonstige Räume" Description="Sonstige Räume" Sort="79">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_NF7"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_TF8" Identification="DIN277_TF8" Name="TF 8 Technische Anlagen" Description="Technische Anlagen" Sort="8">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_81" Identification="DIN277_81" Name="8.1 Abwasser, Gase, Wasserversorgung" Description="Abwasser, Gase, Wasserversorgung" Sort="81">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_82" Identification="DIN277_82" Name="8.2 Heizung, Brauchwassererwärmung" Description="Heizung, Brauchwassererwärmung" Sort="82">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_83" Identification="DIN277_83" Name="8.3 Raumlufttechnische Anlagen" Description="Raumlufttechnische Anlagen" Sort="83">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_84" Identification="DIN277_84" Name="8.4 Elektr. Stromversorgung" Description="Elektr. Stromversorgung" Sort="84">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_85" Identification="DIN277_85" Name="8.5 Fernmeldetechnik" Description="Fernmeldetechnik" Sort="85">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_86" Identification="DIN277_86" Name="8.6 Aufzugs- und Förderanlagen" Description="Aufzugs- und Förderanlagen" Sort="86">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_89" Identification="DIN277_89" Name="8.9 Sonstige betriebstechnische Anlagen" Description="Sonstige betriebstechnische Anlagen" Sort="89">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_TF8"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_DIN277_VF9" Identification="DIN277_VF9" Name="VF 9 Verkehrserschließung, -sicherung" Description="Verkehrserschließung, -sicherung" Sort="9">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_91" Identification="DIN277_91" Name="9.1 Flure / Hallen" Description="Flure / Hallen" Sort="91">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_VF9"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_92" Identification="DIN277_92" Name="9.2 Treppen" Description="Treppen" Sort="92">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_VF9"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_93" Identification="DIN277_93" Name="9.3 Schächte für Förderanlagen" Description="Schächte für Förderanlagen" Sort="93">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_VF9"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_94" Identification="DIN277_94" Name="9.4 Fahrzeugverkehrsflächen" Description="Fahrzeugverkehrsflächen" Sort="94">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_VF9"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="cc1_99" Identification="DIN277_99" Name="9.9 Sonstige Verkehrsflächen" Description="Sonstige Verkehrsflächen" Sort="99">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="cc1_DIN277_VF9"/>
+    </ReferencedSource>
+  </IfcClassificationReference>
+
+  <!--  Ende Katalog Raumnutzungsarten-->
+  </ifcXML>
