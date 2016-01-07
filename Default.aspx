@@ -9,7 +9,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainPlaceHolder" runat="server">
      <h2>Was ist CAFM-Connect?</h2>
      <p>CAFM-Connect ist ein Standard-Datenformat zum Austausch von Immobilien-Stammdaten.</p>
-     <p><a class="btn btn-default" href="Infos.aspx" role="button">Wetere Informationen &raquo;</a></p>
+     <p><a class="btn btn-default" href="Infos.aspx" role="button">Weitere Informationen &raquo;</a></p>
      <h2>Haben Sie Fragen, Anmerkungen oder Ergänzungsvorschläge?</h2>
      <p>Dann schreiben Sie einfach eine eMail an: <a href="mailto:cc-katalog@cafmring.de?subject=CAFM-Connect Katalog">cc-katalog@cafmring.de</a></p>
 </asp:Content>
