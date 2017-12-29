@@ -2,13 +2,13 @@
 <ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>Templates</name>
-    <time_stamp>2017-12-29T16:18:05.8583456+01:00</time_stamp>
+    <time_stamp>2017-12-29T17:55:37.4114167+01:00</time_stamp>
     <author>CAFM Ring e.V.</author>
     <organization>CAFM Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
-  <IfcClassification id="i1354" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T16:18:05.8613456+01:00" Name="CAFM-Connect Bauteiltypen" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i1354" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T17:55:37.4168495+01:00" Name="CAFM-Connect Bauteiltypen" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i1355">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -6577,7 +6577,7 @@ Außenhydrant unterflur</IfcLabel-wrapper>
       <IfcClassificationReference xsi:nil="true" ref="i2145" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassification id="i2150" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T16:18:05.9363456+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i2150" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T17:55:37.5389567+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i2151">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -9411,7 +9411,7 @@ Außenhydrant unterflur</IfcLabel-wrapper>
       <IfcClassificationReference xsi:nil="true" ref="i2704" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassification id="i2717" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T16:18:05.9843456+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i2717" Source="https://www.cafm-connect.org" Edition="1.07" EditionDate="2017-12-29T17:55:37.5944864+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i2718">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
