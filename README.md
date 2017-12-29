@@ -1,4 +1,4 @@
-# CAFM-Connect-Catalogue
-IFC-Catalogue file for CAFM-Connect
+# BIM-Profiles by CAFM-Connect
+IFC-Catalogue files for CAFM-Connect
 
 This repos hold the catalogue files for CAFM-Connect.
