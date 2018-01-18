@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2">
+  <header>
+    <name>DIN276</name>
+    <time_stamp>2018-01-18T21:00:57.755745+01:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization />
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProjectLibrary id="i100" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcClassification id="i101" Edition="1.0" EditionDate="2018-01-18T20:00:57.7783332Z" Name="DIN276" Description="DIN276" Location="https://www.cafm-connect.org/ZE_DIN276">
+    <HasReferences>
+      <IfcClassificationReference id="i103" Location="http://www.cafm-connect.org/DIN276/8ee3ad62-286e-46de-90c7-f145709692e8" Identification="100" Name="Grundstück" Description="">
+        <HasReferences>
+          <IfcClassificationReference id="i104" Location="http://www.cafm-connect.org/DIN276/f841449e-477e-4802-b8fd-c81c4388884d" Identification="110" Name="Grundstückswert" Description="" />
+          <IfcClassificationReference id="i105" Location="http://www.cafm-connect.org/DIN276/df8ef1b0-2af6-49d5-86a7-7aef08360a23" Identification="120" Name="Grundstücksnebenkosten" Description="Kosten, die im Zusammenhang mit dem Erwerb eines Grundstücks entstehen">
+            <HasReferences>
+              <IfcClassificationReference id="i106" Location="http://www.cafm-connect.org/DIN276/46af2a32-7845-4e75-b4ee-da27e7203581" Identification="129" Name="Grundstücksnebenkosten, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i107" Location="http://www.cafm-connect.org/DIN276/5a01f9e3-4ff5-478f-9c79-ef80731cc8bb" Identification="130" Name="Freimachen" Description="Kosten, die aufzuwenden sind, um ein Grundstück von Belastungen freizumachen">
+            <HasReferences>
+              <IfcClassificationReference id="i108" Location="http://www.cafm-connect.org/DIN276/dc871b20-b34b-4a5d-aad8-5bf7f50c8180" Identification="131" Name="Abfindungen" Description="Abfindungen und Entschädigungen für bestehende Nutzungsrechte, z. B. Miet- und Pachtverträge" />
+              <IfcClassificationReference id="i109" Location="http://www.cafm-connect.org/DIN276/66b8ec7f-82f6-4348-aaa5-5302cd7a2871" Identification="132" Name="Ablösen dinglicher Rechte" Description="Ablösung von Lasten und Beschränkungen, z. B. Wegerechten" />
+              <IfcClassificationReference id="i110" Location="http://www.cafm-connect.org/DIN276/de3a678b-e3e0-48af-9e52-1688d1c41553" Identification="139" Name="Freimachen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i111" Location="http://www.cafm-connect.org/DIN276/7c98cd48-915b-4bbc-b002-2161e566eeb9" Identification="200" Name="Herrichten und Erschließen" Description="Ablösung von Lasten und Beschränkungen, z. B. Wegerechten">
+        <HasReferences>
+          <IfcClassificationReference id="i112" Location="http://www.cafm-connect.org/DIN276/a6a703e4-1625-430e-9626-f799a1d11d38" Identification="210" Name="Herrichten" Description="Kosten der vorbereitenden Maßnahmen, soweit nicht in anderen Kostengruppen erfasst">
+            <HasReferences>
+              <IfcClassificationReference id="i113" Location="http://www.cafm-connect.org/DIN276/186668e3-f84c-448d-a64d-082b53ca749a" Identification="211" Name="Sicherungsmaßnahmen" Description="Schutz von vorhandenen Bauwerken, Bauteilen, Versorgungsleitungen sowie Sichern von Bewuchs und Vegetationsschichten" />
+              <IfcClassificationReference id="i114" Location="http://www.cafm-connect.org/DIN276/0634252b-34e7-44eb-8461-12daf8a4d27c" Identification="212" Name="Abbruchmaßnahmen" Description="Abbrechen und Beseitigen von vorhandenen Bauwerken, Ver- und Entsorgungsleitungen sowie Verkehrsanlagen" />
+              <IfcClassificationReference id="i115" Location="http://www.cafm-connect.org/DIN276/f07f0b9c-c8b6-4844-9799-198f3e79b4fa" Identification="213" Name="Altlastenbeseitigung" Description="Beseitigen von Kampfmitteln und anderen gefährlichen Stoffen, Sanieren belasteter und kontaminierter Böden" />
+              <IfcClassificationReference id="i116" Location="http://www.cafm-connect.org/DIN276/9cf3f637-cb5b-4f63-8843-d9bf9f3848f5" Identification="214" Name="Herrichten der Geländeoberfläche" Description="Roden von Bewuchs, Planieren, Bodenbewegungen einschließlich Oberbodensicherung, soweit nicht in KG 500 erfasst" />
+              <IfcClassificationReference id="i117" Location="http://www.cafm-connect.org/DIN276/c38c186e-23d4-4810-a8b2-a3d89b77c3c3" Identification="219" Name="Herrichten, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i118" Location="http://www.cafm-connect.org/DIN276/26b29150-34aa-4877-aa42-e10d017dbdd6" Identification="220" Name="Öffentliche Erschließung " Description="Anteilige Kosten aufgrund gesetzlicher Vorschriften (Erschließungsbeiträge/Anliegerbeiträge) und Kosten aufgrund öffentlich-rechtlicher Verträge für ⎯ die Beschaffung oder den Erwerb der Erschließungsflächen gegen Entgelt durch den Träger der öffentlichen Erschließung, ⎯ die Herstellung oder Änderung gemeinschaftlich genutzter technischer Anlagen, z. B. zur Ableitung von Abwasser sowie zur Versorgung mit Wasser, Wärme, Gas, Strom und Telekommunikation, ⎯ die erstmalige Herstellung oder den Ausbau der öffentlichen Verkehrsflächen, der Grünflächen und sonstiger Freiflächen für öffentliche Nutzung. Kostenzuschüsse und Anschlusskosten sollen getrennt ausgewiesen werden">
+            <HasReferences>
+              <IfcClassificationReference id="i119" Location="http://www.cafm-connect.org/DIN276/7fe710ea-a0ee-4c19-83a9-e231717eb2c2" Identification="221" Name="Abwasserentsorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i120" Location="http://www.cafm-connect.org/DIN276/f5b3a07f-6e18-48d4-8f5a-2c362c041853" Identification="222" Name="Wasserversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i121" Location="http://www.cafm-connect.org/DIN276/1db9bc95-8f64-47af-88b2-f5850a5a8040" Identification="223" Name="Gasversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i122" Location="http://www.cafm-connect.org/DIN276/561df1c8-402a-4e28-90b6-2aeb1034852a" Identification="224" Name="Fernwärmeversorgung" Description="Kostenzuschüsse, Anschlusskosten " />
+              <IfcClassificationReference id="i123" Location="http://www.cafm-connect.org/DIN276/be89a622-e35d-4dc0-bb48-3b8c9c0d9c08" Identification="225" Name="Stromversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i124" Location="http://www.cafm-connect.org/DIN276/a7cfa5c2-0ccb-40f8-ac10-b1c4e472a793" Identification="226" Name="Telekommunikation" Description="Einmalige Entgelte für die Bereitstellung und Änderung von Netzanschlüssen" />
+              <IfcClassificationReference id="i125" Location="http://www.cafm-connect.org/DIN276/9944c6c6-ff1c-499f-8a24-a03398d653c3" Identification="227" Name="Verkehrserschließung" Description="Erschließungsbeiträge für die Verkehrs- und Freianlagen einschließlich deren Entwässerung und Beleuchtung" />
+              <IfcClassificationReference id="i126" Location="http://www.cafm-connect.org/DIN276/221a40eb-eae4-49f7-9d20-813677347b9b" Identification="228" Name="Abfallentsorgung" Description="Kostenzuschüsse, Anschlusskosten z. B. für eine leitungsgebundene Abfallentsorgung" />
+              <IfcClassificationReference id="i127" Location="http://www.cafm-connect.org/DIN276/a531b62a-06fa-416d-9309-bc9fffbbf52c" Identification="229" Name="Öffentliche Erschließung, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i128" Location="http://www.cafm-connect.org/DIN276/b5ac3d7e-24ef-440f-a71f-8938988992bf" Identification="230" Name="Nichtöffentliche Erschließung " Description=" Kosten für Verkehrsflächen und technische Anlagen, die ohne öffentlich-rechtliche Verpflichtung oder Beauftragung mit dem Ziel der späteren Übertragung in den Gebrauch der Allgemeinheit hergestellt und ergänzt werden. Kosten von Anlagen auf dem eigenen Grundstück gehören zu der Kostengruppe 500. Soweit erforderlich, kann die Kostengruppe 230 entsprechend der Kostengruppe 220 untergliedert werden.">
+            <HasReferences>
+              <IfcClassificationReference id="i129" Location="http://www.cafm-connect.org/DIN276/424fda7b-e3d2-4262-bac9-c53078a2a369" Identification="231" Name="Abwasserentsorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i130" Location="http://www.cafm-connect.org/DIN276/2a119bf5-33b0-4c9b-b97d-f7d154dbf424" Identification="232" Name="Wasserversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i131" Location="http://www.cafm-connect.org/DIN276/72ee1fdd-2eb7-4ad7-b772-46bd02b14973" Identification="233" Name="Gasversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i132" Location="http://www.cafm-connect.org/DIN276/01212a3c-4a14-4e10-b5a9-fa6e17d11a75" Identification="234" Name="Fernwärmeversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i133" Location="http://www.cafm-connect.org/DIN276/9aac0daa-5346-464e-8ec1-6610a8079040" Identification="235" Name="Stromversorgung" Description="Kostenzuschüsse, Anschlusskosten" />
+              <IfcClassificationReference id="i134" Location="http://www.cafm-connect.org/DIN276/c175a6d0-e4a7-46a5-b152-bc870a492057" Identification="236" Name="Telekommunikation" Description="Einmalige Entgelte für die Bereitstellung und Änderung von Netzanschlüssen" />
+              <IfcClassificationReference id="i135" Location="http://www.cafm-connect.org/DIN276/6652c4a9-631e-454b-a888-9851babd4a95" Identification="237" Name="Verkehrserschließung" Description="Erschließungsbeiträge für die Verkehrs- und Freianlagen einschließlich deren Entwässerung und Beleuchtung" />
+              <IfcClassificationReference id="i136" Location="http://www.cafm-connect.org/DIN276/a6f0a2c7-53d8-42e5-847d-202a4e8bf225" Identification="239" Name="Nichtöffentliche Erschließung, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i137" Location="http://www.cafm-connect.org/DIN276/26d6c87b-23fc-4102-a3c2-2e90871dab50" Identification="240" Name="Ausgleichsabgaben" Description="Kosten, die aufgrund rechtlicher Bestimmungen aus Anlass des geplanten Bauvorhabens einmalig und zusätzlich zu den Erschließungbeiträgen entstehen. Hierzu gehört insbesondere das Ablösen von Verpflichtungen aus öffentlich-rechtlichen Vorschriften, z. B. Stellplätze, Baumbestand. 250" />
+          <IfcClassificationReference id="i138" Location="http://www.cafm-connect.org/DIN276/cc54bbf3-0429-4d2f-becf-e921010e11a9" Identification="250" Name="Übergangsmaßnahmen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i139" Location="http://www.cafm-connect.org/DIN276/6aa320ea-7c70-4732-8414-7c979d31a411" Identification="251" Name="Provisorien" Description="Kosten der Erstellung, Anpassung oder Umlegung von Bauwerken und Außenanlagen als provisorische Maßnahme der endgültigen Bauwerke und Außenanlagen einschließlich dem Wiederentfernen der Provisorien soweit nicht in den Kostengruppen 398, 498 und 598 erfasst" />
+              <IfcClassificationReference id="i140" Location="http://www.cafm-connect.org/DIN276/56b6147d-7a9d-4f28-9172-337acc32c3a0" Identification="252" Name="Auslagerungen" Description="Kosten für die Auslagerung von Nutzungen während der Bauzeit" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i141" Location="http://www.cafm-connect.org/DIN276/d773cd4b-44bb-466b-aadf-a4acac03646c" Identification="300" Name="Bauwerke - Baukonstruktionen" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
+        <HasReferences>
+          <IfcClassificationReference id="i142" Location="http://www.cafm-connect.org/DIN276/c52a2470-6d9b-4434-a360-15c747c3ba2e" Identification="310" Name="Baugrube" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i143" Location="http://www.cafm-connect.org/DIN276/f25bf8ee-4d8e-4d28-bcfd-175d3a7af8c9" Identification="311" Name="Baugrubenherstellung" Description="Bodenabtrag, Aushub einschließlich Arbeitsräumen und Böschungen, Lagern, Hinterfüllen, Ab- und Anfuhr" />
+              <IfcClassificationReference id="i144" Location="http://www.cafm-connect.org/DIN276/63697ed8-d023-458b-90ce-8391849904c8" Identification="312" Name="Baugrubenumschließung" Description="Verbau, z. B. Schlitz-, Pfahl-, Spund-, Trägerbohl-, Injektions- und Spritzbetonwände einschließlich Verankerung, Absteifung" />
+              <IfcClassificationReference id="i145" Location="http://www.cafm-connect.org/DIN276/8693ba40-e67c-4cf9-ab7f-e86ec97565cf" Identification="313" Name="Wasserhaltung" Description="Grund- und Schichtenwasserbeseitigung während der Bauzeit" />
+              <IfcClassificationReference id="i146" Location="http://www.cafm-connect.org/DIN276/aa523e92-d9a9-4838-b202-2de2b1994cab" Identification="319" Name="Baugrube, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i147" Location="http://www.cafm-connect.org/DIN276/e0592652-7fa7-4eb4-8ecd-5bfabf5c3542" Identification="320" Name="Gründung " Description="Die Kostengruppen enthalten die zugehörigen Erdarbeiten und Sauberkeitsschichten.">
+            <HasReferences>
+              <IfcClassificationReference id="i148" Location="http://www.cafm-connect.org/DIN276/a2828906-952d-41f7-8b89-2a71ae04e9e4" Identification="321" Name="Baugrundverbesserung" Description="Bodenaustausch, Verdichtung, Einpressung" />
+              <IfcClassificationReference id="i149" Location="http://www.cafm-connect.org/DIN276/f5f2936a-fa9e-4700-851a-69becc415b24" Identification="322" Name="Flachgründungen" Description="Einzel-, Streifenfundamente, Fundamentplatten" />
+              <IfcClassificationReference id="i150" Location="http://www.cafm-connect.org/DIN276/81317431-2f2d-45a5-94df-2b42bb38134c" Identification="323" Name="Tiefgründungen" Description="Pfahlgründung einschließlich Roste, Brunnengründungen; Verankerungen#" />
+              <IfcClassificationReference id="i151" Location="http://www.cafm-connect.org/DIN276/022b56a5-bca6-4821-a4a2-e2f236343885" Identification="324" Name="Unterböden und Bodenplatten" Description="Unterböden und Bodenplatten, die nicht der Fundamentierung dienen 325" />
+              <IfcClassificationReference id="i152" Location="http://www.cafm-connect.org/DIN276/3cfe8670-a582-41f8-9f1b-9d300c02f524" Identification="325" Name="Bodenbeläge" Description="Beläge auf Boden- und Fundamentplatten, z. B. Estriche, Dichtungs-, Dämm-, Schutz-, Nutzschichten" />
+              <IfcClassificationReference id="i153" Location="http://www.cafm-connect.org/DIN276/47192efc-e789-435f-b85f-102fd6f1e878" Identification="326" Name="Bauwerksabdichtungen" Description="Abdichtungen des Bauwerks einschließlich Filter-, Trenn- und Schutzschichten" />
+              <IfcClassificationReference id="i154" Location="http://www.cafm-connect.org/DIN276/55899ae6-f663-4e5c-9801-2ad9390a9a34" Identification="327" Name="Dränagen" Description="Leitungen, Schächte, Packungen" />
+              <IfcClassificationReference id="i155" Location="http://www.cafm-connect.org/DIN276/b7b1c09b-8422-4696-bc57-e6c8cdda7fa0" Identification="329" Name="Gründung, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i156" Location="http://www.cafm-connect.org/DIN276/a258d45a-70db-4f8f-8070-41193ba61de7" Identification="330" Name="Außenwände " Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
+            <HasReferences>
+              <IfcClassificationReference id="i157" Location="http://www.cafm-connect.org/DIN276/aa99b96f-c03e-45af-ad62-3633558d0caf" Identification="331" Name="Tragende Außenwände" Description="Tragende Außenwände einschließlich horizontaler Abdichtungen" />
+              <IfcClassificationReference id="i158" Location="http://www.cafm-connect.org/DIN276/2e00ff5c-90bc-4549-a560-5a84e16b81fb" Identification="332" Name="Nichttragende Außenwände" Description="Außenwände, Brüstungen, Ausfachungen, jedoch ohne Bekleidungen" />
+              <IfcClassificationReference id="i159" Location="http://www.cafm-connect.org/DIN276/c5be843b-e71c-4dbb-9607-b1f7e798b2cc" Identification="333" Name="Außenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis ≤ 1 : 5" />
+              <IfcClassificationReference id="i160" Location="http://www.cafm-connect.org/DIN276/e151c22d-e50c-4c3e-9490-98d0b981241b" Identification="334" Name="Außentüren und -fenster" Description="Fenster und Schaufenster, Türen und Tore einschließlich Fensterbänken, Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen" />
+              <IfcClassificationReference id="i161" Location="http://www.cafm-connect.org/DIN276/93b4e2e9-1f4a-4269-969a-14528ec5c81b" Identification="335" Name="Außenwandbekleidungen, außen" Description="Äußere Bekleidungen einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i162" Location="http://www.cafm-connect.org/DIN276/715cee1c-7fb9-4829-9c7f-65c9e6affba6" Identification="336" Name="Außenwandbekleidungen, innen" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i163" Location="http://www.cafm-connect.org/DIN276/233b6cde-678d-42a5-b47e-7ff3452e6e4b" Identification="337" Name="Elementierte Außenwände" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i164" Location="http://www.cafm-connect.org/DIN276/10d9631f-69e6-4ef1-bbac-96bd2958117c" Identification="338" Name="Sonnenschutz" Description="Rollläden, Markisen und Jalousien einschließlich Antrieben" />
+              <IfcClassificationReference id="i165" Location="http://www.cafm-connect.org/DIN276/fda5acc4-c62b-4707-a808-1cfc315db946" Identification="339" Name="Außenwände, sonstiges" Description="Gitter, Geländer, Stoßabweiser und Handläufe" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i166" Location="http://www.cafm-connect.org/DIN276/7db1a10d-41cd-4b25-aade-c982252e7857" Identification="340" Name="Innenwände" Description="Innenwände und Innenstützen">
+            <HasReferences>
+              <IfcClassificationReference id="i167" Location="http://www.cafm-connect.org/DIN276/47f2765c-1927-4daf-af19-dd238a2aaee7" Identification="341" Name="Tragende Innenwände" Description="Tragende Innenwände einschließlich horizontaler Abdichtungen" />
+              <IfcClassificationReference id="i168" Location="http://www.cafm-connect.org/DIN276/c98b9cb7-3357-48c2-98e2-e85db73f18c6" Identification="342" Name="Nichttragende Innenwände" Description="Innenwände, Ausfachungen, jedoch ohne Bekleidungen" />
+              <IfcClassificationReference id="i169" Location="http://www.cafm-connect.org/DIN276/f32b056a-e29c-4c54-8647-35778fdbe39f" Identification="343" Name="Innenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis &lt; 1 : 5" />
+              <IfcClassificationReference id="i170" Location="http://www.cafm-connect.org/DIN276/0e89c07e-143d-4265-965b-0aa6970cd837" Identification="344" Name="Innentüren und -fenster" Description="Türen und Tore, Fenster und Schaufenster einschließlich Umrahmungen, Beschlägen, Antrieben und sonstigen eingebauten Elementen" />
+              <IfcClassificationReference id="i171" Location="http://www.cafm-connect.org/DIN276/d0c20999-c477-4b85-bf2a-bda6b1d526ee" Identification="345" Name="Innenwandbekleidung" Description="Bekleidungen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten an Innenwänden und -stützen" />
+              <IfcClassificationReference id="i172" Location="http://www.cafm-connect.org/DIN276/c9e20b2a-9770-4201-bf32-98f1c2ac473b" Identification="346" Name="Elementierte Innenwände" Description="Elementierte Wände, bestehend aus Innenwänden, -türen,  -fenstern, -bekleidungen, z. B. Falt- und Schiebewände, Sanitärtrennwände, Verschläge" />
+              <IfcClassificationReference id="i173" Location="http://www.cafm-connect.org/DIN276/e41f2b91-7867-4cce-9566-4d097f3c3751" Identification="349" Name="Innenwände, sonstiges" Description="Gitter, Geländer, Stoßabweiser, Handläufe, Rollläden einschließlich Antrieben" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i174" Location="http://www.cafm-connect.org/DIN276/3f8392df-8033-4004-8696-f1129b230490" Identification="350" Name="Decken" Description="Decken, Treppen und Rampen oberhalb der Gründung und unterhalb der Dachfläche">
+            <HasReferences>
+              <IfcClassificationReference id="i175" Location="http://www.cafm-connect.org/DIN276/8981a841-c38f-4131-ae2f-785ae44f3361" Identification="351" Name="Deckenkonstuktionen" Description="Konstruktionen von Decken, Treppen, Rampen, Balkonen, Loggien einschließlich Über- und Unterstützen, füllenden Teilen wie  Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen" />
+              <IfcClassificationReference id="i176" Location="http://www.cafm-connect.org/DIN276/eff3acc7-fd37-479d-aa61-eddffd1136ca" Identification="352" Name="Deckenbeläge" Description="Beläge auf Deckenkonstruktionen einschließlich Estrichen, Dichtungs-, Dämm-, Schutz-, Nutzschichten; Schwing- und Installationsdoppelböden" />
+              <IfcClassificationReference id="i177" Location="http://www.cafm-connect.org/DIN276/60b03185-3e94-4a16-92b8-3637202cad3d" Identification="353" Name="Deckenbekleidung" Description="Bekleidungen unter Deckenkonstruktionen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten; Licht- und Kombinationsdecken" />
+              <IfcClassificationReference id="i178" Location="http://www.cafm-connect.org/DIN276/a0955b62-19b0-45f7-a0df-b67ab08f8b11" Identification="359" Name="Decken, sonstiges" Description="Abdeckungen, Schachtdeckel, Roste, Geländer, Stoßabweiser, Handläufe, Leitern, Einschubtreppen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i179" Location="http://www.cafm-connect.org/DIN276/0146606b-2c73-4140-8e82-5c978507fe5b" Identification="360" Name="Dächer" Description="Flache oder geneigte Dächer">
+            <HasReferences>
+              <IfcClassificationReference id="i180" Location="http://www.cafm-connect.org/DIN276/00cdb0a1-02b2-4b27-9e73-37d061670032" Identification="361" Name="Dachkonstruktionen" Description="Konstruktionen von Dächern, Dachstühlen, Raumtragwerken und Kuppeln einschließlich Über- und Unterzügen, füllenden Teilen wie Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen" />
+              <IfcClassificationReference id="i181" Location="http://www.cafm-connect.org/DIN276/73e83db9-de27-4bf4-91d2-fa83ab43e252" Identification="362" Name="Dachfenster, Dachöffnungen" Description="Fenster, Ausstiege einschließlich Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen" />
+              <IfcClassificationReference id="i182" Location="http://www.cafm-connect.org/DIN276/f1e6fc1f-3d36-4f7b-89f6-1a0cb4746525" Identification="363" Name="Dachbeläge" Description="Beläge auf Dachkonstruktionen einschließlich Schalungen, Lattungen, Gefälle-, Dichtungs-, Dämm-, Schutz- und Nutzschichten; Entwässerungen der Dachfläche bis zum Anschluss an die Abwasseranlagen" />
+              <IfcClassificationReference id="i183" Location="http://www.cafm-connect.org/DIN276/2324a101-7da5-476b-89e6-a8607b4cada9" Identification="364" Name="Dachbekleidungen" Description="Dachbekleidungen unter Dachkonstruktionen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten; Licht- und Kombinationsdecken unter Dächern" />
+              <IfcClassificationReference id="i184" Location="http://www.cafm-connect.org/DIN276/9d082785-adf4-4a2e-983a-b90040ab6d48" Identification="369" Name="Dächer, sonstiges" Description="Geländer, Laufbohlen, Schutzgitter, Schneefänge, Dachleitern, Sonnenschutz" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i185" Location="http://www.cafm-connect.org/DIN276/df0060c6-c9dd-49c1-a671-771297e1c7e9" Identification="370" Name="Baukonstruktive Einbauten " Description="Kosten der mit dem Bauwerk fest verbundenen Einbauten, jedoch ohne die nutzungsspezifischen Anlagen (siehe Kostengruppe 470). Für die Abgrenzung gegenüber der Kostengruppe 610 ist maßgebend, dass die Einbauten durch ihre Beschaffenheit und Befestigung technische und bauplanerische Maßnahmen erforderlich machen, z. B. Anfertigen von Werkplänen, statischen und anderen Berechnungen, Anschließen von Installationen">
+            <HasReferences>
+              <IfcClassificationReference id="i186" Location="http://www.cafm-connect.org/DIN276/a74f76b2-c7d9-41dc-ab1e-1a5a99d39ee1" Identification="371" Name="Allgemeine Einbauten" Description="Einbauten, die einer allgemeinen Zweckbestimmung dienen, z. B. Einbaumöbel wie Sitz- und Liegemöbel, Gestühl, Podien, Tische, Theken, Schränke, Garderoben, Regale, Einbauküche" />
+              <IfcClassificationReference id="i187" Location="http://www.cafm-connect.org/DIN276/47b002c7-35e4-4b02-9fd6-f8a708b44c7c" Identification="372" Name="Besondere Einbauten" Description="Einbauten, die einer besonderen Zweckbestimmung eines Objektes dienen, z. B. Werkbänke in Werkhallen, Labortische in Labors, Bühnenvorhänge in Theatern, Altäre in Kirchen, Einbausportgeräte in Sporthallen, Operationstische in Krankenhäusern" />
+              <IfcClassificationReference id="i188" Location="http://www.cafm-connect.org/DIN276/f4ef7fcc-3469-4267-b0ca-7ae59c0bd2ec" Identification="379" Name="Baukonstruktive Einbauten, sonstiges" Description="z. B. Rauchschutzvorhänge" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i189" Location="http://www.cafm-connect.org/DIN276/d4c85f76-0b1f-4b19-b394-9f49512dad45" Identification="390" Name="Sonstige Maßnahmen für Baukonstruktionen" Description="Baukonstruktionen und übergreifende Maßnahmen im Zusammenhang mit den Baukonstruktionen, die nicht einzelnen Kostengruppen der Baukonstruktionen zugeordnet  werden können oder die nicht unter KG 490 oder KG 590 erfasst sind">
+            <HasReferences>
+              <IfcClassificationReference id="i190" Location="http://www.cafm-connect.org/DIN276/adfbe694-53ef-49a3-afbe-e5f684b1e4fa" Identification="391" Name="Baustelleneinrichtung" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung" />
+              <IfcClassificationReference id="i191" Location="http://www.cafm-connect.org/DIN276/02b865ce-0971-416e-b433-3afcee63cfb3" Identification="392" Name="Gerüste" Description="Auf-, Um-, Abbauen, Vorhalten von Gerüsten" />
+              <IfcClassificationReference id="i192" Location="http://www.cafm-connect.org/DIN276/f6ec0a3e-f400-4054-a5d2-f24e8be4050b" Identification="393" Name="Sicherungsmaßnahmen" Description="Sicherungsmaßnahmen an bestehenden Bauwerken, z. B. Unterfangungen, Abstützungen" />
+              <IfcClassificationReference id="i193" Location="http://www.cafm-connect.org/DIN276/1ad0c751-e615-41f6-8efc-736cbea8b3df" Identification="394" Name="Abbruchmaßnahmen" Description="Abbruch- und Demontagearbeiten einschließlich Zwischenlagern wiederverwendbarer Teile, Abfuhr des Abbruchmaterials, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i194" Location="http://www.cafm-connect.org/DIN276/8e6707b9-8421-4eba-91d0-2252ca9714b5" Identification="395" Name="Instandsetzungen" Description="Maßnahmen zur Wiederherstellung des zum bestimmungsgemäßen Gebrauch geeigneten Zustandes, soweit nicht in anderen Kostengruppen erfassbar" />
+              <IfcClassificationReference id="i195" Location="http://www.cafm-connect.org/DIN276/ba69b3f2-1e42-4e78-8437-a6ee197e368c" Identification="396" Name="Materialentsorgung" Description="Entsorgung von Materialien und Stoffen, die bei dem Abbruch, bei der Demontage und bei dem Ausbau von Bauteilen oder bei der Erstellung einer Bauleistung anfallen zum Zweck des Recyclings oder der Deponierung" />
+              <IfcClassificationReference id="i196" Location="http://www.cafm-connect.org/DIN276/6013aef5-79e6-41d3-8d8a-0dc4ae77a462" Identification="397" Name="Zusätzliche Maßnahmen" Description="Zusätzliche Maßnahmen bei der Erstellung von Baukonstruktionen z. B. Schutz von Personen, Sachen; Reinigung vor Inbetriebnahme; Maßnahmen aufgrund von Forderungen des Wasser-, Landschafts-, Lärm- und Erschütterungsschutzes während der Bauzeit; Schlechtwetter und Winterbauschutz, Erwärmung des Bauwerks, Schneeräumung" />
+              <IfcClassificationReference id="i197" Location="http://www.cafm-connect.org/DIN276/9c2060ec-b9b6-46ee-bd35-f21eb07daf5d" Identification="398" Name="Provisorien, provisorische Baukonstruktion" Description="Kosten für die Erstellung, Beseitigung provisorischer Baukonstruktionen, Anpassung des Bauwerks bis zur Inbetriebnahme des endgültigen Bauwerks" />
+              <IfcClassificationReference id="i198" Location="http://www.cafm-connect.org/DIN276/3d30f9ef-b871-4c7d-882c-0283032df76d" Identification="399" Name="Sonstige Maßnahmen für Baukon-struktionen, sonstiges" Description="Baukonstruktionen, die mehrere Kostengruppen betreffen, z. B. Schließanlagen, Schächte, Schornsteine, soweit nicht in anderen Kostengruppen erfasst" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i199" Location="http://www.cafm-connect.org/DIN276/8165bc38-298b-4bda-a024-69f4d3dbfc1f" Identification="400" Name="Bauwerke - Technische Anlagen" Description="Kosten aller im Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen technischen Anlagen oder Anlagenteile Die einzelnen technischen Anlagen enthalten die zugehörigen Gestelle, Befestigungen, Armaturen, Wärme- und Kältedämmung, Schall- und Brandschutzvorkehrungen, Abdeckungen, Verkleidungen, Anstriche, Kennzeichnungen sowie die anlagenspezifischen Mess-, Steuer- und Regelanlagen. Die Kosten für das Erstellen und Schließen von Schlitzen und Durchführungen werden in der Regel in der KG 300 erfasst.">
+        <HasReferences>
+          <IfcClassificationReference id="i200" Location="http://www.cafm-connect.org/DIN276/1361a602-d2cd-48a1-ba9c-5e2ba452fce7" Identification="410" Name="Abwasser-, Wasser, Gasanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i201" Location="http://www.cafm-connect.org/DIN276/eb6f0a62-524e-48c3-a176-dfbd6ed091b6" Identification="411" Name="Abwasseranlagen" Description="Abläufe, Abwasserleitungen, Abwassersammelanlagen, Abwasserbehandlungsanlagen, Hebeanlagen" />
+              <IfcClassificationReference id="i202" Location="http://www.cafm-connect.org/DIN276/a7388c23-a98e-4fcb-b6a6-729d466ca4b3" Identification="412" Name="Wasseranlagen" Description="Wassergewinnungs-, Aufbereitungs- und Druckerhöhungsanlagen, Rohrleitungen, dezentrale Wassererwärmer, Sanitärobjekte" />
+              <IfcClassificationReference id="i203" Location="http://www.cafm-connect.org/DIN276/526eda62-1c60-4fd2-af5b-ffdca83f32c6" Identification="413" Name="Gasanlagen" Description="Gasanlagen für Wirtschaftswärme: Gaslagerungs- und Erzeugungsanlagen, Übergabestationen, Druckregelanlagen und Gasleitungen, soweit nicht zu den Kostengruppen 420 oder 470 gehörend" />
+              <IfcClassificationReference id="i204" Location="http://www.cafm-connect.org/DIN276/8a0b65ab-edba-4470-8f82-eb282033541e" Identification="419" Name="Abwasser-, Wasser, Gasanlagen, sonstiges" Description="Installationsblöcke, Sanitärzellen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i205" Location="http://www.cafm-connect.org/DIN276/8ebd8195-9f32-45d5-87f9-7e3202a78de0" Identification="420" Name="Wärmeversorgungsanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i206" Location="http://www.cafm-connect.org/DIN276/0ee8dea0-cafa-4d2f-bd41-c1ed2bcfefb8" Identification="421" Name="Warmeerzeugungsanlagen" Description="Brennstoffversorgung, Wärmeübergabestationen, Wärmeerzeugung auf der Grundlage von Brennstoffen oder unerschöpflichen Energiequellen einschließlich Schornsteinanschlüsse, zentrale Wassererwärmungsanlagen" />
+              <IfcClassificationReference id="i207" Location="http://www.cafm-connect.org/DIN276/1e2e4c6e-3141-4000-80eb-f11e2ec59f37" Identification="422" Name="Wärmeverteilnetze" Description="Pumpen, Verteiler; Rohrleitungen für Raumheizflächen, raumlufttechnische Anlagen und sonstige Wärmeverbraucher" />
+              <IfcClassificationReference id="i208" Location="http://www.cafm-connect.org/DIN276/552474df-7b87-44f7-b76b-1d05eeccb897" Identification="423" Name="Raumheizflächen" Description="Heizkörper, Flächenheizsysteme" />
+              <IfcClassificationReference id="i209" Location="http://www.cafm-connect.org/DIN276/770d462f-8f19-4535-9216-6f4637f09c22" Identification="429" Name="Wärmeversorgungsanlagen, sonstiges" Description="Schornsteine, soweit nicht in anderen Kostengruppen erfasst" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i210" Location="http://www.cafm-connect.org/DIN276/70c5a9ac-3337-4de1-a21a-08d07d977395" Identification="430" Name="Lufttechnische Anlagen" Description="Anlagen mit und ohne Lüftungsfunktion">
+            <HasReferences>
+              <IfcClassificationReference id="i211" Location="http://www.cafm-connect.org/DIN276/dfcbc0eb-b9ba-401e-a8dd-16aa4665be7f" Identification="431" Name="Lüftungsanlagen" Description="Abluftanlagen, Zuluftanlagen, Zu- und Abluftanlagen ohne oder mit einer thermodynamischen Luftbehandlungsfunktion, mechanische Entrauchungsanlagen" />
+              <IfcClassificationReference id="i212" Location="http://www.cafm-connect.org/DIN276/7b81fc70-f962-4f19-bda4-7c03042e888f" Identification="432" Name="Teilklimaanlagen" Description="Anlagen mit zwei oder drei thermodynamischen Luftbehandlungsfunktionen" />
+              <IfcClassificationReference id="i213" Location="http://www.cafm-connect.org/DIN276/b4f1edd1-d2b1-4f4e-b96d-c90b54a2bd71" Identification="433" Name="Klimaanlagen" Description="Anlagen mit vier thermodynamischen Luftbehandlungsfunktionen" />
+              <IfcClassificationReference id="i214" Location="http://www.cafm-connect.org/DIN276/a8e67890-dce8-431e-9d0b-83665a40861a" Identification="434" Name="Kälteanlagen" Description="Kälteanlagen für lufttechnische Anlagen: Kälteerzeugungs- und Rückkühlanlagen einschließlich Pumpen, Verteiler und Rohrleitungen" />
+              <IfcClassificationReference id="i215" Location="http://www.cafm-connect.org/DIN276/34fd6852-a063-42a9-8067-9978b68470c8" Identification="439" Name="Lufttechnische Anlagen, sonstiges" Description="Lüftungsdecken, Kühldecken, Abluftfenster; Installationsdoppelböden, soweit nicht in anderen Kostengruppen erfasst" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i216" Location="http://www.cafm-connect.org/DIN276/aba1e408-c254-4c2c-a505-d6fc7c234411" Identification="440" Name="Starkstromanlagen" Description="Einschließlich der Brandschutzdurchführungen, soweit nicht in anderen Kostengruppen erfasst">
+            <HasReferences>
+              <IfcClassificationReference id="i217" Location="http://www.cafm-connect.org/DIN276/b720d299-7897-4017-b7b3-46842079445c" Identification="441" Name="Hoch- und Mittelspannungsanlagen" Description="&#xD;&#xA;Schaltanlagen, Transformatoren" />
+              <IfcClassificationReference id="i218" Location="http://www.cafm-connect.org/DIN276/ec0c7d7d-67d6-4f8a-94e5-8902f2e12206" Identification="442" Name="Eigenstromversorgungsanlagen" Description="Stromerzeugungsaggregate einschließlich Kühlung, Abgasanlagen und Brennstoffversorgung, zentrale Batterie- und unterbrechungsfreie Stromversorgungsanlagen, photovoltaische Anlagen" />
+              <IfcClassificationReference id="i219" Location="http://www.cafm-connect.org/DIN276/c79b5422-5c3d-490d-9a58-cd86f8112638" Identification="443" Name="Niederspannungsschaltanlagen" Description="Niederspannungshauptverteiler, Blindstromkompensationsanlagen, Maximumüberwachungsanlagen" />
+              <IfcClassificationReference id="i220" Location="http://www.cafm-connect.org/DIN276/2abf7213-efc4-4606-9843-79f27bebe849" Identification="444" Name="Niederspannungsinstallationsanlagen" Description="Kabel, Leitungen, Unterverteiler, Verlegesysteme, Installationsgeräte" />
+              <IfcClassificationReference id="i221" Location="http://www.cafm-connect.org/DIN276/f691cfff-19ed-43b9-9fad-29840e009aaa" Identification="445" Name="Beleuchtungsanlagen" Description="Ortsfeste Leuchten, Sicherheitsbeleuchtung" />
+              <IfcClassificationReference id="i222" Location="http://www.cafm-connect.org/DIN276/8453898e-831b-4209-9c5f-96dd5b5ad216" Identification="446" Name="Blitzschutz- und Erdungsanlagen" Description="Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich" />
+              <IfcClassificationReference id="i223" Location="http://www.cafm-connect.org/DIN276/93161afa-66f8-4d5e-aae3-99a784b5f745" Identification="449" Name="Starkstromanlagen, sonstiges" Description="Erdungsanlagen &#xD;&#xA;Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i224" Location="http://www.cafm-connect.org/DIN276/834c1606-75b4-4042-a959-280140326997" Identification="450" Name="Fernmelde- und informationstech. Anlagen" Description="Die einzelnen Anlagen enthalten die zugehörigen Verteiler, Kabel, Leitungen.">
+            <HasReferences>
+              <IfcClassificationReference id="i225" Location="http://www.cafm-connect.org/DIN276/27023334-fd5d-4cbc-87ed-f092710788ec" Identification="451" Name="Telekommunikationsanlagen" Description="" />
+              <IfcClassificationReference id="i226" Location="http://www.cafm-connect.org/DIN276/fc792fe8-1737-43f1-ac7d-f8e138e417ec" Identification="452" Name="Such- und Signalanlagen" Description="Personenrufanlagen, Lichtruf- und Klingelanlagen, Türsprech- und Türöffneranlagen" />
+              <IfcClassificationReference id="i227" Location="http://www.cafm-connect.org/DIN276/f152c1df-50fe-418b-a6d5-e59c87fbe478" Identification="453" Name="Zeitdienstanlagen" Description="Uhren- und Zeiterfassungsanlagen" />
+              <IfcClassificationReference id="i228" Location="http://www.cafm-connect.org/DIN276/f97b1ac9-d519-4836-886a-35864de1985c" Identification="454" Name="Elektroakustische Anlagen" Description="Beschallungsanlagen, Konferenz- und Dolmetscheranlagen, Gegen- und Wechselsprechanlagen" />
+              <IfcClassificationReference id="i229" Location="http://www.cafm-connect.org/DIN276/bf204a88-d87a-430b-85e8-02f82d897062" Identification="455" Name="Fernseh- und Antennenanlagen" Description="Fernsehanlagen, soweit nicht in den Such-, Melde-, Signal- und Gefahrenmeldeanlagen erfasst, einschließlich Sende- und Empfangsantennenanlagen, Umsetzer" />
+              <IfcClassificationReference id="i230" Location="http://www.cafm-connect.org/DIN276/ea721d68-af60-45b2-8c50-db388b2d9fca" Identification="456" Name="Gefahrmelde- und Alarmanlagen" Description="Brand-, Überfall-, Einbruchmeldeanlagen, Wächterkontrollanlagen, Zugangskontroll- und Raumbeobachtungsanlagen" />
+              <IfcClassificationReference id="i231" Location="http://www.cafm-connect.org/DIN276/ad6fb95d-aa25-4e12-b08c-9b4596ef2b37" Identification="457" Name="Übertragungsnetze" Description="Netze zur Übertragung von Daten, Sprache, Text und Bild, soweit nicht in anderen Kostengruppen erfasst, Verlegesysteme, soweit nicht in KG 444 erfasst" />
+              <IfcClassificationReference id="i232" Location="http://www.cafm-connect.org/DIN276/2941a060-7c3e-45d9-8c9a-0f3cfdba59a0" Identification="459" Name="Fernmelde- und informationstechnische &#xA;Anlagen, sonstige" Description="Fernwirkanlagen, Parkleitsysteme" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i233" Location="http://www.cafm-connect.org/DIN276/f28487d8-6e5c-44d9-9054-7b6fbb51a534" Identification="460" Name="Förderanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i234" Location="http://www.cafm-connect.org/DIN276/8fe2dec6-0901-4286-af45-5c53c1609a7d" Identification="461" Name="Aufzugsanlagen" Description="Personenaufzüge, Lastenaufzüge" />
+              <IfcClassificationReference id="i235" Location="http://www.cafm-connect.org/DIN276/d00eb38d-2403-4b5b-ae4e-34751bd70814" Identification="462" Name="Fahrtreppen, Fahrsteige" Description="" />
+              <IfcClassificationReference id="i236" Location="http://www.cafm-connect.org/DIN276/06d9419b-b6f6-4c19-a43f-5c950efcd264" Identification="463" Name="Befahranlagen" Description="Fassadenaufzüge und andere Befahranlagen" />
+              <IfcClassificationReference id="i237" Location="http://www.cafm-connect.org/DIN276/31502dae-5896-455d-8e0c-b54f97824bc9" Identification="464" Name="Transportanlagen" Description="Automatische Warentransportanlagen, Aktentransportanlagen, Rohrpostanlagen" />
+              <IfcClassificationReference id="i238" Location="http://www.cafm-connect.org/DIN276/5064b5ad-fdcc-4ced-b640-ead4a2cdf676" Identification="465" Name="Krananlagen" Description="Einschließlich Hebezeuge" />
+              <IfcClassificationReference id="i239" Location="http://www.cafm-connect.org/DIN276/b90dfbb8-6099-4362-98c3-ade6dd46e936" Identification="469" Name="Förderanlagen, sonstiges" Description="Hebebühnen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i240" Location="http://www.cafm-connect.org/DIN276/996cecf0-bc4d-476b-83fd-f8784d11ef18" Identification="470" Name="Nutzungsspezifische Anlagen" Description="Kosten der mit dem Bauwerk fest verbundenen Anlagen, die der besonderen Zweckbestimmung dienen, jedoch ohne die baukonstruktiven Einbauten (KG 370) Für die Abgrenzung gegenüber der KG 610 ist maßgebend, dass die nutzungsspezifischen Anlagen technische und planerische Maßnahmen erforderlich machen, z. B. Anfertigen von Werkplänen, Berechnungen, Anschließen von anderen technischen Anlagen.">
+            <HasReferences>
+              <IfcClassificationReference id="i241" Location="http://www.cafm-connect.org/DIN276/baf55d16-f97a-4d57-b3bf-8ee3d7006340" Identification="471" Name="Küchentechnische Anlagen" Description="Anlagen zur Speisen- und Getränkezubereitung, -ausgabe und        -lagerung einschließlich zugehöriger Kälteanlagen" />
+              <IfcClassificationReference id="i242" Location="http://www.cafm-connect.org/DIN276/3acc92b7-b4a1-4341-b876-595a58023a23" Identification="472" Name="Wäscherei- und Reinigungsanlagen" Description="Einschließlich zugehöriger Wasseraufbereitung, Desinfektions- und Sterilisationseinrichtungen" />
+              <IfcClassificationReference id="i243" Location="http://www.cafm-connect.org/DIN276/28eefcc9-f25a-46cf-8e1a-a2b1a45e2ab0" Identification="473" Name="Medienversorgungsanlagen" Description="Medizinische und technische Gase, Druckluft, Vakuum, Flüssigchemikalien, Lösungsmittel, vollentsalztes Wasser; einschließlich Lagerung, Erzeugungsanlagen, Übergabestationen, Druckregelanlagen, Leitungen und Entnahmearmaturen" />
+              <IfcClassificationReference id="i244" Location="http://www.cafm-connect.org/DIN276/4055ac1e-070c-4f6d-bb34-710266a2f3af" Identification="474" Name="Medizien- und labortechnische Anlagen" Description="Ortsfeste medizin- und labortechnische Anlagen," />
+              <IfcClassificationReference id="i245" Location="http://www.cafm-connect.org/DIN276/ca19768d-469d-427b-8138-ddc314a20763" Identification="475" Name="Feuerlöschanlagen" Description="Sprinkler-, Gaslöschanlagen, Löschwasserleitungen, Wandhydranten, Handfeuerlöscher" />
+              <IfcClassificationReference id="i246" Location="http://www.cafm-connect.org/DIN276/805c326d-094e-4ece-9969-0931b4eda45e" Identification="476" Name="Badetechnische Anlagen" Description="Aufbereitungsanlagen für Schwimmbeckenwasser, soweit nicht in KG 410 erfasst" />
+              <IfcClassificationReference id="i247" Location="http://www.cafm-connect.org/DIN276/cdc17c86-141a-4830-a4ec-820a4c9aba97" Identification="477" Name="Prozesswärme-, -kälte- und -luftanlagen" Description="Aufbereitungsanlagen für Schwimmbeckenwasser, soweit nicht in KG 410 erfasst" />
+              <IfcClassificationReference id="i248" Location="http://www.cafm-connect.org/DIN276/8d05f1ce-45a6-4dd8-a967-c572ff15e713" Identification="478" Name="Entsorgungsanlagen" Description="Abfall- und Medienentsorgungsanlagen, Staubsauganlagen" />
+              <IfcClassificationReference id="i249" Location="http://www.cafm-connect.org/DIN276/0867bdb7-8a5f-4e5b-ba7f-8759a0597c46" Identification="479" Name="Nutzungsspezifische Anlagen, sonstiges" Description="Bühnentechnische Anlagen, Tankstellen- und Waschanlagen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i250" Location="http://www.cafm-connect.org/DIN276/ce02a0f2-21de-4552-82fb-fb23347e9be4" Identification="480" Name="Gebäudeautomation" Description="Kosten der anlageübergreifenden Automation">
+            <HasReferences>
+              <IfcClassificationReference id="i251" Location="http://www.cafm-connect.org/DIN276/c348b079-2451-4fb4-b3a6-08e2b58d1944" Identification="481" Name="Automationssysteme" Description="Automationsstationen mit  Bedien- und Beobachtungseinrichtungen, GA-Funktionen, Anwendungssoftware, Lizenzen, Sensoren und Aktoren, Schnittstellen zu Feldgeräten und anderen Automationseinrichtungen" />
+              <IfcClassificationReference id="i252" Location="http://www.cafm-connect.org/DIN276/090f8a76-8e9c-45c8-89f7-329dd2c01b68" Identification="482" Name="Schaltschränke" Description="Schaltschränke zur Aufnahme von Automationssystemen (KG 481) mit Leistungs-, Steuerungs- und Sicherungsbaugruppen einschließlich zugehöriger Kabel und Leitungen, Verlegesysteme soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i253" Location="http://www.cafm-connect.org/DIN276/236ee12c-9c95-45e8-9f2d-30692031400c" Identification="483" Name="Management- und Bedieneinrichtungen" Description="Übergeordnete Einrichtungen für Gebäudeautomation und Gebäudemanagement mit Bedienstationen, Programmiereinrichtungen, Anwendungssoftware, Lizenzen, Servern, Schnittstellen zu Automationseinrichtungen und externen Einrichtungen" />
+              <IfcClassificationReference id="i254" Location="http://www.cafm-connect.org/DIN276/e5973b56-5688-4f82-b3f0-618dcc9469e5" Identification="484" Name="Raumautomatisationssysteme" Description="Raumautomationsstationen mit Bedien- und Anzeigeeinrichtungen, Schnittstellen zu Feldgeräten und andere Automationseinrichtungen" />
+              <IfcClassificationReference id="i255" Location="http://www.cafm-connect.org/DIN276/5ef6592f-cc10-428b-af5b-d6e5b29c911c" Identification="485" Name="Übertragungsnetze" Description="Netze zur Datenübertragung, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i256" Location="http://www.cafm-connect.org/DIN276/22b56af6-1138-4393-890f-d5d5972a6df5" Identification="489" Name="Gebäudeautomation, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i257" Location="http://www.cafm-connect.org/DIN276/913cc1cb-815a-4a8b-be88-3b6a2c2156ea" Identification="490" Name="Sonstige Maßnahmen für Tech. Anlagen" Description="Technische Anlagen und übergreifende Maßnahmen im Zusammenhang mit  technischen Anlagen, die nicht einzelnen Kostengruppen der technischen Anlagen zugeordnet werden können">
+            <HasReferences>
+              <IfcClassificationReference id="i258" Location="http://www.cafm-connect.org/DIN276/2683e024-3af8-496f-a2ae-fb07fe186a45" Identification="491" Name="Baustelleneinrichtung" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung für technische Anlagen, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung" />
+              <IfcClassificationReference id="i259" Location="http://www.cafm-connect.org/DIN276/ef554f9c-71b1-4af4-9aba-f52432d7f181" Identification="492" Name="Gerüste" Description="Auf-, Um-, Abbauen, Vorhalten von Gerüsten" />
+              <IfcClassificationReference id="i260" Location="http://www.cafm-connect.org/DIN276/f351bd6d-0d5c-40cf-a41c-159143ded43c" Identification="493" Name="Sicherungsmaßnahmen" Description="Sicherungsmaßnahmen an bestehenden Bauwerken, z. B. Unterfangungen, Abstützungen" />
+              <IfcClassificationReference id="i261" Location="http://www.cafm-connect.org/DIN276/90452627-1a5c-419f-89a2-aa58c1a9ad1a" Identification="494" Name="Abbruchmaßnahmen" Description="Abbruch- und Demontagearbeiten einschließlich Zwischenlagern wieder verwendbarer Teile, Abfuhr des Abbruchmaterials, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i262" Location="http://www.cafm-connect.org/DIN276/a52e14b0-89b0-4f48-82ee-91b1ffc09967" Identification="495" Name="Instandsetzungen" Description="Maßnahmen zur Wiederherstellung des zum bestimmungsgemäßen Gebrauch geeigneten Zustandes, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i263" Location="http://www.cafm-connect.org/DIN276/97dd4dac-5796-4b7f-91f8-fa2327773e5f" Identification="496" Name="Materialentsorgung" Description="Entsorgung von Materialien und Stoffen, die bei dem Abbruch, bei der Demontage und bei dem Ausbau von Anlagenteilen oder bei der Erstellung einer Bauleistung anfallen zum Zweck des Recyclings oder der Deponierung" />
+              <IfcClassificationReference id="i264" Location="http://www.cafm-connect.org/DIN276/f142c6ce-0782-497b-abba-67efeb78efef" Identification="497" Name="Zusätzliche Maßnahmen" Description="Zusätzliche Maßnahmen bei der Erstellung von technischen Anlagen z. B. Schutz von Personen, Sachen; Reinigung vor Inbetriebnahme; Maßnahmen aufgrund von Forderungen des Wasser-, Landschafts-, Lärm- und Erschütterungsschutzes während der Bauzeit; Schlechtwetter und Winterbauschutz, Erwärmung der technischen Anlagen, Schneeräumung," />
+              <IfcClassificationReference id="i265" Location="http://www.cafm-connect.org/DIN276/90055c9a-c21a-42f1-9079-eaece77b7e96" Identification="498" Name="Provisorische Maßnahmen, Provisorien" Description="Kosten für die Erstellung, Beseitigung provisorischer technischer Anlagen, Anpassung der technischen Anlagen bis zur Inbetriebnahme der endgültigen technischen Anlagen" />
+              <IfcClassificationReference id="i266" Location="http://www.cafm-connect.org/DIN276/aeaa6ea4-da0e-498b-a9da-e9891351c950" Identification="499" Name="Sonstige Maßnahmen für tech. Anlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i267" Location="http://www.cafm-connect.org/DIN276/da718fba-e91d-4e89-a764-e06e4fbdd77d" Identification="500" Name="Außenanlagen" Description="">
+        <HasReferences>
+          <IfcClassificationReference id="i268" Location="http://www.cafm-connect.org/DIN276/618f7f0a-e02f-43ab-91a6-e0345c220207" Identification="510" Name="Geländeflächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i269" Location="http://www.cafm-connect.org/DIN276/6a25187c-380a-46f9-9167-02671e177baa" Identification="511" Name="Oberbodenarbeiten" Description="Oberbodenabtrag und -sicherung" />
+              <IfcClassificationReference id="i270" Location="http://www.cafm-connect.org/DIN276/b4f6a775-ab11-4650-a276-45e456951421" Identification="512" Name="Bodenarbeiten" Description="Bodenabtrag und -auftrag" />
+              <IfcClassificationReference id="i271" Location="http://www.cafm-connect.org/DIN276/f6cb79a0-10c6-45ae-98fc-8fb9b5c5bfdf" Identification="519" Name="Geländeflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i272" Location="http://www.cafm-connect.org/DIN276/c3801b01-4545-4b91-a3e9-bc9ac3bb9fda" Identification="520" Name="Befestigte Flächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i273" Location="http://www.cafm-connect.org/DIN276/c7fdfe3c-f0e0-4222-9546-18dab2c3e95f" Identification="521" Name="Wege" Description="Befestigte Fläche für den Fuß- und Radfahrverkehr" />
+              <IfcClassificationReference id="i274" Location="http://www.cafm-connect.org/DIN276/b5c92cd4-29ab-4ef7-aa9c-754754711266" Identification="522" Name="Straßen" Description="Flächen für den Leicht- und Schwerverkehr; Fußgängerzonen mit Anlieferungsverkehr" />
+              <IfcClassificationReference id="i275" Location="http://www.cafm-connect.org/DIN276/b745595a-ab8a-4bb6-8db3-5c7617d91758" Identification="523" Name="Plätze, Höfe" Description="Gestaltete Platzflächen, Innenhöfe" />
+              <IfcClassificationReference id="i276" Location="http://www.cafm-connect.org/DIN276/b91f2f3d-6268-4f0d-acb1-6aa2caadb249" Identification="524" Name="Stellplätze" Description="Flächen für den ruhenden Verkehr" />
+              <IfcClassificationReference id="i277" Location="http://www.cafm-connect.org/DIN276/de320f9b-06f8-401b-b16c-5e4b5cecd2d2" Identification="525" Name="Sportplatzflächen" Description="Sportrasenflächen, Kunststoffflächen" />
+              <IfcClassificationReference id="i278" Location="http://www.cafm-connect.org/DIN276/0abe9565-4a45-4131-a6eb-df31b5ca8293" Identification="526" Name="Spielplatzflächen" Description="" />
+              <IfcClassificationReference id="i279" Location="http://www.cafm-connect.org/DIN276/2d5ca716-1a77-41a2-b483-02836620f488" Identification="527" Name="Gleisanlagen" Description="" />
+              <IfcClassificationReference id="i280" Location="http://www.cafm-connect.org/DIN276/b9057644-09f9-46c4-9454-7d62b568f9f0" Identification="529" Name="Befestigte Flächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i281" Location="http://www.cafm-connect.org/DIN276/b31654cc-d702-4aab-aa1a-7b5e31c2bf03" Identification="530" Name="Baukonstruktionen in Außenanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i282" Location="http://www.cafm-connect.org/DIN276/7a171641-cb4d-42d2-8ec7-33ed353aefe0" Identification="531" Name="Einfriedungen" Description="Zäune, Mauern, Türen, Tore, Schrankenanlagen " />
+              <IfcClassificationReference id="i283" Location="http://www.cafm-connect.org/DIN276/d6f0fe57-1034-4729-88a0-46146f1f22c6" Identification="532" Name="Schutzkonstruktionen" Description="Lärmschutzwände, Sichtschutzwände, Schutzgitter" />
+              <IfcClassificationReference id="i284" Location="http://www.cafm-connect.org/DIN276/55e51c9d-c2c9-48f4-8cc3-286f9b399265" Identification="533" Name="Mauern, Wände" Description="Stütz-, Schwergewichtsmauern" />
+              <IfcClassificationReference id="i285" Location="http://www.cafm-connect.org/DIN276/ff5b4e6d-75cc-4af4-ac88-5287b63b5e70" Identification="534" Name="Rampen, Treppen, Tribünen" Description="Kinderwagen- und Behindertenrampen, Block- und Stellstufen, Zuschauertribünen von Sportplätzen" />
+              <IfcClassificationReference id="i286" Location="http://www.cafm-connect.org/DIN276/1720ca84-d859-4973-a3b5-0d3f747810d2" Identification="535" Name="Überdachungen" Description="Wetterschutz, Unterstände; Pergolen" />
+              <IfcClassificationReference id="i287" Location="http://www.cafm-connect.org/DIN276/836a6540-a8e6-4173-8377-7df9789ce696" Identification="536" Name="Brücken, Stege" Description="Holz- und Stahlkonstruktionen" />
+              <IfcClassificationReference id="i288" Location="http://www.cafm-connect.org/DIN276/df1045d6-5803-45ef-b4ae-f9e8906c6db6" Identification="537" Name="Kanal- und Schachtbauanlagen" Description="Bauliche Anlagen für Medien- oder Verkehrserschließung" />
+              <IfcClassificationReference id="i289" Location="http://www.cafm-connect.org/DIN276/c7396b5e-ef2e-495c-b0fe-d29f9ba76cae" Identification="538" Name="Wasserbauliche Anlagen" Description="Brunnen, Wasserbecken" />
+              <IfcClassificationReference id="i290" Location="http://www.cafm-connect.org/DIN276/779dc228-f581-43c5-886c-c4cf5f9eddf9" Identification="539" Name="Baukonstruktionen in Außenanlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i291" Location="http://www.cafm-connect.org/DIN276/d2826100-de7a-476c-869a-c4b7e5f1412e" Identification="540" Name="Technische Anlagen in Außenanlagen" Description="Kosten der technischen Anlagen auf dem Grundstück einschließlich der Ver- und Entsorgung des Bauwerks">
+            <HasReferences>
+              <IfcClassificationReference id="i292" Location="http://www.cafm-connect.org/DIN276/82de376d-6fde-4b97-9db4-dff4c1109cd6" Identification="541" Name="Abwasseranlagen" Description="Kläranlagen, Oberflächen- und Bauwerksentwässerungsanlagen, Sammelgruben, Abscheider, Hebeanlagen" />
+              <IfcClassificationReference id="i293" Location="http://www.cafm-connect.org/DIN276/30c87263-5250-453a-935d-32800716e911" Identification="542" Name="Wasseranlagen" Description="Wassergewinnungsanlagen, Wasserversorgungsnetze, Hydrantenanlagen, Druckerhöhungs- und Beregnungsanlagen" />
+              <IfcClassificationReference id="i294" Location="http://www.cafm-connect.org/DIN276/271dc520-17ed-45d1-880a-11318feded88" Identification="543" Name="Gasanlagen" Description="Gasversorgungsnetze, Flüssiggasanlagen" />
+              <IfcClassificationReference id="i295" Location="http://www.cafm-connect.org/DIN276/7a3786a6-6501-4315-a8ec-8c6929f0d9de" Identification="544" Name="Wärmeversorgungsanlagen" Description="Wärmeerzeugungsanlagen, Wärmeversorgungsnetze, Freiflächen- und Rampenheizungen" />
+              <IfcClassificationReference id="i296" Location="http://www.cafm-connect.org/DIN276/b1c57eff-7b5c-4ff2-be3d-0f5543374625" Identification="545" Name="Lufttechnische Anlagen" Description="Bauteile von lufttechnischen Anlagen, z. B. Außenluftansaugung, Fortluftausblas, Erdwärmetauscher, Kälteversorgung" />
+              <IfcClassificationReference id="i297" Location="http://www.cafm-connect.org/DIN276/67e428a6-8a1b-4e3d-8c6e-68b72eedcf78" Identification="546" Name="Starkstromanlagen" Description="Stromversorgungsnetze, Freilufttrafostationen, Eigenstromerzeugungsanlagen, Außenbeleuchtungs- und Flutlichtanlagen einschließlich Maste und Befestigung" />
+              <IfcClassificationReference id="i298" Location="http://www.cafm-connect.org/DIN276/05684e61-979a-4c92-b839-c43a8e1a2117" Identification="547" Name="Fernmelde- und Informationstechnische Anlagen" Description="Leitungsnetze, Beschallungs-, Zeitdienst- und Verkehrssignalanlagen, elektronische Anzeigetafeln, Objektsicherungsanlagen, Parkleitsysteme" />
+              <IfcClassificationReference id="i299" Location="http://www.cafm-connect.org/DIN276/91c0b074-a8a8-4276-96ee-ef40c82b4a07" Identification="548" Name="Nutzungsspezifische Anlagen" Description="Medienversorgungsanlagen, Tankstellenanlagen, badetechnische Anlagen, leitungsgebundene Abfallentsorgung" />
+              <IfcClassificationReference id="i300" Location="http://www.cafm-connect.org/DIN276/a8eeffc5-3c52-45af-a08b-777e51f2495a" Identification="549" Name="Technische Anlagen in Außenanlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i301" Location="http://www.cafm-connect.org/DIN276/deea1775-7780-4c26-b8bb-1a2edc8bdb0d" Identification="550" Name="Einbauen in Außenanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i302" Location="http://www.cafm-connect.org/DIN276/77ce3010-fb8e-4f1b-80dd-4343e7145681" Identification="551" Name="Allgemeine Einbauten" Description="Wirtschaftsgegenstände, z. B. Möbel, Fahrradständer, Schilder, Pflanzbehälter, Abfallbehälter, Fahnenmaste" />
+              <IfcClassificationReference id="i303" Location="http://www.cafm-connect.org/DIN276/757f7537-6bbd-4fe2-87c0-6ad195ff224d" Identification="552" Name="Besondere Einbauten" Description="Einbauten für Sport- und Spielanlagen, Tiergehege" />
+              <IfcClassificationReference id="i304" Location="http://www.cafm-connect.org/DIN276/6f9689ba-28db-4d42-880c-aaf265d23be5" Identification="559" Name="Einbauen in Außenanlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i305" Location="http://www.cafm-connect.org/DIN276/733882af-a0cd-404d-b544-7aa9c6610826" Identification="560" Name="Wasserflächen" Description="Naturnahe Wasserflächen">
+            <HasReferences>
+              <IfcClassificationReference id="i306" Location="http://www.cafm-connect.org/DIN276/5944fe38-24a6-4879-adae-fbbd060b4582" Identification="561" Name="Abdichtungen" Description="Einschließlich Schutzschichten, Bodensubstrat und Uferausbildung" />
+              <IfcClassificationReference id="i307" Location="http://www.cafm-connect.org/DIN276/8a034106-22b3-492b-96d7-4411970b1d5b" Identification="562" Name="Besondere Einbauten" Description="" />
+              <IfcClassificationReference id="i308" Location="http://www.cafm-connect.org/DIN276/bc473fa7-24b8-4d78-9f25-cca3d71ec5ef" Identification="569" Name="Wasserflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i309" Location="http://www.cafm-connect.org/DIN276/ddb64bfe-d8f4-4227-abb9-ec267fbdf844" Identification="570" Name="Pflanz- und Saatflächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i310" Location="http://www.cafm-connect.org/DIN276/5cccae68-9b6a-43a2-9703-e7def2351a1a" Identification="571" Name="Oberbodenarbeiten" Description="Oberbodenauftrag, Oberbodenlockerung" />
+              <IfcClassificationReference id="i311" Location="http://www.cafm-connect.org/DIN276/c55764ba-4e23-4b11-82e0-9f42b88f2a45" Identification="572" Name="Vegetationstechnische Bodenbearbeitung" Description="Bodenverbesserung, z. B. Düngung, Bodenhilfsstoffe" />
+              <IfcClassificationReference id="i312" Location="http://www.cafm-connect.org/DIN276/bbc51e69-0244-4929-ab96-bb7add3eac3f" Identification="573" Name="Sicherungsbauweisen" Description="Vegetationsstücke, Geotextilien, Flechtwerk" />
+              <IfcClassificationReference id="i313" Location="http://www.cafm-connect.org/DIN276/00cca0bf-2482-472a-a7f2-c0c68a24fcd7" Identification="574" Name="Pflanzen" Description="Einschließlich Fertigstellungspflege" />
+              <IfcClassificationReference id="i314" Location="http://www.cafm-connect.org/DIN276/b0eb4d08-cec3-4401-866a-d335fbee9699" Identification="575" Name="Rasen und Ansaaten" Description="Einschließlich Fertigstellungspflege, ohne Sportrasenflächen (siehe KG 525" />
+              <IfcClassificationReference id="i315" Location="http://www.cafm-connect.org/DIN276/5abb9312-6f08-424e-ba48-2b3ce6b79168" Identification="576" Name="Begrünung unterbauter Flächen" Description="Auf Tiefgaragen, einschließlich Wurzelschutz- und Fertigstellungspflege" />
+              <IfcClassificationReference id="i316" Location="http://www.cafm-connect.org/DIN276/8acc7031-4760-493c-8d92-e726bf256619" Identification="579" Name="Pflanz- und Saatflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i317" Location="http://www.cafm-connect.org/DIN276/be31c338-de66-4d70-a90e-da5e9d6a3e9d" Identification="590" Name="Sonstige Maßnahmen für Außenanlagen" Description="Außenanlagen und übergreifende Maßnahmen im Zusammenhang mit den Außenanlagen, die nicht einzelnen Kostengruppen der Außenanlagen zugeordnet werden können">
+            <HasReferences>
+              <IfcClassificationReference id="i318" Location="http://www.cafm-connect.org/DIN276/720b89da-9426-4785-ae5e-5ae3e8306376" Identification="591" Name="Baustelleneinrichtung" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung für Außenanlagen, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung" />
+              <IfcClassificationReference id="i319" Location="http://www.cafm-connect.org/DIN276/84ec68bb-fc3f-4a2c-988c-22d80b3016ac" Identification="592" Name="Gerüste" Description="Auf-, Um-, Abbauen, Vorhalten von Gerüsten" />
+              <IfcClassificationReference id="i320" Location="http://www.cafm-connect.org/DIN276/564e018d-f96d-481d-9dcd-77762cb163ee" Identification="593" Name="Sicherungsmaßnahmen" Description="Sicherungsmaßnahmen an bestehenden baulichen Anlagen, z. B. Unterfangungen, Abstützungen" />
+              <IfcClassificationReference id="i321" Location="http://www.cafm-connect.org/DIN276/f0b165e6-1281-4e48-a802-8f37ffade45e" Identification="594" Name="Abbruchmaßnahmen" Description="Abbruch- und Demontagearbeiten einschließlich Zwischenlagern wiederverwendbarer Teile, Abfuhr des Abbruchmaterials, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i322" Location="http://www.cafm-connect.org/DIN276/35785cb8-66c4-4fd5-a9e7-3a87fa85b4fc" Identification="595" Name="Instandsetzungen" Description="Maßnahmen zur Wiederherstellung des zum bestimmungsgemäßen Gebrauch geeigneten Zustandes, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i323" Location="http://www.cafm-connect.org/DIN276/c57cca88-1f9f-4312-9067-94a0fe06d578" Identification="596" Name="Materialentsorgung" Description="Entsorgung von Materialien und Stoffen, die bei dem Abbruch, bei der Demontage und bei dem Ausbau von Außenanlagen oder bei der Erstellung einer Bauleistung anfallen zum Zweck des Recyclings oder der Deponierung" />
+              <IfcClassificationReference id="i324" Location="http://www.cafm-connect.org/DIN276/bd2608d2-36ab-4dd0-9275-bfdb53f1cd63" Identification="597" Name="Zusätzliche Maßnahmen " Description="Zusätzliche Maßnahmen bei der Erstellung von Außenanlagen z. B. Schutz von Personen, Sachen; Reinigung vor Inbetriebnahme; Maßnahmen aufgrund von Forderungen des Wasser-, Landschafts-, Lärm- und Erschütterungsschutzes während der Bauzeit; Schlechtwetter und Winterbauschutz, Erwärmung, Schneeräumung" />
+              <IfcClassificationReference id="i325" Location="http://www.cafm-connect.org/DIN276/3bb56fc8-3fd9-4a61-a819-dcddeacb1f84" Identification="598" Name="Provisorische Maßnahmen, Provisorien" Description="Kosten für die Erstellung, Beseitigung provisorischer Außenanlagen, Anpassung der Außenanlagen bis zur Inbetriebnahme der endgültigen Außenanlagen" />
+              <IfcClassificationReference id="i326" Location="http://www.cafm-connect.org/DIN276/2b992c6c-12bb-4a96-9ca2-8f79ea86b658" Identification="599" Name="Sonstige Maßnahmen für Außenanlagen, sonstiges" Description=" Kosten für alle beweglichen oder ohne besondere Maßnahmen zu befestigenden Sachen, die zur Ingebrauchnahme, zur allgemeinen Benutzung oder zur künstlerischen Gestaltung des" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i327" Location="http://www.cafm-connect.org/DIN276/24f44911-6788-45d8-a733-82ac48306db6" Identification="600" Name="Ausstattung und Kunstwerke" Description=" Kosten für alle beweglichen oder ohne besondere Maßnahmen zu befestigenden Sachen, die zur Ingebrauchnahme, zur allgemeinen Benutzung oder zur künstlerischen Gestaltung des Bauwerks und der Außenanlagen erforderlich sind (siehe Anmerkungen zu den KG 370 und 470">
+        <HasReferences>
+          <IfcClassificationReference id="i328" Location="http://www.cafm-connect.org/DIN276/aad37c20-991d-4e43-a66d-84ce1a2dac02" Identification="610" Name="Ausstattung " Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i329" Location="http://www.cafm-connect.org/DIN276/f92fe63b-b137-4966-8df0-344e9b2cd1cd" Identification="611" Name="Allgemeine Ausstattung" Description="Möbel und Geräte, z. B. Sitz- und Liegemöbel, Schränke, Regale, Tische; Textilien, z. B. Vorhänge, Wandbehänge, lose Teppiche, Wäsche; Hauswirtschafts-, Garten- und Reinigungsgeräte" />
+              <IfcClassificationReference id="i330" Location="http://www.cafm-connect.org/DIN276/265d7b9d-1768-4203-bdff-104b51d9d74c" Identification="612" Name="Besondere Ausstattung" Description="Ausstattungsgegenstände, die der besonderen Zweckbestimmung eines Objekts dienen wie z. B. wissenschaftliche, medizinische, technische Geräte" />
+              <IfcClassificationReference id="i331" Location="http://www.cafm-connect.org/DIN276/400fcbfb-7801-43f5-be0f-21adf303fe34" Identification="619" Name="Ausstattung, sonstiges" Description="Schilder, Wegweiser, Orientierungstafeln, Werbeanlagen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i332" Location="http://www.cafm-connect.org/DIN276/1eb902b5-3aaa-4bc0-a4b7-ff75c73f6862" Identification="620" Name="Kunstwerke" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i333" Location="http://www.cafm-connect.org/DIN276/56fbb6fc-b0e4-4540-acec-df66ca78c923" Identification="621" Name="Künstlerisch gestaltete Bauteile des Bauwerkes" Description="Kunstwerke zur künstlerischen Ausstattung des Bauwerks und der Außenanlagen einschließlich Tragkonstruktionen, z. B. Skulpturen, Objekte, Gemälde, Möbel, Antiquitäten, Altäre, Taufbecken" />
+              <IfcClassificationReference id="i334" Location="http://www.cafm-connect.org/DIN276/2044c13d-a7c3-4368-9006-ed64faceb82b" Identification="622" Name="Künstlerisch gestaltete Bauteile der Außenanlgen" Description="Kosten für die künstlerische Gestaltung, z. B. Malereien, Reliefs, Mosaiken, Glas-, Schmiede-, Steinmetzarbeiten" />
+              <IfcClassificationReference id="i335" Location="http://www.cafm-connect.org/DIN276/aee8d928-0cf5-419e-962e-c20fc734bd6f" Identification="623" Name="Kunstwerke, sonstiges" Description="Kosten für die künstlerische Gestaltung, z. B. Malereien, Reliefs, Mosaiken, Glas-, Schmiede-, Steinmetzarbeiten" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i336" Location="http://www.cafm-connect.org/DIN276/1901db4a-2a32-4046-be5c-67b1467edbd1" Identification="700" Name="Baunebenkosten" Description="">
+        <HasReferences>
+          <IfcClassificationReference id="i337" Location="http://www.cafm-connect.org/DIN276/7555c9b6-f8dd-4540-81f6-07e76d133693" Identification="710" Name="Bauherrenaufgaben" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i338" Location="http://www.cafm-connect.org/DIN276/61ca769f-8648-4a25-87f6-e6d599ec0bb1" Identification="711" Name="Projektleitung" Description="Kosten zum Zwecke der Zielvorgabe, der Überwachung und Vertretung der Bauherreninteressen" />
+              <IfcClassificationReference id="i339" Location="http://www.cafm-connect.org/DIN276/4cad9d3e-7ada-41d0-a05d-a58947434de9" Identification="712" Name="Bedarfsplanung" Description="Kosten für Bedarfs-, Betriebs- und Organisationsplanung, z. B. zur betrieblichen Organisation, zur Arbeitsplatzgestaltung, zur Erstellung von Raum- und Funktionsprogrammen, zur betrieblichen Ablaufplanung und zur Inbetriebnahme" />
+              <IfcClassificationReference id="i340" Location="http://www.cafm-connect.org/DIN276/26644692-4d9d-45c5-9999-9573d57addca" Identification="713" Name="Projektsteuerung" Description="Kosten für Projektsteuerungsleistungen sowie für andere Leistungen, die sich mit der übergeordneten Steuerung und Kontrolle von Projektorganisation, Terminen, Kosten, Qualitäten und Quantitäten befassen" />
+              <IfcClassificationReference id="i341" Location="http://www.cafm-connect.org/DIN276/11c2a6ec-3cbe-42fd-9a8f-04d396fff551" Identification="719" Name="Bauherrenaufgaben, sonstiges" Description="Baubetreuung, Rechtsberatung, Steuerberatung" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i342" Location="http://www.cafm-connect.org/DIN276/1429731b-f35c-4e99-8bc0-729a888ad3d5" Identification="720" Name="Vorbereitung und Objektplanung" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i343" Location="http://www.cafm-connect.org/DIN276/27dfa588-8e80-460d-8036-3be3d7abb090" Identification="721" Name="Untersuchungen" Description="Standortanalysen, Baugrundgutachten, Gutachten für die Verkehrsanbindung, Bestandsanalysen, z. B. Untersuchungen zum Gebäudebestand bei Umbau- und Modernisierungsmaßnahmen, Umweltverträglichkeitsprüfungen" />
+              <IfcClassificationReference id="i344" Location="http://www.cafm-connect.org/DIN276/a0de4a9d-f06a-4995-9c7e-55825bb6fefd" Identification="722" Name="Wertermittlungen" Description="Gutachten zur Ermittlung von Gebäudewerten, soweit nicht KG 126 erfasst" />
+              <IfcClassificationReference id="i345" Location="http://www.cafm-connect.org/DIN276/ad3eb49c-a2a6-4ad1-a6c3-3a48ad699791" Identification="723" Name="Städtebauliche Leistungen" Description="vorbereitende Bebauungsstudien" />
+              <IfcClassificationReference id="i346" Location="http://www.cafm-connect.org/DIN276/9e13007e-4803-4b11-8fa3-58070751947d" Identification="724" Name="Landschaftsplanerische Leistungen" Description="vorbereitende Grünplanstudien" />
+              <IfcClassificationReference id="i347" Location="http://www.cafm-connect.org/DIN276/0b446008-a1f6-40f1-9c79-9aabfdcfd694" Identification="725" Name="Wettbewerbe" Description="Kosten für Ideenwettbewerbe und Realisierungswettbewerbe" />
+              <IfcClassificationReference id="i348" Location="http://www.cafm-connect.org/DIN276/49cb2418-f824-4a4a-a860-0aa67b0092c1" Identification="729" Name="Vorbereitung und Objektplanung, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i349" Location="http://www.cafm-connect.org/DIN276/0fbc9753-ad8b-4513-963a-c93b61f7afce" Identification="730" Name="Architekten- und Ingenieurleistung" Description="Kosten für die Planung und Überwachung der Ausführung">
+            <HasReferences>
+              <IfcClassificationReference id="i350" Location="http://www.cafm-connect.org/DIN276/e09d8071-762c-45d2-8860-b08b57b48275" Identification="731" Name="Gebäudeplanung" Description="" />
+              <IfcClassificationReference id="i351" Location="http://www.cafm-connect.org/DIN276/909300a2-9dc0-40f0-a93b-62d12770d251" Identification="732" Name="Freianlagenplanung" Description="" />
+              <IfcClassificationReference id="i352" Location="http://www.cafm-connect.org/DIN276/307ef11f-1525-4265-badf-b3fbbc28b489" Identification="733" Name="Planung der raumbildenden Ausbauten" Description="" />
+              <IfcClassificationReference id="i353" Location="http://www.cafm-connect.org/DIN276/1fb51bd1-fd08-4700-9657-4d9a854f9ba7" Identification="734" Name="Planung der Ing.bauwerke und Verkehrsanlagen" Description="" />
+              <IfcClassificationReference id="i354" Location="http://www.cafm-connect.org/DIN276/79961490-7001-48fc-8d16-7cd9a239b9fb" Identification="735" Name="Tragwerksplanung" Description="" />
+              <IfcClassificationReference id="i355" Location="http://www.cafm-connect.org/DIN276/4a4f5d4b-0ab8-4aee-8124-77abc36e8595" Identification="736" Name="Planung der technischen Ausrüstung" Description="" />
+              <IfcClassificationReference id="i356" Location="http://www.cafm-connect.org/DIN276/fc7aaa3d-6413-4cee-b79a-7bceb302ade6" Identification="739" Name="Architektur- und Ingenieurleistungen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i357" Location="http://www.cafm-connect.org/DIN276/fce45f92-531e-4639-bb59-e3a7046042db" Identification="740" Name="Gutachten und Beratung" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i358" Location="http://www.cafm-connect.org/DIN276/f4e92d1e-fd67-41dd-86ae-7d96eb68f94f" Identification="741" Name="Thermische Bauphysik" Description="" />
+              <IfcClassificationReference id="i359" Location="http://www.cafm-connect.org/DIN276/f798ac2b-8696-4736-aa15-a9f45a1e3027" Identification="742" Name="Schallschutz und Raumakustik" Description="" />
+              <IfcClassificationReference id="i360" Location="http://www.cafm-connect.org/DIN276/7c31b7d5-5969-4ca5-a45c-4cea2a118495" Identification="743" Name="Bodenmechanik, Erd- und Grundbau" Description="" />
+              <IfcClassificationReference id="i361" Location="http://www.cafm-connect.org/DIN276/cdf90792-11ee-488a-ab8e-1e209efd00d7" Identification="744" Name="Vermessung" Description="Vermessungstechnische Leistungen mit Ausnahme von Leistungen, die aufgrund landesrechtlicher Vorschriften für Zwecke der Landvermessung und des Liegenschaftskatasters durchgeführt werden (siehe Kostengruppe 771)" />
+              <IfcClassificationReference id="i362" Location="http://www.cafm-connect.org/DIN276/925a8104-ac7e-48af-90db-0692b318316a" Identification="745" Name="Lichttechnik, Tageslichttechnik" Description="" />
+              <IfcClassificationReference id="i363" Location="http://www.cafm-connect.org/DIN276/0a4b881e-a173-4cec-a1e1-e906748d2e6b" Identification="746" Name="Brandschutz" Description="" />
+              <IfcClassificationReference id="i364" Location="http://www.cafm-connect.org/DIN276/012cee07-d96d-461a-8107-bacfff4bac38" Identification="747" Name="Sicherheits- und Gesundheitsschutz" Description="" />
+              <IfcClassificationReference id="i365" Location="http://www.cafm-connect.org/DIN276/2ce3367d-a82c-4781-a13f-29876fae1a28" Identification="748" Name="Umweltschutz, Altlasten" Description="" />
+              <IfcClassificationReference id="i366" Location="http://www.cafm-connect.org/DIN276/606d4764-f384-425f-8b55-808c206c54d5" Identification="749" Name="Gutachten und Beratung, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i367" Location="http://www.cafm-connect.org/DIN276/5c15d0a7-8f4c-43d5-b375-4742ac0718d5" Identification="750" Name="Kunst" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i368" Location="http://www.cafm-connect.org/DIN276/00005bee-60cf-415d-aac9-97ec52b54f91" Identification="751" Name="Kunstwettbewerbe" Description="Kosten für die Durchführung von Wettbewerben zur Erarbeitung eines Konzepts für Kunstwerke oder künstlerisch gestaltete Bauteile" />
+              <IfcClassificationReference id="i369" Location="http://www.cafm-connect.org/DIN276/b086c7c2-7024-4888-9b06-01c4eabb4acb" Identification="752" Name="Honorare" Description="Kosten für die geistig-schöpferische Leistung für Kunstwerke oder künstlerisch gestaltete Bauteile, soweit nicht in der Kostengruppe 620 enthalten" />
+              <IfcClassificationReference id="i370" Location="http://www.cafm-connect.org/DIN276/e74bae9c-cda2-4df8-a5b1-392a2f9ca748" Identification="759" Name="Künstlerische Leistungen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i371" Location="http://www.cafm-connect.org/DIN276/008a03c7-4633-420b-88c5-393bdef095ca" Identification="760" Name="Finanzierungskosten" Description="Alle im Zusammenhang mit der Finanzierung des Projektes anfallenden Kosten bis zum Zeitpunkt der Fertigstellung und der Übergabe zur Nutzung">
+            <HasReferences>
+              <IfcClassificationReference id="i372" Location="http://www.cafm-connect.org/DIN276/76a34f10-4845-4c90-8794-551de97007c5" Identification="761" Name="Finanzierungsbeschaffung" Description="" />
+              <IfcClassificationReference id="i373" Location="http://www.cafm-connect.org/DIN276/dd31d46f-90e8-4a31-93db-afcb73cb61ea" Identification="762" Name="Fremdkapitalzinsen" Description="" />
+              <IfcClassificationReference id="i374" Location="http://www.cafm-connect.org/DIN276/f93639fd-4581-414b-93b7-9edab7309627" Identification="763" Name="Eigenkapitalzinsen" Description="" />
+              <IfcClassificationReference id="i375" Location="http://www.cafm-connect.org/DIN276/3255b4c4-fe5e-48f8-aee0-7db03c5f153e" Identification="769" Name="Finanzierungskosten, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i376" Location="http://www.cafm-connect.org/DIN276/d1e3a1d3-54be-4763-a313-ece80832cf58" Identification="770" Name="Allgemeine Baunebenkosten" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i377" Location="http://www.cafm-connect.org/DIN276/0defab12-45db-4bdd-a295-e6f06a29d726" Identification="771" Name="Prüfung, Genehmigungen, Abnahmen" Description="Kosten im Zusammenhang mit Prüfungen, Genehmigungen und Abnahmen, z. B. Prüfung der Tragwerksplanung, Vermessungsgebühren für das Liegenschaftskataster" />
+              <IfcClassificationReference id="i378" Location="http://www.cafm-connect.org/DIN276/2c4264b4-552e-45bc-ab6d-e818bcf512f0" Identification="772" Name="Bewirtschaftskosten" Description="Baustellenbewachung, Nutzungsentschädigungen während der Bauzeit; Gestellung des Baustellenbüros für Planer und Bauherrn sowie dessen Beheizung, Beleuchtung und Reinigung" />
+              <IfcClassificationReference id="i379" Location="http://www.cafm-connect.org/DIN276/6cf299fd-3f40-4dac-b859-e9b987a5fb68" Identification="773" Name="Bemusterungskosten" Description="Modellversuche, Musterstücke, Eignungsversuche, Eignungsmessungen" />
+              <IfcClassificationReference id="i380" Location="http://www.cafm-connect.org/DIN276/ec339661-4bc7-473b-89b6-60d2b1d0f55a" Identification="774" Name="Betriebskosten während der Bauzeit" Description="Kosten für den vorläufigen Betrieb insbesondere der technischen Anlagen nach der Abnahme bis zur Inbetriebnahme" />
+              <IfcClassificationReference id="i381" Location="http://www.cafm-connect.org/DIN276/6b0c6224-136a-4e0f-bc1b-ceb7f13402fc" Identification="775" Name="Versicherungen" Description="Haftpflicht- und Bauwesenversicherung" />
+              <IfcClassificationReference id="i382" Location="http://www.cafm-connect.org/DIN276/59774d8c-ec07-4654-9d76-83efdefe7565" Identification="779" Name="Allgemeine Baunebenkosten, sonstiges" Description="Kosten für Vervielfältigung und Dokumentation, Post- und Fernsprechgebühren, Kosten für Baufeiern, z. B. Grundsteinlegung, Richtfest" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i383" Location="http://www.cafm-connect.org/DIN276/3a649996-70b1-449a-826d-9ffb050b8e1e" Identification="790" Name="Sonstige Baunebenkosten" Description="" />
+        </HasReferences>
+      </IfcClassificationReference>
+    </HasReferences>
+  </IfcClassification>
+  <IfcRelAssociatesClassification id="i102">
+    <RelatedObjects>
+      <IfcProjectLibrary xsi:nil="true" ref="i100" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i101" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>

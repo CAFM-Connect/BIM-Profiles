@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2">
+  <header>
+    <name>Iso81346-2-Table2</name>
+    <time_stamp>2018-01-18T21:06:26.4957749+01:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization />
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProjectLibrary id="i23472" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcClassification id="i23473" Edition="1.0" EditionDate="2018-01-18T20:06:26.5425837Z" Name="Iso81346-2-Table2" Description="Iso81346-2-Table2" Location="https://www.cafm-connect.org/Iso81346-2-Table2">
+    <HasReferences>
+      <IfcClassificationReference id="i23475" Location="http://www.cafm-connect.org/Iso81346-2-Table2/dc6b6ba7-16ef-4add-9e5d-7b0104461729" Identification="B" Name="Erkennungsobjekt" Description="Objekt zur Erfassung und Darstellung von Informationen">
+        <HasReferences>
+          <IfcClassificationReference id="i23476" Location="http://www.cafm-connect.org/Iso81346-2-Table2/092411ba-dd9f-46c0-9776-38caf8e10d5d" Identification="BA" Name="Objekt zur Erkennung von elektrischem Potential" Description="Erkennungsobjekt für elektrisches Potential" />
+          <IfcClassificationReference id="i23477" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e807990b-f421-4ed8-a7c3-b1b7b1b67624" Identification="BB" Name="Objekt zur Erkennung von Widerstand" Description="Erkennungsobjekt für Widerstand" />
+          <IfcClassificationReference id="i23478" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4d847a7e-c839-4dba-ba27-9421148b0b24" Identification="BC" Name="Objekt zur Erkennung von elektrischem Strom" Description="Erkennungsobjekt für elektrischen Strom" />
+          <IfcClassificationReference id="i23479" Location="http://www.cafm-connect.org/Iso81346-2-Table2/73151ca9-cd4b-41cc-a43b-c0546d6e9af0" Identification="BD" Name="Dichteerkennungsobjekt" Description="Erkennungsobjekt für Dichte" />
+          <IfcClassificationReference id="i23480" Location="http://www.cafm-connect.org/Iso81346-2-Table2/ddac939c-cc04-4745-8fb4-3842ddc53335" Identification="BE" Name="Spannungsfelderkennungsobjekt" Description="Erkennungsobjekt für Spannungsfeld" />
+          <IfcClassificationReference id="i23481" Location="http://www.cafm-connect.org/Iso81346-2-Table2/92950234-4d50-4e29-bff0-5e7f57d13737" Identification="BF" Name="Durchflusserkennungsobjekt" Description="Erkennungsobjekt für Durchfluss" />
+          <IfcClassificationReference id="i23482" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b21c7d87-19cc-4520-a5ba-3cba36f10131" Identification="BG" Name="Objekt zur Erkennung von physikalischen Dimensionen" Description="Erkennungsobjekt für räumliche Dimensionen und/oder Positionen" />
+          <IfcClassificationReference id="i23483" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7aeb1807-497e-419f-85ee-a8e619fc76de" Identification="BH" Name="Energieerkennungsobjekt" Description="Erkennungsobjekt für Energie" />
+          <IfcClassificationReference id="i23484" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d3abe40d-870c-4675-a645-abc7b38ab3d8" Identification="BJ" Name="Leistungserkennungsobjekt" Description="Erkennungsobjekt für Leistung" />
+          <IfcClassificationReference id="i23485" Location="http://www.cafm-connect.org/Iso81346-2-Table2/63228910-1b79-4170-b437-65e158ffb1b1" Identification="BK" Name="Zeiterkennungsobjekt" Description="Erkennungsobjekt für Zeit" />
+          <IfcClassificationReference id="i23486" Location="http://www.cafm-connect.org/Iso81346-2-Table2/81950c55-6ffc-44f4-803d-cf2992021a68" Identification="BL" Name="Füllstandserkennungsobjekt" Description="Erkennungsobjekt für Füllstand" />
+          <IfcClassificationReference id="i23487" Location="http://www.cafm-connect.org/Iso81346-2-Table2/8dc1366b-7ead-40af-8092-06d262b2170c" Identification="BM" Name="Luftfeuchteerkennungsobjekt" Description="Erkennungsobjekt für Luftfeuchte" />
+          <IfcClassificationReference id="i23488" Location="http://www.cafm-connect.org/Iso81346-2-Table2/47ce95f4-2164-46b7-8d3b-4af02069ccb3" Identification="BP" Name="Druckerkennungsobjekt" Description="Erkennungsobjekt für Druck" />
+          <IfcClassificationReference id="i23489" Location="http://www.cafm-connect.org/Iso81346-2-Table2/99a59b1a-a080-4b87-9ae7-80f94a4d35c1" Identification="BQ" Name="Konzentrationserkennungsobjekt" Description="Erkennungsobjekt für Substanzkonzentration" />
+          <IfcClassificationReference id="i23490" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7c7a0185-3399-4baa-9085-6a7133c3bbbf" Identification="BR" Name="Strahlungserkennungsobjekt" Description="Erkennungsobjekt für Strahlung" />
+          <IfcClassificationReference id="i23491" Location="http://www.cafm-connect.org/Iso81346-2-Table2/023e81db-2cc9-40d8-8e24-77d0b859aa76" Identification="BS" Name="Zeitbereicherkennungsobjekt" Description="Erkennungsobjekt für Zeitbereich" />
+          <IfcClassificationReference id="i23492" Location="http://www.cafm-connect.org/Iso81346-2-Table2/59f868a4-401a-487a-92f6-b39c7384506e" Identification="BT" Name="Temperaturerkennungsobjekt" Description="Erkennungsobjekt für Temperatur" />
+          <IfcClassificationReference id="i23493" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e4dada44-cf4e-4e56-827c-f2173b27052f" Identification="BU" Name="Mehrfacherkennungsobjekt" Description="Erkennungsobjekt für mehrere Mengen" />
+          <IfcClassificationReference id="i23494" Location="http://www.cafm-connect.org/Iso81346-2-Table2/71429d36-4c69-4684-99d0-4ad8ab57c29d" Identification="BW" Name="Krafterkennungsobjekt" Description="Erkennungsobjekt für Gewicht, Kraft oder Drehmoment" />
+          <IfcClassificationReference id="i23495" Location="http://www.cafm-connect.org/Iso81346-2-Table2/990e4b15-3de9-43f4-b74d-cd246c15e13c" Identification="BX" Name="Audiovisuelles Erkennungsobjekt" Description="Erkennungsobjekt für Ton und/oder Bilder" />
+          <IfcClassificationReference id="i23496" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6a752207-a109-4c65-a182-b1a24c1c63d4" Identification="BY" Name="Informationserkennungsobjekt" Description="Erkennungsobjekt für gespeicherte Informationen" />
+          <IfcClassificationReference id="i23497" Location="http://www.cafm-connect.org/Iso81346-2-Table2/8b685826-32d2-432c-8e58-03a6bff571ea" Identification="BZ" Name="Ereigniserkennungsobjekt" Description="Erkennungsobjekt für Ereignisse und Mengen" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23498" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6a43f4a9-1f2b-430a-a460-986195a2dbc9" Identification="C" Name="Speicherobjekt" Description="Objekt zum Speichern für ein späteres Abrufen">
+        <HasReferences>
+          <IfcClassificationReference id="i23499" Location="http://www.cafm-connect.org/Iso81346-2-Table2/86ee5c9a-4a50-477f-9ba6-051362126585" Identification="CA" Name="Kapazitives Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektrostatischen Felds" />
+          <IfcClassificationReference id="i23500" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d3c63a71-4029-4e74-b84c-9c0f658b5f1c" Identification="CB" Name="Induktives Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektromagnetischen Felds" />
+          <IfcClassificationReference id="i23501" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f28f705e-610a-4b60-b539-358540ef7be8" Identification="CC" Name="Elektrochemisches Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektrochemischen Stoffes" />
+          <IfcClassificationReference id="i23502" Location="http://www.cafm-connect.org/Iso81346-2-Table2/0d1f2879-1757-47da-9576-b26d10e7bb0c" Identification="CF" Name="Informationsspeicherobjekt" Description="Speicherobjekt für Informationen" />
+          <IfcClassificationReference id="i23503" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9041e98d-1f52-4363-b1fd-da2d43511e33" Identification="CL" Name="Offenes stationäres Speicherobjekt" Description="Speicherobjekt für Stoffe oder Personen innerhalb offener Umschließungen" />
+          <IfcClassificationReference id="i23504" Location="http://www.cafm-connect.org/Iso81346-2-Table2/0561ba19-9774-4954-aa94-ef9e451861f0" Identification="CM" Name="Geschlossenes stationäres Speicherobjekt" Description="Speicherobjekt für Stoffe innerhalb einer stationären geschlossenen Umschließung innerhalb einer stationären geschlossenen Umschließung" />
+          <IfcClassificationReference id="i23505" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b8fa84bb-2b66-4a4c-8567-d9f9ca619469" Identification="CN" Name="Bewegliches Speicherobjekt" Description="Speicherobjekt für Stoffe oder Personen innerhalb beweglicher geschlossener Umschließungen" />
+          <IfcClassificationReference id="i23506" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f75243ad-317a-4dbe-b590-c7bcfec07537" Identification="CP" Name="Wärmeenergie-Speicherobjekt" Description="Speicherobjekt für Wärmeenergie" />
+          <IfcClassificationReference id="i23507" Location="http://www.cafm-connect.org/Iso81346-2-Table2/74b13969-6746-4336-b505-68b53481d369" Identification="CQ" Name="Speicherobjekt für mechanische Energie" Description="Speicherobjekt für mechanische Energie" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23508" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a73e0685-bed4-43aa-8692-ee7c140219b7" Identification="E" Name="Aussendeobjekt" Description="Objekt zum Aussenden">
+        <HasReferences>
+          <IfcClassificationReference id="i23509" Location="http://www.cafm-connect.org/Iso81346-2-Table2/37b313c5-a54f-49a1-8187-25c151572155" Identification="EA" Name="Lichtobjekt" Description="Aussendeobjekt für Licht" />
+          <IfcClassificationReference id="i23510" Location="http://www.cafm-connect.org/Iso81346-2-Table2/72253125-2bc1-4bfe-abab-ff86165d42fd" Identification="EB" Name="Elektroheizungsobjekt" Description="Aussendeobjekt für durch elektrische Energie abgegebene Wärme" />
+          <IfcClassificationReference id="i23511" Location="http://www.cafm-connect.org/Iso81346-2-Table2/cb3a9b59-aa80-4f12-a8d7-77d5c90af1f0" Identification="EC" Name="Elektrokühlobjekt" Description="Aussendeobjekt für durch elektrische Energie abgegebene Kälte" />
+          <IfcClassificationReference id="i23512" Location="http://www.cafm-connect.org/Iso81346-2-Table2/30a65c8e-d039-4e8e-a1c3-ab25960376a1" Identification="EE" Name="Drahtlosenergie-Objekt" Description="Aussendeobjekt für drahtlose Energie" />
+          <IfcClassificationReference id="i23513" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5bcce3c4-4e89-4a90-ad9f-4ec1fd1d242b" Identification="EG" Name="Wärmeenergie-Übertragungsobjekt" Description="Aussendeobjekt für durch Wärmeenergie übertragene Wärme und Kälte" />
+          <IfcClassificationReference id="i23514" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fc6e2686-b8cc-4585-bdbd-9547312453ea" Identification="EM" Name="Verbrennungsheizobjekt" Description="Aussendeobjekt für durch Verbrennung erzeugte Wärme" />
+          <IfcClassificationReference id="i23515" Location="http://www.cafm-connect.org/Iso81346-2-Table2/48eaac48-c261-4ee1-98f0-e79e3aea0a7d" Identification="EP" Name="Wärmeheizobjekt" Description="Aussendeobjekt für durch Wärmeenergie erzeugte Wärme" />
+          <IfcClassificationReference id="i23516" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d87febbd-f38c-4405-83dc-add018100ca1" Identification="EQ" Name="Thermal-Kühlobjekt" Description="Aussendeobjekt für durch Wärmeenergie erzeugte Kälte" />
+          <IfcClassificationReference id="i23517" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4019ea21-17c5-4dfc-bfb2-e2aba0333f25" Identification="ET" Name="Nuklearenergie-Wärmeobjekt" Description="Aussendeobjekt für durch Kernspaltung erzeugte Wärme" />
+          <IfcClassificationReference id="i23518" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b8a84ab6-ace0-4f25-b0b0-317e0fcaed0b" Identification="EU" Name="Partikelaussendeobjekt" Description="Aussendeobjekt für mikroskopische Partikel" />
+          <IfcClassificationReference id="i23519" Location="http://www.cafm-connect.org/Iso81346-2-Table2/54ab5d14-d6b6-4e34-bb34-3442f9c42eac" Identification="EV" Name="Schallwellenaussendeobjekt" Description="Aussendeobjekt für Schallwellen" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23520" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b34ccbc0-c008-441b-b8bf-1995ddd337a0" Identification="F" Name="Schutzobjekt" Description="Objekt zum Schutz vor den Auswirkungen gefährlicher oder unerwünschter Bedingungen">
+        <HasReferences>
+          <IfcClassificationReference id="i23521" Location="http://www.cafm-connect.org/Iso81346-2-Table2/ab6235c0-eaf1-4b93-b3a6-4e65495ab91f" Identification="FA" Name="Überspannungsschutzobjekt" Description="Schutzobjekt für Überspannung" />
+          <IfcClassificationReference id="i23522" Location="http://www.cafm-connect.org/Iso81346-2-Table2/71f180f3-f935-4a7a-a3b8-3583d3764125" Identification="FB" Name="Erdschlussstrom-Schutzobjekt" Description="Schutzobjekt für Erdschlussströme" />
+          <IfcClassificationReference id="i23523" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f7e0e737-4e83-4db5-b970-cf90a85651a1" Identification="FC" Name="Überstromschutzobjekt" Description="Schutzobjekt für Überströme" />
+          <IfcClassificationReference id="i23524" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6c7481a0-a1ee-4cb7-a081-edf7933d73a4" Identification="FE" Name="Feldschutzobjekt" Description="Schutzobjekt für elektrische und/oder magnetische Felder" />
+          <IfcClassificationReference id="i23525" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9adf2d84-d326-475e-ab56-6f013f722e42" Identification="FL" Name="Druckschutzobjekt" Description="Schutzobjekt für Drücke" />
+          <IfcClassificationReference id="i23526" Location="http://www.cafm-connect.org/Iso81346-2-Table2/badd96b8-b8cb-4e96-81f2-f4f69d1b6fb1" Identification="FM" Name="Brandschutzobjekt" Description="Schutzobjekt für Feuer" />
+          <IfcClassificationReference id="i23527" Location="http://www.cafm-connect.org/Iso81346-2-Table2/dd9f9c09-d765-4b81-9a76-eaf918427bc0" Identification="FN" Name="Objekt zum Schutz vor mechanischer Kraft" Description="Schutzobjekt für mechanische Kraft" />
+          <IfcClassificationReference id="i23528" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9f9454b3-9230-4310-bc05-4effa6a52b73" Identification="FQ" Name="Vorbeugendes Schutzobjekt" Description="Schutzobjekt durch Barriere oder Hindernis" />
+          <IfcClassificationReference id="i23529" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b2cdc4a0-f587-425d-8623-4ec4cee5fcd5" Identification="FR" Name="Umgebungsschutzobjekt" Description="Schutzobjekt in Bezug auf die lokale Umgebung" />
+          <IfcClassificationReference id="i23530" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e0254a51-d4d0-42f2-8b54-86da4ec97b6f" Identification="FS" Name="Verschleißschutzobjekt" Description="Schutzobjekt für Materialerosion" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23531" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c7087110-61a4-4476-8c95-b3a1d0b14a2b" Identification="G" Name="Erzeugungsobjekt" Description="Objekt zur Bereitstellung eines steuerbaren Durchflusses">
+        <HasReferences>
+          <IfcClassificationReference id="i23532" Location="http://www.cafm-connect.org/Iso81346-2-Table2/51388b6f-2742-4a0b-b25d-9eb416b282c9" Identification="GA" Name="Elektromechanisches Erzeugungsobjekt" Description="Erzeugungsobjekt für durch mechanische Energie erzeugte elektrische Energie" />
+          <IfcClassificationReference id="i23533" Location="http://www.cafm-connect.org/Iso81346-2-Table2/ac15bf91-071b-4cff-84f2-f02d3cb350e1" Identification="GB" Name="Elektrochemisches Erzeugungsobjekt" Description="Erzeugungsobjekt für durch chemische Reaktion erzeugte elektrische Energie" />
+          <IfcClassificationReference id="i23534" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f3f0e78e-32bf-4330-bc4e-e7237be7f22c" Identification="GC" Name="Elektrostrahlungs-Erzeugungsobjekt" Description="Erzeugungsobjekt für durch Solarenergie erzeugte elektrische Energie" />
+          <IfcClassificationReference id="i23535" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d0d0e323-574a-4080-bcf7-ca36f0026288" Identification="GF" Name="Signalerzeugungsobjekt" Description="Erzeugungsobjekt von Signalen für Informationsträger" />
+          <IfcClassificationReference id="i23536" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4b10f92a-ac8d-4d3c-bcf8-c3e4ccf969bc" Identification="GL" Name="Kontinuierliches Beförderungsobjekt" Description="Erzeugungsobjekt für kontinuierlich laufende Geräte" />
+          <IfcClassificationReference id="i23537" Location="http://www.cafm-connect.org/Iso81346-2-Table2/8a5bbbfd-7c9f-4f54-adb9-6bdef3a156f2" Identification="GM" Name="Nicht kontinuierliches Beförderungsobjekt" Description="Erzeugungsobjekt für nicht kontinuierlich laufende Geräte" />
+          <IfcClassificationReference id="i23538" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5de92c18-d163-4c15-a009-53048cf5f768" Identification="GP" Name="Flüssigkeitsstrom-Erzeugungsobjekt" Description="Erzeugungsobjekt für Flüssigkeiten" />
+          <IfcClassificationReference id="i23539" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f7c5cd73-ff7a-42d0-9e43-3ffebf897f6d" Identification="GQ" Name="Gasstrom-Erzeugungsobjekt" Description="Erzeugungsobjekt für Gas" />
+          <IfcClassificationReference id="i23540" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7a656d1f-c67b-455f-a4a0-6671c86313b6" Identification="GR" Name="Thermalstrahlungs-Erzeugungsobjekt" Description="Erzeugungsobjekt für durch Solarenergie erzeugte thermische Energie" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23541" Location="http://www.cafm-connect.org/Iso81346-2-Table2/291e16a3-db03-433d-88ff-be15a0af3d41" Identification="H" Name="Stoffbearbeitungsobjekt" Description="Objekt zur Behandlung von Stoffen">
+        <HasReferences>
+          <IfcClassificationReference id="i23542" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f6117b82-3e6e-40bc-b0fb-67a967466d20" Identification="HJ" Name="Urformobjekt" Description="Stoffbearbeitungsobjekt durch Urformen" />
+          <IfcClassificationReference id="i23543" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9786ca6a-08ed-4eb9-a6f6-64f887d3dedf" Identification="HK" Name="Oberflächenbehandlungsobjekt" Description="Stoffbearbeitungsobjekt für Oberflächenbehandlung" />
+          <IfcClassificationReference id="i23544" Location="http://www.cafm-connect.org/Iso81346-2-Table2/90d184d6-d1db-4b3f-bde4-6013b4a618cf" Identification="HL" Name="Montierobjekt" Description="Stoffbearbeitungsobjekt durch Fügen oder Montieren" />
+          <IfcClassificationReference id="i23545" Location="http://www.cafm-connect.org/Iso81346-2-Table2/ef62e2cb-0c1d-4cba-8e57-f9b8b77a492b" Identification="HM" Name="Krafttrennobjekt" Description="Stoffbearbeitungsobjekt zum erzwungenen Trennen vermischter Substanzen" />
+          <IfcClassificationReference id="i23546" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a2373246-d4bf-4491-8f26-5a9a8143b409" Identification="HP" Name="Thermisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum thermischen Trennen vermischter Substanzen" />
+          <IfcClassificationReference id="i23547" Location="http://www.cafm-connect.org/Iso81346-2-Table2/95e89863-1fe5-4043-99e9-c42f2327d7b3" Identification="HQ" Name="Mechanisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum mechanischen Trennen vermischter Substanzen" />
+          <IfcClassificationReference id="i23548" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a3fef998-a1b9-45ed-a64c-cf04f5cb81dc" Identification="HR" Name="Elektromagnetisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum elektromagnetischen Trennen vermischter Substanzen" />
+          <IfcClassificationReference id="i23549" Location="http://www.cafm-connect.org/Iso81346-2-Table2/260837c0-4871-491b-8269-8293a0d67b99" Identification="HS" Name="Chemisches Trennobjekt" Description="Stoffbearbeitungsobjekt durch chemische Prozesse" />
+          <IfcClassificationReference id="i23550" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e33c9dcc-1e34-41ad-b896-3ac2b2b2f52f" Identification="HU" Name="Schleif- und Zerkleinerungsobjekt" Description="Stoffbearbeitungsobjekt, mit dem festes Material zerkleinert wird" />
+          <IfcClassificationReference id="i23551" Location="http://www.cafm-connect.org/Iso81346-2-Table2/04f10c7c-f2c4-43c6-9f6d-507e0653c782" Identification="HV" Name="Anhäufungsobjekt" Description="Stoffbearbeitungsobjekt, mit dem größere Formen von Material erzeugt werden" />
+          <IfcClassificationReference id="i23552" Location="http://www.cafm-connect.org/Iso81346-2-Table2/85be5548-b9e7-4853-844d-0daf6e1cd023" Identification="HW" Name="Mischobjekt" Description="Stoffbearbeitungsobjekt, mit dem verschiedene Substanzen gemischt werden" />
+          <IfcClassificationReference id="i23553" Location="http://www.cafm-connect.org/Iso81346-2-Table2/741b41a0-68c8-4deb-8e2a-f523816c0719" Identification="HX" Name="Reaktionsobjekt" Description="Stoffbearbeitungsobjekt, mit dem durch chemische oder biologische Reaktion neues Material erzeugt wird" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23554" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e55ffa02-1b9f-45e6-9a9c-714a24357e5c" Identification="K" Name="Informationsverarbeitungsobjekt" Description="Objekt zur Verarbeitung von Eingangssignalen und Bereitstellung eines geeigneten Ausgangs">
+        <HasReferences>
+          <IfcClassificationReference id="i23555" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9814e541-aac1-4c84-b3c2-901746b1025c" Identification="KE" Name="Elektrische Signale verarbeitendes Objekt" Description="Informationsverarbeitendes Objekt zur Verarbeitung elektrischer Signale" />
+          <IfcClassificationReference id="i23556" Location="http://www.cafm-connect.org/Iso81346-2-Table2/46540e9d-3647-47b2-a3f7-b13642b61a09" Identification="KF" Name="Elektrische Signale weiterleitendes Objekt" Description="Informationsverarbeitendes Objekt zur Weiterleitung elektrischer Signale" />
+          <IfcClassificationReference id="i23557" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6caa3a9b-b3ee-4e9a-8b12-f092ddef8e6c" Identification="KG" Name="Optisches Signalobjekt" Description="Informationsverarbeitendes Objekt für optische Signale" />
+          <IfcClassificationReference id="i23558" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c7e87d51-e44f-4bdd-b0e3-812d12bbf0ef" Identification="KH" Name="Fluidisches Signalobjekt" Description="Informationsverarbeitendes Objekt für fluidische Signale" />
+          <IfcClassificationReference id="i23559" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d8e0d5d5-03e2-4062-aa6e-a8f7cac206a5" Identification="KJ" Name="Mechanisches Signalobjekt" Description="Informationsverarbeitendes Objekt für mechanische Signale" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23560" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a72da39e-9d8d-41f6-9b6c-f1c5bcfc8e4a" Identification="M" Name="Antriebsobjekt" Description="Objekt zur Erzeugung mechanischer Bewegungen oder Kraft">
+        <HasReferences>
+          <IfcClassificationReference id="i23561" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f5d89569-4496-456d-9b40-0c9e88b536fd" Identification="MA" Name="Elektromagnetisches Rotationsantriebsobjekt" Description="Antriebsobjekt in Form von Drehmoment, angetrieben durch elektromagnetische Kraft" />
+          <IfcClassificationReference id="i23562" Location="http://www.cafm-connect.org/Iso81346-2-Table2/efb503fc-3291-472a-95af-b5dde5802be3" Identification="MB" Name="Elektromagnetisches Linearantriebsobjekt" Description="Antriebsobjekt in Form von linearer Kraft, angetrieben durch elektromagnetische Kraft" />
+          <IfcClassificationReference id="i23563" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6d077218-7d72-454d-8b6a-13ff476e95b7" Identification="MC" Name="Magnetkraft-Antriebsobjekt" Description="Antriebsobjekt angetrieben durch mechanische Kraft" />
+          <IfcClassificationReference id="i23564" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c9c5bea7-9c0b-4d5c-8b7e-18550bef77ba" Identification="ML" Name="Durch mechanische Energie angetriebenes Objekt" Description="Antriebsobjekt angetrieben durch mechanische Energie" />
+          <IfcClassificationReference id="i23565" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fc5e879d-4caf-43d7-b96d-73abd97a1668" Identification="MM" Name="Flüssigkeitsbetriebenes Objekt" Description="Antriebsobjekt angetrieben durch Flüssigkeitsverdrängung oder Druck" />
+          <IfcClassificationReference id="i23566" Location="http://www.cafm-connect.org/Iso81346-2-Table2/531f6b77-7deb-4ad4-9bf3-e19607913467" Identification="MS" Name="Verbrennungsmotor" Description="Antriebsobjekt angetrieben durch Verbrennung von Brennstoffen" />
+          <IfcClassificationReference id="i23567" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b25dff49-9d10-464b-b935-56d04002d75a" Identification="MT" Name="Wärmemaschine" Description="Antriebsobjekt angetrieben durch eine externe Wärmequelle" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23568" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fb273f1e-566f-4d4d-ae9c-f1e1d4624455" Identification="N" Name="Abdeckobjekt" Description="Objekt zum teilweisen oder vollständigen Abdecken eines anderen Objekts">
+        <HasReferences>
+          <IfcClassificationReference id="i23569" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fae9d35c-ee68-4cc4-a29d-2f214bc5650b" Identification="NA" Name="Füllobjekt" Description="Abdeckungsobjekt durch Füllen einer Öffnung" />
+          <IfcClassificationReference id="i23570" Location="http://www.cafm-connect.org/Iso81346-2-Table2/878aaf6a-371c-4a29-a551-56f6a3c8d31f" Identification="NB" Name="Schließungsobjekt" Description="Abdeckungsobjekt durch Schließen einer Öffnung" />
+          <IfcClassificationReference id="i23571" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5b74fc97-ac48-4c89-a626-63d6042e5410" Identification="NC" Name="Abschlussobjekt" Description="Abdeckungsobjekt durch Abschlussstrukturen" />
+          <IfcClassificationReference id="i23572" Location="http://www.cafm-connect.org/Iso81346-2-Table2/8ae47e3f-58d0-4457-8a86-a78c3cb3d07c" Identification="ND" Name="Abschließungsobjekt" Description="Abdeckungsobjekt zum Abschließen eines anderen Objekts" />
+          <IfcClassificationReference id="i23573" Location="http://www.cafm-connect.org/Iso81346-2-Table2/8ce06bd9-5f02-4f0c-8ba3-559760ce8a0f" Identification="NE" Name="Fugenabdeckobjekt" Description="Abdeckungsobjekt für Übergänge und Fugen" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23574" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d9fff7ee-73fa-46e4-84ed-a234aa658c46" Identification="P" Name="Präsentierobjekt" Description="Objekt zur Bereitstellung wahrnehmbarer Informationen">
+        <HasReferences>
+          <IfcClassificationReference id="i23575" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d08b2315-d411-42b6-9d21-a4a330dec479" Identification="PF" Name="Sichtbare Zustandsanzeige" Description="Präsentierobjekt in sichtbarer Form diskreter Zustände" />
+          <IfcClassificationReference id="i23576" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f276760e-5149-4f15-8870-c0509b4c099d" Identification="PG" Name="Skalaranzeige" Description="Präsentierobjekt in sichtbarer Form einer einzelnen Skalarvariablen" />
+          <IfcClassificationReference id="i23577" Location="http://www.cafm-connect.org/Iso81346-2-Table2/575f3718-5cde-4985-8a3f-c61588d07f8c" Identification="PH" Name="Grafische Anzeige" Description="Präsentierobjekt in sichtbarer Form durch Bilder, Symbole, Text oder physikalische Eigenschaften&#xA;" />
+          <IfcClassificationReference id="i23578" Location="http://www.cafm-connect.org/Iso81346-2-Table2/deee58fb-1b18-432d-b95b-c05f8f5e7df2" Identification="PJ" Name="Akustisches Gerät" Description="Präsentationsobjekt in hörbarer Form" />
+          <IfcClassificationReference id="i23579" Location="http://www.cafm-connect.org/Iso81346-2-Table2/f7e2ca25-0a75-42a9-bcc4-33d9a8df43b4" Identification="PK" Name="Taktiles Gerät" Description="Präsentationsobjekt in taktiler Form" />
+          <IfcClassificationReference id="i23580" Location="http://www.cafm-connect.org/Iso81346-2-Table2/722c74fb-0f35-46b3-8628-742684d84794" Identification="PL" Name="Ornamentobjekt" Description="Präsentationsobjekt in Ornamentform" />
+          <IfcClassificationReference id="i23581" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7e24c023-32e5-41f5-857c-c12964811804" Identification="PZ" Name="Mehrfachpräsentierobjekt" Description="Präsentationsobjekt in mehrfacher Form" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23582" Location="http://www.cafm-connect.org/Iso81346-2-Table2/978f8900-f204-46ea-a5aa-2cb38eed9ec9" Identification="Q" Name="Steuerobjekt" Description="Objekt zur Steuerung von Zugang oder Durchfluss">
+        <HasReferences>
+          <IfcClassificationReference id="i23583" Location="http://www.cafm-connect.org/Iso81346-2-Table2/43f6fff6-1a5e-476e-867d-b7356bfaaddf" Identification="QA" Name="Stromsteuerungsobjekt" Description="Steuerobjekt für elektrischen Strom in einem Schaltkreis" />
+          <IfcClassificationReference id="i23584" Location="http://www.cafm-connect.org/Iso81346-2-Table2/38b36dc0-5715-40b0-ae73-8b6ea8f9791b" Identification="QB" Name="Elektrisches Trennobjekt" Description="Steuerobjekt durch Trennen elektrischer Stromkreise" />
+          <IfcClassificationReference id="i23585" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7b69e297-9bd0-47f4-8ce8-081f51beb274" Identification="QC" Name="Elektrisches Erdungsobjekt" Description="Steuerobjekt durch Erdung elektrischer Stromkreise" />
+          <IfcClassificationReference id="i23586" Location="http://www.cafm-connect.org/Iso81346-2-Table2/60e116de-bdbc-4107-875c-79cf53102f82" Identification="QM" Name="Schaltobjekt für eingeschlossene Flüssigkeiten" Description="Steuerobjekt zum Aktivieren/Deaktivieren von Flüssigkeiten in verschlossenen Umschließungen" />
+          <IfcClassificationReference id="i23587" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5cd8cce6-2214-40d3-a200-4261e7940f5e" Identification="QN" Name="Variierobjekt für eingeschlossene Flüssigkeiten" Description="Steuerobjekt zum Variieren des Flüssigkeitsstroms in verschlossenen Umschließungen" />
+          <IfcClassificationReference id="i23588" Location="http://www.cafm-connect.org/Iso81346-2-Table2/3db81b6d-d295-4de0-b3ef-46d4594b3dcc" Identification="QP" Name="Steuerobjekt für offene Flüssigkeiten" Description="Steuerobjekt für Flüssigkeiten in offenen Umschließungen" />
+          <IfcClassificationReference id="i23589" Location="http://www.cafm-connect.org/Iso81346-2-Table2/663b80e1-d231-4aa9-867b-10d59e6ad160" Identification="QQ" Name="Raumzugangsobjekt" Description="Steuerobjekt für einen Raum" />
+          <IfcClassificationReference id="i23590" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a82abca8-2373-4a6c-b064-2ff4bbec5238" Identification="QR" Name="Variierobjekt für feste Substanzen" Description="Steuerobjekt für feste Substanzen" />
+          <IfcClassificationReference id="i23591" Location="http://www.cafm-connect.org/Iso81346-2-Table2/948127d6-5350-42b6-835a-1ccae2a45a9b" Identification="QS" Name="Objekt zur Steuerung mechanischer Bewegungen" Description="Steuerobjekt für mechanische Bewegung" />
+          <IfcClassificationReference id="i23592" Location="http://www.cafm-connect.org/Iso81346-2-Table2/66db2773-44d1-4919-ad57-1f13155acf29" Identification="QZ" Name="Steuerobjekt mit mehreren Maßnahmen" Description="Steuerobjekt in elektrischen Kreisen durch mehrere Maßnahmen" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23593" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4f319da6-de75-4772-a0e2-bd95d10acb47" Identification="R" Name="Dämmungsobjekt" Description="Objekt zur Begrenzung oder Stabilisierung">
+        <HasReferences>
+          <IfcClassificationReference id="i23594" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d6a6daff-0037-44ac-8dff-b7fcb189a203" Identification="RA" Name="Elektrizitätsbegrenzungsobjekt" Description="Beschränkungsobjekt durch Einschränken des elektrischen Energieflusses" />
+          <IfcClassificationReference id="i23595" Location="http://www.cafm-connect.org/Iso81346-2-Table2/ec106316-28f5-4fd8-b3df-81eaed1a42ed" Identification="RB" Name="Elektrizitätsstabilisierungsobjekt" Description="Beschränkungsobjekt durch Stabilisation eines elektrischen Energieflusses" />
+          <IfcClassificationReference id="i23596" Location="http://www.cafm-connect.org/Iso81346-2-Table2/abc7c070-53e5-4047-9a0e-3fe07b8ccca3" Identification="RF" Name="Signalstabilisierungsobjekt" Description="Beschränkungsobjekt zur Stabilisierung eines Signals" />
+          <IfcClassificationReference id="i23597" Location="http://www.cafm-connect.org/Iso81346-2-Table2/824de908-c588-4b20-8eb3-7f295bc8858d" Identification="RL" Name="Bewegungsbegrenzungsobjekt" Description="Beschränkungsobjekt zur Beschränkung von Bewegung" />
+          <IfcClassificationReference id="i23598" Location="http://www.cafm-connect.org/Iso81346-2-Table2/3412478a-2404-45f2-9366-633e08f2e849" Identification="RM" Name="Rückflussbegrenzungsobjekt" Description="Beschränkungsobjekt zur Begrenzung des Rückflusses" />
+          <IfcClassificationReference id="i23599" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7f42f48d-577d-4cae-be7c-8e98efc7bdb3" Identification="RN" Name="Durchflussbegrenzer" Description="Beschränkungsobjekt zur Begrenzung eines geführten Flüssigkeitsstroms" />
+          <IfcClassificationReference id="i23600" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c0f2f5fe-8b66-40b5-8ca9-67fb59b8747d" Identification="RQ" Name="Lokales Klimastabilisierungsobjekt" Description="Beschränkungsobjekt für die lokale Umgebung" />
+          <IfcClassificationReference id="i23601" Location="http://www.cafm-connect.org/Iso81346-2-Table2/65c9966b-c53a-4871-a59a-86b10d02d182" Identification="RU" Name="Zutrittsbeschränkungsobjekt" Description="Beschränkungsobjekt zur Zutrittsbeschränkung" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23602" Location="http://www.cafm-connect.org/Iso81346-2-Table2/71d5c53f-9c5a-4fe7-8d1b-df1af2b24976" Identification="S" Name="Manuell agierendes Objekt" Description="Objekt zum Erkennen einer manuellen Handlung und Bereitstellung einer geeigneten Reaktion">
+        <HasReferences>
+          <IfcClassificationReference id="i23603" Location="http://www.cafm-connect.org/Iso81346-2-Table2/91e77302-2996-4f34-a3c5-4d67b27da816" Identification="SF" Name="Augenbetätigung" Description="Manuelles Interaktionsobjekt zum Fokussieren mit dem Auge" />
+          <IfcClassificationReference id="i23604" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5397fc80-b136-4b14-8750-00d6cb62e8d1" Identification="SG" Name="Handbetätigungsgerät" Description="Manuelles Interaktionsobjekt zur Handbetätigung" />
+          <IfcClassificationReference id="i23605" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9f1872f6-a373-4a37-a9e4-1235663f230b" Identification="SH" Name="Fußbetätiger" Description="Manuelles Interaktionsobjekt zur Fußbedienung" />
+          <IfcClassificationReference id="i23606" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6ebae7cc-171b-49f9-9588-8018128ad1b5" Identification="SJ" Name="Fingerbetätigung" Description="Manuelles Interaktionsobjekt zur Fingerbetätigung" />
+          <IfcClassificationReference id="i23607" Location="http://www.cafm-connect.org/Iso81346-2-Table2/17ca4609-346a-46ce-80df-cc3effd042f6" Identification="SK" Name="Bewegungsbetätiger" Description="Manuelles Interaktionsobjekt zum Bewegen bzw. Positionieren" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23608" Location="http://www.cafm-connect.org/Iso81346-2-Table2/38c7e6fb-4835-4bb0-8e53-4130fd162d39" Identification="T" Name="Transformierobjekt" Description="Objekt zum Transformieren">
+        <HasReferences>
+          <IfcClassificationReference id="i23609" Location="http://www.cafm-connect.org/Iso81346-2-Table2/338f1b0a-1304-4db5-89c6-a1e6c76ae97c" Identification="TA" Name="Stromtransformierendes Objekt" Description="Transformierobjekt für elektrische Energie bei Beibehaltung von Wechsel- oder Gleichstrom" />
+          <IfcClassificationReference id="i23610" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c8ef9e6a-f49f-4c91-b997-95a5e2bd3b7e" Identification="TB" Name="Stromkonvertierungsobjekt" Description="Transformierobjekt für elektrische Energie mit Änderung zwischen Wechsel- oder Gleichstrom" />
+          <IfcClassificationReference id="i23611" Location="http://www.cafm-connect.org/Iso81346-2-Table2/2a6ad550-e25e-4619-bce9-a70f0145b260" Identification="TF" Name="Signalkonvertierungsobjekt" Description="Transformierobjekt für Signale" />
+          <IfcClassificationReference id="i23612" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c55811ac-720a-4cb9-938d-80a0fc0b36a8" Identification="TL" Name="Objekt zum Transformieren von mechanischer Energie" Description="Transformierobjekt für mechanische Energie" />
+          <IfcClassificationReference id="i23613" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a379718a-943a-41a4-b5cb-b9976e6abb08" Identification="TM" Name="Massereduktionsobjekt" Description="Transformierobjekt für Materie durch Massereduktion" />
+          <IfcClassificationReference id="i23614" Location="http://www.cafm-connect.org/Iso81346-2-Table2/63f5c48a-be7a-488c-b2d4-a6e8cb5c72d1" Identification="TP" Name="Materieumformungsobjekt" Description="Transformierobjekt für Materie durch Formänderung" />
+          <IfcClassificationReference id="i23615" Location="http://www.cafm-connect.org/Iso81346-2-Table2/00b9c06d-e0d3-4c17-8091-b784657f5546" Identification="TR" Name="Pflanze" Description="Transformierobjekt für Strahlung durch Photosynthese" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23616" Location="http://www.cafm-connect.org/Iso81346-2-Table2/10176d58-b297-442b-9a2e-ba6e9bc849c8" Identification="U" Name="Halteobjekt" Description="Objekt zur Positionsstrukturierung anderer Objekte">
+        <HasReferences>
+          <IfcClassificationReference id="i23617" Location="http://www.cafm-connect.org/Iso81346-2-Table2/3affac2b-7bb9-4a11-8254-7aadd59d1d35" Identification="UA" Name="Fixierobjekt" Description="Halteobjekt zur Fixierung in einer bestimmten Position" />
+          <IfcClassificationReference id="i23618" Location="http://www.cafm-connect.org/Iso81346-2-Table2/45a6bb7f-637e-41c5-90ce-55dbd0c978a6" Identification="UB" Name="Trageobjekt" Description="Halteobjekt zum Tragen" />
+          <IfcClassificationReference id="i23619" Location="http://www.cafm-connect.org/Iso81346-2-Table2/41140462-5bd3-4dec-aa31-0fdfa9f88636" Identification="UC" Name="Umschließobjekt" Description="Halteobjekt zum Umschließen" />
+          <IfcClassificationReference id="i23620" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4021af87-69c1-4571-86d7-9e748dec9e5f" Identification="UL" Name="Strukturstützobjekt" Description="Halteobjekt zur Bildung einer Strukturstütze" />
+          <IfcClassificationReference id="i23621" Location="http://www.cafm-connect.org/Iso81346-2-Table2/c8fe10ae-3b88-436e-bbc5-0340dd083029" Identification="UM" Name="Verstärkungsobjekt" Description="Halteobjekt zur Verstärkung" />
+          <IfcClassificationReference id="i23622" Location="http://www.cafm-connect.org/Iso81346-2-Table2/a178c996-f0f9-4cb0-8cd8-e404ff437e37" Identification="UN" Name="Umrahmungsobjekt" Description="Halteobjekt zur Umrahmung anderer Objekte" />
+          <IfcClassificationReference id="i23623" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d57f930b-6003-4b39-914f-6394c6ee2b37" Identification="UP" Name="Fugenobjekt" Description="Halteobjekt mit Fugengeräten" />
+          <IfcClassificationReference id="i23624" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b22f994a-a8ba-43aa-b2ea-cce31b89a609" Identification="UQ" Name="Befestigungsobjekt" Description="Halteobjekt zur Befestigung" />
+          <IfcClassificationReference id="i23625" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fa841121-19ca-4d8a-9f91-cae505b87190" Identification="UT" Name="Ausgleichungsobjekt" Description="Halteobjekt zum Ausgleichen" />
+          <IfcClassificationReference id="i23626" Location="http://www.cafm-connect.org/Iso81346-2-Table2/1c41fb16-8ed4-4fef-b28b-da024b373a9a" Identification="UU" Name="Vorhandener Boden" Description="Halteobjekt als vorhandener Boden" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23627" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fe93e4bd-44bd-4738-bcc9-f9b8b4b90e79" Identification="W" Name="Leitobjekt" Description="Objekt zum Leiten von einem Ort zu einem anderen">
+        <HasReferences>
+          <IfcClassificationReference id="i23628" Location="http://www.cafm-connect.org/Iso81346-2-Table2/51f320cf-c03d-4f6a-aeef-837f33ab2f64" Identification="WB" Name="Hochspannungsenergie-Leitobjekt" Description="Leitobjekt für elektrische Hochspannungsenergie" />
+          <IfcClassificationReference id="i23629" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d189bf36-ff48-49c6-ad7c-24c500b704ef" Identification="WD" Name="Niederspannungsenergie-Leitobjekt" Description="Leitobjekt für elektrische Niederspannungsenergie" />
+          <IfcClassificationReference id="i23630" Location="http://www.cafm-connect.org/Iso81346-2-Table2/7945e4dd-13f8-4bb8-ba0b-d77516e662d4" Identification="WE" Name="Referenzpotential-Leitobjekt" Description="Leitobjekt für ein Referenzpotential" />
+          <IfcClassificationReference id="i23631" Location="http://www.cafm-connect.org/Iso81346-2-Table2/d91732f7-b3e2-468a-9536-6c27b64c49b8" Identification="WG" Name="Elektrisches Signalleitobjekt" Description="Leitobjekt für elektrische Signale" />
+          <IfcClassificationReference id="i23632" Location="http://www.cafm-connect.org/Iso81346-2-Table2/61b39e7e-1fab-4ed0-ae1b-cf8a1f6ac38c" Identification="WH" Name="Lichtleitobjekt" Description="Leitobjekt für Licht" />
+          <IfcClassificationReference id="i23633" Location="http://www.cafm-connect.org/Iso81346-2-Table2/6fc52f60-698b-43f3-bb78-5e6b6fbf5157" Identification="WJ" Name="Schallleitobjekt" Description="Leitobjekt für Schall" />
+          <IfcClassificationReference id="i23634" Location="http://www.cafm-connect.org/Iso81346-2-Table2/479052f1-4381-40bd-a7d6-5a59576574b2" Identification="WL" Name="Feststoff-Leitobjekt" Description="Leitobjekt von festen Stoffen in offener Umschließung" />
+          <IfcClassificationReference id="i23635" Location="http://www.cafm-connect.org/Iso81346-2-Table2/50aa8f17-1af6-416d-8965-d034c3f45ab3" Identification="WM" Name="Leitobjekt in offener Umschließung" Description="Leitobjekt für Flüssigkeitsdurchfluss in offener Umschließung" />
+          <IfcClassificationReference id="i23636" Location="http://www.cafm-connect.org/Iso81346-2-Table2/734af854-2ef0-4267-81bc-c0a91d398750" Identification="WP" Name="Leitobjekt in geschlossener Umschließung" Description="Leitobjekt für Feststofffluss in geschlossener Umschließung" />
+          <IfcClassificationReference id="i23637" Location="http://www.cafm-connect.org/Iso81346-2-Table2/210f823f-7074-4e04-98d4-0b19d655899e" Identification="WQ" Name="Objekt zum Leiten von mechanischer Energie" Description="Leitobjekt für mechanische Energie" />
+          <IfcClassificationReference id="i23638" Location="http://www.cafm-connect.org/Iso81346-2-Table2/3cf5c2da-4193-4488-831f-00e67ac064fe" Identification="WR" Name="Gleisobjekt" Description="Leitobjekt für gleisgebundene Objekte" />
+          <IfcClassificationReference id="i23639" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4b8cb8fb-8d0b-435c-9a7b-0f1e708adec8" Identification="WV" Name="Objekt zum Leiten von thermischer Energie" Description="Leitobjekt für thermische Energie" />
+          <IfcClassificationReference id="i23640" Location="http://www.cafm-connect.org/Iso81346-2-Table2/93a48f96-4a50-4851-861a-76c868308cdf" Identification="WZ" Name="Mehrfachfluss-Leitobjekt" Description="Leitobjekt mit mehreren Flussarten" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23641" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4c7e2980-cda8-44c3-8646-1d3fc8445eca" Identification="X" Name="Schnittstellenobjekt" Description="Objekt zur Bereitstellung einer Schnittstelle zu einem anderen Objekt">
+        <HasReferences>
+          <IfcClassificationReference id="i23642" Location="http://www.cafm-connect.org/Iso81346-2-Table2/78cefe85-c231-4e51-aeeb-cb719685fe13" Identification="XB" Name="Hochspannungs-Verbindungsobjekt" Description="Schnittstellenobjekt für Hochspannungsstrom" />
+          <IfcClassificationReference id="i23643" Location="http://www.cafm-connect.org/Iso81346-2-Table2/e0479c8f-f460-448d-ba1e-84ea2af9f5f3" Identification="XD" Name="Niederspannungs-Verbindungsobjekt" Description="Schnittstellenobjekt für Niederspannungsstrom" />
+          <IfcClassificationReference id="i23644" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fe12053a-f7d6-4c89-b3d7-df92c3dde849" Identification="XE" Name="Potentialverbindungsobjekt" Description="Schnittstellenobjekt für Erd- oder Bezugspotential" />
+          <IfcClassificationReference id="i23645" Location="http://www.cafm-connect.org/Iso81346-2-Table2/4c724d02-8fc0-4756-889a-31a86f2317c8" Identification="XG" Name="Elektrisches Signalverbindungsobjekt" Description="Schnittstellenobjekt für elektrische Signale" />
+          <IfcClassificationReference id="i23646" Location="http://www.cafm-connect.org/Iso81346-2-Table2/b8516cd9-ddcc-4b84-84ea-7e457fb06ad0" Identification="XH" Name="Lichtverbindungsobjekt" Description="Schnittstellenobjekt für optische Fasern" />
+          <IfcClassificationReference id="i23647" Location="http://www.cafm-connect.org/Iso81346-2-Table2/fa621314-4198-4226-953e-33fe57675b0f" Identification="XK" Name="Sammelschnittstellenobjekt" Description="Schnittstellenobjekt zum Ansammeln und Weiterleiten in einen Durchfluss" />
+          <IfcClassificationReference id="i23648" Location="http://www.cafm-connect.org/Iso81346-2-Table2/57f37bf5-0f28-4fca-9553-f9af19183aa0" Identification="XM" Name="Versiegeltes Durchflussverbindungsobjekt" Description="Schnittstellenobjekt für Materialfluss in versiegeltem Objekt" />
+          <IfcClassificationReference id="i23649" Location="http://www.cafm-connect.org/Iso81346-2-Table2/eef54a60-6e31-4d6a-bb77-f75bde6a8f22" Identification="XN" Name="Fest angeschlossener Koppler" Description="Schnittstellenobjekt für kontinuierliche Übertragung von mechanischer Kraft" />
+          <IfcClassificationReference id="i23650" Location="http://www.cafm-connect.org/Iso81346-2-Table2/9e431e69-6f36-4d58-87ec-f8f5a33484a4" Identification="XP" Name="Nicht fest angeschlossener Koppler" Description="Schnittstellenobjekt für nicht kontinuierliche Übertragung von mechanischer Kraft" />
+          <IfcClassificationReference id="i23651" Location="http://www.cafm-connect.org/Iso81346-2-Table2/2b918cb7-e3fd-497c-8c61-2fe9c68e0cd1" Identification="XS" Name="Ebenenverbindungsobjekt" Description="Schnittstellenobjekt zur Verbindung mehrerer Ebenen" />
+          <IfcClassificationReference id="i23652" Location="http://www.cafm-connect.org/Iso81346-2-Table2/5441215e-e2c6-41fc-97d3-961362b9ad2b" Identification="XT" Name="Raumverbindungsobjekt" Description="Schnittstellenobjekt zum Verbinden von Räumen" />
+          <IfcClassificationReference id="i23653" Location="http://www.cafm-connect.org/Iso81346-2-Table2/cb3ddcce-ba2b-426e-8faa-73ca0c68f86f" Identification="XZ" Name="Mehrfachfluss-Verbindungsobjekt" Description="Schnittstellenobjekt mit mehreren Flussarten" />
+        </HasReferences>
+      </IfcClassificationReference>
+    </HasReferences>
+  </IfcClassification>
+  <IfcRelAssociatesClassification id="i23474">
+    <RelatedObjects>
+      <IfcProjectLibrary xsi:nil="true" ref="i23472" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i23473" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>

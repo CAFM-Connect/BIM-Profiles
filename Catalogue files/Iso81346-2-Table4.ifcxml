@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2">
+  <header>
+    <name>Iso81346-2-Table4</name>
+    <time_stamp>2018-01-18T21:06:28.9493935+01:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization />
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProjectLibrary id="i23654" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcClassification id="i23655" Edition="1.0" EditionDate="2018-01-18T20:06:28.9858382Z" Name="Iso81346-2-Table4" Description="Iso81346-2-Table4" Location="https://www.cafm-connect.org/Iso81346-2-Table4">
+    <HasReferences>
+      <IfcClassificationReference id="i23657" Location="http://www.cafm-connect.org/Iso81346-2-Table4/d2039957-b189-4abb-8207-ee9d6d17b582" Identification="A" Name="Raum zur Behausung von Menschen" Description="Raum zur Behausung von Menschen und zugehörige Aktivitäten">
+        <HasReferences>
+          <IfcClassificationReference id="i23658" Location="http://www.cafm-connect.org/Iso81346-2-Table4/26bf0bf6-7e67-419e-a0c9-bb25a830725d" Identification="AA" Name="Bewohnbarer Raum" Description="Raum zur Behausung von Menschen zum Ruhen, Entspannen, zur Freizeitgestaltung und zum Warten">
+            <HasReferences>
+              <IfcClassificationReference id="i23659" Location="http://www.cafm-connect.org/Iso81346-2-Table4/3a787e11-deef-4a37-948b-d59be62cb1d3" Identification="AAA" Name="Raum" Description="Bewohnbarer Raum zur persönlichen Nutzung" />
+              <IfcClassificationReference id="i23660" Location="http://www.cafm-connect.org/Iso81346-2-Table4/758e9f93-3512-4b49-9d63-380c5734b135" Identification="AAB" Name="Wohnraum" Description="Bewohnbarer Raum zur gemeinsamen Nutzung" />
+              <IfcClassificationReference id="i23661" Location="http://www.cafm-connect.org/Iso81346-2-Table4/635483d4-ff38-4ab7-b87c-25e6c6c8f410" Identification="AAC" Name="Warteraum" Description="Bewohnbarer Raum zum Warten" />
+              <IfcClassificationReference id="i23662" Location="http://www.cafm-connect.org/Iso81346-2-Table4/b117b652-6e14-409e-957d-fbb56a556815" Identification="AAD" Name="Hof" Description="Bewohnbarer Raum vollständig oder teilweise in Außenbereichen und von Gebäuden umschlossen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23663" Location="http://www.cafm-connect.org/Iso81346-2-Table4/ffa578a3-bc4d-41f4-89a7-c3b1fb6d10f8" Identification="AB" Name="Persönlicher Hygieneraum" Description="Raum zur Behausung von Menschen für persönliche Hygiene">
+            <HasReferences>
+              <IfcClassificationReference id="i23664" Location="http://www.cafm-connect.org/Iso81346-2-Table4/0a90e447-9f21-44e5-918b-efa144df21c0" Identification="ABA" Name="Badezimmer" Description="Persönlicher Hygieneraum zum Waschen und Erleichtern" />
+              <IfcClassificationReference id="i23665" Location="http://www.cafm-connect.org/Iso81346-2-Table4/adc3394a-0fed-4f9d-a24d-93c5cc11eb80" Identification="ABB" Name="Toilette" Description="Persönlicher Hygieneraum zum Erleichtern" />
+              <IfcClassificationReference id="i23666" Location="http://www.cafm-connect.org/Iso81346-2-Table4/a01c1251-5571-4836-93b7-64bc3f68bec8" Identification="ABC" Name="Babywickelraum" Description="Persönlicher Hygieneraum für junge Kinder" />
+              <IfcClassificationReference id="i23667" Location="http://www.cafm-connect.org/Iso81346-2-Table4/583e668e-aada-4268-a511-696804b0aa58" Identification="ABD" Name="Umkleideraum" Description="Persönlicher Hygieneraum zum Wechseln von Kleidung" />
+              <IfcClassificationReference id="i23668" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5b5b2acf-3c84-4f5d-9928-8b6f3e9ca3dd" Identification="ABE" Name="Dusche" Description="Persönlicher Hygieneraum, in dem sich Menschen waschen können" />
+              <IfcClassificationReference id="i23669" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5be6a4fc-77bf-48c7-a77a-fff6fe8ab8cb" Identification="ABF" Name="Sauna" Description="Persönlicher Hygieneraum zum Schwitzen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23670" Location="http://www.cafm-connect.org/Iso81346-2-Table4/52047164-5e9c-4472-acd9-646e8a385dad" Identification="AC" Name="Isolationsraum" Description="Raum zur Behausung von Menschen zur Isolation von Personen">
+            <HasReferences>
+              <IfcClassificationReference id="i23671" Location="http://www.cafm-connect.org/Iso81346-2-Table4/f972a757-f614-4149-925f-42843e0f006f" Identification="ACA" Name="Unterstand" Description="Isolationsraum zum Schützen von Personen vor gefährlichen und riskanten Situationen" />
+              <IfcClassificationReference id="i23672" Location="http://www.cafm-connect.org/Iso81346-2-Table4/20bae5e5-df23-4127-bf5d-55aa34519ec8" Identification="ACB" Name="Zelle" Description="Isolationsraum zum Auseinanderhalten mehrerer Personen" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23673" Location="http://www.cafm-connect.org/Iso81346-2-Table4/d993e8d7-d431-4db1-bc15-98203e9b80e8" Identification="B" Name="Raum für Aktivitäten von Menschen" Description="Raum für Freizeitbeschäftigungen und geschäftliche Aktivitäten von Menschen">
+        <HasReferences>
+          <IfcClassificationReference id="i23674" Location="http://www.cafm-connect.org/Iso81346-2-Table4/9109768e-051f-4cfe-b25b-8c59e26cb341" Identification="BA" Name="Arbeitsraum" Description="Raum für Aktivitäten von Menschen zum Erzeugen eines nicht materiellen Ergebnisses">
+            <HasReferences>
+              <IfcClassificationReference id="i23675" Location="http://www.cafm-connect.org/Iso81346-2-Table4/164bb95d-ce77-48bb-82a1-470c128472af" Identification="BAA" Name="Büro" Description="Arbeitsraum zum Erstellen, Verarbeiten und Interpretieren von Informationen" />
+              <IfcClassificationReference id="i23676" Location="http://www.cafm-connect.org/Iso81346-2-Table4/9a519726-68a4-4984-9f0b-e445aded5a27" Identification="BAB" Name="Meetingraum" Description="Arbeitsraum für Zusammenkünfte" />
+              <IfcClassificationReference id="i23677" Location="http://www.cafm-connect.org/Iso81346-2-Table4/926e3dd5-0000-4880-bed7-63970726cf00" Identification="BAC" Name="Rezeption" Description="Arbeitsraum zum Empfang von Gästen und Gütern" />
+              <IfcClassificationReference id="i23678" Location="http://www.cafm-connect.org/Iso81346-2-Table4/6cf08036-f831-497f-9a65-e0ffcc47bcee" Identification="BAD" Name="Verkaufsbereich" Description="Arbeitsraum zum Verkauf von Gütern und Dienstleistungen" />
+              <IfcClassificationReference id="i23679" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5602451b-2a43-42da-9f53-19fc5baf7842" Identification="BAE" Name="Lehrraum" Description="Arbeitsraum zum Übermitteln von Wissen und Kompetenzen" />
+              <IfcClassificationReference id="i23680" Location="http://www.cafm-connect.org/Iso81346-2-Table4/3cbb42c7-4bfe-4279-af96-3397894e2c6b" Identification="BAF" Name="Lernzimmer" Description="Arbeitsraum zum Lesen" />
+              <IfcClassificationReference id="i23681" Location="http://www.cafm-connect.org/Iso81346-2-Table4/866d46ee-d95d-4a6a-9422-869e8d2fdb59" Identification="BAG" Name="Waschraum" Description="Arbeitsplatz zum Waschen von Kleidung und Leinen" />
+              <IfcClassificationReference id="i23682" Location="http://www.cafm-connect.org/Iso81346-2-Table4/22fd6513-aa7f-4158-9963-f5b1d74ebc0d" Identification="BAH" Name="Behandlungsraum" Description="Arbeitsraum zur medizinischen Versorgung und anderen Behandlung und Pflege von Personen" />
+              <IfcClassificationReference id="i23683" Location="http://www.cafm-connect.org/Iso81346-2-Table4/0655184a-ad19-46f4-9f50-c4390d98c6f0" Identification="BAJ" Name="Untersuchungsraum" Description="Arbeitsraum für Diagnosen" />
+              <IfcClassificationReference id="i23684" Location="http://www.cafm-connect.org/Iso81346-2-Table4/71f9a24b-ea8a-4c7c-8518-43ca53bcbba1" Identification="BAK" Name="Überwachungsraum" Description="Arbeitsraum zur Überwachung von Personen" />
+              <IfcClassificationReference id="i23685" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5cea8bfb-3659-4ea8-bbbf-39fc4d6dd858" Identification="BAL" Name="Beobachtungsraum" Description="Arbeitsraum zur Beobachtung von Prozessen und Personen in angrenzenden Räumen" />
+              <IfcClassificationReference id="i23686" Location="http://www.cafm-connect.org/Iso81346-2-Table4/bc0b6b17-3c56-4537-80e4-25e6f47addf0" Identification="BAM" Name="Medienwerkstatt" Description="Arbeitsraum zum Aufnehmen und Bearbeiten von Medien" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23687" Location="http://www.cafm-connect.org/Iso81346-2-Table4/85c58586-6e1f-4922-924e-a803db80b62d" Identification="BB" Name="Produktionsraum" Description="Raum für Aktivitäten von Menschen zum Erzeugen eines materiellen Ergebnisses">
+            <HasReferences>
+              <IfcClassificationReference id="i23688" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1e17711f-85f4-4cd8-ab27-e79c6a7f0708" Identification="BBA" Name="Küche" Description="Produktionsraum zum Arbeiten mit Lebensmitteln" />
+              <IfcClassificationReference id="i23689" Location="http://www.cafm-connect.org/Iso81346-2-Table4/084f1f25-fd0b-4fd6-82a8-dcbb73e0d54a" Identification="BBB" Name="Materialwerkstatt" Description="Produktionsraum zum Arbeiten mit Materialien" />
+              <IfcClassificationReference id="i23690" Location="http://www.cafm-connect.org/Iso81346-2-Table4/dfa2f1f9-a150-45b7-8e20-befd56f00cd8" Identification="BBC" Name="Maschinenwerkstatt" Description="Produktionsraum zum Arbeiten mit Maschinen und Geräten" />
+              <IfcClassificationReference id="i23691" Location="http://www.cafm-connect.org/Iso81346-2-Table4/e32979e3-1f28-4a35-aeb4-ae30a0b4ed23" Identification="BBD" Name="Studio" Description="Produktionsraum zum Arbeiten an Kunst" />
+              <IfcClassificationReference id="i23692" Location="http://www.cafm-connect.org/Iso81346-2-Table4/cf74d85a-e531-4c74-823d-75db85308a0c" Identification="BBE" Name="Verpackungsraum" Description="Produktionsraum zum Sortieren und Verpacken von Objekten" />
+              <IfcClassificationReference id="i23693" Location="http://www.cafm-connect.org/Iso81346-2-Table4/bfdb73d7-2a12-4e22-97c7-411e2e8bc52c" Identification="BBF" Name="Behandlungsraum" Description="Produktionsraum zur medizinischen Versorgung und anderer Behandlung und Pflege von Personen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23694" Location="http://www.cafm-connect.org/Iso81346-2-Table4/0faded9a-549c-4723-afe9-b69e9e242f0f" Identification="BC" Name="Labor" Description="Raum für Aktivitäten von Menschen zum Durchführen von Analysen und Tests">
+            <HasReferences>
+              <IfcClassificationReference id="i23695" Location="http://www.cafm-connect.org/Iso81346-2-Table4/4fa0458b-1aae-4ac0-b55a-65fee7f35324" Identification="BCA" Name="Technisches Labor" Description="Labor zur technischen Analyse" />
+              <IfcClassificationReference id="i23696" Location="http://www.cafm-connect.org/Iso81346-2-Table4/6487dcaf-f5f9-47b8-a144-0d1049ffbe52" Identification="BCB" Name="Materiallabor" Description="Labor zum Untersuchen von Materialien" />
+              <IfcClassificationReference id="i23697" Location="http://www.cafm-connect.org/Iso81346-2-Table4/36eb11d1-d11b-4bcd-978e-f17c25c989fe" Identification="BCC" Name="Biologielabor" Description="Labor zur biologischen Analyse" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23698" Location="http://www.cafm-connect.org/Iso81346-2-Table4/2c315108-45b9-4696-9f2e-873c4bda26cc" Identification="BD" Name="Übungsraum" Description="Raum für Aktivitäten von Menschen, wie sportliche oder kulturelle Aktivitäten">
+            <HasReferences>
+              <IfcClassificationReference id="i23699" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5648a4cb-b2a2-4488-a9b7-0e46a4549e81" Identification="BDA" Name="Turnhalle" Description="Übungsraum für sportliche Aktivitäten" />
+              <IfcClassificationReference id="i23700" Location="http://www.cafm-connect.org/Iso81346-2-Table4/82f00657-09bb-4482-99d1-6bcb29134b2e" Identification="BDB" Name="Trainingsraum" Description="Übungsraum zum Trainieren von Kraft, Kondition und Balance" />
+              <IfcClassificationReference id="i23701" Location="http://www.cafm-connect.org/Iso81346-2-Table4/f722dd61-c567-4c6e-b58c-db3a5f35df60" Identification="BDC" Name="Proberaum" Description="Übungsraum zum Üben von künstlerischen Fähigkeiten" />
+              <IfcClassificationReference id="i23702" Location="http://www.cafm-connect.org/Iso81346-2-Table4/06d4dfbb-2c47-4eab-97c3-61d972b1f600" Identification="BDD" Name="Bühne" Description="Übungsraum zum Ausüben künstlerischer Aktivitäten" />
+              <IfcClassificationReference id="i23703" Location="http://www.cafm-connect.org/Iso81346-2-Table4/fa0c8c32-a7f6-4226-9ed5-0c66aa3b70f7" Identification="BDE" Name="Spielzimmer" Description="Übungsraum für Kinder" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23704" Location="http://www.cafm-connect.org/Iso81346-2-Table4/14fc2ae9-0f63-4c60-bf10-a983880c64b6" Identification="BE" Name="Zusammenkunftsraum" Description="Raum für Aktivitäten von Menschen zur Zusammenkunft von vielen Menschen/Personen">
+            <HasReferences>
+              <IfcClassificationReference id="i23705" Location="http://www.cafm-connect.org/Iso81346-2-Table4/10f872e7-1893-493e-bf23-f26d30edd9f0" Identification="BEA" Name="Speiseraum" Description="Zusammenkunftsraum zum Konsum von Lebensmitteln" />
+              <IfcClassificationReference id="i23706" Location="http://www.cafm-connect.org/Iso81346-2-Table4/5f7da807-226d-484d-9613-56fdbdc3735b" Identification="BEB" Name="Halle" Description="Zusammenkunftsraum für gesellschaftliche Ereignisse" />
+              <IfcClassificationReference id="i23707" Location="http://www.cafm-connect.org/Iso81346-2-Table4/4fb91a82-8ab7-4a75-b090-ed1fb9159815" Identification="BEC" Name="Galerie" Description="Zusammenkunftsraum zum Ausstellen von Objekten" />
+              <IfcClassificationReference id="i23708" Location="http://www.cafm-connect.org/Iso81346-2-Table4/400ea86f-aa20-430f-bfed-71a93aa2d996" Identification="BED" Name="Religionsausübungsraum" Description="Zusammenkunftsraum für religiöse Aktivitäten" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23709" Location="http://www.cafm-connect.org/Iso81346-2-Table4/65bf7ec3-99be-4b25-a593-52a08d862aad" Identification="C" Name="Lagerraum" Description="Raum zur Lagerung von Materialien, Ausrüstung und Organismen">
+        <HasReferences>
+          <IfcClassificationReference id="i23710" Location="http://www.cafm-connect.org/Iso81346-2-Table4/6ea44883-273a-48df-888f-7036f24a4c76" Identification="CA" Name="Materiallagerraum" Description="Lagerraum für Ressourcen">
+            <HasReferences>
+              <IfcClassificationReference id="i23711" Location="http://www.cafm-connect.org/Iso81346-2-Table4/ea86db22-750e-44df-b0db-1a02057496e4" Identification="CAA" Name="Abfalllagerraum" Description="Materiallagerraum für weggeworfene und zurückgeführte Materialien oder Objekte" />
+              <IfcClassificationReference id="i23712" Location="http://www.cafm-connect.org/Iso81346-2-Table4/61b58726-eb67-4f67-99ef-858da464fe48" Identification="CAB" Name="Chemikalienlagerraum" Description="Materiallagerungsraum für Chemikalien" />
+              <IfcClassificationReference id="i23713" Location="http://www.cafm-connect.org/Iso81346-2-Table4/6f3ef6e3-8c5e-4b1d-ab32-405825f66e3e" Identification="CAC" Name="Medizinlagerraum" Description="Materiallagerungsraum für Medizin" />
+              <IfcClassificationReference id="i23714" Location="http://www.cafm-connect.org/Iso81346-2-Table4/e22761ee-d401-4c5b-8133-5bd5e8403d0c" Identification="CAD" Name="Archivbereich" Description="Materiallagerraum für physikalische Dokumente und Medien" />
+              <IfcClassificationReference id="i23715" Location="http://www.cafm-connect.org/Iso81346-2-Table4/f31559a6-a37d-418c-9de3-725fe5b9f35e" Identification="CAE" Name="Flüssigkeitenlagerraum" Description="Materiallagerungsraum für Flüssigkeiten" />
+              <IfcClassificationReference id="i23716" Location="http://www.cafm-connect.org/Iso81346-2-Table4/31a34e99-5b68-4773-a4d7-dd17505c9cf4" Identification="CAF" Name="Rohstofflagerraum" Description="Materiallagerraum für Substanzen oder Materialien zur Nutzung in Produktionsprozessen" />
+              <IfcClassificationReference id="i23717" Location="http://www.cafm-connect.org/Iso81346-2-Table4/a7bf833b-5c61-4e66-90cd-da5998f0ab20" Identification="CAG" Name="Lebensmittellagerraum" Description="Materiallagerraum für Lebensmittel und Getränke" />
+              <IfcClassificationReference id="i23718" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1ea7b1f1-e689-461e-9b28-730d9b229a9a" Identification="CAH" Name="Sicherheitslagerraum" Description="Materiallagerungsraum für wertvolle Objekte" />
+              <IfcClassificationReference id="i23719" Location="http://www.cafm-connect.org/Iso81346-2-Table4/8be8856c-bd96-4f0e-b3a7-ab533a860188" Identification="CAJ" Name="Verpackungslagerraum" Description="Materiallagerraum für Materialien zur Verpackung" />
+              <IfcClassificationReference id="i23720" Location="http://www.cafm-connect.org/Iso81346-2-Table4/be6365ff-bda1-44ec-905c-b2d52d5ea48e" Identification="CAK" Name="Bekleidungslagerraum" Description="Materiallagerraum für Bekleidung, Schuhe und Leinen" />
+              <IfcClassificationReference id="i23721" Location="http://www.cafm-connect.org/Iso81346-2-Table4/f9c461d5-f397-4ff7-ada9-38a399460d74" Identification="CAL" Name="Baumaterialienlagerraum" Description="Materiallagerungsraum für Baumaterialien" />
+              <IfcClassificationReference id="i23722" Location="http://www.cafm-connect.org/Iso81346-2-Table4/475fdcbd-80a7-49f1-81d4-32a59ba9a226" Identification="CAM" Name="Explosivmateriallager" Description="Materiallagerraum für explosive Materialien" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23723" Location="http://www.cafm-connect.org/Iso81346-2-Table4/b9563469-c438-4326-82be-2791d7cd7f9b" Identification="CB" Name="Ausrüstungslagerraum" Description="Lagerraum für bewegliche technische Ausrüstung">
+            <HasReferences>
+              <IfcClassificationReference id="i23724" Location="http://www.cafm-connect.org/Iso81346-2-Table4/cda859ad-e2df-4718-9308-b5f2457b60b5" Identification="CBA" Name="Möbellagerraum" Description="Ausrüstungslagerraum für Objekte zum Einrichten (von Räumen)" />
+              <IfcClassificationReference id="i23725" Location="http://www.cafm-connect.org/Iso81346-2-Table4/d3dc6ccb-a23f-4390-8313-4762028ac27b" Identification="CBB" Name="Werkzeuglagerraum" Description="Materiallagerungsraum für Werkzeuge" />
+              <IfcClassificationReference id="i23726" Location="http://www.cafm-connect.org/Iso81346-2-Table4/4d79e2c0-3f6d-4b2a-8391-da13941f5979" Identification="CBC" Name="Instrumentenlagerraum" Description="Materiallagerungsraum für technische Instrumente" />
+              <IfcClassificationReference id="i23727" Location="http://www.cafm-connect.org/Iso81346-2-Table4/664b0c91-6d14-439c-b393-dba91684d177" Identification="CBD" Name="Fahrzeuglagerraum" Description="Ausrüstungslagerraum für Transportmittel" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23728" Location="http://www.cafm-connect.org/Iso81346-2-Table4/94dda2a7-4d67-4e92-8615-a62558ac2642" Identification="CC" Name="Tiergehege" Description="Lagerraum zum Einschließen von Tieren">
+            <HasReferences>
+              <IfcClassificationReference id="i23729" Location="http://www.cafm-connect.org/Iso81346-2-Table4/b66c4a34-4d4e-4be6-98a8-eef02434eb73" Identification="CCA" Name="Käfig" Description="Tiergehege zum Einsperren von Tieren" />
+              <IfcClassificationReference id="i23730" Location="http://www.cafm-connect.org/Iso81346-2-Table4/7f107aa0-7df1-4bb6-96ee-4599022614ce" Identification="CCB" Name="Stall" Description="Tiergehege zum Einzäunen von Tieren" />
+              <IfcClassificationReference id="i23731" Location="http://www.cafm-connect.org/Iso81346-2-Table4/97df3385-21dd-4d2e-af62-10607fc0b58a" Identification="CCC" Name="Stall" Description="Tiergehege zum Schutz von Tieren" />
+              <IfcClassificationReference id="i23732" Location="http://www.cafm-connect.org/Iso81346-2-Table4/55ba830d-2809-4ef0-b474-cf22bc98f562" Identification="CCD" Name="Wasserumschließung" Description="Tiergehege für Wassertiere" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23733" Location="http://www.cafm-connect.org/Iso81346-2-Table4/9e6e3f7b-a331-46eb-afdd-b57b01a4c3c1" Identification="CD" Name="Pflanzenraum" Description="Lagerraum für Pflanzen">
+            <HasReferences>
+              <IfcClassificationReference id="i23734" Location="http://www.cafm-connect.org/Iso81346-2-Table4/c103a233-6dc5-42ab-bd3f-450a3e0c2434" Identification="CDA" Name="Innenpflanzenraum" Description="Pflanzenraum zum Züchten von Pflanzen in Innenräumen" />
+              <IfcClassificationReference id="i23735" Location="http://www.cafm-connect.org/Iso81346-2-Table4/168ca5a0-41da-423b-920b-41af00ed6b90" Identification="CDB" Name="Außenpflanzenraum" Description="Pflanzenraum zum Züchten von Pflanzen in Außenbereichen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23736" Location="http://www.cafm-connect.org/Iso81346-2-Table4/52ed4906-4b89-465a-bc38-e5ac6c4a48f6" Identification="CE" Name="Leichenaufbewahrungsraum" Description="Lagerraum für Leichen">
+            <HasReferences>
+              <IfcClassificationReference id="i23737" Location="http://www.cafm-connect.org/Iso81346-2-Table4/4d1fc489-ecb7-43ea-b3f5-00d98d7822b7" Identification="CEA" Name="Totenkapelle" Description="Leichenaufbewahrungsraum zur Zwischenverwahrung" />
+              <IfcClassificationReference id="i23738" Location="http://www.cafm-connect.org/Iso81346-2-Table4/b61f9fc4-6b90-473a-8e4c-98b0766358ce" Identification="CEB" Name="Gruft" Description="Leichenaufbewahrungsraum zur Dauerverwahrung" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23739" Location="http://www.cafm-connect.org/Iso81346-2-Table4/7bf1da07-1533-4fc1-af0f-23c4e9e0c135" Identification="D" Name="Raum für technische Systeme" Description="Raum für aktive technische Geräte">
+        <HasReferences>
+          <IfcClassificationReference id="i23740" Location="http://www.cafm-connect.org/Iso81346-2-Table4/916e5e19-8701-420d-9cd2-a7cbb8d8b8a8" Identification="DA" Name="Installationsraum" Description="Raum für technische Systeme, die die Funktion von Konstruktionseinheiten unterstützen">
+            <HasReferences>
+              <IfcClassificationReference id="i23741" Location="http://www.cafm-connect.org/Iso81346-2-Table4/88b4da80-c40c-4479-bf42-ee04af2eedce" Identification="DAA" Name="Elektroinstallationsraum" Description="Installationsraum für stationäre elektrische Geräte" />
+              <IfcClassificationReference id="i23742" Location="http://www.cafm-connect.org/Iso81346-2-Table4/b39002f4-01d7-44b4-88ca-826f376ccd4c" Identification="DAB" Name="IT-Geräteraum" Description="Installationsraum für stationäre elektronische Geräte" />
+              <IfcClassificationReference id="i23743" Location="http://www.cafm-connect.org/Iso81346-2-Table4/e7583609-4870-41ad-8747-c52205161e6d" Identification="DAC" Name="Mechanischer Installationsraum" Description="Installationsraum für stationäre mechanische Geräte" />
+              <IfcClassificationReference id="i23744" Location="http://www.cafm-connect.org/Iso81346-2-Table4/d42d892c-175b-4df2-9414-57347ae317df" Identification="DAD" Name="Gemeinsamer Installationsraum" Description="Installationsraum für stationäre technische Geräte" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23745" Location="http://www.cafm-connect.org/Iso81346-2-Table4/68b366cf-1227-43f3-b385-11a5ab0aa634" Identification="DB" Name="Ausrüstungsraum" Description="Raum für technische Systeme zur Unterstützung menschlicher Aktivitäten">
+            <HasReferences>
+              <IfcClassificationReference id="i23746" Location="http://www.cafm-connect.org/Iso81346-2-Table4/6dfc899d-0cb5-4220-b832-45fa62d63a0f" Identification="DBA" Name="Steuerausrüstungsraum" Description="Ausrüstungsraum zur Steuerung, Regulierung und Überwachung" />
+              <IfcClassificationReference id="i23747" Location="http://www.cafm-connect.org/Iso81346-2-Table4/7e9288ab-2b11-49bf-bf10-aa78de202269" Identification="DBB" Name="Produktionswerk" Description="Ausrüstungsraum zur Herstellung und Vorbereitung von Produkten" />
+              <IfcClassificationReference id="i23748" Location="http://www.cafm-connect.org/Iso81346-2-Table4/752a9695-cdf9-4602-9ea5-94ed4f003a10" Identification="DBC" Name="Dienstleistungsausrüstungsraum" Description="Ausrüstungsraum für Dienstleistungsfunktionen" />
+              <IfcClassificationReference id="i23749" Location="http://www.cafm-connect.org/Iso81346-2-Table4/7981effe-2b66-477c-b844-a25829d38112" Identification="DBD" Name="Analysenausrüstungsraum" Description="Ausrüstungsraum für Analysen" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i23750" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1015fd84-ee79-47b9-ab50-bb30e7208bd3" Identification="E" Name="Raum für Infrastruktur" Description="Raum zur Erzeugung von Verbindungen zwischen Aktivitätsräumen">
+        <HasReferences>
+          <IfcClassificationReference id="i23751" Location="http://www.cafm-connect.org/Iso81346-2-Table4/2abd7a28-9dca-4516-8345-7cdd14b506cb" Identification="EA" Name="Durchgangsraum" Description="Raum für Infrastruktur zum Ermöglichen von Zugang">
+            <HasReferences>
+              <IfcClassificationReference id="i23752" Location="http://www.cafm-connect.org/Iso81346-2-Table4/3c342bba-d42e-48d7-962f-925aa6784488" Identification="EAA" Name="Vorraum" Description="Durchgangsraum zwischen Außen- und Innenräumen" />
+              <IfcClassificationReference id="i23753" Location="http://www.cafm-connect.org/Iso81346-2-Table4/a31b58ab-d417-4a55-9681-2feef43adab3" Identification="EAB" Name="Luftschleuse" Description="Durchgangsraum zum Regulieren des Übergangs in andere Räume" />
+              <IfcClassificationReference id="i23754" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1db456d9-8c8c-44f0-a54c-8d3bd8af1aa6" Identification="EAC" Name="Korridor" Description="Durchgangsraum, horizontal zwischen zwei oder mehr Räumen" />
+              <IfcClassificationReference id="i23755" Location="http://www.cafm-connect.org/Iso81346-2-Table4/32f55acb-af5e-414a-bcdf-a8f55f86d783" Identification="EAD" Name="Treppenhaus" Description="Durchgangsraum, vertikal und nicht automatisiert zwischen zwei oder mehr Stockwerken oder Ebenen" />
+              <IfcClassificationReference id="i23756" Location="http://www.cafm-connect.org/Iso81346-2-Table4/438072e8-c44c-4525-8dea-0ba01018b628" Identification="EAE" Name="Aufzugsraum" Description="Durchgangsraum, vertikal und automatisiert zwischen zwei oder mehr Ebenen" />
+              <IfcClassificationReference id="i23757" Location="http://www.cafm-connect.org/Iso81346-2-Table4/968065a6-3b61-4d06-b64d-8591e23eba50" Identification="EAF" Name="Vorhalle" Description="Durchgangsraum in Gebäuden" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23758" Location="http://www.cafm-connect.org/Iso81346-2-Table4/276b2a34-a21a-42e1-b909-ea8d021a7ed4" Identification="EB" Name="Dienstraum" Description="Raum für Infrastruktur zur Verteilung technischer Dienste oder Medien">
+            <HasReferences>
+              <IfcClassificationReference id="i23759" Location="http://www.cafm-connect.org/Iso81346-2-Table4/0b51b644-326a-440c-adb1-30fad16d617c" Identification="EBA" Name="Servicetunnel" Description="Dienstraum mit horizontalem Zugang für Personen" />
+              <IfcClassificationReference id="i23760" Location="http://www.cafm-connect.org/Iso81346-2-Table4/9d72797c-1a9c-44e1-909c-6e9f472bb030" Identification="EBB" Name="Schacht" Description="Dienstraum mit vertikalem Zugang für Personen" />
+              <IfcClassificationReference id="i23761" Location="http://www.cafm-connect.org/Iso81346-2-Table4/d22e3dd6-d381-4107-bd27-f96a520b5129" Identification="EBC" Name="Kanal" Description="Dienstraum ohne Zugang für Personen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i23762" Location="http://www.cafm-connect.org/Iso81346-2-Table4/fa1b8c80-11be-404d-b091-31a2eb17b384" Identification="EC" Name="Transportraum" Description="Raum für Infrastruktur zum Durchqueren">
+            <HasReferences>
+              <IfcClassificationReference id="i23763" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1bbf43cc-8c55-4c8b-ac98-6c48c2575b6a" Identification="ECA" Name="Abstandsprofil" Description="Transportraum, theoretisch begrenzt" />
+              <IfcClassificationReference id="i23764" Location="http://www.cafm-connect.org/Iso81346-2-Table4/1c7a47f0-5ea0-419e-b11c-080ff319316a" Identification="ECB" Name="Tunnel" Description="Transportraum, physikalisch begrenzt" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+    </HasReferences>
+  </IfcClassification>
+  <IfcRelAssociatesClassification id="i23656">
+    <RelatedObjects>
+      <IfcProjectLibrary xsi:nil="true" ref="i23654" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i23655" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2">
+  <header>
+    <name>Iso81346-12-Domains</name>
+    <time_stamp>2018-01-18T21:06:24.5121511+01:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization />
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProjectLibrary id="i23359" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcClassification id="i23360" Edition="1.0" EditionDate="2018-01-18T20:06:24.5442329Z" Name="Iso81346-12-Domains" Description="Iso81346-12-Domains" Location="https://www.cafm-connect.org/Iso81346-12-Domains">
+    <HasReferences>
+      <IfcClassificationReference id="i23362" Location="http://www.cafm-connect.org/Iso81346-12-Domains/ec84c500-3788-4fce-b7b3-9320e12570b4" Identification="A" Name="Activity space" Description="" />
+      <IfcClassificationReference id="i23363" Location="http://www.cafm-connect.org/Iso81346-12-Domains/f4f92aaf-780c-4466-b7d2-aad3084fb938" Identification="B" Name="Built space" Description="" />
+      <IfcClassificationReference id="i23364" Location="http://www.cafm-connect.org/Iso81346-12-Domains/9fc8bbc1-cbbb-420a-a57a-53ee6cac667a" Identification="C" Name="Construction complex" Description="" />
+      <IfcClassificationReference id="i23365" Location="http://www.cafm-connect.org/Iso81346-12-Domains/ea9b69ff-2f49-4aab-b0c5-132857bccac6" Identification="D" Name="Construction aid" Description="" />
+      <IfcClassificationReference id="i23366" Location="http://www.cafm-connect.org/Iso81346-12-Domains/1204fc4d-8f52-43fd-adc6-ddbf932029c8" Identification="E" Name="Construction entity" Description="" />
+      <IfcClassificationReference id="i23367" Location="http://www.cafm-connect.org/Iso81346-12-Domains/6cc7a373-b32a-4f36-a0a6-7b404218120b" Identification="L" Name="Construction element" Description="" />
+      <IfcClassificationReference id="i23368" Location="http://www.cafm-connect.org/Iso81346-12-Domains/dfb43a8c-0f76-4bae-aee8-309bc91501f2" Identification="P" Name="Construction product" Description="" />
+      <IfcClassificationReference id="i23369" Location="http://www.cafm-connect.org/Iso81346-12-Domains/0ec4117d-afbd-4eb0-a25c-4edd79040251" Identification="S" Name="Storey" Description="" />
+      <IfcClassificationReference id="i23370" Location="http://www.cafm-connect.org/Iso81346-12-Domains/3fb5344f-9e5b-4be9-8a94-6baa9ab03cc5" Identification="Z" Name="Zone" Description="" />
+    </HasReferences>
+  </IfcClassification>
+  <IfcRelAssociatesClassification id="i23361">
+    <RelatedObjects>
+      <IfcProjectLibrary xsi:nil="true" ref="i23359" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i23360" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>

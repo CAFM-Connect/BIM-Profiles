@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2 http://www.buildingsmart-tech.org/ifc/IFC4/Add2/IFC4_ADD2.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/Add2">
+  <header>
+    <name>CAFMConnect</name>
+    <time_stamp>2018-01-18T21:01:20.9094005+01:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization />
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProjectLibrary id="i1572" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcClassification id="i1573" Edition="1.0" EditionDate="2018-01-18T20:01:20.9132239Z" Name="CAFMConnect" Description="CAFMConnect" Location="https://www.cafm-connect.org/ZE_CAFMConnect">
+    <HasReferences>
+      <IfcClassificationReference id="i1575" Location="http://www.cafm-connect.org/CAFMConnect/4adad5db-ae5d-4bcf-bc88-21b39e8f897c" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
+        <HasReferences>
+          <IfcClassificationReference id="i1576" Location="http://www.cafm-connect.org/CAFMConnect/84f92ba2-1e30-4856-b233-450dc6b5b2e9" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
+            <HasReferences>
+              <IfcClassificationReference id="i1577" Location="http://www.cafm-connect.org/CAFMConnect/8e373a7a-3748-43ef-ac3b-a01cd8e84ab7" Identification="331" Name="Tragende Außenwände" Description="Tragende Außenwände einschließlich horizontaler Abdichtungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1578" Location="http://www.cafm-connect.org/CAFMConnect/8b451b3a-647f-4134-8f5d-20742495ac92" Identification="331.10" Name="Brandwände (tragend, außen)" Description="Eine Wand zur Abgrenzung von Brandabschnitten." />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1579" Location="http://www.cafm-connect.org/CAFMConnect/c599bf21-5450-40d7-ab57-03cdfb4be10c" Identification="332" Name="Nichttragende Außenwände" Description="Außenwände, Brüstungen, Ausfachungen, jedoch ohne Bekleidungen" />
+              <IfcClassificationReference id="i1580" Location="http://www.cafm-connect.org/CAFMConnect/dfb5c2d6-371d-405f-9be4-49c861127f53" Identification="333" Name="Außenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis ≤ 1 : 5" />
+              <IfcClassificationReference id="i1581" Location="http://www.cafm-connect.org/CAFMConnect/3ab998cf-456a-4e5e-8c65-80a767bcc684" Identification="334" Name="Außentüren, -tore und -fenster" Description="Fenster und Schaufenster, Türen und Tore einschließlich Fensterbänken, Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1582" Location="http://www.cafm-connect.org/CAFMConnect/c6eabdd0-d0d0-4419-ad1a-0effdd26e0b2" Identification="334.10" Name="Außentür" Description="Eingangstüren, Garagentür, Fenster in der Tür, Türklinke" />
+                  <IfcClassificationReference id="i1583" Location="http://www.cafm-connect.org/CAFMConnect/85e93f90-e4f9-4a21-9f93-343896306ec9" Identification="334.20" Name="Tor außen" Description="Gartentor, Eingangstor, Garagentor, Türknopf" />
+                  <IfcClassificationReference id="i1584" Location="http://www.cafm-connect.org/CAFMConnect/524ec0e5-a40e-4531-b434-fc2f12e39e0c" Identification="334.30" Name="Fenster außen" Description="Standard Fenster, Doppelfenster, Fenstergriff, Rolladen (einschließlich Antrieb), Jalousien" />
+                  <IfcClassificationReference id="i1585" Location="http://www.cafm-connect.org/CAFMConnect/230b513b-a4d8-484e-b674-078b872769a6" Identification="344.10" Name="Innentür" Description="Raumtrennungstüren, Türknauf, Schloss, Türklinke" />
+                  <IfcClassificationReference id="i1586" Location="http://www.cafm-connect.org/CAFMConnect/52ec60ac-d5f8-43e9-b6d8-cf22ce5034a7" Identification="344.20" Name="Tor innen" Description="Türknauf, Schloss, Fenster, Antrieb" />
+                  <IfcClassificationReference id="i1587" Location="http://www.cafm-connect.org/CAFMConnect/555eb26c-b449-4756-84bb-4bf74e82540a" Identification="344.30" Name="Fenster innen" Description="Standard Fenster, Doppelfenster, Fenstergriff, Rolladen, Antrieb" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1588" Location="http://www.cafm-connect.org/CAFMConnect/4400bb77-8805-438d-ad08-9e415f030dc2" Identification="335" Name="Außenwandbekleidungen (außen)" Description="Äußere Bekleidungen einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i1589" Location="http://www.cafm-connect.org/CAFMConnect/61b3bad7-6c20-4225-809a-7bea6ea86d79" Identification="336" Name="Außenwandbekleidungen (innen)" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i1590" Location="http://www.cafm-connect.org/CAFMConnect/07cb23f1-4214-4b30-bc3e-01b0f7ad53f7" Identification="337" Name="Elementierte Außenwände" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen" />
+              <IfcClassificationReference id="i1591" Location="http://www.cafm-connect.org/CAFMConnect/f00e3747-ce81-4008-9602-25cd7cc46610" Identification="338" Name="Sonnenschutz" Description="Rollläden, Markisen und Jalousien einschließlich Antrieben" />
+              <IfcClassificationReference id="i1592" Location="http://www.cafm-connect.org/CAFMConnect/d24c1acb-c79f-4b2d-a8cd-bc8b746dc20f" Identification="339" Name="Außenwände, sonstiges" Description="Gitter, Geländer, Stoßabweiser und Handläufe">
+                <HasReferences>
+                  <IfcClassificationReference id="i1593" Location="http://www.cafm-connect.org/CAFMConnect/7afc6122-e199-425a-9fd0-1d717dfb0455" Identification="339.10" Name="Umwehrungen nach außen" Description="Geländer an Wänden, Stützen, Handlauf" />
+                  <IfcClassificationReference id="i1594" Location="http://www.cafm-connect.org/CAFMConnect/878ccff2-8dcc-4644-966d-0b650bc63c49" Identification="339.20" Name="Kellerlichtschächte mit Gitterrosten" Description="Fenster, Fenstergriff, Gitterrost" />
+                  <IfcClassificationReference id="i1595" Location="http://www.cafm-connect.org/CAFMConnect/a178c108-85dd-458b-97f6-eb5605a6c4e9" Identification="339.90" Name="Sonstige Elemente an Außenwänden" Description="Fassade, Wärmedämmung, Fenster, Lüftung, Feuerwiderstand" />
+                  <IfcClassificationReference id="i1596" Location="http://www.cafm-connect.org/CAFMConnect/e68e538f-0476-4fd1-af9e-ced1c9d3c7c3" Identification="339.91" Name="Rankgerüste (außen)" Description="Kletterpflanzen, Spalier" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1597" Location="http://www.cafm-connect.org/CAFMConnect/92128553-47e0-4654-aee5-654dc0c04734" Identification="340" Name="Innenwände, -türen, -tore und -fenster" Description="Innenwände und Innenstützen">
+            <HasReferences>
+              <IfcClassificationReference id="i1598" Location="http://www.cafm-connect.org/CAFMConnect/95dbef7a-37e6-44b8-8398-f5dbdea32067" Identification="341" Name="Tragende Innenwände" Description="Tragende Innenwände einschließlich horizontaler Abdichtungen" />
+              <IfcClassificationReference id="i1599" Location="http://www.cafm-connect.org/CAFMConnect/cce7c21c-9a46-4dd8-a327-8ac30ec9e466" Identification="342" Name="Nichttragende Innenwände" Description="Innenwände, Ausfachungen, jedoch ohne Bekleidungen" />
+              <IfcClassificationReference id="i1600" Location="http://www.cafm-connect.org/CAFMConnect/1a7efc42-0244-4c41-997e-6d027f0f693b" Identification="343" Name="Innenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis &lt; 1 : 5" />
+              <IfcClassificationReference id="i1601" Location="http://www.cafm-connect.org/CAFMConnect/74fdf346-283d-4d52-991a-369017e53ae5" Identification="344" Name="Innentüren, -tore und -fenster" Description="Türen und Tore, Fenster und Schaufenster einschließlich Umrahmungen, Beschlägen, Antrieben und sonstigen eingebauten Elementen" />
+              <IfcClassificationReference id="i1602" Location="http://www.cafm-connect.org/CAFMConnect/e688edc5-2ada-4764-82c1-748e149e4fee" Identification="345" Name="Innenwandbekleidungen" Description="Bekleidungen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten an Innenwänden und -stützen" />
+              <IfcClassificationReference id="i1603" Location="http://www.cafm-connect.org/CAFMConnect/e1f3e440-3ffc-40fc-b5fb-4f25acfd8893" Identification="346" Name="Elementierte Innenwände" Description="Elementierte Wände, bestehend aus Innenwänden, -türen,  -fenstern, -bekleidungen, z. B. Falt- und Schiebewände, Sanitärtrennwände, Verschläge" />
+              <IfcClassificationReference id="i1604" Location="http://www.cafm-connect.org/CAFMConnect/77303ec9-f246-4d75-b2a9-0ee9202eaf25" Identification="349" Name="Innenwände, sonstiges" Description="Gitter, Geländer, Stoßabweiser, Handläufe, Rollläden einschließlich Antrieben">
+                <HasReferences>
+                  <IfcClassificationReference id="i1605" Location="http://www.cafm-connect.org/CAFMConnect/038db758-ec4f-4321-8171-4d4b213dfd5f" Identification="349.10" Name="Umwehrungen innen" Description="Stützen, Geländer, Handlauf, Absturzsicherung" />
+                  <IfcClassificationReference id="i1606" Location="http://www.cafm-connect.org/CAFMConnect/9abb5ef4-f883-4ec1-9d36-3096d705a3f0" Identification="349.11" Name="Geländer an Wänden" Description="Stützen, Handlauf" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1607" Location="http://www.cafm-connect.org/CAFMConnect/6abc2e06-a106-4fa2-adfe-1e33bcb85404" Identification="350" Name="Decken" Description="Decken, Treppen und Rampen oberhalb der Gründung und unterhalb der Dachfläche">
+            <HasReferences>
+              <IfcClassificationReference id="i1608" Location="http://www.cafm-connect.org/CAFMConnect/3bc73cc4-2315-4fe4-87f7-48c80172fc53" Identification="351" Name="Deckenkonstruktionen" Description="Konstruktionen von Decken, Treppen, Rampen, Balkonen, Loggien einschließlich Über- und Unterstützen, füllenden Teilen wie  Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1609" Location="http://www.cafm-connect.org/CAFMConnect/fe745f68-117c-4c2a-bf1a-99a6d09fedf8" Identification="351.10" Name="Treppen" Description="Stufen, Verkleidung, Geländer," />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1610" Location="http://www.cafm-connect.org/CAFMConnect/44681557-fa2c-453a-ac6a-7ea511d1f66b" Identification="352" Name="Deckenbeläge / Bodenbeläge" Description="Beläge auf Deckenkonstruktionen einschließlich Estrichen, Dichtungs-, Dämm-, Schutz-, Nutzschichten; Schwing- und Installationsdoppelböden" />
+              <IfcClassificationReference id="i1611" Location="http://www.cafm-connect.org/CAFMConnect/bcebda58-e3ac-4366-a86c-9f5f80bc5cbc" Identification="353" Name="Deckenbekleidungen" Description="Bekleidungen unter Deckenkonstruktionen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten; Licht- und Kombinationsdecken" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1612" Location="http://www.cafm-connect.org/CAFMConnect/029cb3b6-7a26-48cc-b1c1-a74a5cc1e0a0" Identification="360" Name="Dächer" Description="Flache oder geneigte Dächer">
+            <HasReferences>
+              <IfcClassificationReference id="i1613" Location="http://www.cafm-connect.org/CAFMConnect/1eb6433c-3b11-49da-83bc-d5eca8c0c587" Identification="361" Name="Dachkonstruktionen" Description="Konstruktionen von Dächern, Dachstühlen, Raumtragwerken und Kuppeln einschließlich Über- und Unterzügen, füllenden Teilen wie Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen" />
+              <IfcClassificationReference id="i1614" Location="http://www.cafm-connect.org/CAFMConnect/c8643f94-778a-4684-bdc9-86752666af9c" Identification="362" Name="Dachfenster, Dachöffnungen" Description="Fenster, Ausstiege einschließlich Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen" />
+              <IfcClassificationReference id="i1615" Location="http://www.cafm-connect.org/CAFMConnect/3eb366b1-6bd4-4500-a1e5-e7b1f6b50486" Identification="363" Name="Dachbeläge" Description="Beläge auf Dachkonstruktionen einschließlich Schalungen, Lattungen, Gefälle-, Dichtungs-, Dämm-, Schutz- und Nutzschichten; Entwässerungen der Dachfläche bis zum Anschluss an die Abwasseranlagen" />
+              <IfcClassificationReference id="i1616" Location="http://www.cafm-connect.org/CAFMConnect/e0a015e8-8ebd-41d3-acb8-75066d739630" Identification="364" Name="Dachbekleidungen" Description="Dachbekleidungen unter Dachkonstruktionen einschließlich Putz, Dichtungs-, Dämm-, Schutzschichten; Licht- und Kombinationsdecken unter Dächern" />
+              <IfcClassificationReference id="i1617" Location="http://www.cafm-connect.org/CAFMConnect/29ef1875-3f71-4243-846b-0caca7b83307" Identification="369" Name="Dächer, sonstiges" Description="Geländer, Laufbohlen, Schutzgitter, Schneefänge, Dachleitern, Sonnenschutz">
+                <HasReferences>
+                  <IfcClassificationReference id="i1618" Location="http://www.cafm-connect.org/CAFMConnect/c9997832-d3f4-45e3-b56e-cfafe6fbd825" Identification="369.10" Name="Geländer an Dächern" Description="Absturzsicherung" />
+                  <IfcClassificationReference id="i1619" Location="http://www.cafm-connect.org/CAFMConnect/74c6b76e-98bc-4771-b736-56a70d78e918" Identification="369.20" Name="Anschlagpunkte zur Absturzsicherung (Sekuranten)" Description="Auffanggurt, Verbindungsmittel, Karabiner, Schlinge" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1620" Location="http://www.cafm-connect.org/CAFMConnect/a1c444fc-5c75-4128-8ac4-6ee27cb1f110" Identification="390" Name="Sonstige baukonstruktive Elemente" Description="Baukonstruktionen und übergreifende Maßnahmen im Zusammenhang mit den Baukonstruktionen, die nicht einzelnen Kostengruppen der Baukonstruktionen zugeordnet  werden können oder die nicht unter KG 490 oder KG 590 erfasst sind">
+            <HasReferences>
+              <IfcClassificationReference id="i1621" Location="http://www.cafm-connect.org/CAFMConnect/a352e6bb-7f9a-49c9-b875-1269e3139a60" Identification="391" Name="Bauliche Brandschutzelemente" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung">
+                <HasReferences>
+                  <IfcClassificationReference id="i1622" Location="http://www.cafm-connect.org/CAFMConnect/32bb88e6-b506-4556-9609-fa5c2e641c15" Identification="391.10" Name="Brandabschottungen" Description="Brandwände, Brandabschnitte, Abschottung" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i1623" Location="http://www.cafm-connect.org/CAFMConnect/1a059ee6-e758-4dcb-9d5d-c8bfcd366381" Identification="400" Name="BAUWERK - TECHNISCHE ANLAGEN" Description="Kosten aller im Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen technischen Anlagen oder Anlagenteile Die einzelnen technischen Anlagen enthalten die zugehörigen Gestelle, Befestigungen, Armaturen, Wärme- und Kältedämmung, Schall- und Brandschutzvorkehrungen, Abdeckungen, Verkleidungen, Anstriche, Kennzeichnungen sowie die anlagenspezifischen Mess-, Steuer- und Regelanlagen. Die Kosten für das Erstellen und Schließen von Schlitzen und Durchführungen werden in der Regel in der KG 300 erfasst.">
+        <HasReferences>
+          <IfcClassificationReference id="i1624" Location="http://www.cafm-connect.org/CAFMConnect/74613c65-0a11-445f-b57c-53ec423c28b3" Identification="410" Name="Abwasser-, Wasser-, Gasanlagen" Description="Rohrleitungen, Wasserreiniger, Gasheizungen, Bewässerung">
+            <HasReferences>
+              <IfcClassificationReference id="i1625" Location="http://www.cafm-connect.org/CAFMConnect/0128e37a-fd7b-472b-a85c-b0a09b11eac7" Identification="411" Name="Abwasseranlagen" Description="Abläufe, Abwasserleitungen, Abwassersammelanlagen, Abwasserbehandlungsanlagen, Hebeanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1626" Location="http://www.cafm-connect.org/CAFMConnect/c14c5136-ef33-455d-b6fc-37ab54e6312d" Identification="411.10" Name="Rohrleitungen" Description="Rohre, Armaturen, Dichtungen, Verschraubungen" />
+                  <IfcClassificationReference id="i1627" Location="http://www.cafm-connect.org/CAFMConnect/91bb3b15-d807-496d-b8fe-cb1c12cda296" Identification="411.20" Name="Abläufe" Description="Apophyge, Verbindungsbauteil, Regenwasser" />
+                  <IfcClassificationReference id="i1628" Location="http://www.cafm-connect.org/CAFMConnect/4079bd6f-a538-48dc-87b4-e437cee40c0c" Identification="411.30" Name="Absperreinrichtungen und Rückstauverschlüsse" Description="Schließkörper, Druckfeder, Abwasser, Wasserpegel" />
+                  <IfcClassificationReference id="i1629" Location="http://www.cafm-connect.org/CAFMConnect/dbe7f3f4-e611-4ce4-af24-3b6d73091ba4" Identification="411.40" Name="Pumpen / Hebeanlagen" Description="Verdrängerpumpen, Strömungspumpen, Abwasser, Rückstauebene" />
+                  <IfcClassificationReference id="i1630" Location="http://www.cafm-connect.org/CAFMConnect/cf52d922-a01a-4dae-ab3d-14904b4fb33e" Identification="411.60" Name="Abscheideranlagen" Description="Abwasserbehandlungsanlage, Schlammfang, Abscheider, Probeentnahme" />
+                  <IfcClassificationReference id="i1631" Location="http://www.cafm-connect.org/CAFMConnect/663b5317-20e9-4a94-8851-e8e6d7d54fbc" Identification="411.70" Name="Neutralisierungsanlagen" Description="Abwasser" />
+                  <IfcClassificationReference id="i1632" Location="http://www.cafm-connect.org/CAFMConnect/d74b8d97-54b2-40e8-afd2-1d7742a9ebf2" Identification="411.80" Name="Kontroll-, Reinigungs- und Sammelschächte" Description="Instandhaltung der Entwässerungsanlage, Abwasserverarbeitung," />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1633" Location="http://www.cafm-connect.org/CAFMConnect/af826129-5f16-44be-8ea3-c8d1e559abbf" Identification="412" Name="Wasseranlagen" Description="Wassergewinnungs-, Aufbereitungs- und Druckerhöhungsanlagen, Rohrleitungen, dezentrale Wassererwärmer, Sanitärobjekte">
+                <HasReferences>
+                  <IfcClassificationReference id="i1634" Location="http://www.cafm-connect.org/CAFMConnect/c19ece6d-6629-476a-bdc7-5407e62caa0d" Identification="412.10" Name="Trinkwasserversorgungsanlagen" Description="Rohre, Ventile, Tanks, Trinkwasser" />
+                  <IfcClassificationReference id="i1635" Location="http://www.cafm-connect.org/CAFMConnect/91c101c8-4861-48b3-a7f1-c26faaa54a09" Identification="412.11" Name="Rohrleitungen" Description="Transport von Fluiden, Armaturen, Dichtungen, Verschraubungen" />
+                  <IfcClassificationReference id="i1636" Location="http://www.cafm-connect.org/CAFMConnect/54279843-702e-410d-94ed-1277d301fda5" Identification="412.12" Name="Armaturen" Description="Absperren-, regeln von Stoffströmen, Rohrleitungen" />
+                  <IfcClassificationReference id="i1637" Location="http://www.cafm-connect.org/CAFMConnect/cb8094e5-de5b-4f99-9e3a-9e1e8fd25d0f" Identification="412.13" Name="Druckerhöhungsanlage" Description="Automatisch gesteuerte Pumpe, Wasserverteilungssystem" />
+                  <IfcClassificationReference id="i1638" Location="http://www.cafm-connect.org/CAFMConnect/bd38c88f-cb05-45a4-af58-cfdf260bf6bc" Identification="412.14" Name="Pumpen" Description="Antrieb, Wasserpumpe, Anzeige/Display" />
+                  <IfcClassificationReference id="i1639" Location="http://www.cafm-connect.org/CAFMConnect/515f9b81-7230-4373-923f-b9544b40578a" Identification="412.15" Name="Mess- und Zähleinrichtungen" Description="Eingangsgröße, Ausgangsgröße, Anzeige, Darstellung, Tastköpfe" />
+                  <IfcClassificationReference id="i1640" Location="http://www.cafm-connect.org/CAFMConnect/d6949b23-2489-4d96-9642-0fc6f5c91c4b" Identification="412.16" Name="Filter" Description="" />
+                  <IfcClassificationReference id="i1641" Location="http://www.cafm-connect.org/CAFMConnect/cc5ef53f-8ca8-4790-a28a-1faa7b4033e3" Identification="412.20" Name="Sanitäre Einrichtungsgegenstände" Description="Toiletten, Urinal, Waschbecken, Duschen, Badewannen," />
+                  <IfcClassificationReference id="i1642" Location="http://www.cafm-connect.org/CAFMConnect/b6e93613-c849-41c3-884e-2bca826f2262" Identification="412.21" Name="Armaturen" Description="Rohrleitungen, Stoffströme, Absperrschieber" />
+                  <IfcClassificationReference id="i1643" Location="http://www.cafm-connect.org/CAFMConnect/0b257cd2-d5a8-44e2-98ef-9a930928c268" Identification="412.22" Name="Einrichtungsgegenstände" Description="Möbel, Elektronik, Lüftung, sonstige Gegenstände," />
+                  <IfcClassificationReference id="i1644" Location="http://www.cafm-connect.org/CAFMConnect/3be3c285-2569-4d5c-9db2-93f97c20805e" Identification="412.23" Name="Spülkästen" Description="WC, Druckspüler, Öffnungen, Anschlüss" />
+                  <IfcClassificationReference id="i1645" Location="http://www.cafm-connect.org/CAFMConnect/9e765abc-ad77-40b3-85fe-434b7e76359a" Identification="412.24" Name="Druckspüler" Description="Toilet, Wasserspülung" />
+                  <IfcClassificationReference id="i1646" Location="http://www.cafm-connect.org/CAFMConnect/c557c508-bd76-43a2-a67e-62a2d1555370" Identification="412.30" Name="Dezentrale Trinkwasser-Erwärmungsanlagen" Description="Wasserheizer, Leitungen," />
+                  <IfcClassificationReference id="i1647" Location="http://www.cafm-connect.org/CAFMConnect/be21a2d1-7772-44a7-8226-3c1c110ad188" Identification="412.40" Name="Trinkwasser- Aufbereitungsanlagen" Description="Filter, Pumpen, Chlorung," />
+                  <IfcClassificationReference id="i1648" Location="http://www.cafm-connect.org/CAFMConnect/cf0f27bd-05c6-497e-9c0c-cfa8d649fc06" Identification="412.60" Name="Nichttrinkwasseranlagen" Description="Pumpen, Regenwasser, Dachablaufwasser" />
+                  <IfcClassificationReference id="i1649" Location="http://www.cafm-connect.org/CAFMConnect/c8595287-ea73-4d33-9a0d-e4361b5d8a5d" Identification="412.61" Name="Rohrleitungen" Description="" />
+                  <IfcClassificationReference id="i1650" Location="http://www.cafm-connect.org/CAFMConnect/92ce21d8-ae70-4123-9b16-3780136b19f4" Identification="412.62" Name="Armaturen" Description="" />
+                  <IfcClassificationReference id="i1651" Location="http://www.cafm-connect.org/CAFMConnect/56ca8d20-77b0-4ac7-9822-e0734b8d5c4b" Identification="412.64" Name="Brunnenwasserversorgung" Description="" />
+                  <IfcClassificationReference id="i1652" Location="http://www.cafm-connect.org/CAFMConnect/c9e92745-6e49-4e63-8563-4435b3a81987" Identification="412.65" Name="Zierbrunnen" Description="" />
+                  <IfcClassificationReference id="i1653" Location="http://www.cafm-connect.org/CAFMConnect/2592726a-aef3-4db1-bd00-1d92dfd9d3b6" Identification="412.70" Name="Regenwassernutzungsanlagen" Description="" />
+                  <IfcClassificationReference id="i1654" Location="http://www.cafm-connect.org/CAFMConnect/dc35bc4e-a912-40bd-b203-ae75f5843d9d" Identification="412.80" Name="Trinkwasser-Hausanschluss" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1655" Location="http://www.cafm-connect.org/CAFMConnect/57bc8662-af49-4a07-8b50-fb123d8dd96c" Identification="413" Name="Gasanlagen" Description="Gasanlagen für Wirtschaftswärme: Gaslagerungs- und Erzeugungsanlagen, Übergabestationen, Druckregelanlagen und Gasleitungen, soweit nicht zu den Kostengruppen 420 oder 470 gehörend">
+                <HasReferences>
+                  <IfcClassificationReference id="i1656" Location="http://www.cafm-connect.org/CAFMConnect/8a553279-117b-4898-8042-45f4397faa4c" Identification="413.10" Name="Rohrleitungen" Description="" />
+                  <IfcClassificationReference id="i1657" Location="http://www.cafm-connect.org/CAFMConnect/f63df9ba-3fa7-4f33-a65f-93a4de1b026e" Identification="413.20" Name="Armaturen" Description="" />
+                  <IfcClassificationReference id="i1658" Location="http://www.cafm-connect.org/CAFMConnect/53b124f9-f763-4eea-94ec-ab59934e070e" Identification="413.30" Name="Flüssiggastanks" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1659" Location="http://www.cafm-connect.org/CAFMConnect/7874d7e8-4e7d-433f-b5c1-6a4814cf7882" Identification="419" Name="Abwasser-, Wasser-, Gasanlagen, sonstiges" Description="Installationsblöcke, Sanitärzellen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1660" Location="http://www.cafm-connect.org/CAFMConnect/4e63ffc2-ecd8-41a7-af14-6aca5617eb25" Identification="419.70" Name="Hygienische Einrichtungen" Description="" />
+                  <IfcClassificationReference id="i1661" Location="http://www.cafm-connect.org/CAFMConnect/781e0a40-4825-43dc-a515-6e315b09ebca" Identification="419.71" Name="Rohrleitungen" Description="" />
+                  <IfcClassificationReference id="i1662" Location="http://www.cafm-connect.org/CAFMConnect/24c073f7-7d74-4e97-8f03-eddfacc88375" Identification="419.72" Name="Absperr-, Entleerungs- und Entnahmearmaturen" Description="" />
+                  <IfcClassificationReference id="i1663" Location="http://www.cafm-connect.org/CAFMConnect/abeeb822-5f00-47d1-8d2a-9df6c461d3a1" Identification="419.73" Name="Zentraleinheiten einschließlich Pumpe" Description="" />
+                  <IfcClassificationReference id="i1664" Location="http://www.cafm-connect.org/CAFMConnect/e738cef9-8b9b-4148-b716-ef90249902d1" Identification="419.74" Name="Desinfektionsanlagen" Description="" />
+                  <IfcClassificationReference id="i1665" Location="http://www.cafm-connect.org/CAFMConnect/8f32a6a6-4002-4aa0-a2ee-8ee6e16f0088" Identification="419.80" Name="MSR-Technik und Antriebselemente" Description="" />
+                  <IfcClassificationReference id="i1666" Location="http://www.cafm-connect.org/CAFMConnect/6dded178-2730-4827-bda6-665a4504cfb3" Identification="419.81" Name="MSR-Technik" Description="" />
+                  <IfcClassificationReference id="i1667" Location="http://www.cafm-connect.org/CAFMConnect/1f122758-786c-4545-96a3-ddc6289360ed" Identification="419.82" Name="Elektromotoren" Description="" />
+                  <IfcClassificationReference id="i1668" Location="http://www.cafm-connect.org/CAFMConnect/06eb0878-7fb3-4005-b53e-b5c20d4b7128" Identification="419.83" Name="Riementriebe" Description="" />
+                  <IfcClassificationReference id="i1669" Location="http://www.cafm-connect.org/CAFMConnect/7c62ea74-84f5-4d33-8b62-89699ef86c84" Identification="419.84" Name="Antriebskupplungen" Description="" />
+                  <IfcClassificationReference id="i1670" Location="http://www.cafm-connect.org/CAFMConnect/85d0c87a-eb47-42a4-8564-1cc242345ec7" Identification="419.85" Name="Kettentriebe" Description="" />
+                  <IfcClassificationReference id="i1671" Location="http://www.cafm-connect.org/CAFMConnect/6562f72f-9453-42a8-a399-c16ac9da6d00" Identification="419.86" Name="Getriebe" Description="" />
+                  <IfcClassificationReference id="i1672" Location="http://www.cafm-connect.org/CAFMConnect/3543484f-711c-4b88-a6eb-c06c0701041b" Identification="419.90" Name="Elektrische/elektronische Steuereinrichtungen" Description="" />
+                  <IfcClassificationReference id="i1673" Location="http://www.cafm-connect.org/CAFMConnect/96e89b3a-a907-4bb7-9ee1-ee5542ccd2c9" Identification="419.91" Name="Näherungselektronik" Description="" />
+                  <IfcClassificationReference id="i1674" Location="http://www.cafm-connect.org/CAFMConnect/50557233-b03d-4ec7-9af7-3143acc9433e" Identification="419.92" Name="Lichtschranken" Description="" />
+                  <IfcClassificationReference id="i1675" Location="http://www.cafm-connect.org/CAFMConnect/2e71efcb-3c33-4107-9bce-4516a0cdcd54" Identification="419.93" Name="Alarm- und Störmeldeeinrichtungen" Description="" />
+                  <IfcClassificationReference id="i1676" Location="http://www.cafm-connect.org/CAFMConnect/babe53c5-38ec-4ff6-995b-672f068307bf" Identification="419.94" Name="Druckschalter" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1677" Location="http://www.cafm-connect.org/CAFMConnect/15d1fcc1-9885-4205-84db-d6be07240fee" Identification="420" Name="Wärmeversorgungsanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i1678" Location="http://www.cafm-connect.org/CAFMConnect/0cd0274f-52ad-4789-bf2f-3b3c12e11630" Identification="421" Name="Wärmeerzeugungsanlagen" Description="Brennstoffversorgung, Wärmeübergabestationen, Wärmeerzeugung auf der Grundlage von Brennstoffen oder unerschöpflichen Energiequellen einschließlich Schornsteinanschlüsse, zentrale Wassererwärmungsanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1679" Location="http://www.cafm-connect.org/CAFMConnect/441a7ad4-bba7-4250-a09d-85f463acb219" Identification="421.10" Name="Wärmeerzeuger" Description="" />
+                  <IfcClassificationReference id="i1680" Location="http://www.cafm-connect.org/CAFMConnect/f78e5300-d52f-4904-9a87-71f529cc7a35" Identification="421.11" Name="Wasserkessel" Description="" />
+                  <IfcClassificationReference id="i1681" Location="http://www.cafm-connect.org/CAFMConnect/5b38992d-c502-4386-8d34-a77f2cc592f9" Identification="421.12" Name="Dampfkessel" Description="" />
+                  <IfcClassificationReference id="i1682" Location="http://www.cafm-connect.org/CAFMConnect/93f53f7b-9add-4b16-90a7-40fcd511d3a9" Identification="421.13" Name="Wärmepumpen" Description="" />
+                  <IfcClassificationReference id="i1683" Location="http://www.cafm-connect.org/CAFMConnect/53787654-9dc2-44d9-8882-33f357010c1b" Identification="421.14" Name="Solarkollektoren" Description="" />
+                  <IfcClassificationReference id="i1684" Location="http://www.cafm-connect.org/CAFMConnect/3126d105-9ed4-476e-9f23-7a8a83f4bdc2" Identification="421.15" Name="Blockheizkraftwerke (BHKW) (wärmegeführt)" Description="" />
+                  <IfcClassificationReference id="i1685" Location="http://www.cafm-connect.org/CAFMConnect/0d130a7a-0a82-4f9f-a20b-fe104262153b" Identification="421.16" Name="Brennstoffzellenheizgeräte" Description="" />
+                  <IfcClassificationReference id="i1686" Location="http://www.cafm-connect.org/CAFMConnect/25d3b427-c7f1-4b1d-9383-ef8a26f5a7cd" Identification="421.17" Name="Elektroheizungen" Description="" />
+                  <IfcClassificationReference id="i1687" Location="http://www.cafm-connect.org/CAFMConnect/3e62e2a9-df2c-4edc-a2f8-7af477149950" Identification="421.18" Name="Wärmeübertrager" Description="" />
+                  <IfcClassificationReference id="i1688" Location="http://www.cafm-connect.org/CAFMConnect/56f91995-625d-4ea2-a2a4-e7be882d6424" Identification="421.19" Name="Fernwärmeübergabestation" Description="" />
+                  <IfcClassificationReference id="i1689" Location="http://www.cafm-connect.org/CAFMConnect/01aaf875-19aa-48a9-a05d-0410a1183827" Identification="421.20" Name="Bestandteile des Verteilungsnetzes" Description="" />
+                  <IfcClassificationReference id="i1690" Location="http://www.cafm-connect.org/CAFMConnect/64ee1a8e-8c8b-42d2-abe2-783c1f29aad9" Identification="421.21" Name="Ausdehnungsgefäße" Description="" />
+                  <IfcClassificationReference id="i1691" Location="http://www.cafm-connect.org/CAFMConnect/8c0d8d21-dd33-4775-9044-0eab0e826dc9" Identification="421.22" Name="Druckerhöhungsanlage/ Druckhaltung" Description="" />
+                  <IfcClassificationReference id="i1692" Location="http://www.cafm-connect.org/CAFMConnect/5690391c-1340-4da3-b26d-ee742a793a0b" Identification="421.23" Name="Minimal- und Maximaldruckbegrenzer" Description="" />
+                  <IfcClassificationReference id="i1693" Location="http://www.cafm-connect.org/CAFMConnect/4afb8c32-7d3e-4d35-a094-c851598b16db" Identification="421.24" Name="Heizungsverteiler" Description="" />
+                  <IfcClassificationReference id="i1694" Location="http://www.cafm-connect.org/CAFMConnect/d99b972f-6f92-4fe8-81c2-fbae04c0e8bc" Identification="421.30" Name="Feuerungsanlagen" Description="" />
+                  <IfcClassificationReference id="i1695" Location="http://www.cafm-connect.org/CAFMConnect/ff9d1799-ba89-4bfa-a4aa-de7a53911297" Identification="421.31" Name="Brenner" Description="" />
+                  <IfcClassificationReference id="i1696" Location="http://www.cafm-connect.org/CAFMConnect/93a560ec-3c18-4ba9-bfbc-bab90d519b12" Identification="421.36" Name="Direkte Strahlungsheizung" Description="" />
+                  <IfcClassificationReference id="i1697" Location="http://www.cafm-connect.org/CAFMConnect/20e463dd-d2d3-4708-bba6-21aeeefa445b" Identification="421.40" Name="Abgasanlagen" Description="" />
+                  <IfcClassificationReference id="i1698" Location="http://www.cafm-connect.org/CAFMConnect/02085562-7264-4fd2-8715-068c9c40eabe" Identification="421.41" Name="Abgasleitungen" Description="" />
+                  <IfcClassificationReference id="i1699" Location="http://www.cafm-connect.org/CAFMConnect/7bc56b70-1b25-4d8d-9687-67b0b4d1cbf4" Identification="421.42" Name="Schalldämpfer" Description="" />
+                  <IfcClassificationReference id="i1700" Location="http://www.cafm-connect.org/CAFMConnect/1c11c64a-98f7-4843-af10-3a7da92fc3f7" Identification="421.43" Name="Abgaswärmetauscher" Description="" />
+                  <IfcClassificationReference id="i1701" Location="http://www.cafm-connect.org/CAFMConnect/6dfd2694-1238-4be8-9381-08563b0f1b26" Identification="421.44" Name="Abgasklappen, Zugbegrenzer" Description="" />
+                  <IfcClassificationReference id="i1702" Location="http://www.cafm-connect.org/CAFMConnect/ec4c0cb6-a3fc-4928-992d-a0a038a0b522" Identification="421.45" Name="Abgasventilatoren" Description="" />
+                  <IfcClassificationReference id="i1703" Location="http://www.cafm-connect.org/CAFMConnect/daeb63c1-714d-46be-a0c2-79dd2567b2f7" Identification="421.46" Name="Schornsteine" Description="" />
+                  <IfcClassificationReference id="i1704" Location="http://www.cafm-connect.org/CAFMConnect/23e19ed4-c91b-48cc-a72b-18c492ca3149" Identification="421.47" Name="Entwässerungseinrichtungen" Description="" />
+                  <IfcClassificationReference id="i1705" Location="http://www.cafm-connect.org/CAFMConnect/618c5819-7059-4527-926f-eb8dfa302ee8" Identification="421.48" Name="Abgasmesseinrichtungen" Description="" />
+                  <IfcClassificationReference id="i1706" Location="http://www.cafm-connect.org/CAFMConnect/b9e65917-801d-4d32-93d3-7c232558bac4" Identification="421.50" Name="Zentrale Wassererwärmungsanlagen " Description="" />
+                  <IfcClassificationReference id="i1707" Location="http://www.cafm-connect.org/CAFMConnect/71e93e75-e5ed-4859-a4c2-3d70d2255db2" Identification="421.60" Name="Schaltschrank, Regelanlage, Leittechnik, Druckluft" Description="" />
+                  <IfcClassificationReference id="i1708" Location="http://www.cafm-connect.org/CAFMConnect/9fe14ca9-50b0-4ec6-af83-578298bdc9ae" Identification="421.70" Name="Antriebselemente" Description="" />
+                  <IfcClassificationReference id="i1709" Location="http://www.cafm-connect.org/CAFMConnect/277b1920-888e-45de-9567-8ce2142eb023" Identification="421.71" Name="Elektromotoren" Description="" />
+                  <IfcClassificationReference id="i1710" Location="http://www.cafm-connect.org/CAFMConnect/a5c933b8-75d2-41b1-8693-bbc58a90a044" Identification="421.72" Name="Riementriebe" Description="" />
+                  <IfcClassificationReference id="i1711" Location="http://www.cafm-connect.org/CAFMConnect/b235f88b-6fdd-442d-8619-c4306bb6ca82" Identification="421.73" Name="Antriebskupplungen" Description="" />
+                  <IfcClassificationReference id="i1712" Location="http://www.cafm-connect.org/CAFMConnect/5029b1dd-faca-44d4-b3af-1d54dc2857bc" Identification="421.74" Name="Kettentriebe" Description="" />
+                  <IfcClassificationReference id="i1713" Location="http://www.cafm-connect.org/CAFMConnect/c5eba460-045b-4206-8ac7-43a15c365e92" Identification="421.75" Name="Getriebe" Description="" />
+                  <IfcClassificationReference id="i1714" Location="http://www.cafm-connect.org/CAFMConnect/7983ec47-e6c7-4962-b29d-ff23c94e09c7" Identification="421.90" Name="Heizölläger" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1715" Location="http://www.cafm-connect.org/CAFMConnect/444a1a3d-7964-496e-b826-5de5bdfc6858" Identification="422" Name="Wärmeverteilnetze" Description="Pumpen, Verteiler; Rohrleitungen für Raumheizflächen, raumlufttechnische Anlagen und sonstige Wärmeverbraucher">
+                <HasReferences>
+                  <IfcClassificationReference id="i1716" Location="http://www.cafm-connect.org/CAFMConnect/5724f2d0-fb1a-4473-89d8-ba28eba0683e" Identification="422.80" Name="Rohrnetz" Description="" />
+                  <IfcClassificationReference id="i1717" Location="http://www.cafm-connect.org/CAFMConnect/d06fb0db-8d28-46f9-be5a-a59cc9289df3" Identification="422.81" Name="Pumpen" Description="" />
+                  <IfcClassificationReference id="i1718" Location="http://www.cafm-connect.org/CAFMConnect/8fd7504f-c19c-460c-83de-a32cda6d2e3b" Identification="422.82" Name="Armaturen" Description="" />
+                  <IfcClassificationReference id="i1719" Location="http://www.cafm-connect.org/CAFMConnect/69ffdb1a-7e68-45ab-95e4-e5968688d1d5" Identification="422.83" Name="Schmutzfänger" Description="" />
+                  <IfcClassificationReference id="i1720" Location="http://www.cafm-connect.org/CAFMConnect/c0d68b2c-9254-4e62-befc-5d0a2d273439" Identification="422.84" Name="Rohrleitungen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1721" Location="http://www.cafm-connect.org/CAFMConnect/778f7a09-e950-4f6f-a70d-4b3e01b3d57b" Identification="423" Name="Raumheizflächen" Description="Heizkörper, Flächenheizsysteme">
+                <HasReferences>
+                  <IfcClassificationReference id="i1722" Location="http://www.cafm-connect.org/CAFMConnect/8d56d986-a7be-4590-b453-3c1f140767c8" Identification="423.16" Name="Mess- und Zähleinrichtungen" Description="" />
+                  <IfcClassificationReference id="i1723" Location="http://www.cafm-connect.org/CAFMConnect/63a8eadf-af33-409f-bfae-4e59dde70197" Identification="423.17" Name="Heizkörper" Description="" />
+                  <IfcClassificationReference id="i1724" Location="http://www.cafm-connect.org/CAFMConnect/78dc700e-805d-4fd1-b9a3-9f207fa17371" Identification="423.18" Name="Flächenheizung" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1725" Location="http://www.cafm-connect.org/CAFMConnect/8d44852f-0d53-45e2-aff9-d0d9f4925b17" Identification="429" Name="Wärmeversorgungsanlagen, sonstiges" Description="Schornsteine, soweit nicht in anderen Kostengruppen erfasst" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1726" Location="http://www.cafm-connect.org/CAFMConnect/8fd85836-5779-48ef-8694-5b47fda5e7d3" Identification="430" Name="Lufttechnische Anlagen" Description="Anlagen mit und ohne Lüftungsfunktion">
+            <HasReferences>
+              <IfcClassificationReference id="i1727" Location="http://www.cafm-connect.org/CAFMConnect/183c894a-bcd4-49ef-b99e-923bac264ff4" Identification="430.00" Name="Gemeinsame Bauteile lufttechnischer Anlagen" Description="" />
+              <IfcClassificationReference id="i1728" Location="http://www.cafm-connect.org/CAFMConnect/9daa43e1-8190-4301-aa4a-866f2b018ab4" Identification="430.10" Name="Ventilatoren" Description="" />
+              <IfcClassificationReference id="i1729" Location="http://www.cafm-connect.org/CAFMConnect/e033b741-234d-41d0-aa91-75e23080c031" Identification="430.20" Name="Wärmetauscher" Description="" />
+              <IfcClassificationReference id="i1730" Location="http://www.cafm-connect.org/CAFMConnect/400d67ce-edf3-4917-8b7f-7446a3b25bfd" Identification="430.21" Name="Wärmerückgewinnung WRG" Description="" />
+              <IfcClassificationReference id="i1731" Location="http://www.cafm-connect.org/CAFMConnect/e98045fe-cf64-46ad-8721-cb79fd7e5c4b" Identification="430.22" Name="Elektro-Lufterwärmer" Description="" />
+              <IfcClassificationReference id="i1732" Location="http://www.cafm-connect.org/CAFMConnect/37837e21-8c71-4b8b-8d07-e45388ce3296" Identification="430.23" Name="Luftkühler (Luft/Flüssigkeit)" Description="" />
+              <IfcClassificationReference id="i1733" Location="http://www.cafm-connect.org/CAFMConnect/ede141d7-51aa-451e-b312-7d7b0c1125e1" Identification="430.24" Name="Verdampfer (Luft/Kältemittel)" Description="" />
+              <IfcClassificationReference id="i1734" Location="http://www.cafm-connect.org/CAFMConnect/9ec88b8b-3718-4144-a7bd-5a0a363502c9" Identification="430.25" Name="Kreuzstrom-Wärmetauscher" Description="" />
+              <IfcClassificationReference id="i1735" Location="http://www.cafm-connect.org/CAFMConnect/56fc02ff-4392-490d-8bfc-a86fd6e9d195" Identification="430.26" Name="Rotations-Wärmeübertrager" Description="" />
+              <IfcClassificationReference id="i1736" Location="http://www.cafm-connect.org/CAFMConnect/1ccbf708-2206-42ed-9310-f12999dc0b60" Identification="430.27" Name="Lufterhitzer (Luft/Flüssigkeit)" Description="" />
+              <IfcClassificationReference id="i1737" Location="http://www.cafm-connect.org/CAFMConnect/3ac4558e-201a-4c3e-8293-24ab2c15038d" Identification="430.30" Name="Luftfilter" Description="" />
+              <IfcClassificationReference id="i1738" Location="http://www.cafm-connect.org/CAFMConnect/55501333-b39c-49e7-aaee-7ea28eb39e93" Identification="430.40" Name="Luftbe- und -entfeuchter" Description="" />
+              <IfcClassificationReference id="i1739" Location="http://www.cafm-connect.org/CAFMConnect/0cb3fab7-a276-4337-ad8d-c755a9017dca" Identification="430.41" Name="Luftbefeuchter (Medium: Wasser)" Description="" />
+              <IfcClassificationReference id="i1740" Location="http://www.cafm-connect.org/CAFMConnect/dadf7e43-551f-476e-84bb-7b95f68ee3eb" Identification="430.42" Name="Tropfenabscheider / Gleichrichter" Description="" />
+              <IfcClassificationReference id="i1741" Location="http://www.cafm-connect.org/CAFMConnect/cf06e881-9b06-4fac-855e-1652e74a4aef" Identification="430.43" Name="Luftbefeuchter (Medium: Dampf; mit eigenem Dampfer" Description="" />
+              <IfcClassificationReference id="i1742" Location="http://www.cafm-connect.org/CAFMConnect/808f4fcb-7db9-4bd9-9b6f-24bfc77330b7" Identification="430.44" Name="Luftbefeuchter (Medium: Dampf; ohne eigenen Dampfe" Description="" />
+              <IfcClassificationReference id="i1743" Location="http://www.cafm-connect.org/CAFMConnect/c07e8c66-295f-4a96-93c6-3c3bdc76fa8b" Identification="430.45" Name="Ultraschall-, Zerstäubungs- und Hybridbefeuchter" Description="" />
+              <IfcClassificationReference id="i1744" Location="http://www.cafm-connect.org/CAFMConnect/6ab80984-3bde-44a3-99e8-4e03a5b4bdf8" Identification="430.46" Name="Dampferzeuger" Description="" />
+              <IfcClassificationReference id="i1745" Location="http://www.cafm-connect.org/CAFMConnect/2eef7b6b-5bb0-41db-8c82-87dd45e041d6" Identification="430.47" Name="Entfeuchter" Description="" />
+              <IfcClassificationReference id="i1746" Location="http://www.cafm-connect.org/CAFMConnect/0413a946-e050-4716-beb9-eb96765d6146" Identification="430.50" Name="Bauelemente des Luftleitungssystems" Description="" />
+              <IfcClassificationReference id="i1747" Location="http://www.cafm-connect.org/CAFMConnect/79a376cd-6dbb-4c40-bfbc-0d56f8d5cc9e" Identification="430.51" Name="Wetterschutzgitter" Description="" />
+              <IfcClassificationReference id="i1748" Location="http://www.cafm-connect.org/CAFMConnect/c66e5b39-ef5a-4df0-a76a-c0b7c91a7db4" Identification="430.52" Name="Gitter und Verteiler" Description="" />
+              <IfcClassificationReference id="i1749" Location="http://www.cafm-connect.org/CAFMConnect/2bff3d11-d91c-4362-9659-fcaea9f7f3c9" Identification="430.53" Name="Brandschutzklappen (BSK)" Description="" />
+              <IfcClassificationReference id="i1750" Location="http://www.cafm-connect.org/CAFMConnect/cd557f25-718b-4172-9f2c-18a866a0cb3c" Identification="430.54" Name="Klappen (außer Brandschutzklappen)" Description="" />
+              <IfcClassificationReference id="i1751" Location="http://www.cafm-connect.org/CAFMConnect/52c195c6-eded-4c94-b99d-7234c675d8fc" Identification="430.55" Name="Luftleitungen und Kammern" Description="" />
+              <IfcClassificationReference id="i1752" Location="http://www.cafm-connect.org/CAFMConnect/0e24d207-37a1-427e-ae6c-4f6c121a5bbf" Identification="430.56" Name="Volumenstrom- und Mischregler" Description="" />
+              <IfcClassificationReference id="i1753" Location="http://www.cafm-connect.org/CAFMConnect/8cff7e88-d078-4467-ad5b-c7a0e56fcfcb" Identification="430.57" Name="Absperr- und Abgleichelemente" Description="" />
+              <IfcClassificationReference id="i1754" Location="http://www.cafm-connect.org/CAFMConnect/ee969830-d36e-4983-abd3-7933b2c8143e" Identification="430.58" Name="Induktionsgeräte und vergleichbare Nachbehandlungs" Description="" />
+              <IfcClassificationReference id="i1755" Location="http://www.cafm-connect.org/CAFMConnect/8a3293a3-4052-4f3c-a20e-e20e65736cc1" Identification="430.60" Name="Schaltschrank, Regelanlage, Leittechnik, Druckluft" Description="" />
+              <IfcClassificationReference id="i1756" Location="http://www.cafm-connect.org/CAFMConnect/dc8505f2-189c-4089-ae96-fe6a344ef92b" Identification="430.70" Name="Antriebselemente" Description="" />
+              <IfcClassificationReference id="i1757" Location="http://www.cafm-connect.org/CAFMConnect/5b670f9e-a383-4133-840a-1927a5e719ee" Identification="430.71" Name="Elektromotoren" Description="" />
+              <IfcClassificationReference id="i1758" Location="http://www.cafm-connect.org/CAFMConnect/23be70f2-73bf-4156-8cce-f8ca8f831597" Identification="430.72" Name="Riementriebe" Description="" />
+              <IfcClassificationReference id="i1759" Location="http://www.cafm-connect.org/CAFMConnect/b0d7ff58-c29b-45cd-912f-786e503e997f" Identification="430.73" Name="Antriebskupplungen" Description="" />
+              <IfcClassificationReference id="i1760" Location="http://www.cafm-connect.org/CAFMConnect/6df5c859-b0ab-4deb-9b08-5b5538d0aa8c" Identification="430.74" Name="Kettentriebe" Description="" />
+              <IfcClassificationReference id="i1761" Location="http://www.cafm-connect.org/CAFMConnect/3a859d5e-f6df-4370-9c57-33cec2882106" Identification="430.75" Name="Getriebe" Description="" />
+              <IfcClassificationReference id="i1762" Location="http://www.cafm-connect.org/CAFMConnect/4cd14657-b395-431d-a4af-25691c525505" Identification="431" Name="Lüftungsanlagen" Description="Abluftanlagen, Zuluftanlagen, Zu- und Abluftanlagen ohne oder mit einer thermodynamischen Luftbehandlungsfunktion, mechanische Entrauchungsanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1763" Location="http://www.cafm-connect.org/CAFMConnect/a39b2c87-e249-49aa-89f3-bfb7143e688f" Identification="431.20" Name="Lüftungsanlagen für Feuerstätten" Description="" />
+                  <IfcClassificationReference id="i1764" Location="http://www.cafm-connect.org/CAFMConnect/b57e99e5-e59b-414e-a34a-03cc5923faab" Identification="431.40" Name="Lufterhitzer, Tür- und Torluftschleier" Description="" />
+                  <IfcClassificationReference id="i1765" Location="http://www.cafm-connect.org/CAFMConnect/d55e48c5-fc92-4cff-9b3a-96d1805307c2" Identification="431.50" Name="Sonderabluftanlagen" Description="" />
+                  <IfcClassificationReference id="i1766" Location="http://www.cafm-connect.org/CAFMConnect/c10c24d1-ac74-420d-bf2b-12c230986a5b" Identification="431.60" Name="Jet-Ventilatoren" Description="" />
+                  <IfcClassificationReference id="i1767" Location="http://www.cafm-connect.org/CAFMConnect/56ba06b5-e722-4049-b825-b42ba0ff2410" Identification="431.80" Name="Rauchschutz-Druckanlagen (DRA)" Description="" />
+                  <IfcClassificationReference id="i1768" Location="http://www.cafm-connect.org/CAFMConnect/3a65c166-be0a-49e7-b221-25ec9a0740f6" Identification="431.90" Name="Maschinelle Rauch- und Wärmeabzugsanlagen (MRA, RW" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1769" Location="http://www.cafm-connect.org/CAFMConnect/036e3da3-a3db-4a2e-ad61-ce210d5802db" Identification="434" Name="Kälteanlagen" Description="Kälteanlagen für lufttechnische Anlagen: Kälteerzeugungs- und Rückkühlanlagen einschließlich Pumpen, Verteiler und Rohrleitungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1770" Location="http://www.cafm-connect.org/CAFMConnect/f5d063de-04b4-4493-b4ff-21ebd60872f7" Identification="434.10" Name="Verdichter/ Kältemaschine" Description="" />
+                  <IfcClassificationReference id="i1771" Location="http://www.cafm-connect.org/CAFMConnect/9942a4d0-6f75-4891-b912-fe89873c1d5a" Identification="434.20" Name="Wärmeübertrager" Description="" />
+                  <IfcClassificationReference id="i1772" Location="http://www.cafm-connect.org/CAFMConnect/0ba7d850-d070-447a-b626-054b0cae9eac" Identification="434.30" Name="Anlagenteile (Primär)" Description="" />
+                  <IfcClassificationReference id="i1773" Location="http://www.cafm-connect.org/CAFMConnect/ff24e71c-c08f-4e76-9752-ef861096d7fa" Identification="434.31" Name="Pumpen" Description="" />
+                  <IfcClassificationReference id="i1774" Location="http://www.cafm-connect.org/CAFMConnect/71386f94-c2e6-4d5a-b18f-47f9b145acb1" Identification="434.32" Name="Armaturen" Description="" />
+                  <IfcClassificationReference id="i1775" Location="http://www.cafm-connect.org/CAFMConnect/8fcd5c14-094b-4e87-8ea8-2fddce1c30a9" Identification="434.33" Name="MSR- und Sicherheitseinrichtung" Description="" />
+                  <IfcClassificationReference id="i1776" Location="http://www.cafm-connect.org/CAFMConnect/0163e150-27cd-460f-b81d-a0c9aa0ae2d6" Identification="434.34" Name="Mess- und Anzeigegeräte" Description="" />
+                  <IfcClassificationReference id="i1777" Location="http://www.cafm-connect.org/CAFMConnect/0cf8c4f6-3c14-4188-ae17-f807e6d2ae6f" Identification="434.35" Name="Druckhaltung" Description="" />
+                  <IfcClassificationReference id="i1778" Location="http://www.cafm-connect.org/CAFMConnect/2e0d3993-98c4-4010-9530-4116ddbc3f3f" Identification="434.36" Name="Rohrleitungen" Description="" />
+                  <IfcClassificationReference id="i1779" Location="http://www.cafm-connect.org/CAFMConnect/cf7dbc48-203b-4eca-a4e2-859f6de18354" Identification="434.40" Name="Rückkühlanlagen" Description="" />
+                  <IfcClassificationReference id="i1780" Location="http://www.cafm-connect.org/CAFMConnect/98bd18fb-1913-4c7e-b4e6-37e7700cf7c1" Identification="434.60" Name="Antriebselemente" Description="" />
+                  <IfcClassificationReference id="i1781" Location="http://www.cafm-connect.org/CAFMConnect/eeef74bb-60fb-4e7f-b589-dcac8cdba586" Identification="434.61" Name="Elektromotoren" Description="" />
+                  <IfcClassificationReference id="i1782" Location="http://www.cafm-connect.org/CAFMConnect/f11a59e0-dfca-47f8-a2b0-228ad5486297" Identification="434.62" Name="Riementriebe" Description="" />
+                  <IfcClassificationReference id="i1783" Location="http://www.cafm-connect.org/CAFMConnect/89bcf698-722b-4b00-a723-b19636efc5b4" Identification="434.63" Name="Antriebskupplungen" Description="" />
+                  <IfcClassificationReference id="i1784" Location="http://www.cafm-connect.org/CAFMConnect/96f4c93c-50f6-47b7-948c-1aeaaefa6e98" Identification="434.64" Name="Getriebe" Description="" />
+                  <IfcClassificationReference id="i1785" Location="http://www.cafm-connect.org/CAFMConnect/d91855e2-1757-4847-83a4-a9ea28746753" Identification="434.70" Name="Rohrnetz (Sekundär)" Description="" />
+                  <IfcClassificationReference id="i1786" Location="http://www.cafm-connect.org/CAFMConnect/77b485ed-3a45-468a-9f06-a2bc4e4a3500" Identification="434.71" Name="Pumpen" Description="" />
+                  <IfcClassificationReference id="i1787" Location="http://www.cafm-connect.org/CAFMConnect/d3f2d020-a1e9-40e5-9169-d8443cae8f13" Identification="434.72" Name="Armaturen" Description="" />
+                  <IfcClassificationReference id="i1788" Location="http://www.cafm-connect.org/CAFMConnect/cfcf88ca-e2cd-4773-86b3-342026051d99" Identification="434.73" Name="Schmutzfänger" Description="" />
+                  <IfcClassificationReference id="i1789" Location="http://www.cafm-connect.org/CAFMConnect/02f7034b-1239-47c6-ab9c-761a26a9dbae" Identification="434.74" Name="Rohrleitungen" Description="" />
+                  <IfcClassificationReference id="i1790" Location="http://www.cafm-connect.org/CAFMConnect/cd236882-b2c7-4305-b920-f08b7d6e96ef" Identification="434.75" Name="Ausdehnungsgefäße" Description="" />
+                  <IfcClassificationReference id="i1791" Location="http://www.cafm-connect.org/CAFMConnect/fbb063ae-d590-4358-b804-377d7661638d" Identification="434.76" Name="Kälteverteiler" Description="" />
+                  <IfcClassificationReference id="i1792" Location="http://www.cafm-connect.org/CAFMConnect/c669a9c2-5587-41d9-b0a9-1b2da875f417" Identification="434.79" Name="Raumkühlflächen" Description="" />
+                  <IfcClassificationReference id="i1793" Location="http://www.cafm-connect.org/CAFMConnect/0cf0e529-033c-4144-a452-35c6accff16c" Identification="434.80" Name="Absorber" Description="" />
+                  <IfcClassificationReference id="i1794" Location="http://www.cafm-connect.org/CAFMConnect/fe89636d-9841-4df5-b030-a7b4bd54e6c9" Identification="434.90" Name="Elektrische Einrichtungen" Description="" />
+                  <IfcClassificationReference id="i1795" Location="http://www.cafm-connect.org/CAFMConnect/546617a2-cf30-430a-bca2-773903161772" Identification="434.91" Name="Schalt- und Steuerschränke" Description="" />
+                  <IfcClassificationReference id="i1796" Location="http://www.cafm-connect.org/CAFMConnect/fd34a69b-c69d-4dca-9229-35e3cf9735fc" Identification="434.92" Name="Sicherheitseinrichtungen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1797" Location="http://www.cafm-connect.org/CAFMConnect/70cb0953-011c-4dcc-bc29-a7137c698a0d" Identification="438" Name="dezentrale Kleinkälteanlagen" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i1798" Location="http://www.cafm-connect.org/CAFMConnect/c8835121-0f97-44c7-a22a-33178091d727" Identification="438.10" Name="Splitgeräte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1799" Location="http://www.cafm-connect.org/CAFMConnect/d208561e-0d57-4fff-bd40-b7975321fe7e" Identification="439" Name="Lufttechnische Anlagen, sonstiges" Description="Lüftungsdecken, Kühldecken, Abluftfenster; Installationsdoppelböden, soweit nicht in anderen Kostengruppen erfasst" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1800" Location="http://www.cafm-connect.org/CAFMConnect/b6c90c6e-593f-40cb-8fed-5cc62a602752" Identification="440" Name="Starkstromanlagen" Description="Einschließlich der Brandschutzdurchführungen, soweit nicht in anderen Kostengruppen erfasst">
+            <HasReferences>
+              <IfcClassificationReference id="i1801" Location="http://www.cafm-connect.org/CAFMConnect/79a1a017-bd6e-4984-b41a-f771780d8156" Identification="441" Name="Hoch- und Mittelspannungsanlagen" Description="&#xD;&#xA;Schaltanlagen, Transformatoren">
+                <HasReferences>
+                  <IfcClassificationReference id="i1802" Location="http://www.cafm-connect.org/CAFMConnect/8916b42a-60e0-4474-b242-e8089385c367" Identification="441.10" Name="Hoch- und Mittelspannungsschaltanlagen" Description="" />
+                  <IfcClassificationReference id="i1803" Location="http://www.cafm-connect.org/CAFMConnect/91c51b9d-0aa6-4bba-acb5-f14b28e246d9" Identification="441.20" Name="Transformatorenstationen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1804" Location="http://www.cafm-connect.org/CAFMConnect/4e46600b-bad2-45fa-997f-d14f86d4bf55" Identification="442" Name="Eigenstromversorgungsanlagen" Description="Stromerzeugungsaggregate einschließlich Kühlung, Abgasanlagen und Brennstoffversorgung, zentrale Batterie- und unterbrechungsfreie Stromversorgungsanlagen, photovoltaische Anlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1805" Location="http://www.cafm-connect.org/CAFMConnect/a236f03e-4d2d-40d5-8413-a46062260eb9" Identification="442.10" Name="Sicherheitsstromversorgungsanlagen" Description="" />
+                  <IfcClassificationReference id="i1806" Location="http://www.cafm-connect.org/CAFMConnect/91face26-9ccd-4f4b-b39e-0e2741ec1efd" Identification="442.11" Name="Dieselmotorische Netzersatzanlagen (NEA)" Description="" />
+                  <IfcClassificationReference id="i1807" Location="http://www.cafm-connect.org/CAFMConnect/999635ca-6659-4f23-b030-7b5b1b531bfc" Identification="442.12" Name="Zentrale Batterie- / Akkumulatorenanlagen" Description="" />
+                  <IfcClassificationReference id="i1808" Location="http://www.cafm-connect.org/CAFMConnect/7ddb5414-8680-4654-bfd0-777de1b9a353" Identification="442.13" Name="Schwungmassenanlagen" Description="" />
+                  <IfcClassificationReference id="i1809" Location="http://www.cafm-connect.org/CAFMConnect/c811024f-6778-470c-a6b0-e73f3e9a5776" Identification="442.20" Name="Wasserkraftanlagen" Description="" />
+                  <IfcClassificationReference id="i1810" Location="http://www.cafm-connect.org/CAFMConnect/010cef4c-9af7-44d7-9992-39296451f430" Identification="442.30" Name="Windkraftanlagen" Description="" />
+                  <IfcClassificationReference id="i1811" Location="http://www.cafm-connect.org/CAFMConnect/7eab6442-30d1-418b-aecb-be6391136ef8" Identification="442.40" Name="Photovoltaikanlagen" Description="" />
+                  <IfcClassificationReference id="i1812" Location="http://www.cafm-connect.org/CAFMConnect/6a0fba98-b013-4ff4-8799-48dfd2634134" Identification="442.50" Name="Brennstoffzellenanlagen (stromgeführt)" Description="" />
+                  <IfcClassificationReference id="i1813" Location="http://www.cafm-connect.org/CAFMConnect/4cf00ea5-d899-40b7-afbe-555d889f0794" Identification="442.60" Name="Blockheizkraftwerke (BHKW) (stromgeführt)" Description="" />
+                  <IfcClassificationReference id="i1814" Location="http://www.cafm-connect.org/CAFMConnect/9646af92-fc45-4497-8e5f-527155c89e77" Identification="442.70" Name="Gasturbinenanlagen (stromgeführt)" Description="" />
+                  <IfcClassificationReference id="i1815" Location="http://www.cafm-connect.org/CAFMConnect/f86fab8d-8cfa-474a-8a46-98022d33d2fe" Identification="442.90" Name="Sonstige Eigenstromversorgungsanlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1816" Location="http://www.cafm-connect.org/CAFMConnect/3a552e5b-bc35-4dcb-a233-327790260265" Identification="443" Name="Niederspannungsschaltanlagen" Description="Niederspannungshauptverteiler, Blindstromkompensationsanlagen, Maximumüberwachungsanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1817" Location="http://www.cafm-connect.org/CAFMConnect/2ed60712-fa9e-4bd9-b51c-cca6ed8b8962" Identification="443.10" Name="Niederspannungshauptverteiler" Description="" />
+                  <IfcClassificationReference id="i1818" Location="http://www.cafm-connect.org/CAFMConnect/1fc531a7-17fc-4fb4-8f4d-8ab630e386f6" Identification="443.11" Name="Zähler" Description="" />
+                  <IfcClassificationReference id="i1819" Location="http://www.cafm-connect.org/CAFMConnect/ff8329b8-cb76-4eb4-9b09-5855e33a70d4" Identification="443.20" Name="Blindstromkompensationsanlagen" Description="" />
+                  <IfcClassificationReference id="i1820" Location="http://www.cafm-connect.org/CAFMConnect/476e6dcd-be7f-4e91-9001-8699fa27d462" Identification="443.30" Name="Gleichstromversorgungsschränke" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1821" Location="http://www.cafm-connect.org/CAFMConnect/a3397eba-e74b-4b44-8848-3f3a3116b309" Identification="444" Name="Niederspannungsinstallationsanlagen" Description="Kabel, Leitungen, Unterverteiler, Verlegesysteme, Installationsgeräte">
+                <HasReferences>
+                  <IfcClassificationReference id="i1822" Location="http://www.cafm-connect.org/CAFMConnect/5746f919-1b77-4355-83ca-3ac56c4a8cdb" Identification="444.10" Name="Unter-/ Schaltverteiler" Description="" />
+                  <IfcClassificationReference id="i1823" Location="http://www.cafm-connect.org/CAFMConnect/581aff49-e1a1-4e85-b3ae-d868726aa4eb" Identification="444.11" Name="Zähler" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1824" Location="http://www.cafm-connect.org/CAFMConnect/44cad8df-fbab-4f37-8ba3-8a82f2939087" Identification="445" Name="Beleuchtungsanlagen" Description="Ortsfeste Leuchten, Sicherheitsbeleuchtung">
+                <HasReferences>
+                  <IfcClassificationReference id="i1825" Location="http://www.cafm-connect.org/CAFMConnect/66ab1b69-906f-43b0-9214-002e84191709" Identification="445.10" Name="Allgemeinbeleuchtung" Description="" />
+                  <IfcClassificationReference id="i1826" Location="http://www.cafm-connect.org/CAFMConnect/d42ca2a3-09bb-405c-bc5e-a0de804b4f47" Identification="445.20" Name="Sicherheitsbeleuchtung" Description="" />
+                  <IfcClassificationReference id="i1827" Location="http://www.cafm-connect.org/CAFMConnect/28605dad-f7d3-4eee-b604-b33279711251" Identification="445.30" Name="Laseranlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1828" Location="http://www.cafm-connect.org/CAFMConnect/a4733729-8ee0-4f5f-ba8d-4139fa573f80" Identification="446" Name="Blitzschutz- und Erdungsanlagen" Description="Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich" />
+              <IfcClassificationReference id="i1829" Location="http://www.cafm-connect.org/CAFMConnect/e7e98668-f6d1-40ea-acac-74ccf8813269" Identification="449" Name="Starkstromanlagen, sonstiges" Description="Erdungsanlagen &#xD;&#xA;Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1830" Location="http://www.cafm-connect.org/CAFMConnect/5692cbf3-2a26-4cb1-91f2-328412ef1ccc" Identification="450" Name="Fernmelde- und informationstechnische Anlagen" Description="Die einzelnen Anlagen enthalten die zugehörigen Verteiler, Kabel, Leitungen.">
+            <HasReferences>
+              <IfcClassificationReference id="i1831" Location="http://www.cafm-connect.org/CAFMConnect/6f5789b3-1bbf-4bdb-9207-9052be26714a" Identification="451" Name="Telekommunikationsanlagen" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i1832" Location="http://www.cafm-connect.org/CAFMConnect/d783a53a-1169-4f60-a00d-3d392a5c27a0" Identification="451.10" Name="Zentrale" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1833" Location="http://www.cafm-connect.org/CAFMConnect/7c905c26-50b4-4589-8cd0-3e7a2aa400df" Identification="452" Name="Such- und Signalanlagen" Description="Personenrufanlagen, Lichtruf- und Klingelanlagen, Türsprech- und Türöffneranlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1834" Location="http://www.cafm-connect.org/CAFMConnect/e2ca4c3a-34e7-40fd-93ff-0240f2b174ce" Identification="452.20" Name="Endgeräte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1835" Location="http://www.cafm-connect.org/CAFMConnect/51f17e18-d707-4519-b884-13da8b669628" Identification="453" Name="Zeitdienstanlagen" Description="Uhren- und Zeiterfassungsanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1836" Location="http://www.cafm-connect.org/CAFMConnect/7cbf150f-a955-4176-8fc6-939fe8aefe9c" Identification="453.10" Name="Zentrale" Description="" />
+                  <IfcClassificationReference id="i1837" Location="http://www.cafm-connect.org/CAFMConnect/4483e8e0-fd81-4e49-9f89-9146011ada4f" Identification="453.20" Name="Terminal" Description="" />
+                  <IfcClassificationReference id="i1838" Location="http://www.cafm-connect.org/CAFMConnect/9f691615-c20c-4c24-9020-11a9518cf8d5" Identification="453.30" Name="Uhrenanlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1839" Location="http://www.cafm-connect.org/CAFMConnect/075f2ca1-9a6d-4feb-93a7-c13d3514f43c" Identification="454" Name="Elektroakustische Anlagen (ELA)" Description="Beschallungsanlagen, Konferenz- und Dolmetscheranlagen, Gegen- und Wechselsprechanlagen" />
+              <IfcClassificationReference id="i1840" Location="http://www.cafm-connect.org/CAFMConnect/37c2192a-be64-46bb-ad3b-83b2cc78d5ad" Identification="455" Name="Fernseh- und Antennenanlagen" Description="Fernsehanlagen, soweit nicht in den Such-, Melde-, Signal- und Gefahrenmeldeanlagen erfasst, einschließlich Sende- und Empfangsantennenanlagen, Umsetzer">
+                <HasReferences>
+                  <IfcClassificationReference id="i1841" Location="http://www.cafm-connect.org/CAFMConnect/18f523ad-0ae8-4240-8ab2-e7af1f4cd2ee" Identification="455.10" Name="Fernsehanlagen" Description="" />
+                  <IfcClassificationReference id="i1842" Location="http://www.cafm-connect.org/CAFMConnect/924d5129-d848-4e03-97c6-3f2ddf87cdc2" Identification="455.11" Name="Zentrale" Description="" />
+                  <IfcClassificationReference id="i1843" Location="http://www.cafm-connect.org/CAFMConnect/c3b2a85b-7312-49c5-afc0-d21022a87789" Identification="455.12" Name="Endgeräte" Description="" />
+                  <IfcClassificationReference id="i1844" Location="http://www.cafm-connect.org/CAFMConnect/35094737-3bd5-4afd-af03-37492bb53f20" Identification="455.20" Name="Antennenanlagen (auf Gebäuden)" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1845" Location="http://www.cafm-connect.org/CAFMConnect/dec75534-95f1-4d46-9ae2-7d3e5486e3c6" Identification="456" Name="Gefahrenmelde- und Alarmanlagen" Description="Brand-, Überfall-, Einbruchmeldeanlagen, Wächterkontrollanlagen, Zugangskontroll- und Raumbeobachtungsanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1846" Location="http://www.cafm-connect.org/CAFMConnect/c799311a-3256-48e9-a13b-63ba53711235" Identification="456.10" Name="Brandmeldeanlagen" Description="" />
+                  <IfcClassificationReference id="i1847" Location="http://www.cafm-connect.org/CAFMConnect/982c702d-71d5-494c-b9eb-79e8e767e5b1" Identification="456.20" Name="CO-Warnanlagen" Description="" />
+                  <IfcClassificationReference id="i1848" Location="http://www.cafm-connect.org/CAFMConnect/edbd4b3f-ee13-4475-bbca-a722a35e414d" Identification="456.30" Name="Gaswarnanlagen" Description="" />
+                  <IfcClassificationReference id="i1849" Location="http://www.cafm-connect.org/CAFMConnect/209d0384-8b6a-4c18-bdf6-ad3cfa909f56" Identification="456.40" Name="Einbruch- und Überfallmeldeanlagen" Description="" />
+                  <IfcClassificationReference id="i1850" Location="http://www.cafm-connect.org/CAFMConnect/57466ce4-66c7-434e-b3cd-415e83b1c81e" Identification="456.50" Name="Videoüberwachungsanlagen" Description="" />
+                  <IfcClassificationReference id="i1851" Location="http://www.cafm-connect.org/CAFMConnect/c451cdfc-d352-4555-9ac6-80de97312b07" Identification="456.60" Name="BOS-Anlagen" Description="" />
+                  <IfcClassificationReference id="i1852" Location="http://www.cafm-connect.org/CAFMConnect/b68eae80-c9cb-4f7e-937a-13c770971907" Identification="456.70" Name="Notrufanlagen" Description="" />
+                  <IfcClassificationReference id="i1853" Location="http://www.cafm-connect.org/CAFMConnect/35b84610-ddd1-4b8e-955f-0f9f3f764b0f" Identification="456.80" Name="Rauchwarnmelder" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1854" Location="http://www.cafm-connect.org/CAFMConnect/eaa045f2-e21a-4c17-ab60-6c35ae0b10af" Identification="457" Name="Übertragungsnetze" Description="Netze zur Übertragung von Daten, Sprache, Text und Bild, soweit nicht in anderen Kostengruppen erfasst, Verlegesysteme, soweit nicht in KG 444 erfasst" />
+              <IfcClassificationReference id="i1855" Location="http://www.cafm-connect.org/CAFMConnect/99947490-d6ce-40c5-b953-cf368a3395ab" Identification="458" Name="Zutrittskontrollanlagen" Description="" />
+              <IfcClassificationReference id="i1856" Location="http://www.cafm-connect.org/CAFMConnect/b248a9db-9851-4cef-ae31-db5d0b813f82" Identification="459" Name="Fernmelde- und informationstechnische Anlagen, son" Description="Fernwirkanlagen, Parkleitsysteme" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1857" Location="http://www.cafm-connect.org/CAFMConnect/837d1c59-bb0d-48ec-a78b-ad58b5577654" Identification="460" Name="Förderanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i1858" Location="http://www.cafm-connect.org/CAFMConnect/eb131ed0-b333-4a13-9b3a-ca023a47dfcf" Identification="461" Name="Aufzugsanlage" Description="Personenaufzüge, Lastenaufzüge">
+                <HasReferences>
+                  <IfcClassificationReference id="i1859" Location="http://www.cafm-connect.org/CAFMConnect/cc870ee5-b9c5-42f7-9180-a8872d530453" Identification="461.01" Name="Antrieb" Description="" />
+                  <IfcClassificationReference id="i1860" Location="http://www.cafm-connect.org/CAFMConnect/a863e8a3-1037-4663-ba31-507ba43f0c4f" Identification="461.02" Name="Steuerung" Description="" />
+                  <IfcClassificationReference id="i1861" Location="http://www.cafm-connect.org/CAFMConnect/0b281cdf-c7f1-46b1-b1fb-75f03a6621cb" Identification="461.03" Name="Regelung" Description="" />
+                  <IfcClassificationReference id="i1862" Location="http://www.cafm-connect.org/CAFMConnect/359f5039-7519-46ee-ab81-450952f5ff68" Identification="461.04" Name="Geschwindigkeitsbegrenzer" Description="" />
+                  <IfcClassificationReference id="i1863" Location="http://www.cafm-connect.org/CAFMConnect/7c9e5ba7-e556-46d7-b457-699fa88deec1" Identification="461.05" Name="Fahrkorb" Description="" />
+                  <IfcClassificationReference id="i1864" Location="http://www.cafm-connect.org/CAFMConnect/77a59f0d-a0ca-49a8-b724-0c89781ede1b" Identification="461.06" Name="Fahrkorbtür" Description="" />
+                  <IfcClassificationReference id="i1865" Location="http://www.cafm-connect.org/CAFMConnect/ead4bf9b-a731-45bb-86c4-e162ff3b9497" Identification="461.07" Name="Absturzsicherung" Description="" />
+                  <IfcClassificationReference id="i1866" Location="http://www.cafm-connect.org/CAFMConnect/e38b582f-983c-415b-9803-86021164c606" Identification="461.08" Name="Schachttüren" Description="" />
+                  <IfcClassificationReference id="i1867" Location="http://www.cafm-connect.org/CAFMConnect/6d7892f0-0ccb-4629-bb27-7b475a5832ad" Identification="461.09" Name="Notrufsystem" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1868" Location="http://www.cafm-connect.org/CAFMConnect/b6265f86-8f8e-4f1e-93b6-a44eaa7e1d3f" Identification="462" Name="Fahrtreppen, Fahrsteige" Description="" />
+              <IfcClassificationReference id="i1869" Location="http://www.cafm-connect.org/CAFMConnect/b37fe23f-14d6-4daa-ba7c-fc5db276531f" Identification="463" Name="Befahranlagen" Description="Fassadenaufzüge und andere Befahranlagen" />
+              <IfcClassificationReference id="i1870" Location="http://www.cafm-connect.org/CAFMConnect/d3f11c80-4412-4efe-91af-f10cf9e1dfa5" Identification="464" Name="Transportanlagen" Description="Automatische Warentransportanlagen, Aktentransportanlagen, Rohrpostanlagen" />
+              <IfcClassificationReference id="i1871" Location="http://www.cafm-connect.org/CAFMConnect/4a634e2e-531b-4ef5-986e-42607abfc1be" Identification="465" Name="Krananlagen" Description="Einschließlich Hebezeuge" />
+              <IfcClassificationReference id="i1872" Location="http://www.cafm-connect.org/CAFMConnect/f3458281-0006-4a96-8a03-5fb56e0d91f0" Identification="466" Name="Lifter" Description="" />
+              <IfcClassificationReference id="i1873" Location="http://www.cafm-connect.org/CAFMConnect/dfdfccec-accf-4f64-ba4c-3152c12f4225" Identification="469" Name="Förderanlagen, sonstiges" Description="Hebebühnen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1874" Location="http://www.cafm-connect.org/CAFMConnect/b04901d2-246d-4abb-9b3e-7095b781fe50" Identification="469.10" Name="Hebebühnen" Description="" />
+                  <IfcClassificationReference id="i1875" Location="http://www.cafm-connect.org/CAFMConnect/c3de04e8-d74e-44b4-ae9b-78a0c037972f" Identification="469.20" Name="Mehrfachparker" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1876" Location="http://www.cafm-connect.org/CAFMConnect/ba110b9c-0cfc-4394-96da-203425d2f43a" Identification="470" Name="Nutzungsspezifische Anlagen" Description="Kosten der mit dem Bauwerk fest verbundenen Anlagen, die der besonderen Zweckbestimmung dienen, jedoch ohne die baukonstruktiven Einbauten (KG 370) Für die Abgrenzung gegenüber der KG 610 ist maßgebend, dass die nutzungsspezifischen Anlagen technische und planerische Maßnahmen erforderlich machen, z. B. Anfertigen von Werkplänen, Berechnungen, Anschließen von anderen technischen Anlagen.">
+            <HasReferences>
+              <IfcClassificationReference id="i1877" Location="http://www.cafm-connect.org/CAFMConnect/14aacdaf-19b4-46fe-8639-10b14fff78ec" Identification="471" Name="Küchentechnische Anlagen" Description="Anlagen zur Speisen- und Getränkezubereitung, -ausgabe und        -lagerung einschließlich zugehöriger Kälteanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1878" Location="http://www.cafm-connect.org/CAFMConnect/949437b8-9014-4d1c-bdd8-054064a26f66" Identification="471.10" Name="Getränkeschankanlagen" Description="" />
+                  <IfcClassificationReference id="i1879" Location="http://www.cafm-connect.org/CAFMConnect/bb8d16d5-de22-4ec7-be64-68a59de02816" Identification="471.11" Name="Getränke-/Grundstoffbehälter" Description="" />
+                  <IfcClassificationReference id="i1880" Location="http://www.cafm-connect.org/CAFMConnect/e284da63-445d-4bef-946e-7b69662aa2ae" Identification="471.12" Name="Druckgasflaschen für Getränkeschankanlagen" Description="" />
+                  <IfcClassificationReference id="i1881" Location="http://www.cafm-connect.org/CAFMConnect/4a1580e9-1123-436b-aa07-fb33829ff26e" Identification="471.81" Name="Geschirrspülmaschinen" Description="" />
+                  <IfcClassificationReference id="i1882" Location="http://www.cafm-connect.org/CAFMConnect/7b228d69-01d9-4475-9f7d-f7d1fb831f05" Identification="471.82" Name="Kühlraum" Description="" />
+                  <IfcClassificationReference id="i1883" Location="http://www.cafm-connect.org/CAFMConnect/930e1847-6302-4eed-b941-14e5738ce9aa" Identification="471.83" Name="Kühlschränke" Description="" />
+                  <IfcClassificationReference id="i1884" Location="http://www.cafm-connect.org/CAFMConnect/c69fa41d-d58b-4a7d-9a06-92febeaf6038" Identification="471.84" Name="Kochgeräte" Description="" />
+                  <IfcClassificationReference id="i1885" Location="http://www.cafm-connect.org/CAFMConnect/cc31d498-3b5b-4096-938c-58d24bc2f78c" Identification="471.85" Name="Kaffeeautomat" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1886" Location="http://www.cafm-connect.org/CAFMConnect/069f689d-c223-420f-894c-995a6ad3a77a" Identification="472" Name="Wäscherei- und Reinigungsanlagen" Description="Einschließlich zugehöriger Wasseraufbereitung, Desinfektions- und Sterilisationseinrichtungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1887" Location="http://www.cafm-connect.org/CAFMConnect/0c5a8567-4ecb-40c0-833b-45ceafa00880" Identification="472.10" Name="Zentralstaubsauganlagen" Description="" />
+                  <IfcClassificationReference id="i1888" Location="http://www.cafm-connect.org/CAFMConnect/51da4b6e-df31-44e8-a20d-838deb0417c2" Identification="472.20" Name="Waschmaschine" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1889" Location="http://www.cafm-connect.org/CAFMConnect/02800465-1e6d-4e9a-900e-b8860dd06bf6" Identification="473" Name="Medienversorgungsanlagen" Description="Medizinische und technische Gase, Druckluft, Vakuum, Flüssigchemikalien, Lösungsmittel, vollentsalztes Wasser; einschließlich Lagerung, Erzeugungsanlagen, Übergabestationen, Druckregelanlagen, Leitungen und Entnahmearmaturen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1890" Location="http://www.cafm-connect.org/CAFMConnect/7180fd84-60ae-4332-8b6f-ea3494face7f" Identification="473.10" Name="Druckluftversorgungsanlagen" Description="" />
+                  <IfcClassificationReference id="i1891" Location="http://www.cafm-connect.org/CAFMConnect/227f8c02-33ec-4123-843c-bc667d68aaf5" Identification="473.11" Name="Drucklufterzeuger" Description="" />
+                  <IfcClassificationReference id="i1892" Location="http://www.cafm-connect.org/CAFMConnect/ed4b0d24-858f-47e2-bc62-18d7845f4fe2" Identification="473.12" Name="Druckluftbehälter" Description="" />
+                  <IfcClassificationReference id="i1893" Location="http://www.cafm-connect.org/CAFMConnect/95448dd0-b2c4-461f-80ce-75aeef3a3b00" Identification="473.13" Name="Druckluftaufbereitung und -verteilung" Description="" />
+                  <IfcClassificationReference id="i1894" Location="http://www.cafm-connect.org/CAFMConnect/0faf480a-bf1e-4311-868b-0bc8cfde602b" Identification="473.20" Name="Versorgungsanlagen für technische Gase" Description="" />
+                  <IfcClassificationReference id="i1895" Location="http://www.cafm-connect.org/CAFMConnect/7fba8146-9832-4998-b1a2-f2bf8579a8fc" Identification="473.30" Name="Sauerstoffversorgungsanlage" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1896" Location="http://www.cafm-connect.org/CAFMConnect/6ecb8e43-5f04-413a-8745-1e961adf0b7f" Identification="474" Name="Medizin- und labortechnische Anlagen" Description="Ortsfeste medizin- und labortechnische Anlagen," />
+              <IfcClassificationReference id="i1897" Location="http://www.cafm-connect.org/CAFMConnect/263b66c8-324a-4a52-bc6b-08089a3eb7db" Identification="475" Name="Feuerlöschanlagen" Description="Sprinkler-, Gaslöschanlagen, Löschwasserleitungen, Wandhydranten, Handfeuerlöscher">
+                <HasReferences>
+                  <IfcClassificationReference id="i1898" Location="http://www.cafm-connect.org/CAFMConnect/cd1164b2-84b0-4fee-aaf3-c77a7cb30810" Identification="475.10" Name="Wasser-Löschanlagen" Description="" />
+                  <IfcClassificationReference id="i1899" Location="http://www.cafm-connect.org/CAFMConnect/6c49eb93-17ad-47b7-81cd-bf9449a5481a" Identification="475.20" Name="Gas-Löschanlagen" Description="" />
+                  <IfcClassificationReference id="i1900" Location="http://www.cafm-connect.org/CAFMConnect/7a9edbe8-5314-427e-b5cb-a38a7da2073e" Identification="475.30" Name="Sonstige Löschanlagen" Description="" />
+                  <IfcClassificationReference id="i1901" Location="http://www.cafm-connect.org/CAFMConnect/89ff76dd-1c84-4b2e-a970-aba6b860183a" Identification="475.40" Name="Feuerlöscher" Description="" />
+                  <IfcClassificationReference id="i1902" Location="http://www.cafm-connect.org/CAFMConnect/f08b3e4c-000f-4b14-9e25-554f91aaf92f" Identification="475.50" Name="Hydrantenanlagen" Description="" />
+                  <IfcClassificationReference id="i1903" Location="http://www.cafm-connect.org/CAFMConnect/6ef70667-de27-4003-9de5-81fd2d836e5b" Identification="475.60" Name="Löschdecken" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1904" Location="http://www.cafm-connect.org/CAFMConnect/798480f7-a6ac-4921-bf90-2ab88b6fba6f" Identification="476" Name="Badetechnische Anlagen" Description="Aufbereitungsanlagen für Schwimmbeckenwasser, soweit nicht in KG 410 erfasst">
+                <HasReferences>
+                  <IfcClassificationReference id="i1905" Location="http://www.cafm-connect.org/CAFMConnect/140a629c-9857-4cc1-bcc3-991afe213063" Identification="476.10" Name="Aufbereitungs- / Desinfektionsanlagen" Description="" />
+                  <IfcClassificationReference id="i1906" Location="http://www.cafm-connect.org/CAFMConnect/0b39806c-3ed3-4f26-93bf-cc1ebd34ffd9" Identification="476.20" Name="Wasserspeicher / Ausgleichsbehälter" Description="" />
+                  <IfcClassificationReference id="i1907" Location="http://www.cafm-connect.org/CAFMConnect/42e13535-17c6-4f38-b363-fdee72b943e1" Identification="476.30" Name="Badetechnische Einbauten" Description="" />
+                  <IfcClassificationReference id="i1908" Location="http://www.cafm-connect.org/CAFMConnect/780e2368-e532-4bdd-b66b-a6e673e27d36" Identification="476.31" Name="Hubbadewannen" Description="" />
+                  <IfcClassificationReference id="i1909" Location="http://www.cafm-connect.org/CAFMConnect/3c28cc2e-b430-4e29-aa76-73f237f41565" Identification="476.40" Name="Filteranlagen" Description="" />
+                  <IfcClassificationReference id="i1910" Location="http://www.cafm-connect.org/CAFMConnect/95406f6d-b0a1-4aa2-a0ad-9975baeff721" Identification="476.50" Name="Gegenstrom-Schwimmanlage" Description="" />
+                  <IfcClassificationReference id="i1911" Location="http://www.cafm-connect.org/CAFMConnect/e05a2967-279f-41e9-bd0a-690317543d0f" Identification="47632" Name="Steckbeckenspüler" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1912" Location="http://www.cafm-connect.org/CAFMConnect/c3f78b54-0a46-450e-88fa-096bcc3e8a27" Identification="477" Name="Prozesswärme-, kälte- und -luftanlagen" Description="Aufbereitungsanlagen für Schwimmbeckenwasser, soweit nicht in KG 410 erfasst" />
+              <IfcClassificationReference id="i1913" Location="http://www.cafm-connect.org/CAFMConnect/5cb2b29a-402e-4a91-a686-29f267b1eb56" Identification="478" Name="Entsorgungsanlagen" Description="Abfall- und Medienentsorgungsanlagen, Staubsauganlagen" />
+              <IfcClassificationReference id="i1914" Location="http://www.cafm-connect.org/CAFMConnect/f75d4f5b-34aa-4d32-9d63-1ce42c7e071e" Identification="479" Name="Nutzungsspezifische Anlagen, sonstiges" Description="Bühnentechnische Anlagen, Tankstellen- und Waschanlagen" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1915" Location="http://www.cafm-connect.org/CAFMConnect/36fff52f-77d5-44ad-b293-f713dfcbfa43" Identification="480" Name="Gebäudeautomation" Description="Kosten der anlageübergreifenden Automation">
+            <HasReferences>
+              <IfcClassificationReference id="i1916" Location="http://www.cafm-connect.org/CAFMConnect/98d7e4d2-d0dc-46e8-aaaa-a71a9405a572" Identification="481" Name="Automationssysteme" Description="Automationsstationen mit  Bedien- und Beobachtungseinrichtungen, GA-Funktionen, Anwendungssoftware, Lizenzen, Sensoren und Aktoren, Schnittstellen zu Feldgeräten und anderen Automationseinrichtungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1917" Location="http://www.cafm-connect.org/CAFMConnect/2d6aa36e-2a7c-477b-851d-432e8a15982c" Identification="481.10" Name="Feldgeräte" Description="" />
+                  <IfcClassificationReference id="i1918" Location="http://www.cafm-connect.org/CAFMConnect/42853c4a-143c-4a68-815e-84ba52c6fd20" Identification="481.20" Name="Regler" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1919" Location="http://www.cafm-connect.org/CAFMConnect/b5293759-15a4-4dca-9036-5e8cd8121857" Identification="482" Name="Schaltschränke" Description="Schaltschränke zur Aufnahme von Automationssystemen (KG 481) mit Leistungs-, Steuerungs- und Sicherungsbaugruppen einschließlich zugehöriger Kabel und Leitungen, Verlegesysteme soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i1920" Location="http://www.cafm-connect.org/CAFMConnect/4b8051b7-5db3-44bf-a7a8-55845aec3a52" Identification="483" Name="Management- und Bedieneinrichtungen" Description="Übergeordnete Einrichtungen für Gebäudeautomation und Gebäudemanagement mit Bedienstationen, Programmiereinrichtungen, Anwendungssoftware, Lizenzen, Servern, Schnittstellen zu Automationseinrichtungen und externen Einrichtungen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1921" Location="http://www.cafm-connect.org/CAFMConnect/11719b69-8b1d-4aa8-aec5-bc4755571c02" Identification="483.10" Name="Zentraleinheit (Rechner)" Description="" />
+                  <IfcClassificationReference id="i1922" Location="http://www.cafm-connect.org/CAFMConnect/aedce94b-5a99-4e6c-9c38-bac40324a9f2" Identification="483.20" Name="Peripheriegeräte" Description="" />
+                  <IfcClassificationReference id="i1923" Location="http://www.cafm-connect.org/CAFMConnect/0a6c462b-23fc-41bc-8c28-5d05595c7b26" Identification="483.21" Name="Eingabegeräte" Description="" />
+                  <IfcClassificationReference id="i1924" Location="http://www.cafm-connect.org/CAFMConnect/4c880e69-474a-4ea4-9004-4ae3bee894b6" Identification="483.22" Name="Ausgabe- und Anzeigegeräte" Description="" />
+                  <IfcClassificationReference id="i1925" Location="http://www.cafm-connect.org/CAFMConnect/ac04e497-bc57-4529-ae25-01c3ff7645bc" Identification="483.23" Name="Externe Speicher" Description="" />
+                  <IfcClassificationReference id="i1926" Location="http://www.cafm-connect.org/CAFMConnect/86340a90-bb67-4d57-9012-474e0ed04941" Identification="483.30" Name="Unterzentralen" Description="" />
+                  <IfcClassificationReference id="i1927" Location="http://www.cafm-connect.org/CAFMConnect/cf6e4cc5-ed4f-40bf-8a8f-1578f825b1d8" Identification="483.40" Name="Software" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1928" Location="http://www.cafm-connect.org/CAFMConnect/f6a50907-2998-4875-b9d9-a7612094d9ff" Identification="484" Name="Raumautomationssysteme" Description="Raumautomationsstationen mit Bedien- und Anzeigeeinrichtungen, Schnittstellen zu Feldgeräten und andere Automationseinrichtungen" />
+              <IfcClassificationReference id="i1929" Location="http://www.cafm-connect.org/CAFMConnect/34225ff6-097a-4e54-be5d-3881d6608cf7" Identification="485" Name="Übertragungsnetze" Description="Netze zur Datenübertragung, soweit nicht in anderen Kostengruppen erfasst" />
+              <IfcClassificationReference id="i1930" Location="http://www.cafm-connect.org/CAFMConnect/5e74fad8-7a44-40fe-bd7e-1763fc6b06d8" Identification="489" Name="Gebäudeautomation, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i1931" Location="http://www.cafm-connect.org/CAFMConnect/afd4a180-09cd-488c-9763-f05560a0173f" Identification="500" Name="AUSSENANLAGEN" Description="">
+        <HasReferences>
+          <IfcClassificationReference id="i1932" Location="http://www.cafm-connect.org/CAFMConnect/71792627-8b47-4b0b-9fd3-d7c258cd20c2" Identification="510" Name="Geländeflächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i1933" Location="http://www.cafm-connect.org/CAFMConnect/af2d6ce8-8eb1-4aab-b6e9-b0a1e4f28718" Identification="511" Name="Oberboden" Description="Oberbodenabtrag und -sicherung" />
+              <IfcClassificationReference id="i1934" Location="http://www.cafm-connect.org/CAFMConnect/62b649be-8ed9-4fc5-b7ee-3be4fe0871ea" Identification="512" Name="Boden" Description="Bodenabtrag und -auftrag" />
+              <IfcClassificationReference id="i1935" Location="http://www.cafm-connect.org/CAFMConnect/a5f1e53e-0a4a-4e20-8bf3-f6ca2fc54a2b" Identification="519" Name="Geländeflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1936" Location="http://www.cafm-connect.org/CAFMConnect/4d704dbe-205e-4826-ba54-0cb21496dcf2" Identification="520" Name="Befestigte Flächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i1937" Location="http://www.cafm-connect.org/CAFMConnect/b8a22d74-32c8-4631-beff-5c1212598b57" Identification="521" Name="Wege" Description="Befestigte Fläche für den Fuß- und Radfahrverkehr" />
+              <IfcClassificationReference id="i1938" Location="http://www.cafm-connect.org/CAFMConnect/19c3df62-e0d2-41db-9cde-48eb49e6db4f" Identification="522" Name="Straßen" Description="Flächen für den Leicht- und Schwerverkehr; Fußgängerzonen mit Anlieferungsverkehr" />
+              <IfcClassificationReference id="i1939" Location="http://www.cafm-connect.org/CAFMConnect/347d0d9c-0492-4847-ba29-31543ea4c242" Identification="523" Name="Plätze, Höfe" Description="Gestaltete Platzflächen, Innenhöfe" />
+              <IfcClassificationReference id="i1940" Location="http://www.cafm-connect.org/CAFMConnect/3d6620bb-4b27-4153-a46c-50a2346cdc49" Identification="524" Name="Stellplätze" Description="Flächen für den ruhenden Verkehr" />
+              <IfcClassificationReference id="i1941" Location="http://www.cafm-connect.org/CAFMConnect/ec5b9f7a-5572-4fc0-bcb2-7fa065d6a911" Identification="525" Name="Sportplatzflächen" Description="Sportrasenflächen, Kunststoffflächen" />
+              <IfcClassificationReference id="i1942" Location="http://www.cafm-connect.org/CAFMConnect/9dda0bb1-7197-4356-b900-9467aae70016" Identification="526" Name="Spielplatzflächen" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i1943" Location="http://www.cafm-connect.org/CAFMConnect/40d1a827-feea-499b-b7fa-cde6399fd9c4" Identification="526.10" Name="Spielplatzgeräte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1944" Location="http://www.cafm-connect.org/CAFMConnect/a6588a1d-7d08-48e3-a1bd-46c1761c9fe7" Identification="527" Name="Gleisanlagen" Description="" />
+              <IfcClassificationReference id="i1945" Location="http://www.cafm-connect.org/CAFMConnect/622b2cb4-a066-4016-b9c0-3af84d921603" Identification="528" Name="Nutzungsspezifisch befestigte Flächen" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i1946" Location="http://www.cafm-connect.org/CAFMConnect/f49b9654-8dde-42c7-a352-4aad7ce2cfa3" Identification="528.10" Name="Flächen für die Feuerwehr" Description="" />
+                  <IfcClassificationReference id="i1947" Location="http://www.cafm-connect.org/CAFMConnect/9d881cb2-2789-4de3-a1e2-aac6c446ee56" Identification="528.20" Name="Bahnsteige" Description="" />
+                  <IfcClassificationReference id="i1948" Location="http://www.cafm-connect.org/CAFMConnect/70e589a7-576e-437d-a388-b0f101913845" Identification="528.30" Name="Flugbetriebsflächen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1949" Location="http://www.cafm-connect.org/CAFMConnect/27286254-32d5-4275-af07-ffab77276490" Identification="529" Name="Befestigte Flächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1950" Location="http://www.cafm-connect.org/CAFMConnect/598cbc91-cfd0-4e97-87ec-644bfb06cd7e" Identification="530" Name="Baukonstruktionen in Außenanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i1951" Location="http://www.cafm-connect.org/CAFMConnect/b2de1fc2-0b0f-4f29-b533-af43cd97159d" Identification="531" Name="Einfriedungen" Description="Zäune, Mauern, Türen, Tore, Schrankenanlagen ">
+                <HasReferences>
+                  <IfcClassificationReference id="i1952" Location="http://www.cafm-connect.org/CAFMConnect/966a569e-4b35-434d-aec1-c00209c3a277" Identification="531.10" Name="Mauern, Zäune" Description="" />
+                  <IfcClassificationReference id="i1953" Location="http://www.cafm-connect.org/CAFMConnect/ec8c7570-5530-4796-8a06-a7d4f5022473" Identification="531.20" Name="Türen in Einfriedung" Description="" />
+                  <IfcClassificationReference id="i1954" Location="http://www.cafm-connect.org/CAFMConnect/7812ab8a-bc37-48ba-91be-a354ec34919a" Identification="531.25" Name="Tore in Einfriedung" Description="" />
+                  <IfcClassificationReference id="i1955" Location="http://www.cafm-connect.org/CAFMConnect/d82a5365-95e9-417e-9008-9ade5ddd944c" Identification="531.30" Name="Schrankenanlagen" Description="" />
+                  <IfcClassificationReference id="i1956" Location="http://www.cafm-connect.org/CAFMConnect/bed77c42-6777-4222-97c7-24c101c9b76d" Identification="531.40" Name="Wegesperren" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1957" Location="http://www.cafm-connect.org/CAFMConnect/45e7f776-b2ec-46fe-92ea-944d659919d8" Identification="532" Name="Schutzkonstruktionen" Description="Lärmschutzwände, Sichtschutzwände, Schutzgitter" />
+              <IfcClassificationReference id="i1958" Location="http://www.cafm-connect.org/CAFMConnect/700391e1-cba6-4520-9bfe-14016a04ed47" Identification="533" Name="Mauern, Wände" Description="Stütz-, Schwergewichtsmauern" />
+              <IfcClassificationReference id="i1959" Location="http://www.cafm-connect.org/CAFMConnect/ffdf6070-e7f9-4ea9-b6f9-6457d93583b4" Identification="534" Name="Rampen, Treppen, Tribünen" Description="Kinderwagen- und Behindertenrampen, Block- und Stellstufen, Zuschauertribünen von Sportplätzen" />
+              <IfcClassificationReference id="i1960" Location="http://www.cafm-connect.org/CAFMConnect/f4fb5364-b143-45bd-8ae7-72d4aa6455ef" Identification="535" Name="Überdachungen" Description="Wetterschutz, Unterstände; Pergolen" />
+              <IfcClassificationReference id="i1961" Location="http://www.cafm-connect.org/CAFMConnect/31f95a73-6248-45a4-9fff-6df1fc59b0d6" Identification="536" Name="Brücken, Stege" Description="Holz- und Stahlkonstruktionen" />
+              <IfcClassificationReference id="i1962" Location="http://www.cafm-connect.org/CAFMConnect/76f66abf-fd2d-4e4b-a6b0-9953934619ad" Identification="537" Name="Kanal- und Schachtbauanlagen" Description="Bauliche Anlagen für Medien- oder Verkehrserschließung">
+                <HasReferences>
+                  <IfcClassificationReference id="i1963" Location="http://www.cafm-connect.org/CAFMConnect/6d592cd6-f435-4841-a4d9-5131f4eb070a" Identification="537.10" Name="Kanalisationsleitungen, Abwasserleitungen" Description="" />
+                  <IfcClassificationReference id="i1964" Location="http://www.cafm-connect.org/CAFMConnect/97b93df8-95af-48ad-8c5d-9bd230f0b796" Identification="537.11" Name="Mischwasserleitungen" Description="" />
+                  <IfcClassificationReference id="i1965" Location="http://www.cafm-connect.org/CAFMConnect/b3cafcb2-7fcd-4868-8d69-f268d1bb177a" Identification="537.12" Name="Schmutzwasserleitungen" Description="" />
+                  <IfcClassificationReference id="i1966" Location="http://www.cafm-connect.org/CAFMConnect/1c833c54-b0b5-40c7-a434-dcc2dd5421fc" Identification="537.13" Name="Regenwasserleitungen" Description="" />
+                  <IfcClassificationReference id="i1967" Location="http://www.cafm-connect.org/CAFMConnect/8caa297f-21ea-41f6-85d0-40a07a29bbee" Identification="537.20" Name="Kanalisationsschächte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1968" Location="http://www.cafm-connect.org/CAFMConnect/2f041709-f10d-4a5d-82ed-1461123d2a50" Identification="538" Name="Wasserbauliche Anlagen" Description="Brunnen, Wasserbecken">
+                <HasReferences>
+                  <IfcClassificationReference id="i1969" Location="http://www.cafm-connect.org/CAFMConnect/752e122d-2680-420c-9667-8cc4b0e5bd4b" Identification="538.20" Name="Löschwasser-Rückhaltebecken" Description="" />
+                  <IfcClassificationReference id="i1970" Location="http://www.cafm-connect.org/CAFMConnect/2cb8ad31-5e07-4ce5-9b3c-91e88507554d" Identification="538.40" Name="Brunnen" Description="" />
+                  <IfcClassificationReference id="i1971" Location="http://www.cafm-connect.org/CAFMConnect/43418ab4-5e1b-41ff-a906-e9b499d2b6b0" Identification="538.41" Name="Zierbrunnen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1972" Location="http://www.cafm-connect.org/CAFMConnect/48d3faa4-4d1d-4729-9215-4668318691e7" Identification="539" Name="Baukonstruktionen in Außenanlagen, sonstiges" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i1973" Location="http://www.cafm-connect.org/CAFMConnect/206c5a01-7737-4c47-868b-dfbeb6cab06b" Identification="539.10" Name="Freistehende Schornsteine" Description="" />
+                  <IfcClassificationReference id="i1974" Location="http://www.cafm-connect.org/CAFMConnect/a449033f-91e0-42ff-a4aa-fe724592d5b6" Identification="539.11" Name="Freistehende Mauerwerksschornsteine" Description="" />
+                  <IfcClassificationReference id="i1975" Location="http://www.cafm-connect.org/CAFMConnect/8d33ca68-15dd-4d5e-830e-a400e983cce8" Identification="539.12" Name="Freistehende Stahlschornsteine" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i1976" Location="http://www.cafm-connect.org/CAFMConnect/7bd88c14-d5ff-4aae-9d5c-203a1d1e500e" Identification="540" Name="Technische Anlagen in Außenanlagen" Description="Kosten der technischen Anlagen auf dem Grundstück einschließlich der Ver- und Entsorgung des Bauwerks">
+            <HasReferences>
+              <IfcClassificationReference id="i1977" Location="http://www.cafm-connect.org/CAFMConnect/9b0eda28-5f40-4045-a559-5e953b8970a6" Identification="541" Name="Abwasseranlagen, Grundstücksentwässerungsanlagen" Description="Kläranlagen, Oberflächen- und Bauwerksentwässerungsanlagen, Sammelgruben, Abscheider, Hebeanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1978" Location="http://www.cafm-connect.org/CAFMConnect/d0672396-7dab-40ad-8ad8-d4ad516c2d3a" Identification="541.10" Name="Kleinkläranlagen" Description="" />
+                  <IfcClassificationReference id="i1979" Location="http://www.cafm-connect.org/CAFMConnect/5a003bc5-1eb9-413d-b5eb-8ec05aa10d90" Identification="541.20" Name="Sammelgruben" Description="" />
+                  <IfcClassificationReference id="i1980" Location="http://www.cafm-connect.org/CAFMConnect/0560ce29-058f-4131-bda7-25eaecc32727" Identification="541.60" Name="Abscheideranlagen" Description="" />
+                  <IfcClassificationReference id="i1981" Location="http://www.cafm-connect.org/CAFMConnect/3b1a091b-aa7a-4782-9000-ea3344942360" Identification="541.61" Name="Abscheideranlagen für Leichtflüssigkeiten" Description="" />
+                  <IfcClassificationReference id="i1982" Location="http://www.cafm-connect.org/CAFMConnect/7a8153de-9b47-4857-9736-783b9ed52854" Identification="541.62" Name="Abscheideranlagen für Fette" Description="" />
+                  <IfcClassificationReference id="i1983" Location="http://www.cafm-connect.org/CAFMConnect/b42026f2-fa9d-4db5-899a-8c21326388e5" Identification="541.63" Name="Abscheideranlagen für Stärke" Description="" />
+                  <IfcClassificationReference id="i1984" Location="http://www.cafm-connect.org/CAFMConnect/631c4e04-31b1-401b-aaf7-d8f22783d63f" Identification="541.64" Name="Sand- und Schlammfänge" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1985" Location="http://www.cafm-connect.org/CAFMConnect/74e9ada1-4dd1-479e-80a1-a1a676b1274c" Identification="542" Name="Wasseranlagen" Description="Wassergewinnungsanlagen, Wasserversorgungsnetze, Hydrantenanlagen, Druckerhöhungs- und Beregnungsanlagen" />
+              <IfcClassificationReference id="i1986" Location="http://www.cafm-connect.org/CAFMConnect/a9b3d93d-3eeb-4101-9395-e1b965a48aab" Identification="543" Name="Gasanlagen" Description="Gasversorgungsnetze, Flüssiggasanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i1987" Location="http://www.cafm-connect.org/CAFMConnect/9714db64-6afb-4e78-a475-a3ea4ca87f15" Identification="543.20" Name="Flüssiggasanlagen" Description="" />
+                  <IfcClassificationReference id="i1988" Location="http://www.cafm-connect.org/CAFMConnect/b1377479-52e7-412f-98e0-12d0311f00f8" Identification="543.21" Name="Flüssiggastanks" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1989" Location="http://www.cafm-connect.org/CAFMConnect/e15068ad-ba9c-4f22-931a-c1786de28d9b" Identification="544" Name="Wärmeversorgungsanlagen" Description="Wärmeerzeugungsanlagen, Wärmeversorgungsnetze, Freiflächen- und Rampenheizungen" />
+              <IfcClassificationReference id="i1990" Location="http://www.cafm-connect.org/CAFMConnect/7e0ceeca-f625-4ae3-ac04-ec8b63455e87" Identification="545" Name="Lufttechnische Anlagen" Description="Bauteile von lufttechnischen Anlagen, z. B. Außenluftansaugung, Fortluftausblas, Erdwärmetauscher, Kälteversorgung" />
+              <IfcClassificationReference id="i1991" Location="http://www.cafm-connect.org/CAFMConnect/67da561e-aeba-4856-b603-3d9e11f45f4d" Identification="546" Name="Starkstromanlagen" Description="Stromversorgungsnetze, Freilufttrafostationen, Eigenstromerzeugungsanlagen, Außenbeleuchtungs- und Flutlichtanlagen einschließlich Maste und Befestigung">
+                <HasReferences>
+                  <IfcClassificationReference id="i1992" Location="http://www.cafm-connect.org/CAFMConnect/26338b87-a796-4546-ba52-259a8519bd0a" Identification="546.50" Name="Außenbeleuchtungsanlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1993" Location="http://www.cafm-connect.org/CAFMConnect/a1e6f911-d5c0-4148-9389-e56c62b7d216" Identification="547" Name="Fernmelde- und informationstechnische Anlagen" Description="Leitungsnetze, Beschallungs-, Zeitdienst- und Verkehrssignalanlagen, elektronische Anzeigetafeln, Objektsicherungsanlagen, Parkleitsysteme">
+                <HasReferences>
+                  <IfcClassificationReference id="i1994" Location="http://www.cafm-connect.org/CAFMConnect/c503662f-f26e-4ede-9d9f-73ee52694e07" Identification="547.10" Name="Antennenanlagen" Description="" />
+                  <IfcClassificationReference id="i1995" Location="http://www.cafm-connect.org/CAFMConnect/a0f17a94-b8cb-401c-bfbe-c8f3283ad876" Identification="547.11" Name="Antennenanlagen (bis 10 m Höhe)" Description="" />
+                  <IfcClassificationReference id="i1996" Location="http://www.cafm-connect.org/CAFMConnect/3b1c66c6-f795-4529-a6ce-8dcec0908bb6" Identification="547.12" Name="Antennenanlagen (über 10 m Höhe)" Description="" />
+                  <IfcClassificationReference id="i1997" Location="http://www.cafm-connect.org/CAFMConnect/ccf9c8df-fc9f-419b-9d65-e3c38774ff8d" Identification="547.20" Name="Verkehrssignalanlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i1998" Location="http://www.cafm-connect.org/CAFMConnect/9ebe27d5-ebe6-4142-b405-3d960a0d0855" Identification="548" Name="Nutzungsspezifische Anlagen" Description="Medienversorgungsanlagen, Tankstellenanlagen, badetechnische Anlagen, leitungsgebundene Abfallentsorgung">
+                <HasReferences>
+                  <IfcClassificationReference id="i1999" Location="http://www.cafm-connect.org/CAFMConnect/ac0815c7-c9f8-4a6c-8571-60047eacfbab" Identification="548.10" Name="Medienversorgungsanlagen" Description="" />
+                  <IfcClassificationReference id="i2000" Location="http://www.cafm-connect.org/CAFMConnect/25e1e6da-6889-486f-8e5b-557e734dc771" Identification="548.20" Name="Tankläger" Description="" />
+                  <IfcClassificationReference id="i2001" Location="http://www.cafm-connect.org/CAFMConnect/9c1bb453-9a15-4f58-8c7c-591a3f0c6725" Identification="548.21" Name="Tankläger &lt; 10.000 l" Description="" />
+                  <IfcClassificationReference id="i2002" Location="http://www.cafm-connect.org/CAFMConnect/981ec968-491b-4e2c-8e68-d87f2041a91c" Identification="548.22" Name="Tankläger &gt; 10.000 l" Description="" />
+                  <IfcClassificationReference id="i2003" Location="http://www.cafm-connect.org/CAFMConnect/2eea50b1-4909-41e6-b69c-94f2d3c4789f" Identification="548.30" Name="Tankstellenanlagen" Description="" />
+                  <IfcClassificationReference id="i2004" Location="http://www.cafm-connect.org/CAFMConnect/bb9dda6e-8e52-48b4-84f8-986dbd7460c3" Identification="548.40" Name="Flugfeldbetankungsanlagen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2005" Location="http://www.cafm-connect.org/CAFMConnect/1ef33c06-7beb-47b9-af92-00b78480449f" Identification="549" Name="Technische Anlagen in Außenanlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2006" Location="http://www.cafm-connect.org/CAFMConnect/dafd5c19-98c2-46fd-bf4b-3100dac0fc86" Identification="550" Name="Einbauten in Außenanlagen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i2007" Location="http://www.cafm-connect.org/CAFMConnect/0a5d4a2c-e2a3-4f62-a78d-6b43586e7e87" Identification="551" Name="Allgemeine Einbauten" Description="Wirtschaftsgegenstände, z. B. Möbel, Fahrradständer, Schilder, Pflanzbehälter, Abfallbehälter, Fahnenmaste">
+                <HasReferences>
+                  <IfcClassificationReference id="i2008" Location="http://www.cafm-connect.org/CAFMConnect/d9ade379-4455-4b71-9c0c-a824ef388ef3" Identification="551.20" Name="Fahrradständer" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2009" Location="http://www.cafm-connect.org/CAFMConnect/8b3e1762-29d9-496b-aa10-81814be3a751" Identification="552" Name="Besondere Einbauten" Description="Einbauten für Sport- und Spielanlagen, Tiergehege" />
+              <IfcClassificationReference id="i2010" Location="http://www.cafm-connect.org/CAFMConnect/6f825684-3ea2-40fb-b1fd-f977fb578dff" Identification="559" Name="Einbauten in Außenanlagen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2011" Location="http://www.cafm-connect.org/CAFMConnect/47357c71-e59e-4b0c-bfe1-c902c59b9971" Identification="560" Name="Wasserflächen" Description="Naturnahe Wasserflächen">
+            <HasReferences>
+              <IfcClassificationReference id="i2012" Location="http://www.cafm-connect.org/CAFMConnect/35a2e89f-94ae-479a-99b5-b61471c4aeac" Identification="561" Name="Abdichtungen" Description="Einschließlich Schutzschichten, Bodensubstrat und Uferausbildung" />
+              <IfcClassificationReference id="i2013" Location="http://www.cafm-connect.org/CAFMConnect/7c5f8a6c-cf64-4d01-92fc-e0c1093e295a" Identification="562" Name="Bepflanzungen" Description="" />
+              <IfcClassificationReference id="i2014" Location="http://www.cafm-connect.org/CAFMConnect/8e2df1b0-89ac-469c-b906-d228af1e7b3e" Identification="569" Name="Wasserflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2015" Location="http://www.cafm-connect.org/CAFMConnect/a3810427-24dc-4d8c-92d9-917cec0b3067" Identification="570" Name="Pflanz- und Saatflächen" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i2016" Location="http://www.cafm-connect.org/CAFMConnect/f259cac8-1fe2-42b8-8949-fe6fe1de7155" Identification="571" Name="Oberbodenarbeiten" Description="Oberbodenauftrag, Oberbodenlockerung" />
+              <IfcClassificationReference id="i2017" Location="http://www.cafm-connect.org/CAFMConnect/657b35f9-77dc-423a-8fcf-de3409fde5ac" Identification="572" Name="Vegetationstechnische Bodenbearbeitung" Description="Bodenverbesserung, z. B. Düngung, Bodenhilfsstoffe" />
+              <IfcClassificationReference id="i2018" Location="http://www.cafm-connect.org/CAFMConnect/ee2e1206-b349-4845-b06b-e76b3f0a4775" Identification="573" Name="Sicherungsbauweisen" Description="Vegetationsstücke, Geotextilien, Flechtwerk" />
+              <IfcClassificationReference id="i2019" Location="http://www.cafm-connect.org/CAFMConnect/5c04bf04-0a63-44ee-aba9-bc1637100aac" Identification="574" Name="Pflanzen" Description="Einschließlich Fertigstellungspflege">
+                <HasReferences>
+                  <IfcClassificationReference id="i2020" Location="http://www.cafm-connect.org/CAFMConnect/4a9a3c31-9942-45a5-8969-455ce9fc60fb" Identification="574.10" Name="Bäume" Description="" />
+                  <IfcClassificationReference id="i2021" Location="http://www.cafm-connect.org/CAFMConnect/fd1fc42c-65d3-4505-b794-3519b072cbbc" Identification="574.20" Name="Büsche, Sträucher" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2022" Location="http://www.cafm-connect.org/CAFMConnect/b3c51892-d3c5-4310-a966-20a724d04069" Identification="575" Name="Rasen und Ansaaten" Description="Einschließlich Fertigstellungspflege, ohne Sportrasenflächen (siehe KG 525" />
+              <IfcClassificationReference id="i2023" Location="http://www.cafm-connect.org/CAFMConnect/8b284925-f970-4cdf-9539-13511a248a07" Identification="576" Name="Begrünung unterbauter Flächen" Description="Auf Tiefgaragen, einschließlich Wurzelschutz- und Fertigstellungspflege" />
+              <IfcClassificationReference id="i2024" Location="http://www.cafm-connect.org/CAFMConnect/c0815d14-6cfd-4d90-a46e-7f34658764fe" Identification="579" Name="Pflanz- und Saatflächen, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2025" Location="http://www.cafm-connect.org/CAFMConnect/9ce5b9b1-7062-43e5-aff2-e892aaf0489c" Identification="590" Name="Sonstige Außenanlagen" Description="Außenanlagen und übergreifende Maßnahmen im Zusammenhang mit den Außenanlagen, die nicht einzelnen Kostengruppen der Außenanlagen zugeordnet werden können" />
+        </HasReferences>
+      </IfcClassificationReference>
+      <IfcClassificationReference id="i2026" Location="http://www.cafm-connect.org/CAFMConnect/08506188-eca8-4288-91b0-45bc647825ea" Identification="600" Name="AUSSTATTUNG" Description=" Kosten für alle beweglichen oder ohne besondere Maßnahmen zu befestigenden Sachen, die zur Ingebrauchnahme, zur allgemeinen Benutzung oder zur künstlerischen Gestaltung des Bauwerks und der Außenanlagen erforderlich sind (siehe Anmerkungen zu den KG 370 und 470">
+        <HasReferences>
+          <IfcClassificationReference id="i2027" Location="http://www.cafm-connect.org/CAFMConnect/9499c20f-5f97-479e-8040-e2b850b46384" Identification="610" Name="Ausstattung" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i2028" Location="http://www.cafm-connect.org/CAFMConnect/784f21cd-1d70-41bb-961b-c122a82f5850" Identification="611" Name="Möbel/Inventar" Description="Möbel und Geräte, z. B. Sitz- und Liegemöbel, Schränke, Regale, Tische; Textilien, z. B. Vorhänge, Wandbehänge, lose Teppiche, Wäsche; Hauswirtschafts-, Garten- und Reinigungsgeräte">
+                <HasReferences>
+                  <IfcClassificationReference id="i2029" Location="http://www.cafm-connect.org/CAFMConnect/eb710e6d-eb38-47be-b6ee-ae80aab90b17" Identification="611.10" Name="Unterbringungsmöbel" Description="" />
+                  <IfcClassificationReference id="i2030" Location="http://www.cafm-connect.org/CAFMConnect/cdce9a31-7273-4eec-a533-fecc46f827e9" Identification="611.20" Name="Tische" Description="" />
+                  <IfcClassificationReference id="i2031" Location="http://www.cafm-connect.org/CAFMConnect/66e8bfe6-0e00-4773-b38e-224f12bbd9cd" Identification="611.30" Name="Stühle" Description="" />
+                  <IfcClassificationReference id="i2032" Location="http://www.cafm-connect.org/CAFMConnect/5ab5823e-15dd-47d5-8106-6110376863db" Identification="611.40" Name="Gartengeräte" Description="" />
+                  <IfcClassificationReference id="i2033" Location="http://www.cafm-connect.org/CAFMConnect/4578ec7c-e884-44a2-b837-d4db4d84fcac" Identification="611.41" Name="Rasenmäher" Description="" />
+                  <IfcClassificationReference id="i2034" Location="http://www.cafm-connect.org/CAFMConnect/2b05861f-598c-47d0-ba67-03122955432f" Identification="611.42" Name="Gartengeräte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2035" Location="http://www.cafm-connect.org/CAFMConnect/955602a9-0a0d-43b0-8db1-6c8dbcb1fa10" Identification="612" Name="Elektrische Geräte" Description="Ausstattungsgegenstände, die der besonderen Zweckbestimmung eines Objekts dienen wie z. B. wissenschaftliche, medizinische, technische Geräte">
+                <HasReferences>
+                  <IfcClassificationReference id="i2036" Location="http://www.cafm-connect.org/CAFMConnect/3dc89f65-7226-4e40-86e3-91fae0017461" Identification="612.21" Name="Steh- und Tischlampen" Description="" />
+                  <IfcClassificationReference id="i2037" Location="http://www.cafm-connect.org/CAFMConnect/815242a9-cc3e-46e2-b48a-d894568a000d" Identification="612.22" Name="Steh- und Tischventilatoren" Description="" />
+                  <IfcClassificationReference id="i2038" Location="http://www.cafm-connect.org/CAFMConnect/37000bea-dccd-4878-ab19-1c2b44817d54" Identification="612.29" Name="Elektrische Verlängerungs- und Geräteanschlussleit" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2039" Location="http://www.cafm-connect.org/CAFMConnect/9abce33d-d9c3-49fa-b0cf-ef66bdb6bc34" Identification="613" Name="EDV-Ausstattung" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i2040" Location="http://www.cafm-connect.org/CAFMConnect/531edad3-d77e-4898-8697-c506e4973383" Identification="613.10" Name="PCs, Server" Description="" />
+                  <IfcClassificationReference id="i2041" Location="http://www.cafm-connect.org/CAFMConnect/6be2a1d8-63b2-476f-97b4-bbbdcfe143a0" Identification="613.20" Name="Bildschirme, Monitore, Displays, Sichtgeräte, Beam" Description="" />
+                  <IfcClassificationReference id="i2042" Location="http://www.cafm-connect.org/CAFMConnect/a3077f76-7f18-433c-8b49-0767b660fbbf" Identification="613.30" Name="Tastaturen, Tableaus, Eingabe-, Bediengeräte" Description="" />
+                  <IfcClassificationReference id="i2043" Location="http://www.cafm-connect.org/CAFMConnect/1d7a891e-fda7-45e7-9c3f-8adbeab1ff97" Identification="613.40" Name="Drucker, Plotter, Ausgabegeräte" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2044" Location="http://www.cafm-connect.org/CAFMConnect/30e462bb-f40a-4d60-94da-5fb34108aca3" Identification="614" Name="Werkstattausrüstung" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i2045" Location="http://www.cafm-connect.org/CAFMConnect/8a99df20-6bab-42bd-87ba-c39ef9b92bf7" Identification="614.10" Name="Mechanische Handwerkzeuge" Description="" />
+                  <IfcClassificationReference id="i2046" Location="http://www.cafm-connect.org/CAFMConnect/640d2639-bf0b-4e37-9a61-2d36c0006e26" Identification="614.20" Name="Elektrische Handwerkzeuge" Description="" />
+                  <IfcClassificationReference id="i2047" Location="http://www.cafm-connect.org/CAFMConnect/ccd030e4-2a76-44fc-8983-95e6534f291e" Identification="614.30" Name="Elektrische Messgeräte" Description="" />
+                  <IfcClassificationReference id="i2048" Location="http://www.cafm-connect.org/CAFMConnect/4cf65f0f-8287-4d3a-a2fe-3136d6cee61a" Identification="614.40" Name="Ortsfeste Werkzeugmaschinen" Description="" />
+                  <IfcClassificationReference id="i2049" Location="http://www.cafm-connect.org/CAFMConnect/436aead4-7223-4eac-9493-655cd178764f" Identification="614.50" Name="Schweißgeräte" Description="" />
+                  <IfcClassificationReference id="i2050" Location="http://www.cafm-connect.org/CAFMConnect/13a01158-d646-491b-b9c3-0d25e57501aa" Identification="614.60" Name="Flüssiggasflaschen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2051" Location="http://www.cafm-connect.org/CAFMConnect/18208ba3-1534-4588-86fa-349361e381ad" Identification="615" Name="Arbeits- und Hubarbeitsbühnen" Description="">
+                <HasReferences>
+                  <IfcClassificationReference id="i2052" Location="http://www.cafm-connect.org/CAFMConnect/c5d24f6a-12bf-4dd8-862e-3d466c352cf8" Identification="615.10" Name="Fahrbare Hubarbeitsbühnen" Description="" />
+                  <IfcClassificationReference id="i2053" Location="http://www.cafm-connect.org/CAFMConnect/87824cad-ec96-453a-bdb1-63f683ad1c45" Identification="615.20" Name="Fahrbare Arbeitsbühnen" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+              <IfcClassificationReference id="i2054" Location="http://www.cafm-connect.org/CAFMConnect/acf20cd5-cd0b-4847-aa4a-87e808c2dfc8" Identification="616" Name="Winden, Hub- und Zuggeräte" Description="" />
+              <IfcClassificationReference id="i2055" Location="http://www.cafm-connect.org/CAFMConnect/6ffddae0-80ef-439a-b351-7be0dc5dcea6" Identification="617" Name="Leitern und Tritte" Description="" />
+              <IfcClassificationReference id="i2056" Location="http://www.cafm-connect.org/CAFMConnect/de6716a4-55f6-44c1-9542-5eab88563281" Identification="618" Name="Personenaufnahmemittel, nicht stationäre" Description="" />
+              <IfcClassificationReference id="i2057" Location="http://www.cafm-connect.org/CAFMConnect/dcd810b2-3d54-4b28-be5d-3f1c46afafa1" Identification="619" Name="Ausstattung, sonstiges" Description="Schilder, Wegweiser, Orientierungstafeln, Werbeanlagen">
+                <HasReferences>
+                  <IfcClassificationReference id="i2058" Location="http://www.cafm-connect.org/CAFMConnect/38c48a6d-5f3f-479b-9420-c77cf6515c46" Identification="619.10" Name="Sicherheits- und Gesundheitsschutzkennzeichnung" Description="" />
+                  <IfcClassificationReference id="i2059" Location="http://www.cafm-connect.org/CAFMConnect/60e329d8-9174-4568-99f6-54fbba4932b4" Identification="619.11" Name="Flucht- und Rettungspläne" Description="" />
+                  <IfcClassificationReference id="i2060" Location="http://www.cafm-connect.org/CAFMConnect/e8923a0e-90ea-4d59-9be6-b81ad0d1546a" Identification="619.12" Name="Alarmpläne" Description="" />
+                  <IfcClassificationReference id="i2061" Location="http://www.cafm-connect.org/CAFMConnect/78293d48-58ca-4e38-81d3-dbd8705eb584" Identification="619.13" Name="Feuerwehrpläne" Description="" />
+                  <IfcClassificationReference id="i2062" Location="http://www.cafm-connect.org/CAFMConnect/05724b56-9ae5-491f-adde-9ec652deb6ca" Identification="619.30" Name="Persönliche Schutzausrüstung" Description="" />
+                  <IfcClassificationReference id="i2063" Location="http://www.cafm-connect.org/CAFMConnect/aebe58ee-4c5c-41b9-8c0e-4921a222bc15" Identification="619.40" Name="Einrichtungen zur Ersten Hilfe" Description="" />
+                  <IfcClassificationReference id="i2064" Location="http://www.cafm-connect.org/CAFMConnect/00cb85ff-162b-4102-80a4-3fa3b66ecdfe" Identification="619.42" Name="Rettungsgeräte, Rettungstransportmittel" Description="" />
+                  <IfcClassificationReference id="i2065" Location="http://www.cafm-connect.org/CAFMConnect/791607d8-fee4-4ea3-8c66-52d62ad81e15" Identification="619.50" Name="Schulausstattung" Description="">
+                    <HasReferences>
+                      <IfcClassificationReference id="i2066" Location="http://www.cafm-connect.org/CAFMConnect/a363c3e8-5121-45f6-81bf-06464af9b5d2" Identification="619.51" Name="Schulische Geräte (ortsfeste elektrische)" Description="" />
+                      <IfcClassificationReference id="i2067" Location="http://www.cafm-connect.org/CAFMConnect/c53cc972-c352-4a23-8c7b-3eeabd7988d0" Identification="619.52" Name="Schulische Geräte (ortsveränderliche elektrische)" Description="" />
+                      <IfcClassificationReference id="i2068" Location="http://www.cafm-connect.org/CAFMConnect/005137c9-0b5b-4a99-bfe3-4809840cdc2e" Identification="619.53" Name="Schultafeln" Description="" />
+                    </HasReferences>
+                  </IfcClassificationReference>
+                  <IfcClassificationReference id="i2069" Location="http://www.cafm-connect.org/CAFMConnect/3c200674-3158-4606-af12-d3cc804d4800" Identification="619.60" Name="Turngeräte, Sportgeräte" Description="" />
+                  <IfcClassificationReference id="i2070" Location="http://www.cafm-connect.org/CAFMConnect/edf3e44d-ae15-4e7d-87f3-ee39ccbf6644" Identification="619.70" Name="Ausstattungen und Geräte für die Feuerwehr" Description="" />
+                </HasReferences>
+              </IfcClassificationReference>
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2071" Location="http://www.cafm-connect.org/CAFMConnect/9778d600-2fb4-4392-b445-243a0529017b" Identification="620" Name="Kunstwerke" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i2072" Location="http://www.cafm-connect.org/CAFMConnect/b4a83b28-bc28-4e1a-b131-ad2e8ed669b8" Identification="621" Name="Kunstobjekte" Description="Kunstwerke zur künstlerischen Ausstattung des Bauwerks und der Außenanlagen einschließlich Tragkonstruktionen, z. B. Skulpturen, Objekte, Gemälde, Möbel, Antiquitäten, Altäre, Taufbecken" />
+              <IfcClassificationReference id="i2073" Location="http://www.cafm-connect.org/CAFMConnect/16922358-1617-4d8c-9399-e1c40e0c0bf5" Identification="622" Name="Künstlerisch gestaltete Bauteile des Bauwerks" Description="Kosten für die künstlerische Gestaltung, z. B. Malereien, Reliefs, Mosaiken, Glas-, Schmiede-, Steinmetzarbeiten" />
+              <IfcClassificationReference id="i2074" Location="http://www.cafm-connect.org/CAFMConnect/2ee28d10-261a-4acc-8d67-24e69880a2bc" Identification="623" Name="Künstlerisch gestaltete Bauteile der Außenanlagen" Description="Kosten für die künstlerische Gestaltung, z. B. Malereien, Reliefs, Mosaiken, Glas-, Schmiede-, Steinmetzarbeiten" />
+              <IfcClassificationReference id="i2075" Location="http://www.cafm-connect.org/CAFMConnect/cc88723b-35f1-4eb5-8606-b17992a5f827" Identification="629" Name="Kunstwerke, sonstiges" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+          <IfcClassificationReference id="i2076" Location="http://www.cafm-connect.org/CAFMConnect/d52dc9eb-b387-44f5-b35f-ff8f1e7eaeb0" Identification="630" Name="Stoffe und Materialien" Description="">
+            <HasReferences>
+              <IfcClassificationReference id="i2077" Location="http://www.cafm-connect.org/CAFMConnect/cb6b1968-4052-45cb-8183-86e135084d0e" Identification="631" Name="Gefahrstoffe" Description="" />
+              <IfcClassificationReference id="i2078" Location="http://www.cafm-connect.org/CAFMConnect/2ba13dbd-7c86-4919-8479-cc6f72c82581" Identification="632" Name="Abfallstoffe" Description="Nicht mehr benötigte Überreste, chemische Rückstände" />
+              <IfcClassificationReference id="i2079" Location="http://www.cafm-connect.org/CAFMConnect/75f8b20e-71f2-46b8-9e16-db92a773c121" Identification="633" Name="Brennstoffe" Description="" />
+              <IfcClassificationReference id="i2080" Location="http://www.cafm-connect.org/CAFMConnect/5c4c15e1-c9ea-4b1e-8281-4f54a4785c2c" Identification="634" Name="Wassergefährdende Stoffe" Description="" />
+            </HasReferences>
+          </IfcClassificationReference>
+        </HasReferences>
+      </IfcClassificationReference>
+    </HasReferences>
+  </IfcClassification>
+  <IfcRelAssociatesClassification id="i1574">
+    <RelatedObjects>
+      <IfcProjectLibrary xsi:nil="true" ref="i1572" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i1573" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>
