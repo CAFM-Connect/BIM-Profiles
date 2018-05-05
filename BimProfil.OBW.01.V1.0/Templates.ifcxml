@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil OBW Objektplanung</name>
+    <time_stamp>2018-05-05T20:01:44.2471332+02:00</time_stamp>
+    <author>CAFM-Ring e.V.</author>
+    <organization>CAFM-Ring e.V.</organization>
+    <originating_system>http://www.cafm-connect.org</originating_system>
+    <authorization>BIM Profil OBW Objektplanung</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcTable id="i60650" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60653</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/b1ca1b17-eab1-44d9-bdab-2b9a501190bc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b1ca1b17-eab1-44d9-bdab-2b9a501190bc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2noXiNwh54sRshAvfG4P2y</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60654</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/634a0389-c52d-4769-8e6c-06456b709e48</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>634a0389-c52d-4769-8e6c-06456b709e48</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1ZIWE9nIr7QOvi1aLhS9v8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60655</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/c1870a65-20c0-4d9a-b7e3-7928d167fdd5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c1870a65-20c0-4d9a-b7e3-7928d167fdd5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>31Xmfb8C1DchVZUIZHP$tL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60656</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/6d399e3f-4b0e-4bd4-a282-88494f7a9a69</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6d399e3f-4b0e-4bd4-a282-88494f7a9a69</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1jEPu$ImvBrAA2Y4bFUfff</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60657</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/17a1809b-74f9-4023-aaf9-5825d09b7231</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>17a1809b-74f9-4023-aaf9-5825d09b7231</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0NeO2RTFb08whvM2NGct8n</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60659</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CafmConnect/26dfa365-325e-4c77-b50e-f39bfe6d3770</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>26dfa365-325e-4c77-b50e-f39bfe6d3770</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0ctwDbCbvCTxKEyvl_RJTm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60660</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/87262770-9583-4208-8cb6-036c6f8a76cb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>87262770-9583-4208-8cb6-036c6f8a76cb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>279YTmbOD228os0snlYdRB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60661</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/9bb05f5b-d571-46ef-a45e-b47690d6e394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9bb05f5b-d571-46ef-a45e-b47690d6e394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Ri5zRrN56xwHUj7QGrkEK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60662</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/df157ec8-da08-434a-bdf5-16c329842328</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>df157ec8-da08-434a-bdf5-16c329842328</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3V5Nx8sWX3Ihtr5iCfX2Ce</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="i60651" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-05T20:01:44.5611132+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i60652">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i60651" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i60653" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i60651" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i60654" Location="IfcBuildingElementProxy/USERDEFINED" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i60653" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i60655" Location="IfcBuildingElementProxy/USERDEFINED" Identification="334" Name="Außentüren, -tore und -fenster" Description="Fenster und Schaufenster, Türen und Tore einschließlich Fensterbänken, Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i60654" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i60656" Location="IfcDoor/USERDEFINED" Identification="334.10" Name="Außentür" Description="Eingangstüren, Garagentür, Fenster in der Tür, Türklinke">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i60655" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="i60657" GlobalId="0NeO2RTFb08whvM2NGct8n" Name="334.10" Description="PropertySet Template for 'CAFMConnect.DE Außentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="i60659" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+        <Enumerators>
+          <EnumerationValues>
+            <IfcLabel-wrapper id="i60660" pos="1">2-flügelig</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i60661" pos="2">einflügelig</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i60662" pos="3">mehrflüglig</IfcLabel-wrapper>
+          </EnumerationValues>
+        </Enumerators>
+      </IfcSimplePropertyTemplate>
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="i60658">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="i60657" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i60656" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>

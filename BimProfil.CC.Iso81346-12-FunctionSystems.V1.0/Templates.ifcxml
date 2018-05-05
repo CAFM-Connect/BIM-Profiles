@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil Basisprofil Iso81346-12-FunctionSystems</name>
+    <time_stamp>2018-05-05T20:01:27.2966587+02:00</time_stamp>
+    <author>CAFM-Ring e.V.</author>
+    <organization>CAFM-Ring e.V.</organization>
+    <originating_system>http://www.cafm-connect.org</originating_system>
+    <authorization>BIM Profil Basisprofil Iso81346-12-FunctionSystems</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcTable id="i59850" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59853</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/8beccde5-c7ae-4cf6-9712-106931c45b1e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8beccde5-c7ae-4cf6-9712-106931c45b1e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2BxCtbnwvCzfSI46ann5iU</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59854</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/7a68c7fe-b300-49d5-af12-7aa5ff7e11da</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7a68c7fe-b300-49d5-af12-7aa5ff7e11da</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1wQCV_im19rQyIUgN$VX7Q</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59855</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/05d6fd23-40d3-47b4-859a-299743d4fe33</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>05d6fd23-40d3-47b4-859a-299743d4fe33</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>05rlqZGDD7j8MQAPT3rFup</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59856</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/34cca08b-4ac8-4467-83ef-6228608afd83</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>34cca08b-4ac8-4467-83ef-6228608afd83</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0qpA2BIiX4PuFlOYXWYls3</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59857</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/615de1ea-d435-4bf7-936a-57bd19b3f2fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>615de1ea-d435-4bf7-936a-57bd19b3f2fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1XNU7gr3LBzvDgLxqPi$B_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59858</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/a1d49c54-0534-42d0-a606-0645184fedc9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a1d49c54-0534-42d0-a606-0645184fedc9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Xr9nK1JH2qAO61aKOJ_t9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59859</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/c203689e-8991-401b-b54a-f2918bc07967</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c203689e-8991-401b-b54a-f2918bc07967</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>320sYUYP506xLAyf6Bm7bd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59860</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/efb41514-0f7d-4097-8e92-6b9b8557403e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>efb41514-0f7d-4097-8e92-6b9b8557403e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3lj1KK3tr0buwIQvk5Lq0_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59861</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/931e9785-6b61-4732-a555-0be432f1f73b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>931e9785-6b61-4732-a555-0be432f1f73b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2J7fU5Qs57CgLL2_GoyVSx</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59862</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/ad2be545-3041-43a6-9857-6f34f0f1cbb4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ad2be545-3041-43a6-9857-6f34f0f1cbb4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2jA_L5C453ffXNRpJmySkq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59863</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/8e259b5a-608b-4a93-87ae-6fd391ec2f0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8e259b5a-608b-4a93-87ae-6fd391ec2f0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2E9PjQO8jAauUkRzEHx2yC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59864</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/a8142a63-69ff-41a4-8cc1-77bf550d6cec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8142a63-69ff-41a4-8cc1-77bf550d6cec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2e52fZQVz1f8p1TxzL3Mpi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59865</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/8698fb64-f4a2-4351-b64e-0b4671c93e2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8698fb64-f4a2-4351-b64e-0b4671c93e2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>26cFjazA93KRPE2qPnoJuh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59866</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/cf2c051e-0858-412c-9342-d50f0dec6c78</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cf2c051e-0858-412c-9342-d50f0dec6c78</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3FB0KU25X1B9D2rGyDx6nu</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59867</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/a8f8c608-2253-4b8d-b05a-683eb9f0907b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8f8c608-2253-4b8d-b05a-683eb9f0907b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2e_CO88bDBZR1QQ3wvy91x</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59868</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-FunctionSystems/4b02658c-0519-4b3a-b178-c6f39abb5c05</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-FunctionSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4b02658c-0519-4b3a-b178-c6f39abb5c05</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1B0cMC1HbBEh5unlEQkrm5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="i59851" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-05T20:01:27.7023498+02:00" Name="Bauteiltypen" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i59852">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i59853" Identification="A" Name="Ground system" Description="functional system which terminates a construction entity by forming a part of terrain or by direct contact with terrain ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59854" Identification="B" Name="Wall system" Description="functional system which forms and separates space vertically ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59855" Identification="C" Name="Slab system" Description="functional system which forms and separates space horizontally ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59856" Identification="D" Name="Roof system" Description="functional system which terminates a construction entity upwards ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59857" Identification="E" Name="Gas- and air system" Description="functional system which supplies technical gases or technical air ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59858" Identification="F" Name="Water- and fluid system" Description="functional system which supplies domestic water, technical water or liquid ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59859" Identification="G" Name="Drainage- and waste system" Description="functional system which discharges contaminated water or dispose of waste ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59860" Identification="H" Name="Cooling- and heating system " Description="functional system which supplies cold, heat and steam ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59861" Identification="J" Name="Ventilation system" Description="functional system which supplies air exchange ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59862" Identification="K" Name="Electrical system" Description="functional system which supplies electrical energy">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59863" Identification="L" Name="Automation system" Description="functional system which controls, adjusts and monitors technical systems in a context">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59864" Identification="M" Name="IT- and communication system" Description="functional system which provides communications between persons or technical systems.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59865" Identification="N" Name="Transportation system " Description="functional system which transports goods or persons ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59866" Identification="P" Name="Security and safety system " Description="functional system which prevents any object from danger and damage ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59867" Identification="Q" Name="Lighting system" Description="functional system for lighting and lighting protection ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59868" Identification="R" Name="Arrangement system " Description="functional system which equips a construction entity and its spaces with fittings and equipment ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59851" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+</ifcXML>
