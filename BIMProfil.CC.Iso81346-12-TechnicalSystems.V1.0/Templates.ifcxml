@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil Basisprofil Iso81346-12-TechnicalSystems</name>
+    <time_stamp>2018-05-03T13:46:40.1736474+02:00</time_stamp>
+    <author>CAFM-Ring e.V.</author>
+    <organization>CAFM-Ring e.V.</organization>
+    <originating_system>http://www.cafm-connect.org</originating_system>
+    <authorization>BIM Profil Basisprofil Iso81346-12-TechnicalSystems</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcTable id="i59865" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59868</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/c3c4fa8a-3a4f-4265-a754-abe5141feeba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c3c4fa8a-3a4f-4265-a754-abe5141feeba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>33nFgAEaz2PQTKg_KK7_ww</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59869</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/76536a34-81f8-4a8a-b744-37f1c547e097</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>76536a34-81f8-4a8a-b744-37f1c547e097</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1sKseqWVXAYhT4D$75H_2N</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59870</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/63be0e3c-0d4d-4f04-98ad-d6500e65dc4d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>63be0e3c-0d4d-4f04-98ad-d6500e65dc4d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1ZlWuy3KrF19Yjrb0EPTnD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59871</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/84ad9922-2d42-4191-8c32-07253f16184f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>84ad9922-2d42-4191-8c32-07253f16184f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>24hPaYBK91aOmo1oK$5XXF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59872</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/fd14612b-623c-4854-b4dc-1c5341dc6412</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fd14612b-623c-4854-b4dc-1c5341dc6412</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3z564hOZn8LBJS75D1t6GI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59873</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/3773c2ae-a968-49be-9c70-96fd6fe3b111</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3773c2ae-a968-49be-9c70-96fd6fe3b111</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0tSyAkgMX9lfnmblrlux4H</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59874</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/823c1799-8235-44aa-9639-fc45c3cdaa28</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>823c1799-8235-44aa-9639-fc45c3cdaa28</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>22F1UPWZL4gfOv$4N3pQee</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59875</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/8b2b6709-d2eb-470e-a6d6-fcfb49333b36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8b2b6709-d2eb-470e-a6d6-fcfb49333b36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2BAsS9qkj73gRM$Fj9Cpis</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59876</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/f84e1e4e-13a6-41e1-a9b1-2da896a46f77</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f84e1e4e-13a6-41e1-a9b1-2da896a46f77</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3uJXvE4wP1uQcnBQYMf6zt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59877</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/1a453b7c-2c0a-4222-8868-4e38132efbcc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1a453b7c-2c0a-4222-8868-4e38132efbcc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0QHJjyB0f28eXeJZWJBllC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59878</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/b379a705-aa92-43a8-ac83-7ac0fbe1fd1a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b379a705-aa92-43a8-ac83-7ac0fbe1fd1a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2pUQS5gf93gAo3Ui3xuVqQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59879</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/ab2ca521-c6b9-4a55-8eba-d9f2bc3f91bf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ab2ca521-c6b9-4a55-8eba-d9f2bc3f91bf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2hBAKXnhbALOwwsVAyFv6$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59880</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/2fb057f6-89ec-4efc-b44d-c822ee132237</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2fb057f6-89ec-4efc-b44d-c822ee132237</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0li5VsYUnE$BHDo2Bk4o8t</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59881</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/14c1aa7b-763e-44d3-b602-18946abc97b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>14c1aa7b-763e-44d3-b602-18946abc97b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0KmQfxTZv4qxO269Hgl9Uq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59882</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/ac6a17d0-45ef-4992-a843-18aead466ea9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ac6a17d0-45ef-4992-a843-18aead466ea9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2iQXVGHUz9agX36AwjHcwf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59883</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/462e6080-61c5-4e88-9ebb-bff689b72f98</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>462e6080-61c5-4e88-9ebb-bff689b72f98</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16Bc20OSLEY9wxl$Q9jo_O</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59884</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/6f1cfe76-c0f2-4f19-a715-55ce6a490550</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6f1cfe76-c0f2-4f19-a715-55ce6a490550</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1l7FvsmF9F6QSLLSvgIGLG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59885</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/fa3ad9ca-54b3-4be7-990f-2046f93daef0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fa3ad9ca-54b3-4be7-990f-2046f93daef0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wEjdALBDBvvaF84RvFQxm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59886</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/9e34b5c1-1121-48b8-ab0f-db0c61e530b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9e34b5c1-1121-48b8-ab0f-db0c61e530b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2UDBN14I58kAiFsmnXvJ2o</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59887</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/7d40bce7-7d97-4296-b98a-3de08bd0287b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7d40bce7-7d97-4296-b98a-3de08bd0287b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1zGBpdVPT2bhcAFU2Bq2Xx</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59888</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/e79ebeed-4bd0-4993-9af1-ae1cc16b8b97</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e79ebeed-4bd0-4993-9af1-ae1cc16b8b97</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ddhxjIz19avhnhXp1QukN</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59889</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/87df9117-264d-43b1-a5ac-ccb61622f2af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>87df9117-264d-43b1-a5ac-ccb61622f2af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>27tv4N9ar3iQMipBOM8lAl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59890</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/369776a4-1ba6-4eb9-9fd8-3816ec6b9427</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>369776a4-1ba6-4eb9-9fd8-3816ec6b9427</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0sbtQa6wPEkP$OE1RiQvGd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59891</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/1a15fe70-337c-45e8-879a-deb6d28029f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1a15fe70-337c-45e8-879a-deb6d28029f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Q5VvmCtn5w8UQthRIW2dp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59892</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/5654e8b5-785d-48e7-96f0-d71fa9d9a8f6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5654e8b5-785d-48e7-96f0-d71fa9d9a8f6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1MLEYrU5r8vvRmrn_fsQZs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59893</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/0383dc3f-3867-490e-8841-be84c196979a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0383dc3f-3867-490e-8841-be84c196979a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>03Wzm$E6T93eX1leJ1bfUQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59894</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/23cfbfaf-f6e8-4609-8ded-cc51a2802a53</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23cfbfaf-f6e8-4609-8ded-cc51a2802a53</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Zpx_lzkX62Otjp56YW2fJ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59895</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/c442c0a6-0496-4d9f-9560-502bd09e84c1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c442c0a6-0496-4d9f-9560-502bd09e84c1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>34Gi2c19PDdvLWK2lGdeJ1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59896</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/e3fff467-6391-440d-ac85-52d2453a2098</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e3fff467-6391-440d-ac85-52d2453a2098</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Z$$HdOv543Qo5Kj95EY2O</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59897</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/5e7f0844-a130-4ceb-a9a1-8c0927a2ce41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5e7f0844-a130-4ceb-a9a1-8c0927a2ce41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1UVmX4eJ1CwwcXZ0adeiv1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59898</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/1903e584-b54c-4b31-9f02-aaa95f9fa75d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1903e584-b54c-4b31-9f02-aaa95f9fa75d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0P0_M4jKnBCPy2ggbVdwTT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59899</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/2710a05b-a2df-4bda-84e3-0d9c4b2ee277</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2710a05b-a2df-4bda-84e3-0d9c4b2ee277</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0d4A1RejzBseJZ3PnBBk9t</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59900</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/705eaf47-e3dc-457f-8739-d013ca15f692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>705eaf47-e3dc-457f-8739-d013ca15f692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1mNgz7uzn5VuSvq1FA5VQI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59901</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/c32f2a62-4883-4690-bf53-4f1ce99ff4f1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c32f2a62-4883-4690-bf53-4f1ce99ff4f1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>33BofYI8D6aBzJJnpfd$Jn</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59902</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/16af9a1f-53ee-4315-856c-4b66b569b001</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16af9a1f-53ee-4315-856c-4b66b569b001</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0MhveVK_v35OLiIsQrQR01</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59903</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/832c7c46-ce05-4ef6-8cad-854a5715f0a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>832c7c46-ce05-4ef6-8cad-854a5715f0a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23B7n6pWLEzeojXKfN5V2a</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59904</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/ec543a2a-1251-43a9-8248-1691695128d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ec543a2a-1251-43a9-8248-1691695128d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3iL3eg4b53gO985f5fKIZH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59905</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/d0223791-e1a9-4643-b1f6-b4a3a3b56f76</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d0223791-e1a9-4643-b1f6-b4a3a3b56f76</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3G8ZUHuQb6Gx7sjAEZjMzs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59906</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/8883df4d-a547-47ee-ab02-ac27d9ed2481</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8883df4d-a547-47ee-ab02-ac27d9ed2481</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>28WzzDfKT7xgi2h2VPxII1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59907</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/f5322d63-37d8-4323-a0e9-edeb410f46f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f5322d63-37d8-4323-a0e9-edeb410f46f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3rCYrZDzX38w3fxUj13qRr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59908</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/4cdd3213-c825-4b75-ae0b-b8ec0c5bb508</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4cdd3213-c825-4b75-ae0b-b8ec0c5bb508</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1CtJ8Jo2LBTQuBkEmCMxK8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59909</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/e05a9e51-a8c9-4002-8353-de110dd47dc8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e05a9e51-a8c9-4002-8353-de110dd47dc8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3WMfvHgCb00eDJtX4Dr7t8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59910</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/9daddc0f-e133-47b0-898e-25daddf76df7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9daddc0f-e133-47b0-898e-25daddf76df7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ThTmFuJD7i8cE9ThTzstt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59911</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/c6c4147c-871a-4796-9983-f17df4bd0bee</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c6c4147c-871a-4796-9983-f17df4bd0bee</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>36n1HyXnf7bfc3yNtqlGlk</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59912</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/e54f2dac-e942-411b-8c2d-c96e0be0dd21</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e54f2dac-e942-411b-8c2d-c96e0be0dd21</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3bJosiwK916umjoMuBuDqX</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59913</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/51399a81-f918-417a-a37f-07d2145fbff1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>51399a81-f918-417a-a37f-07d2145fbff1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1HEPg1_HX1UgD$1z8KNx$n</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59914</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/b1a9ea9d-03cc-42fc-aeb7-265edbab3a59</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b1a9ea9d-03cc-42fc-aeb7-265edbab3a59</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ngUgT0yn2$Awt9bxRgpfP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59915</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/05185622-6eb9-40c4-bcc7-f32ccc09f03e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>05185622-6eb9-40c4-bcc7-f32ccc09f03e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0565OYRhb0nBp7yopC2V0_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59916</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/8339b1eb-0318-4872-a0fc-b5d8e00bce4a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8339b1eb-0318-4872-a0fc-b5d8e00bce4a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23ER7h0nX8Sg3yjTZW2yvA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59917</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/7e89735e-23b8-40c5-a14a-f698ba06a02a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7e89735e-23b8-40c5-a14a-f698ba06a02a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1_YNDU8xX0nQ5AzfYw1g0g</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59918</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/f37d1c7a-1daa-4ed9-b713-278cd5094b81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f37d1c7a-1daa-4ed9-b713-278cd5094b81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3pVHnw7QfEsRSJ9upL2Kk1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59919</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/544a3597-95db-4f65-b805-65e0dfcf576b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>544a3597-95db-4f65-b805-65e0dfcf576b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1KIZMNbTjFPRW5PU3VprTh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59920</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/0697d214-b547-4d39-8be3-41db4fac0502</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0697d214-b547-4d39-8be3-41db4fac0502</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>06bz8KjKTDEOlZGTjFh0K2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59921</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/57ad11ff-36e1-45dd-8d00-3ada46b7272d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>57ad11ff-36e1-45dd-8d00-3ada46b7272d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1NhH7$Dk55tOq0Ejf6joSj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59922</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/2f4079a9-475c-41df-9450-80a68ae4c58f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2f4079a9-475c-41df-9450-80a68ae4c58f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0lG7cfHrn1tvHGWAQAvCMF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59923</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/d7041052-2ddc-4652-9336-cf80a22f338b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d7041052-2ddc-4652-9336-cf80a22f338b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3N111IBTn6KfCspu2YBpEB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59924</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/3b26f661-d36d-41aa-9a52-e81c97facf7e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3b26f661-d36d-41aa-9a52-e81c97facf7e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0x9lPXqsr1gffIw1oN_iz_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59925</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/b2141487-f5fd-45c0-b2d2-e287d89de3cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b2141487-f5fd-45c0-b2d2-e287d89de3cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2o51I7zVr5mBBIueVOdUFD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59926</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/ac0d6212-cf97-4d4d-aa2c-3dbf1a267af3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ac0d6212-cf97-4d4d-aa2c-3dbf1a267af3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2i3M8IpvTDJQeiFRyQ9dhp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59927</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/5f2e54af-d6e3-480d-8da5-7d61ebd0fd2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5f2e54af-d6e3-480d-8da5-7d61ebd0fd2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1VBbIlrkD83OsbVM7hqFqj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59928</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/c5b67f89-07a1-485e-91c5-d69e2b63b01d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c5b67f89-07a1-485e-91c5-d69e2b63b01d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35jd_91w58Nf75rfuhOx0T</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59929</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/3348a007-fb8d-4c9a-8fcc-46496797f47f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3348a007-fb8d-4c9a-8fcc-46496797f47f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0pIA07_urCce$CHabdb$H$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59930</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/7a42f90f-c488-4682-b104-5adad4625cd1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7a42f90f-c488-4682-b104-5adad4625cd1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1wGlaFn8X6Wh44MjhKObpH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59931</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/9f313a70-f730-4dcd-ab16-79b5aca299ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9f313a70-f730-4dcd-ab16-79b5aca299ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2VCJfmzp1DpQiMURMiefdi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59932</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/d5c2b0cb-5d95-450d-8dbb-aef5fa305f27</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d5c2b0cb-5d95-450d-8dbb-aef5fa305f27</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Lmh3BNPL53OsxhlNwC5yd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59933</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/12f2fcf5-01c4-4253-8445-fefd7314ca68</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>12f2fcf5-01c4-4253-8445-fefd7314ca68</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Iylpr0SH2KuH5$lrp5Cfe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59934</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/bc9acf07-9f89-4db7-ac61-4ffe9c731617</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>bc9acf07-9f89-4db7-ac61-4ffe9c731617</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2yciy7dubDjwnXJ$wSSnON</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59935</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/7850cced-3b2a-43b3-8416-9f46102b0874</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7850cced-3b2a-43b3-8416-9f46102b0874</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1uKCpjEof3iuGMdqOGAmXq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59936</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/d18241af-044d-4529-a806-c663e318429f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d18241af-044d-4529-a806-c663e318429f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3HWa6l14r5AQW6ncFZ64AV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59937</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/af458810-94f4-45b7-b957-51845e4f0ef5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>af458810-94f4-45b7-b957-51845e4f0ef5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2lHOWGbFH5jxbNKOHUJmxr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59938</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/bd8088ab-9042-4423-aec7-8d6d26d6f250</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>bd8088ab-9042-4423-aec7-8d6d26d6f250</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2zW8Yha4948wx7ZMqcrl9G</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59939</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/6a8c405e-beab-46a6-92c1-d7a2fd86be60</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6a8c405e-beab-46a6-92c1-d7a2fd86be60</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1gZ41Ulgj6ffB1rwBzXhvW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59940</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/623566be-c166-41e4-9602-a0a1e33735b0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>623566be-c166-41e4-9602-a0a1e33735b0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YDMQ_mMP1v9O2eA7ZDpMm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59941</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/99e49a26-bb43-42ee-8af7-e0b7ab4e4997</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>99e49a26-bb43-42ee-8af7-e0b7ab4e4997</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Pv9eckqD2xehtuBUhJacN</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59942</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/9c777a55-89f2-4d64-b226-19e501943d16</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9c777a55-89f2-4d64-b226-19e501943d16</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2STtfLYV9DPB8c6UK1b3qM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59943</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/fa443e52-a540-424b-8d93-5a165304f4cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fa443e52-a540-424b-8d93-5a165304f4cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wH3vIfK12IusJMXPJ1FJD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59944</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/d27a6527-a655-42c5-9091-95157b90f2b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d27a6527-a655-42c5-9091-95157b90f2b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3IUcKdfbL2nP2HbHLxaFAn</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59945</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/b237ff01-65f2-4c86-ac71-caf82e00e92d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b237ff01-65f2-4c86-ac71-caf82e00e92d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2oD$y1PV9CXgnnolWk0Eaj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59946</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-TechnicalSystems/43a596b6-36e4-438b-80e1-7859ca72d018</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-TechnicalSystems</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>43a596b6-36e4-438b-80e1-7859ca72d018</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>13fPQsDkH3Yu3XU5dASj0O</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="i59866" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-03T13:46:40.3691778+02:00" Name="Bauteiltypen" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i59867">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i59868" Identification="A" Name="Technical construction system" Description="technical system which builds up a part of an object construction ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59869" Identification="AA" Name="Pavement construction" Description="technical construction system of layers which forms areas for transport">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59870" Identification="AB" Name="Foundation construction " Description="technical construction system of layers which forms separation towards underground ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59871" Identification="AC" Name="Slab construction " Description="technical construction system of layers which forms horizontal separation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59872" Identification="AD" Name="Wall construction " Description="technical construction system of layers which forms vertical separation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59873" Identification="AE" Name="Roof construction " Description="technical construction system of layers which terminates a construction entity upwards ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59874" Identification="AF" Name="Stairway construction " Description="technical construction system of layers which establish a stepwise link between two or more levels ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59875" Identification="AG" Name="Ramp construction " Description="technical construction system of layers which establish a step-free link between two or more levels ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59868" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59876" Identification="B" Name="Technical structural system " Description="technical system which forms structural construction ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59877" Identification="BA" Name="Groundworks structure" Description="technical construction system which forms a regulated volume of underground">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59878" Identification="BB" Name="Foundation structure" Description="technical construction system which connects a construction entity with the underground ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59879" Identification="BC" Name="Slab structure" Description="technical construction system in a horizontal separation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59880" Identification="BD" Name="Wall structure" Description="technical construction system in a vertical separation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59881" Identification="BE" Name="Roof structure" Description="construction system which terminates a construction entity upwards ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59882" Identification="BF" Name="Floor structure" Description="technical construction system which terminates a space downwards ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59883" Identification="BG" Name="Ceiling structure" Description="technical construction system which terminates a space upwards">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59884" Identification="BH" Name="Routing structure" Description="technical construction system which supports supply- or distribution system ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59876" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59885" Identification="H" Name="Technical supply system " Description="technical system which supply consumption plant ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59886" Identification="HA" Name="Gas- and air supply system " Description="technical supply system for gas or technical air ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59887" Identification="HB" Name="Water supply system" Description="technical supply system for water ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59888" Identification="HC" Name="Cooling supply system" Description="technical supply system for cooling ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59889" Identification="HD" Name="Heating supply system" Description="technical supply system for heating">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59890" Identification="HE" Name="Combined heating and cooling supply system" Description="technical supply system for cooling and heating ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59891" Identification="HF" Name="Ventilation plant" Description="technical supply system for mechanical flow of air ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59892" Identification="HG" Name="Power supply system" Description="technical supply system for electrical energy">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59893" Identification="HH" Name="Lighting system" Description="technical supply system for electrical lighting ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59894" Identification="HJ" Name="Signal supply system" Description="technical supply system for signals ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59885" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59895" Identification="J" Name="Technical transport system " Description="technical system which brings something from one place to another">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59896" Identification="JA" Name="Gas distribution system " Description="technical transport system for gas">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59897" Identification="JB" Name="Water distribution system " Description="technical transport system for water ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59898" Identification="JC" Name="Chemical distribution system " Description="technical transport system for flammable liquids or other chemicals ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59899" Identification="JD" Name="Outflow system" Description="technical transport system for wastewater and liquid waste ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59900" Identification="JE" Name="Garbage system" Description="technical transport system for waste ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59901" Identification="JF" Name="Cooling distribution system " Description="technical transport system for cooling ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59902" Identification="JG" Name="Heating distribution system" Description="technical transport system for heating ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59903" Identification="JH" Name="Combined heat and cooling distribution system" Description="technical transport system for cooling and heating ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59904" Identification="JJ" Name="Air distribution system " Description="technical transport system for air">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59905" Identification="JK" Name="Power distribution system " Description="technical transport for electrical energy ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59906" Identification="JL" Name="Signal distribution system " Description="technical transport system for signals ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59907" Identification="JM" Name="Passenger transportation system" Description="technical transport system for persons ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59908" Identification="JN" Name="Goods transportation system " Description="technical transport system for solid goods or packets ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59895" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59909" Identification="K" Name="Technical treatment system" Description="technical system which provides treatment ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59910" Identification="KA" Name="Solar screening system" Description="technical treatment system which limits or excludes solar heat gain ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59911" Identification="KB" Name="Door and window opening systems " Description="technical treatment system which automatically opens and closes doors and windows">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59912" Identification="KC" Name="Filter system" Description="technical treatment system which separates solid particles from liquid or air streams ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59913" Identification="KD" Name="Separator system" Description="technical treatment system which separates two substances ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59914" Identification="KE" Name="Water treatment system" Description="technical treatment system which handles chemicals to liquids">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59915" Identification="KF" Name="Pump system" Description="technical treatment system which generates a flow in liquid ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59916" Identification="KG" Name="Pressure and expansion system" Description="technical treatment system which stabilises pressure and volume in liquid or in air flow">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59917" Identification="KH" Name="Transformer system" Description="technical treatment system which transforms electrical energy ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59918" Identification="KJ" Name="Antenna system" Description="technical treatment system which transforms radio waves into electrical signals">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59919" Identification="KK" Name="Weather station system" Description="technical treatment system which transforms weather related information into electrical signals ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59920" Identification="KL" Name="Access control system" Description="technical treatment system which physical separates flow of persons ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59909" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59921" Identification="L" Name="Technical monitoring system" Description="technical system which controls events">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59922" Identification="LA" Name="Gas alarm system" Description="technical monitoring system which raises an alarm on the occurrence of hazardous gases ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59923" Identification="LB" Name="Fire alarm system" Description="technical monitoring system which raises an alarm in the presence smoke or fire ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59924" Identification="LC" Name="Automation system" Description="technical monitoring system which automates processes in buildings- and process plants in a central unit ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59925" Identification="LD" Name="Access monitor system" Description="technical monitoring system which ensures authorised access for persons to an area or a construction entity ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59926" Identification="LE" Name="Alarm system " Description="technical monitoring system which raises an alarm in the presence of dangerous or undesirable conditions ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59927" Identification="LF" Name="Video surveillance system " Description="technical monitoring system which provides remote visual monitoring ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59921" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59928" Identification="M" Name="Technical information presenting system" Description="technical system which presents information ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59929" Identification="MA" Name="Warning system" Description="technical information presenting system which produces a fixed sound or voice messages to warn of hazardous conditions ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59928" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59930" Identification="MB" Name="Audio-Video system" Description="technical information presenting system which produces images and/or sounds ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59928" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59931" Identification="MC" Name="Traffic control system" Description="technical information presenting system which controls traffic ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59928" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59932" Identification="P" Name="Technical protecting system " Description="self-acting technical system which protects against danger or unwanted conditions">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59933" Identification="PA" Name="Fire protection system" Description="technical protecting system which protects spaces by opening/closing  doors and windows in the event of a fire ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59932" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59934" Identification="PB" Name="Firefighting system" Description="technical protecting system which protect against fire by extinguishing">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59932" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59935" Identification="PC" Name="Earthing system" Description="technical protecting system which protects against dangerous electrical currents by earthing of electrical systems">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59932" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59936" Identification="PD" Name="Lightning protection system " Description="technical protecting system which protect against lightning by earthing of electrical systems ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59932" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59937" Identification="PE" Name="Cathodic protection system " Description="technical protecting system which protects metal constructions against corrosion by corrosion protection ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59932" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59938" Identification="Q" Name="Technical storage system " Description="technical system which stores information, energy or substance ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59939" Identification="QA" Name="Meter system" Description="technical storage system for metered consumption information ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59938" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59940" Identification="QB" Name="Gas- and air storage system " Description="technical storage system for gas and gases ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59938" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59941" Identification="QC" Name="Liquid storage system" Description="technical storage system for liquids ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59938" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59942" Identification="QD" Name="Energy storage system" Description="technical storage system for energy ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59938" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59943" Identification="R" Name="Technical furnishing system " Description="technical system which fits out space in a construction entity">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59866" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59944" Identification="RA" Name="Planting system" Description="technical furnishing system in the form of vegetation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59943" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59945" Identification="RB" Name="Furniture system " Description="technical furnishing system in the form of fixed or moveable construction elements ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59943" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59946" Identification="RC" Name="Equipment system " Description="technical furnishing system in the form of tools used in a particular situation ">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59943" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+</ifcXML>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil Basisprofil ISO 81346-12-Domains</name>
+    <time_stamp>2018-05-03T13:46:38.005139+02:00</time_stamp>
+    <author>CAFM-Ring e.V.</author>
+    <organization>CAFM-Ring e.V.</organization>
+    <originating_system>http://www.cafm-connect.org</originating_system>
+    <authorization>BIM Profil Basisprofil ISO 81346-12-Domains</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
+  <IfcTable id="i59834" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59837</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/ec84c500-3788-4fce-b7b3-9320e12570b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ec84c500-3788-4fce-b7b3-9320e12570b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3iXCK0DuXFphUpao3X9N2q</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59838</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/f4f92aaf-780c-4466-b7d2-aad3084fb938</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f4f92aaf-780c-4466-b7d2-aad3084fb938</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3q_IglU0n4PhVIgjC8Jxau</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59839</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/9fc8bbc1-cbbb-420a-a57a-53ee6cac667a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9fc8bbc1-cbbb-420a-a57a-53ee6cac667a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2VoBl1oxj22gLwK_vih6Pw</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59840</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/ea9b69ff-2f49-4aab-b0c5-132857bccac6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ea9b69ff-2f49-4aab-b0c5-132857bccac6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3gcsd$BqbAgx354oXNlCh6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59841</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/1204fc4d-8f52-43fd-adc6-ddbf932029c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1204fc4d-8f52-43fd-adc6-ddbf932029c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0I1FnDZr93$Qt6tR_J82d8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59842</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/6cc7a373-b32a-4f36-a0a6-7b404218120b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6cc7a373-b32a-4f36-a0a6-7b404218120b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1inwDpiofFDg2cUq12618B</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59843</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/dfb43a8c-0f76-4bae-aee8-309bc91501f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dfb43a8c-0f76-4bae-aee8-309bc91501f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Vj3gC3tPBhgxeC9l95G7o</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59844</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/0ec4117d-afbd-4eb0-a25c-4edd79040251</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0ec4117d-afbd-4eb0-a25c-4edd79040251</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0En15zhxrEiA9SJjrv109H</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i59845</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/Iso81346-12-Domains/3fb5344f-9e5b-4be9-8a94-6baa9ab03cc5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-12-Domains</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3fb5344f-9e5b-4be9-8a94-6baa9ab03cc5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0$jJHFdbjBwOgKQwgQi3p5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="i59835" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-03T13:46:38.2347670+02:00" Name="Bauteiltypen" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i59836">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i59837" Identification="A" Name="Activity space" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59838" Identification="B" Name="Built space" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59839" Identification="C" Name="Construction complex" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59840" Identification="D" Name="Construction aid" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59841" Identification="E" Name="Construction entity" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59842" Identification="L" Name="Construction element" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59843" Identification="P" Name="Construction product" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59844" Identification="S" Name="Storey" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i59845" Identification="Z" Name="Zone" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i59835" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+</ifcXML>
