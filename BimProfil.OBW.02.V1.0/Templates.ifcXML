@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil OBW TGA-Planung</name>
-    <time_stamp>2018-06-25T18:15:57.4700523+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:56:22.1127817+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -55,10 +55,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i64792</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/10d0d4f6-be39-489c-8554-81d2ca2498b5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/837479e5-6206-4a18-b6c5-2c25283d1669</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>10d0d4f6-be39-489c-8554-81d2ca2498b5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0GqDJslZb8d8LKWTBA99Yr</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>837479e5-6206-4a18-b6c5-2c25283d1669</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23T7dbOWPA6BR5B2KeFHPf</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -93,7 +93,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64787" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:15:57.8005972+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i64787" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:56:22.3442533+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i64788">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -117,7 +117,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64790" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i64792" GlobalId="0GqDJslZb8d8LKWTBA99Yr" Name="333" Description="PropertySet Template for 'CAFMConnect.DE Außenstützen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcColumn/USERDEFINED">
+  <IfcPropertySetTemplate id="i64792" GlobalId="23T7dbOWPA6BR5B2KeFHPf" Name="333" Description="PropertySet Template for 'CAFMConnect.DE Außenstützen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcColumn/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i64794" GlobalId="01DcC0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i64795" GlobalId="08NN40qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in X-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />

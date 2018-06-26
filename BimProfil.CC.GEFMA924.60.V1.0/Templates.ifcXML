@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil GEFMA924.60</name>
-    <time_stamp>2018-06-25T18:14:03.084338+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:54:32.1164433+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -1093,7 +1093,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43373" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:14:03.2570782+02:00" Name="Dokumententypen" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i43373" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:32.2966588+02:00" Name="Dokumententypen" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i43374">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

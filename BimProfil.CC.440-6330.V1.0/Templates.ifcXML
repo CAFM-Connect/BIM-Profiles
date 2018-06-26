@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Hoch- und Mittelspannungsanlagen inspizieren und warten</name>
-    <time_stamp>2018-06-25T18:15:52.0479585+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:56:15.9236884+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -45,10 +45,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i64751</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/cf3d7691-23d0-495c-8849-fdc9aef8cb2a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/abc203d4-f020-4aeb-99bf-49b9d405f890</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>cf3d7691-23d0-495c-8849-fdc9aef8cb2a</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3FFNQH8z19N8X9$Sck_Cig</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>abc203d4-f020-4aeb-99bf-49b9d405f890</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2hmWFKy21Awvc$IRdK1VYG</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -65,10 +65,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i64754</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/c0b3f39f-773c-4e94-b491-c4a49a2ca863</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/f82f8d97-ef8c-4d61-ac5d-50c7f3282def</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>c0b3f39f-773c-4e94-b491-c4a49a2ca863</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>30i$EVTpnEbBIHnAIQBAXZ</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f82f8d97-ef8c-4d61-ac5d-50c7f3282def</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3uBusNxunDOQnTKCVpA2tl</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -85,10 +85,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i64758</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/11b6e178-df39-4fe6-a0db-34aa7eab9409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/ea36db79-26cc-4d46-b461-081df7ba4605</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>11b6e178-df39-4fe6-a0db-34aa7eab9409</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0Hjk5utpbFvg3RDAf_gvG9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ea36db79-26cc-4d46-b461-081df7ba4605</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3gDjjv9inDHhHX21ttkaO5</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -183,7 +183,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64747" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:15:52.3524303+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i64747" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:56:16.1261939+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i64748">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -202,7 +202,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64749" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i64751" GlobalId="3FFNQH8z19N8X9$Sck_Cig" Name="440" Description="PropertySet Template for 'CAFMConnect.DE Starkstromanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+  <IfcPropertySetTemplate id="i64751" GlobalId="2hmWFKy21Awvc$IRdK1VYG" Name="440" Description="PropertySet Template for 'CAFMConnect.DE Starkstromanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i64752">
@@ -218,7 +218,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64750" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i64754" GlobalId="30i$EVTpnEbBIHnAIQBAXZ" Name="444" Description="PropertySet Template for 'CAFMConnect.DE Niederspannungsinstallationsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+  <IfcPropertySetTemplate id="i64754" GlobalId="3uBusNxunDOQnTKCVpA2tl" Name="444" Description="PropertySet Template for 'CAFMConnect.DE Niederspannungsinstallationsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i64755">
@@ -234,7 +234,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64753" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i64758" GlobalId="0Hjk5utpbFvg3RDAf_gvG9" Name="444.10" Description="PropertySet Template for 'CAFMConnect.DE Unter-/ Schaltverteiler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricDistributionBoard/USERDEFINED">
+  <IfcPropertySetTemplate id="i64758" GlobalId="3gDjjv9inDHhHX21ttkaO5" Name="444.10" Description="PropertySet Template for 'CAFMConnect.DE Unter-/ Schaltverteiler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricDistributionBoard/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i64760" GlobalId="3ygrcqQVX2UOSiXy4jRVJv" Name="Anzahl Stromkreise 3-pol., 400 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="i64761" GlobalId="0xP66uTsD0ngpDH8tbok2R" Name="Anzahl Stromkreise 4-pol., 400 V, Kombination FI / LS" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />

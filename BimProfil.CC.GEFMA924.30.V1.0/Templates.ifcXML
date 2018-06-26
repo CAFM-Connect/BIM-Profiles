@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil GEFMA924.30</name>
-    <time_stamp>2018-06-25T18:13:56.5150938+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:54:20.8281747+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -4823,7 +4823,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i37714" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:56.7172298+02:00" Name="Lebenszyklusphasen" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
+  <IfcClassification id="i37714" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:21.0308808+02:00" Name="Lebenszyklusphasen" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
   <IfcRelAssociatesClassification id="i37716">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

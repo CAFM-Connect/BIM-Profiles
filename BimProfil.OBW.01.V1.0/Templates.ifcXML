@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil OBW Objektplanung</name>
-    <time_stamp>2018-06-25T18:15:54.6705695+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:56:19.0243034+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -65,10 +65,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i64783</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/1fc3d337-b511-4b31-a768-0e2587731bd1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/345ef450-e59a-42ed-8f4c-4ba8a3e72803</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1fc3d337-b511-4b31-a768-0e2587731bd1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0VmzCtjH5BCQTe3YM7SnlH</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>345ef450-e59a-42ed-8f4c-4ba8a3e72803</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0qNlHGvPf2xOzCIwYZvoW3</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -113,7 +113,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64777" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:15:54.9625548+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i64777" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:56:19.2611087+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i64778">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -142,7 +142,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64781" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i64783" GlobalId="0VmzCtjH5BCQTe3YM7SnlH" Name="334.10" Description="PropertySet Template for 'CAFMConnect.DE Außentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i64783" GlobalId="0qNlHGvPf2xOzCIwYZvoW3" Name="334.10" Description="PropertySet Template for 'CAFMConnect.DE Außentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i64785" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators>

@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil TGM Ausschreibung</name>
-    <time_stamp>2018-06-25T18:13:52.3443787+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:54:13.8440072+02:00</time_stamp>
     <author>RealFM</author>
     <organization>RealFM</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -9303,7 +9303,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i36757" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:52.4815821+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i36757" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:14.0539296+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i36758">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
@@ -9707,7 +9707,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i36827" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassification id="i36838" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:52.6212423+02:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i36838" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:14.2090236+02:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i36839">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

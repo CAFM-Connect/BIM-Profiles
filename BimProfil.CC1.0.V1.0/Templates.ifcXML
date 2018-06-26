@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil CAFM-Connect 1.0</name>
-    <time_stamp>2018-06-25T18:13:37.15388+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:53:47.6877411+02:00</time_stamp>
     <author>DIN e.V.</author>
     <organization>DIN e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -813,7 +813,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i30208" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:37.2993657+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i30208" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:53:47.8495285+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i30209">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

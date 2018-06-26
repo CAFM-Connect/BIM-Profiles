@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisklassifikationen Kostengruppen</name>
-    <time_stamp>2018-06-25T18:13:45.9555194+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:53:59.8693134+02:00</time_stamp>
     <author>CAFM Ring e.V.</author>
     <organization>CAFM Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -2833,7 +2833,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i30953" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:46.0975611+02:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
+  <IfcClassification id="i30953" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:00.0232047+02:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
   <IfcRelAssociatesClassification id="i31018">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Unterhaltsreinigung</name>
-    <time_stamp>2018-06-25T18:13:51.2299299+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:54:11.5159076+02:00</time_stamp>
     <author>CAFM Ring e.V.</author>
     <organization>CAFM Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -813,7 +813,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i36675" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:51.4201048+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i36675" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:54:11.6640614+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i36676">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />

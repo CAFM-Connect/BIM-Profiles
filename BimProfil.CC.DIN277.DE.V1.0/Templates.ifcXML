@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Base classification of space types</name>
-    <time_stamp>2018-06-25T18:15:47.4569642+02:00</time_stamp>
+    <time_stamp>2018-06-26T14:56:10.3378508+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
@@ -813,7 +813,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64653" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:15:47.7191417+02:00" Name="Raumnutzungsarten" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i64653" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-26T14:56:10.5463385+02:00" Name="Raumnutzungsarten" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i64654">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
