@@ -2,14 +2,14 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil CAFM-Connect 1.0</name>
-    <time_stamp>2018-05-05T19:58:43.3932698+02:00</time_stamp>
+    <time_stamp>2018-06-25T18:13:37.15388+02:00</time_stamp>
     <author>DIN e.V.</author>
     <organization>DIN e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
     <authorization>BIM Profil CAFM-Connect 1.0</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
-  <IfcTable id="i28772" Name="DictionaryReferenceTable">
+  <IfcTable id="i30207" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -23,7 +23,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28775</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30210</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/59527c18-f059-49d2-a8d0-e7cc3db1a7e6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -33,7 +33,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28776</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30211</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/6b8626ab-11d0-4bf2-a601-0a64da658cf9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -43,7 +43,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28777</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30212</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/2753dadb-595f-49e2-9e05-3efb224b6d76</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -53,7 +53,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28778</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30213</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/622251cc-adde-4e69-96c9-306f221ed3c2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -63,7 +63,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28779</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30214</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/24d8e8a2-302f-4145-bf68-f06e7e3f9a8a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -73,7 +73,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28780</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30215</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/37664ef2-acb6-433f-a39a-8d5d757c9bd7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -83,7 +83,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28781</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30216</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/723cf2a6-d991-4776-b0f0-92736a8bf1e6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -93,7 +93,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28782</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30217</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/869ab247-127e-4a8d-895c-b6445ae4f6ce</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -103,7 +103,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28783</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30218</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/41da70f0-a02f-44cb-868c-64e3f59a5b48</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -113,7 +113,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28784</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30219</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/fc43221e-428c-4206-bc3e-76d3180bb992</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -123,7 +123,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28785</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30220</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a06054ca-f77d-46db-a37d-4e1f5aedb2f8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -133,7 +133,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28786</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30221</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a5c294ee-8600-4031-813b-179e3985d304</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -143,7 +143,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28787</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30222</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/31e884d8-4bb8-4465-a02a-837b2684ded7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -153,7 +153,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28788</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30223</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a6631237-77ef-4c7e-819b-16f2c29bfd4e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -163,7 +163,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28789</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30224</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/b757e082-874a-478c-9367-ef04058c7d87</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -173,7 +173,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28790</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30225</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e132ac6c-770e-4d60-9fa8-00d72483bb03</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -183,7 +183,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28791</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30226</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e98888f9-fe96-459d-8162-f7039fa15d9b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -193,7 +193,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28792</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30227</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/23be1157-bf7c-4959-acf4-30bec98d4cde</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -203,7 +203,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28793</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30228</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/8e851fe1-df6b-46e5-80c8-8ef916256c72</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -213,7 +213,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28794</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30229</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/852c6f4d-c4b5-4da2-9385-2081056a09c3</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -223,7 +223,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28795</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30230</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/8b7b75b9-d443-49a9-b67c-f90e06d00fd7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -233,7 +233,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28796</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30231</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/633ff717-693b-4e0e-af87-d704e91f71f1</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -243,7 +243,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28797</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30232</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/038152bf-1544-4959-b297-af49e0150d82</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -253,7 +253,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28798</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30233</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/c3290079-8463-4ee9-9575-e480a2a522a2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -263,7 +263,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28799</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30234</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/9cb72c61-83b0-40e0-abde-3be4e61378b0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -273,7 +273,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28800</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30235</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/fd906780-ad1f-445d-9675-06ff66e1138b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -283,7 +283,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28801</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30236</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/26e49678-9d0c-4a9e-b425-185a75cfdc78</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -293,7 +293,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28802</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30237</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/8273dfe2-c1cb-4a96-9b09-c4447dd99753</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -303,7 +303,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28803</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30238</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/3af5e65f-0bd5-4985-8f45-f8e88ad7a09c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -313,7 +313,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28804</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30239</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e1f5ef91-4d06-4b4a-b962-aabd32663a3a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -323,7 +323,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28805</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30240</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/7dd95cd7-b072-49f3-8a6d-244b4614f25e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -333,7 +333,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28806</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30241</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/b2c2e149-d16d-45de-a626-6af1dea9ed57</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -343,7 +343,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28807</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30242</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/8725b4e8-2921-4258-9215-44abe33d2704</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -353,7 +353,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28808</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30243</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/218ce1a3-134a-48b9-999e-618f392ef281</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -363,7 +363,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28809</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30244</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/490b9191-d1f4-4d1d-8c93-d2067f6d39af</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -373,7 +373,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28810</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30245</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/cada3879-9c2a-42a2-8eed-689423723ebf</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -383,7 +383,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28811</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30246</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e7de6ba7-617c-40cd-a49a-414f9b2e8391</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -393,7 +393,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28812</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30247</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/d916fd47-f7fc-40b2-8577-4beab62d9c0f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -403,7 +403,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28813</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30248</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e4193cda-2007-456f-af14-e0680e78a77f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -413,7 +413,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28814</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30249</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/de016f1d-7373-45a7-b5a0-2cb43e1ca4a0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -423,7 +423,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28815</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30250</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/d4bf81f7-9ab3-4c77-aba5-60200c057301</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -433,7 +433,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28816</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30251</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/7eca92cb-04dc-4abe-897e-4786675ef87a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -443,7 +443,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28817</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30252</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/1a8657e6-8953-4ab5-8e15-7b0fb0c3b4dd</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -453,7 +453,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28818</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30253</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/266ed94f-f254-46d6-867e-0d4df865d9c3</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -463,7 +463,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28819</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30254</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e55e4183-9c88-4aa3-8de0-d54731f5450f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -473,7 +473,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28820</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30255</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/81ebdfcf-c429-4238-a5ae-7797b01e0428</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -483,7 +483,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28821</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30256</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/6bc5a862-c85e-4786-9388-e044fbcbc378</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -493,7 +493,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28822</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30257</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/245a77ac-ea68-4ac5-b941-fbec3299e4e0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -503,7 +503,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28823</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30258</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/c1c1e0e6-5295-4e6e-affc-09b57e23b072</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -513,7 +513,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28824</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30259</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/1861d702-3b0e-4e2e-b150-8ef969d69c8b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -523,7 +523,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28825</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30260</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/eb6576f1-ed40-4d37-955e-144ca194b72d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -533,7 +533,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28826</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30261</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/0c9093c8-a124-48e5-9284-e613d2a28318</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -543,7 +543,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28827</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30262</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/34c79922-008f-44ce-a9fd-368fb6c5f7f1</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -553,7 +553,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28828</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30263</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a6e07b83-fc07-4f8a-a28b-6ca77f34661e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -563,7 +563,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28829</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30264</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/2b0e5304-df39-4e97-811b-445659fb05b9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -573,7 +573,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28830</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30265</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a0bd41bd-6d0b-4f9d-abc8-035fcca26714</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -583,7 +583,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28831</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30266</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/e0f00651-e0c3-4e3c-a52a-383f56760460</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -593,7 +593,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28832</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30267</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/5b22bdc2-bda7-4f5d-a8d6-c6eacb42097c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -603,7 +603,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28833</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30268</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/b40c3058-2b07-438a-a795-f080913a0083</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -613,7 +613,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28834</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30269</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/255430ec-c820-42ea-9fba-b63cba9fb422</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -623,7 +623,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28835</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30270</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/ecb5f36f-796d-496d-a258-8adca229310d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -633,7 +633,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28836</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30271</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/111b929c-a7c0-47c0-acca-aebd6b98a2be</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -643,7 +643,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28837</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30272</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/9b8fef6e-46aa-435f-a866-7df7a8ab8c58</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -653,7 +653,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28838</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30273</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/f611770a-97b2-457e-94b5-097e39bec6b9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -663,7 +663,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28839</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30274</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/965027c8-04f6-420b-b245-5ea379475d1e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -673,7 +673,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28840</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30275</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/fcfc7988-f741-409a-826c-4e15ffb123dd</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -683,7 +683,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28841</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30276</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/7a884cd6-b0f8-42fd-8a7d-f7ffca0ffb97</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -693,7 +693,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28842</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30277</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/53c0d5cc-f0c3-47cf-b306-08b5195d1dc6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -703,7 +703,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28843</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30278</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/9f5b180e-07c3-47d7-a24b-b775c2ee26ef</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -713,7 +713,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28844</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30279</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/947e37ef-7837-44dd-8684-3ac30cb53920</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -723,7 +723,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28845</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30280</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/60df32d0-a5af-4147-9981-29059deadde9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -733,7 +733,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28846</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30281</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/cd42f989-25df-49d4-bc39-ebb5150b9863</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -743,7 +743,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28847</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30282</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/2b673e9a-d133-49d7-b8dc-90b941041b2c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -753,7 +753,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30283</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/d4c3e715-bb18-4970-b918-246f7d6afd45</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -763,7 +763,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28849</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30284</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/0c7f1557-a9be-45fe-9989-d83a757e4a1d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -773,7 +773,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28850</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30285</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/51751923-0dc5-4cf9-8b5f-13d5d8220924</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -783,7 +783,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28851</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30286</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/a2802778-f1eb-42a3-89bb-2900be789bc3</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -793,7 +793,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28852</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30287</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/6852c6a8-6d7c-45e0-97f7-70a21e18aa23</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -803,7 +803,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i28853</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i30288</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/DIN277.DE/f2676f9b-5c93-4c65-94a2-3dd85020a6d6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DIN277.DE</IfcIdentifier-wrapper>
@@ -813,408 +813,408 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i28773" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-05T19:58:43.6637174+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
-  <IfcRelAssociatesClassification id="i28774">
+  <IfcClassification id="i30208" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:13:37.2993657+02:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcRelAssociatesClassification id="i30209">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i28775" Identification="NF1" Name="Wohnen und Aufenthalt" Description="Räume für Wohnen und Aufenthalt von Menschen">
+  <IfcClassificationReference id="i30210" Identification="NF1" Name="Wohnen und Aufenthalt" Description="Räume für Wohnen und Aufenthalt von Menschen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28776" Identification="1.1" Name="Wohnräume" Description="Wohn- und Schlafräume in Wohnungen, Wohnheimen, Internaten, Beherbergungsstätten, Unterkünften; Wohndielen, Wohnküchen, Wohnbalkone, -loggien, -veranden; Terrassen">
+  <IfcClassificationReference id="i30211" Identification="1.1" Name="Wohnräume" Description="Wohn- und Schlafräume in Wohnungen, Wohnheimen, Internaten, Beherbergungsstätten, Unterkünften; Wohndielen, Wohnküchen, Wohnbalkone, -loggien, -veranden; Terrassen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28775" />
+      <IfcClassificationReference xsi:nil="true" ref="i30210" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28777" Identification="1.2" Name="Gemeinschaftsräume" Description="Gemeinschaftsräume in Heimen, Kindertagesstätten; Tagesräume, Aufenthaltsräume, Clubräume, Bereitschaftsräume">
+  <IfcClassificationReference id="i30212" Identification="1.2" Name="Gemeinschaftsräume" Description="Gemeinschaftsräume in Heimen, Kindertagesstätten; Tagesräume, Aufenthaltsräume, Clubräume, Bereitschaftsräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28775" />
+      <IfcClassificationReference xsi:nil="true" ref="i30210" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28778" Identification="1.3" Name="Pausenräume" Description="Wandelhallen, Pausenhallen, -zimmer, -flächen in Schulen, Hochschulen, Krankenhäusern, Betrieben, Büros; Ruheräume">
+  <IfcClassificationReference id="i30213" Identification="1.3" Name="Pausenräume" Description="Wandelhallen, Pausenhallen, -zimmer, -flächen in Schulen, Hochschulen, Krankenhäusern, Betrieben, Büros; Ruheräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28775" />
+      <IfcClassificationReference xsi:nil="true" ref="i30210" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28779" Identification="1.5" Name="Speiseräume" Description="Gast- und Speiseräume, Kantinen, Cafeterien, Tanzcafes">
+  <IfcClassificationReference id="i30214" Identification="1.5" Name="Speiseräume" Description="Gast- und Speiseräume, Kantinen, Cafeterien, Tanzcafes">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28775" />
+      <IfcClassificationReference xsi:nil="true" ref="i30210" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28780" Identification="1.6" Name="Hafträume" Description="Haftzellen">
+  <IfcClassificationReference id="i30215" Identification="1.6" Name="Hafträume" Description="Haftzellen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28775" />
+      <IfcClassificationReference xsi:nil="true" ref="i30210" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28781" Identification="NF2" Name="Büroarbeit" Description="Räume für Büroarbeit">
+  <IfcClassificationReference id="i30216" Identification="NF2" Name="Büroarbeit" Description="Räume für Büroarbeit">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28782" Identification="2.1" Name="Büroräume" Description="Büro-, Diensträume für eine oder mehrere Personen">
+  <IfcClassificationReference id="i30217" Identification="2.1" Name="Büroräume" Description="Büro-, Diensträume für eine oder mehrere Personen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28783" Identification="2.3" Name="Besprechungsräume" Description="Sitzungsräume, Prüfungsräume, Elternsprechzimmer">
+  <IfcClassificationReference id="i30218" Identification="2.3" Name="Besprechungsräume" Description="Sitzungsräume, Prüfungsräume, Elternsprechzimmer">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28784" Identification="2.4" Name="Konstruktionsräume" Description="Zeichenräume">
+  <IfcClassificationReference id="i30219" Identification="2.4" Name="Konstruktionsräume" Description="Zeichenräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28785" Identification="2.5" Name="Schalterräume" Description="Kassenräume">
+  <IfcClassificationReference id="i30220" Identification="2.5" Name="Schalterräume" Description="Kassenräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28786" Identification="2.6" Name="Bedienungsräume" Description="Schalträume und Schaltwarten für betriebstechnische Anlagen oder betriebliche Einbauten; Regieräume, Vorführkabinen; Leitstellen">
+  <IfcClassificationReference id="i30221" Identification="2.6" Name="Bedienungsräume" Description="Schalträume und Schaltwarten für betriebstechnische Anlagen oder betriebliche Einbauten; Regieräume, Vorführkabinen; Leitstellen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28787" Identification="2.7" Name="Aufsichtsräume" Description="Pförtnerräume, Wachräume, Haftaufsichtsräume">
+  <IfcClassificationReference id="i30222" Identification="2.7" Name="Aufsichtsräume" Description="Pförtnerräume, Wachräume, Haftaufsichtsräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28788" Identification="2.8" Name="Bürotechnikräume" Description="Photolabor-Räume, Vervielfältigungsräume, Räume für EDV-Anlagen">
+  <IfcClassificationReference id="i30223" Identification="2.8" Name="Bürotechnikräume" Description="Photolabor-Räume, Vervielfältigungsräume, Räume für EDV-Anlagen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28789" Identification="2.9" Name="Sonstige Büroflächen" Description="">
+  <IfcClassificationReference id="i30224" Identification="2.9" Name="Sonstige Büroflächen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28781" />
+      <IfcClassificationReference xsi:nil="true" ref="i30216" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28790" Identification="NF3" Name="Produktion, Experimente, Arbeit" Description="">
+  <IfcClassificationReference id="i30225" Identification="NF3" Name="Produktion, Experimente, Arbeit" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28791" Identification="3.1" Name="Werkhallen" Description="Werkhallen für Produktion und Instandsetzung; Versuchshallen, Prüfhallen, Schwerlabors">
+  <IfcClassificationReference id="i30226" Identification="3.1" Name="Werkhallen" Description="Werkhallen für Produktion und Instandsetzung; Versuchshallen, Prüfhallen, Schwerlabors">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28792" Identification="3.2" Name="Werkstätten" Description="Werkstätten für Produktion, Entwicklung, Instandsetzung, Lehre und Forschung; Prüfstände, prothetische Werkstätten, Wartungsstationen">
+  <IfcClassificationReference id="i30227" Identification="3.2" Name="Werkstätten" Description="Werkstätten für Produktion, Entwicklung, Instandsetzung, Lehre und Forschung; Prüfstände, prothetische Werkstätten, Wartungsstationen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28793" Identification="3.3" Name="Technologische Labors" Description="Materialprüflabors, Materialbearbeitungslabors, Labors für mechanische Verfahrenstechnik, Maschinenlabors; licht- und schalttechnische Versuchsräume; Strömungstechnikräume; Hochdruck- und Unterdrucklaborräume">
+  <IfcClassificationReference id="i30228" Identification="3.3" Name="Technologische Labors" Description="Materialprüflabors, Materialbearbeitungslabors, Labors für mechanische Verfahrenstechnik, Maschinenlabors; licht- und schalttechnische Versuchsräume; Strömungstechnikräume; Hochdruck- und Unterdrucklaborräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28794" Identification="3.4" Name="Physikal-, Elektrotechniklabors" Description="Physiklabors, Elektrotechnische Labors, Elektronische Labors; geodätische und astronomische Mess- und Beobachtungsräume; optische Sonderlabors; Messgeräteräume, Wägeräume; Labors für&#xD;&#xA;Elektronenmikroskopie, Massen-, Röntgen-Spektroskopie; Beschleunigeru">
+  <IfcClassificationReference id="i30229" Identification="3.4" Name="Physikal-, Elektrotechniklabors" Description="Physiklabors, Elektrotechnische Labors, Elektronische Labors; geodätische und astronomische Mess- und Beobachtungsräume; optische Sonderlabors; Messgeräteräume, Wägeräume; Labors für&#xD;&#xA;Elektronenmikroskopie, Massen-, Röntgen-Spektroskopie; Beschleunigeru">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28795" Identification="3.5" Name="Chemisch-, Biologische Labors" Description="Labors für analytische und präparative Chemie, Labors für chemische und pharmazeutische Verfahrenstechnik; biochemische, physiologische Labors, Labors für biologische und medizinische Morphologie; Tierversuchslabors; Isotopenlabors mit Dekontamination;">
+  <IfcClassificationReference id="i30230" Identification="3.5" Name="Chemisch-, Biologische Labors" Description="Labors für analytische und präparative Chemie, Labors für chemische und pharmazeutische Verfahrenstechnik; biochemische, physiologische Labors, Labors für biologische und medizinische Morphologie; Tierversuchslabors; Isotopenlabors mit Dekontamination;">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28796" Identification="3.6" Name="Räume für Tierhaltung" Description="Stallräume für Nutz-, Versuchs- und kranke Tiere; Milch-, Melkräume, Tierpflege-, Tierwägeräume, Schaukäfige, Aquarien, Terrarien, Futteraufbereitung">
+  <IfcClassificationReference id="i30231" Identification="3.6" Name="Räume für Tierhaltung" Description="Stallräume für Nutz-, Versuchs- und kranke Tiere; Milch-, Melkräume, Tierpflege-, Tierwägeräume, Schaukäfige, Aquarien, Terrarien, Futteraufbereitung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28797" Identification="3.7" Name="Räume für Pflanzenzucht" Description="Gewächshausräume, Pilzkulturen">
+  <IfcClassificationReference id="i30232" Identification="3.7" Name="Räume für Pflanzenzucht" Description="Gewächshausräume, Pilzkulturen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28798" Identification="3.8" Name="Küchen" Description="Kochküchen, Verteiler-, Teeküchen, Vorbereitungsräume,&#xD;&#xA;Speiseausgaben, Geschirr-Rückgaben, Geschirrspülräume">
+  <IfcClassificationReference id="i30233" Identification="3.8" Name="Küchen" Description="Kochküchen, Verteiler-, Teeküchen, Vorbereitungsräume,&#xD;&#xA;Speiseausgaben, Geschirr-Rückgaben, Geschirrspülräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28799" Identification="3.9" Name="Sonderarbeitsräume" Description="Hauswirtschaffs- und Hausarbeitsräume, Räume für Wäschepflege, Waschküchen, Spül-, Desinfektions- und Sterilisationsräume, Bettenaufbereitungsräume, Pflegearbeitsräume, Laborspülräume">
+  <IfcClassificationReference id="i30234" Identification="3.9" Name="Sonderarbeitsräume" Description="Hauswirtschaffs- und Hausarbeitsräume, Räume für Wäschepflege, Waschküchen, Spül-, Desinfektions- und Sterilisationsräume, Bettenaufbereitungsräume, Pflegearbeitsräume, Laborspülräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28790" />
+      <IfcClassificationReference xsi:nil="true" ref="i30225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28800" Identification="NF4" Name="Lagern, Verteilen und Verkaufen" Description="">
+  <IfcClassificationReference id="i30235" Identification="NF4" Name="Lagern, Verteilen und Verkaufen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28801" Identification="4.1" Name="Lagerräume" Description="Lager- und Vorratsräume für Material, Gerät und Waren;&#xD;&#xA;Lösungsmittellager, Sprengstofflager, Isotopenlager, Tresorräume, Scheunen, Silos">
+  <IfcClassificationReference id="i30236" Identification="4.1" Name="Lagerräume" Description="Lager- und Vorratsräume für Material, Gerät und Waren;&#xD;&#xA;Lösungsmittellager, Sprengstofflager, Isotopenlager, Tresorräume, Scheunen, Silos">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28802" Identification="4.2" Name="Sammlungsräume, Archive" Description="Registraturen, Lehrmittelräume, Buchmagazine">
+  <IfcClassificationReference id="i30237" Identification="4.2" Name="Sammlungsräume, Archive" Description="Registraturen, Lehrmittelräume, Buchmagazine">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28803" Identification="4.3" Name="Kühlräume" Description="Tiefkühlräume, Gefrierräume">
+  <IfcClassificationReference id="i30238" Identification="4.3" Name="Kühlräume" Description="Tiefkühlräume, Gefrierräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28804" Identification="4.4" Name="Annahme- und Ausgaberäume" Description="Sortierräume, Verteilräume, Packräume, Versandräume, Ver- und Entsorgungsstützpunkte">
+  <IfcClassificationReference id="i30239" Identification="4.4" Name="Annahme- und Ausgaberäume" Description="Sortierräume, Verteilräume, Packräume, Versandräume, Ver- und Entsorgungsstützpunkte">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28805" Identification="4.5" Name="Verkaufsräume" Description="Geschäftsräume, Ladenräume, Kioske, einschließlich Schaufenster">
+  <IfcClassificationReference id="i30240" Identification="4.5" Name="Verkaufsräume" Description="Geschäftsräume, Ladenräume, Kioske, einschließlich Schaufenster">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28806" Identification="4.6" Name="Ausstellungsräume" Description="Messehallen, Musterräume">
+  <IfcClassificationReference id="i30241" Identification="4.6" Name="Ausstellungsräume" Description="Messehallen, Musterräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28807" Identification="4.9" Name="Sonstige Lagerräume" Description="">
+  <IfcClassificationReference id="i30242" Identification="4.9" Name="Sonstige Lagerräume" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28800" />
+      <IfcClassificationReference xsi:nil="true" ref="i30235" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28808" Identification="NF5" Name="Bildung, Kultur und Unterricht" Description="">
+  <IfcClassificationReference id="i30243" Identification="NF5" Name="Bildung, Kultur und Unterricht" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28809" Identification="5.1" Name="Unterrichtsräume mit festem Gestühl" Description="Hörsäle, auch Experimentierhörsäle; Lehrsäle">
+  <IfcClassificationReference id="i30244" Identification="5.1" Name="Unterrichtsräume mit festem Gestühl" Description="Hörsäle, auch Experimentierhörsäle; Lehrsäle">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28810" Identification="5.2" Name="Unterrichts- und Übungsräume" Description="Klassen- und Gruppenräume, Seminarräume, Studenten- und Schülerarbeitsräume">
+  <IfcClassificationReference id="i30245" Identification="5.2" Name="Unterrichts- und Übungsräume" Description="Klassen- und Gruppenräume, Seminarräume, Studenten- und Schülerarbeitsräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28811" Identification="5.3" Name="Besondere Unterrichtsräume" Description="Werk- und Bastelräume, Praktikumsräume, Sprachlabors, besondere Zeichensäle, Räume für Grafik, Malerei, Bildhauerei, Räume und Übungszellen für Gesangs-, Sprach- und Instrumentalausbildung, Räume&#xD;&#xA;für Hauswirtschaftsunterricht">
+  <IfcClassificationReference id="i30246" Identification="5.3" Name="Besondere Unterrichtsräume" Description="Werk- und Bastelräume, Praktikumsräume, Sprachlabors, besondere Zeichensäle, Räume für Grafik, Malerei, Bildhauerei, Räume und Übungszellen für Gesangs-, Sprach- und Instrumentalausbildung, Räume&#xD;&#xA;für Hauswirtschaftsunterricht">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28812" Identification="5.4" Name="Bibliotheksräume" Description="Leseräume, Katalogräume, Mediotheken, Freihandbüchereien">
+  <IfcClassificationReference id="i30247" Identification="5.4" Name="Bibliotheksräume" Description="Leseräume, Katalogräume, Mediotheken, Freihandbüchereien">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28813" Identification="5.5" Name="Sporträume" Description="Sport-, Schwimmsport-, Reithallen; Gymnastikräume, Kegelbahnen">
+  <IfcClassificationReference id="i30248" Identification="5.5" Name="Sporträume" Description="Sport-, Schwimmsport-, Reithallen; Gymnastikräume, Kegelbahnen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28814" Identification="5.9" Name="Sakralräume" Description="Gottesdiensträume, Andachtsräume, Aufbahrungs- und&#xD;&#xA;Aussegnungsräume, Sakristeien">
+  <IfcClassificationReference id="i30249" Identification="5.9" Name="Sakralräume" Description="Gottesdiensträume, Andachtsräume, Aufbahrungs- und&#xD;&#xA;Aussegnungsräume, Sakristeien">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28808" />
+      <IfcClassificationReference xsi:nil="true" ref="i30243" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28815" Identification="NF6" Name="Heilen und Pflegen" Description="">
+  <IfcClassificationReference id="i30250" Identification="NF6" Name="Heilen und Pflegen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28816" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische&#xD;&#xA;Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
+  <IfcClassificationReference id="i30251" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische&#xD;&#xA;Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28817" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und&#xD;&#xA;Sinnesphysiologie) und spezielle Behandlung">
+  <IfcClassificationReference id="i30252" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und&#xD;&#xA;Sinnesphysiologie) und spezielle Behandlung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28818" Identification="6.3" Name="Räume für operative Eingriffe,&#xD;&#xA;Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
+  <IfcClassificationReference id="i30253" Identification="6.3" Name="Räume für operative Eingriffe,&#xD;&#xA;Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28819" Identification="6.4" Name="Räume für Strahlendiagnostik" Description="Räume für allgemeine und spezielle Röntgendiagnostik, Thermographie, Nuklearmedizinische Diagnostik (Applikations- und Messräume)">
+  <IfcClassificationReference id="i30254" Identification="6.4" Name="Räume für Strahlendiagnostik" Description="Räume für allgemeine und spezielle Röntgendiagnostik, Thermographie, Nuklearmedizinische Diagnostik (Applikations- und Messräume)">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28820" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und&#xD;&#xA;Implantationsräume)">
+  <IfcClassificationReference id="i30255" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und&#xD;&#xA;Implantationsräume)">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28821" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und&#xD;&#xA;Gruppentherapie, Heilpädagogik, Arbeitstherapie">
+  <IfcClassificationReference id="i30256" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und&#xD;&#xA;Gruppentherapie, Heilpädagogik, Arbeitstherapie">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28822" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und&#xD;&#xA;Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
+  <IfcClassificationReference id="i30257" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und&#xD;&#xA;Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28823" Identification="6.8" Name="Besondere Bettenräume" Description="Räume für postoperative Überwachung und Intensivmedizin (Überwachung, Behandlung) Dialyse, Nuklearmedizin">
+  <IfcClassificationReference id="i30258" Identification="6.8" Name="Besondere Bettenräume" Description="Räume für postoperative Überwachung und Intensivmedizin (Überwachung, Behandlung) Dialyse, Nuklearmedizin">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28824" Identification="6.9" Name="Sonstige Pflegeräume" Description="">
+  <IfcClassificationReference id="i30259" Identification="6.9" Name="Sonstige Pflegeräume" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28815" />
+      <IfcClassificationReference xsi:nil="true" ref="i30250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28825" Identification="NF7" Name="Sonstige Nutzflächen" Description="">
+  <IfcClassificationReference id="i30260" Identification="NF7" Name="Sonstige Nutzflächen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28826" Identification="7.1" Name="Sanitärräume" Description="Toiletten, Wasch-, Duschräume, Baderäume, Saunen,&#xD;&#xA;Reinigungsschleusen, Wickelräume, Schminkräume, jeweils einschließlich Vorräume; Putzräume">
+  <IfcClassificationReference id="i30261" Identification="7.1" Name="Sanitärräume" Description="Toiletten, Wasch-, Duschräume, Baderäume, Saunen,&#xD;&#xA;Reinigungsschleusen, Wickelräume, Schminkräume, jeweils einschließlich Vorräume; Putzräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28827" Identification="7.2" Name="Garderoben" Description="Umkleideräume, Schrankräume in Wohngebäuden, Kleiderablagen, Künstlergarderoben">
+  <IfcClassificationReference id="i30262" Identification="7.2" Name="Garderoben" Description="Umkleideräume, Schrankräume in Wohngebäuden, Kleiderablagen, Künstlergarderoben">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28828" Identification="7.3" Name="Abstellräume" Description="Abstellräume in Wohngebäuden und gleichartige Abstellräume in anderen Gebäuden; Fahrradräume, Kinderwagenräume, Müllsammelräume">
+  <IfcClassificationReference id="i30263" Identification="7.3" Name="Abstellräume" Description="Abstellräume in Wohngebäuden und gleichartige Abstellräume in anderen Gebäuden; Fahrradräume, Kinderwagenräume, Müllsammelräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28829" Identification="7.4" Name="Fahrzeugabstellfläche" Description="Garagen aller Art; Hallen für Schienen-, Straßen-, Wasser-, Luftfahrzeuge,&#xD;&#xA;landwirtschaftliche Fahrzeuge">
+  <IfcClassificationReference id="i30264" Identification="7.4" Name="Fahrzeugabstellfläche" Description="Garagen aller Art; Hallen für Schienen-, Straßen-, Wasser-, Luftfahrzeuge,&#xD;&#xA;landwirtschaftliche Fahrzeuge">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28830" Identification="7.5" Name="Fahrgastflächen" Description="Bahnsteige, Flugsteige, einschließlich der dazugehörenden Zugänge, Treppen und Rollsteige">
+  <IfcClassificationReference id="i30265" Identification="7.5" Name="Fahrgastflächen" Description="Bahnsteige, Flugsteige, einschließlich der dazugehörenden Zugänge, Treppen und Rollsteige">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28831" Identification="7.6" Name="Räume für zentrale Technik" Description="Räume in Kraftwerken, freistehenden Kesselhäusern, Gaswerken, Ortsvermittlungsstellen, zentralen Müllverbrennungsanlagen für die Ver- und&#xD;&#xA;Entsorgung anderer Bauwerke">
+  <IfcClassificationReference id="i30266" Identification="7.6" Name="Räume für zentrale Technik" Description="Räume in Kraftwerken, freistehenden Kesselhäusern, Gaswerken, Ortsvermittlungsstellen, zentralen Müllverbrennungsanlagen für die Ver- und&#xD;&#xA;Entsorgung anderer Bauwerke">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28832" Identification="7.7" Name="Schutzräume" Description="Räume für den zivilen Bevölkerungsschutz, auch wenn zeitweilig (Mehrzweckbauten) anders genutzt">
+  <IfcClassificationReference id="i30267" Identification="7.7" Name="Schutzräume" Description="Räume für den zivilen Bevölkerungsschutz, auch wenn zeitweilig (Mehrzweckbauten) anders genutzt">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28833" Identification="7.8" Name="Waschräume" Description="Räume für die Unterbringung von Wäschereien oder Waschgeräten, wie z.B. Waschmaschinen">
+  <IfcClassificationReference id="i30268" Identification="7.8" Name="Waschräume" Description="Räume für die Unterbringung von Wäschereien oder Waschgeräten, wie z.B. Waschmaschinen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28834" Identification="7.9" Name="Sonstige Räume" Description="">
+  <IfcClassificationReference id="i30269" Identification="7.9" Name="Sonstige Räume" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28825" />
+      <IfcClassificationReference xsi:nil="true" ref="i30260" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28835" Identification="TF8" Name="Technische Anlagen" Description="">
+  <IfcClassificationReference id="i30270" Identification="TF8" Name="Technische Anlagen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28836" Identification="8.1" Name="Abwasser, Gase, Wasserversorgung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30271" Identification="8.1" Name="Abwasser, Gase, Wasserversorgung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28837" Identification="8.2" Name="Heizung, Brauchwassererwärmung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30272" Identification="8.2" Name="Heizung, Brauchwassererwärmung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28838" Identification="8.3" Name="Raumlufttechnische Anlagen" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30273" Identification="8.3" Name="Raumlufttechnische Anlagen" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28839" Identification="8.4" Name="Elektr. Stromversorgung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30274" Identification="8.4" Name="Elektr. Stromversorgung" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28840" Identification="8.5" Name="Fernmeldetechnik" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30275" Identification="8.5" Name="Fernmeldetechnik" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28841" Identification="8.6" Name="Aufzugs- und Förderanlagen" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
+  <IfcClassificationReference id="i30276" Identification="8.6" Name="Aufzugs- und Förderanlagen" Description="Räume für betriebstechnische Anlagen für die Ver- und Entsorgung des Bauwerks selbst, einschließlich der unmittelbar zu deren Betrieb gehörigen Flächen für Brennstoffe, Löschwasser, Abwasser-, Abfallbeseitigung">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28842" Identification="8.9" Name="Sonstige betriebstechnische Anlagen" Description="Hausanschlussräume, Installationsräume, -schächte, -kanäle; Abfallverbrennungsräume">
+  <IfcClassificationReference id="i30277" Identification="8.9" Name="Sonstige betriebstechnische Anlagen" Description="Hausanschlussräume, Installationsräume, -schächte, -kanäle; Abfallverbrennungsräume">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28835" />
+      <IfcClassificationReference xsi:nil="true" ref="i30270" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28843" Identification="VF9" Name="Verkehrserschließung, -sicherung" Description="">
+  <IfcClassificationReference id="i30278" Identification="VF9" Name="Verkehrserschließung, -sicherung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28773" />
+      <IfcClassificationReference xsi:nil="true" ref="i30208" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28844" Identification="1.4" Name="Warteräume" Description="Warteräume in Verkehrsanlagen, Krankenhäusern, Praxen, Verwaltungsgebäuden">
+  <IfcClassificationReference id="i30279" Identification="1.4" Name="Warteräume" Description="Warteräume in Verkehrsanlagen, Krankenhäusern, Praxen, Verwaltungsgebäuden">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28845" Identification="2.2" Name="Grossraumbüros" Description="Flächen für Büroarbeitsplätze einschließlich der im Grossraum enthaltenen Flächen für Pausenzonen, Besprechungszonen, Garderoben, Verkehrswege">
+  <IfcClassificationReference id="i30280" Identification="2.2" Name="Grossraumbüros" Description="Flächen für Büroarbeitsplätze einschließlich der im Grossraum enthaltenen Flächen für Pausenzonen, Besprechungszonen, Garderoben, Verkehrswege">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28846" Identification="5.6" Name="Versammlungsräume" Description="Zuschauerräume in Kinos und Theatern, Aulen, Foren, Mehrzweckhallen">
+  <IfcClassificationReference id="i30281" Identification="5.6" Name="Versammlungsräume" Description="Zuschauerräume in Kinos und Theatern, Aulen, Foren, Mehrzweckhallen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28847" Identification="5.7" Name="Bühnen- und Studioräume" Description="Haupt-, Seiten-, Hinterbühnen; Schnürböden, Orchesterräume, Probebühnen, Film-, Fernseh-, Rundfunkstudios">
+  <IfcClassificationReference id="i30282" Identification="5.7" Name="Bühnen- und Studioräume" Description="Haupt-, Seiten-, Hinterbühnen; Schnürböden, Orchesterräume, Probebühnen, Film-, Fernseh-, Rundfunkstudios">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28848" Identification="5.8" Name="Schauräume" Description="Schauräume für Museen, Galerien, Kunstausstellungen, Lehr-, Schausammlungen">
+  <IfcClassificationReference id="i30283" Identification="5.8" Name="Schauräume" Description="Schauräume für Museen, Galerien, Kunstausstellungen, Lehr-, Schausammlungen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28849" Identification="9.1" Name="Flure / Hallen" Description="Flure, Gänge, Dielen, Korridore einschließlich Differenzstufen; Eingangshallen, Windfänge, Vorräume, Schleusen, Fluchtbalkone">
+  <IfcClassificationReference id="i30284" Identification="9.1" Name="Flure / Hallen" Description="Flure, Gänge, Dielen, Korridore einschließlich Differenzstufen; Eingangshallen, Windfänge, Vorräume, Schleusen, Fluchtbalkone">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28850" Identification="9.2" Name="Treppen" Description="Treppenräume, -läufe, Fahrtreppen, Rampen (jeweils je Geschoss)">
+  <IfcClassificationReference id="i30285" Identification="9.2" Name="Treppen" Description="Treppenräume, -läufe, Fahrtreppen, Rampen (jeweils je Geschoss)">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28851" Identification="9.3" Name="Schächte für Förderanlagen" Description="Aufzugsschächte, Abwurfschächte (jeweils je Geschoss)">
+  <IfcClassificationReference id="i30286" Identification="9.3" Name="Schächte für Förderanlagen" Description="Aufzugsschächte, Abwurfschächte (jeweils je Geschoss)">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28852" Identification="9.4" Name="Fahrzeugverkehrsflächen" Description="Durchfahrten, befahrbare Rampen, Gleisflächen">
+  <IfcClassificationReference id="i30287" Identification="9.4" Name="Fahrzeugverkehrsflächen" Description="Durchfahrten, befahrbare Rampen, Gleisflächen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i28853" Identification="9.9" Name="Sonstige Verkehrsflächen" Description="">
+  <IfcClassificationReference id="i30288" Identification="9.9" Name="Sonstige Verkehrsflächen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i28843" />
+      <IfcClassificationReference xsi:nil="true" ref="i30278" />
     </ReferencedSource>
   </IfcClassificationReference>
 </ifcXML>

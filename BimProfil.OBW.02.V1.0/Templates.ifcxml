@@ -2,14 +2,14 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil OBW TGA-Planung</name>
-    <time_stamp>2018-05-05T20:01:47.1118361+02:00</time_stamp>
+    <time_stamp>2018-06-25T18:15:57.4700523+02:00</time_stamp>
     <author>CAFM-Ring e.V.</author>
     <organization>CAFM-Ring e.V.</organization>
     <originating_system>http://www.cafm-connect.org</originating_system>
     <authorization>BIM Profil OBW TGA-Planung</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" />
-  <IfcTable id="i60660" Name="DictionaryReferenceTable">
+  <IfcTable id="i64786" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -23,7 +23,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60663</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64789</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/b1ca1b17-eab1-44d9-bdab-2b9a501190bc</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
@@ -33,7 +33,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60664</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64790</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/634a0389-c52d-4769-8e6c-06456b709e48</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
@@ -43,7 +43,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60665</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64791</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/7309813e-719a-41d6-857a-7e564649f130</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
@@ -53,17 +53,17 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60666</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64792</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/7c96669b-e783-4116-9e4e-ae5a4aae0838</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>http://www.cafm-connect.org/CAFMConnect.DE/10d0d4f6-be39-489c-8554-81d2ca2498b5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>7c96669b-e783-4116-9e4e-ae5a4aae0838</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1ybcQRvuD15fvEhbfAhWWu</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>10d0d4f6-be39-489c-8554-81d2ca2498b5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0GqDJslZb8d8LKWTBA99Yr</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64794</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/Ifc/01366300-d200-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
@@ -73,7 +73,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60669</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64795</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/Ifc/085d7100-d200-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
@@ -83,7 +83,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i60670</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i64796</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>http://www.cafm-connect.org/Ifc/14e1c980-d200-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
@@ -93,43 +93,43 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i60661" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-05-05T20:01:47.4489474+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
-  <IfcRelAssociatesClassification id="i60662">
+  <IfcClassification id="i64787" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-06-25T18:15:57.8005972+02:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i64788">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassificationReference xsi:nil="true" ref="i60661" />
+      <IfcClassificationReference xsi:nil="true" ref="i64787" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i60663" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
+  <IfcClassificationReference id="i64789" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i60661" />
+      <IfcClassificationReference xsi:nil="true" ref="i64787" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i60664" Location="IfcBuildingElementProxy/USERDEFINED" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
+  <IfcClassificationReference id="i64790" Location="IfcBuildingElementProxy/USERDEFINED" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i60663" />
+      <IfcClassificationReference xsi:nil="true" ref="i64789" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i60665" Location="IfcColumn/USERDEFINED" Identification="333" Name="Außenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis ≤ 1 : 5">
+  <IfcClassificationReference id="i64791" Location="IfcColumn/USERDEFINED" Identification="333" Name="Außenstützen" Description="Stützen und Pfeiler mit einem Querschnittsverhältnis ≤ 1 : 5">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i60664" />
+      <IfcClassificationReference xsi:nil="true" ref="i64790" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i60666" GlobalId="1ybcQRvuD15fvEhbfAhWWu" Name="333" Description="PropertySet Template for 'CAFMConnect.DE Außenstützen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcColumn/USERDEFINED">
+  <IfcPropertySetTemplate id="i64792" GlobalId="0GqDJslZb8d8LKWTBA99Yr" Name="333" Description="PropertySet Template for 'CAFMConnect.DE Außenstützen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcColumn/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i60668" GlobalId="01DcC0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i60669" GlobalId="08NN40qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in X-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i60670" GlobalId="0KuSc0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in Y-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i64794" GlobalId="01DcC0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i64795" GlobalId="08NN40qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in X-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i64796" GlobalId="0KuSc0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in Y-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i60667">
+  <IfcRelAssociatesClassification id="i64793">
     <RelatedObjects>
-      <IfcPropertySetTemplate xsi:nil="true" ref="i60666" />
+      <IfcPropertySetTemplate xsi:nil="true" ref="i64792" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassificationReference xsi:nil="true" ref="i60665" />
+      <IfcClassificationReference xsi:nil="true" ref="i64791" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
 </ifcXML>
