@@ -20,5 +20,5 @@ In addition, the profile can contain class related properties for master data, r
 The BIM Profiles are expressed as an IFC file (IFC4 final), either in the file type *.ifcXML or in the file typ *.ifc.
 
 ## This repository
-This repos provides the source of the BIM Profiles for CAFM-Connect. The BIM profiles are online available here
+This repos provides the [source of the BIM Profiles](https://github.com/CAFM-Connect/BIM-Profiles/tree/master/ProfileFiles). The BIM profiles are also online available here
 https://www.cafm-connect.org/bim-profile
