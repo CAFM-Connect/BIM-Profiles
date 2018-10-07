@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil Basisprofil COBieInstalledEquipment</name>
+    <time_stamp>2018-10-07T13:15:31.7256685+02:00</time_stamp>
+    <author />
+    <organization />
+    <originating_system>https://www.cafm-connect.org</originating_system>
+    <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
+  <IfcProjectLibrary id="i58693" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen" Phase="Planen,Bauen,Betreiben">
+    <OwnerHistory CreationDate="1538910931806">
+      <OwningUser>
+        <ThePerson FamilyName="" />
+        <TheOrganization Name="" />
+      </OwningUser>
+      <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
+        <ApplicationDeveloper Name="" />
+      </OwningApplication>
+    </OwnerHistory>
+  </IfcProjectLibrary>
+  <IfcTable id="i58694" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+</ifcXML>
