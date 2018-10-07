@@ -1,6 +1,3 @@
-# BIM-Profiles by CAFM-Connect
-IFC files for CAFM-Connect
-
 ## What are BIM Profiles?
 
 A BIM profile is a digital template for the information request of a BIM application, comparable to an empty but structured form. For a successful exchange of information, the sender and recipient of the information should agree on a BIM profile in advance.
