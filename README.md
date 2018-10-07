@@ -11,7 +11,7 @@ A BIM profile contains a maximum of five classifications (min. one). Each classi
 - Classification of Object types (e.g. from CAFM-Connect, Omniclass, Uniclass, COBie)
 - Classification of Document types (e.g. from GEFMA 198, GEFMA 924.60)
 - Classification of Building Types (e.g. from GEFMA 924.10)
-- Classification of Cost Groups (e.g. from DIN 276=
+- Classification of Cost Groups (e.g. from DIN 276)
 
 In addition, the profile can contain class related properties for master data, running data, BIM, maintenance, servicing, energy data, etc.
 
