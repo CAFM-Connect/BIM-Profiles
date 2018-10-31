@@ -7,6 +7,9 @@ related BIM modeles.
 This classification is based on
 - extended structure following DIN 276
 - the base classes covered in VDI 3805
+- anything we didn't find in both above
+
+This classification isn't complete, so any addition is welcome!
 
 To extend this classification, please fork the repo from [CAFM-Connect/BIM-Profiles](https://github.com/CAFM-Connect/BIM-Profiles)
 and send pull requests with you extensions.
