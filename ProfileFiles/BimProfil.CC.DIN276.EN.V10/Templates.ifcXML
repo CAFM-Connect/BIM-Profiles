@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Base classification cost groups</name>
-    <time_stamp>2018-10-07T13:12:48.6142669+02:00</time_stamp>
+    <time_stamp>2018-11-06T11:47:49.3674699+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i35921" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Base classification cost groups" Description="Klassifikation der Kostengruppen nach DIN 276. Die Rechte des DIN e.V. und des Beuth Verlags bleiben unberührt." Phase="Betreiben">
-    <OwnerHistory CreationDate="1538910768644">
+  <IfcProjectLibrary id="i32487" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Base classification cost groups" Description="Klassifikation der Kostengruppen nach DIN 276. Die Rechte des DIN e.V. und des Beuth Verlags bleiben unberührt." Phase="Betreiben">
+    <OwnerHistory CreationDate="1541501269394">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -20,7 +20,51 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcTable id="i35922" Name="DictionaryReferenceTable">
+  <IfcRelDefinesByProperties id="i32488" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i32487" />
+    <RelatingPropertyDefinition>
+      <IfcPropertySet GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="PSet_Library" Description="">
+        <HasProperties>
+          <IfcPropertySingleValue Name="Language" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>en</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Version" Description="Version number of the profile in the format of semantic versioning">
+            <NominalValue>
+              <IfcLabel-wrapper>10</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="AreaOfApplication" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>Deutschland</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="DeveloperDocs" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>https://github.com/cafm-connect</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="License" Description="Reference to the license agreement for the usage of the profile">
+            <NominalValue>
+              <IfcLabel-wrapper>Creative Commons Attribution-ShareAlike 4.0 International License</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="PublicationDate" Description="">
+            <NominalValue>
+              <IfcDate-wrapper>08.06.2017 00:00:00</IfcDate-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+        </HasProperties>
+      </IfcPropertySet>
+    </RelatingPropertyDefinition>
+  </IfcRelDefinesByProperties>
+  <IfcTable id="i32489" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

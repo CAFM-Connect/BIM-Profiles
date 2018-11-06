@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Fördertechnische Anlagen inspizieren und warten</name>
-    <time_stamp>2018-10-07T13:12:51.9276456+02:00</time_stamp>
+    <time_stamp>2018-11-06T11:50:22.1794407+01:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i35923" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Fördertechnische Anlagen inspizieren und warten" Description="Schöner Text zu Fördertechnische Anlagen inspizieren und warten" Phase="Betreiben">
-    <OwnerHistory CreationDate="1538910771957">
+  <IfcProjectLibrary id="i61573" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Fördertechnische Anlagen inspizieren und warten" Description="Schöner Text zu Fördertechnische Anlagen inspizieren und warten" Phase="Betreiben">
+    <OwnerHistory CreationDate="1541501422230">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />
@@ -20,7 +20,51 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcTable id="i35924" Name="DictionaryReferenceTable">
+  <IfcRelDefinesByProperties id="i61574" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i61573" />
+    <RelatingPropertyDefinition>
+      <IfcPropertySet GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="PSet_Library" Description="">
+        <HasProperties>
+          <IfcPropertySingleValue Name="Language" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>de</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Version" Description="Version number of the profile in the format of semantic versioning">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="AreaOfApplication" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>Deutschland</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="DeveloperDocs" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>https://github.com/cafm-connect</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="License" Description="Reference to the license agreement for the usage of the profile">
+            <NominalValue>
+              <IfcLabel-wrapper>Creative Commons Attribution-ShareAlike 4.0 International License</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="PublicationDate" Description="">
+            <NominalValue>
+              <IfcDate-wrapper>17.08.2018 00:00:00</IfcDate-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+        </HasProperties>
+      </IfcPropertySet>
+    </RelatingPropertyDefinition>
+  </IfcRelDefinesByProperties>
+  <IfcTable id="i61575" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
