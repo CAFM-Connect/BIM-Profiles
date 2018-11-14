@@ -4,7 +4,7 @@ A BIM profile is a digital template for the information request of a BIM applica
 
 BIM profiles can be agreed as the contractual basis for the information deliveries from service performances. They are sort of a digital expression for Information Exchange Requests.
 
-## Which informationcan be stored in a BIM Profile?
+## Which information can be stored in a BIM Profile?
 
 A BIM profile contains a maximum of five classifications (min. one). Each classification has one of these types, whereby a type may occur only once in a profile:
 - Classification of Space Usage Types (e.g. from DIN 277-2, ISO 81346-2-Table 4)
