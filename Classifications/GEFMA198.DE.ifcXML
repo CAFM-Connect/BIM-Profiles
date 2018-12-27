@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>Classification file from IFC Navigator Germany</name>
-    <time_stamp>2018-12-27T11:24:18.9094745+01:00</time_stamp>
+    <time_stamp>2018-12-27T00:00:00</time_stamp>
     <author>katalog@cafm-connect.org</author>
     <organization>CAFM Ring e.V.</organization>
     <preprocessor_version>0.5</preprocessor_version>
@@ -8515,8 +8515,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i9623" Edition="1.0" EditionDate="2018-12-27T10:24:18.9264297Z" Name="GEFMA198.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_198" />
-  <IfcRelAssociatesClassification id="i9624" GlobalId="0VzFX1JWjC5hk6S9s5gduk">
+  <IfcClassification id="i9623" Edition="1.0" EditionDate="2018-12-27T11:54:06.0835392Z" Name="GEFMA198.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_198" />
+  <IfcRelAssociatesClassification id="i9624" GlobalId="2r3Te2Mu99cwL6FzvTo2g1">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i9621" Name="" />
     </RelatedObjects>

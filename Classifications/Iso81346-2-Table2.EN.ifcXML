@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>Classification file from IFC Navigator Germany</name>
+    <time_stamp>2018-12-27T00:00:00</time_stamp>
+    <author>katalog@cafm-connect.org</author>
+    <organization>CAFM Ring e.V.</organization>
+    <preprocessor_version>0.5</preprocessor_version>
+    <originating_system>IFC Navigator</originating_system>
+    <authorization>CAFM Ring e.V.</authorization>
+    <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
+  </header>
+  <IfcProject id="i34372" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="Iso81346-2-Table2.EN" />
+  <IfcTable id="i34373" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34376</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/dc6b6ba7-16ef-4add-9e5d-7b0104461729</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dc6b6ba7-16ef-4add-9e5d-7b0104461729</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SQskd5kzAtPvTUm44HXSf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34377</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/092411ba-dd9f-46c0-9776-38caf8e10d5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>092411ba-dd9f-46c0-9776-38caf8e10d5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>09916wtPz6m9TsEChuuGrT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34378</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e807990b-f421-4ed8-a7c3-b1b7b1b67624</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e807990b-f421-4ed8-a7c3-b1b7b1b67624</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3e1vaBz25EsAV3iRUnjdOa</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34379</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4d847a7e-c839-4dba-ba27-9421148b0b24</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4d847a7e-c839-4dba-ba27-9421148b0b24</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1DX7f_o3bDkhedb24KYmia</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34380</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/73151ca9-cd4b-41cc-a43b-c0546d6e9af0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>73151ca9-cd4b-41cc-a43b-c0546d6e9af0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1p5HofpKj1pAGxm5HjRfhm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34381</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/ddac939c-cc04-4745-8fb4-3842ddc53335</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ddac939c-cc04-4745-8fb4-3842ddc53335</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Th9ESp0H7HO_qE4BTnJCr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34382</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/92950234-4d50-4e29-bff0-5e7f57d13737</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>92950234-4d50-4e29-bff0-5e7f57d13737</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2IbG8qJL1EAR$mNdzNqJSt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34383</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b21c7d87-19cc-4520-a5ba-3cba36f10131</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b21c7d87-19cc-4520-a5ba-3cba36f10131</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2o77s76Sn58AMwFBesyG4n</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34384</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7aeb1807-497e-419f-85ee-a8e619fc76de</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7aeb1807-497e-419f-85ee-a8e619fc76de</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1wwnW7INv1duNkgEOP$7RU</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34385</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d3abe40d-870c-4675-a645-abc7b38ab3d8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d3abe40d-870c-4675-a645-abc7b38ab3d8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Jg_GDXmn6TQP5gyUpYhFO</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/63228910-1b79-4170-b437-65e158ffb1b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>63228910-1b79-4170-b437-65e158ffb1b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Z8eaG6tb1SBGtPU5O$x6n</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34387</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/81950c55-6ffc-44f4-803d-cf2992021a68</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>81950c55-6ffc-44f4-803d-cf2992021a68</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>21bGnLR$n4z80zpocI0Xfe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34388</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/8dc1366b-7ead-40af-8092-06d262b2170c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8dc1366b-7ead-40af-8092-06d262b2170c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2DmJPhVgr0hu2I1j9YiXSC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34389</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/47ce95f4-2164-46b7-8d3b-4af02069ccb3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>47ce95f4-2164-46b7-8d3b-4af02069ccb3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>17pfNq8MH6juqxIl0WQSop</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34390</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/99a59b1a-a080-4b87-9ae7-80f94a4d35c1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>99a59b1a-a080-4b87-9ae7-80f94a4d35c1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2PfPiQe81BXvhdWFbAJJN1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34391</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7c7a0185-3399-4baa-9085-6a7133c3bbbf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7c7a0185-3399-4baa-9085-6a7133c3bbbf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1yUW65CvbBgf25Qd4pmxk$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34392</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/023e81db-2cc9-40d8-8e24-77d0b859aa76</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>023e81db-2cc9-40d8-8e24-77d0b859aa76</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>02Fe7RBCb0s8uaTz2uMQfs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34393</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/59f868a4-401a-487a-92f6-b39c7384506e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>59f868a4-401a-487a-92f6-b39c7384506e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1P_6YaG1f8UfBsivnpX51k</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e4dada44-cf4e-4e56-827c-f2173b27052f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e4dada44-cf4e-4e56-827c-f2173b27052f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3asjf4pqvELe9yyXSx9mKl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34395</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/71429d36-4c69-4684-99d0-4ad8ab57c29d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>71429d36-4c69-4684-99d0-4ad8ab57c29d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nGfqsJ6b6X9dGIjYhLyAT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34396</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/990e4b15-3de9-43f4-b74d-cd246c15e13c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>990e4b15-3de9-43f4-b74d-cd246c15e13c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2P3aiLFUb3zBTDpIHi5U4y</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34397</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6a752207-a109-4c65-a182-b1a24c1c63d4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6a752207-a109-4c65-a182-b1a24c1c63d4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1gTI87eGbCPQ62iQ9C76FK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34398</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/8b685826-32d2-432c-8e58-03a6bff571ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8b685826-32d2-432c-8e58-03a6bff571ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2BQ5WcCj93B8vO0wQ$zN7g</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34399</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6a43f4a9-1f2b-430a-a460-986195a2dbc9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6a43f4a9-1f2b-430a-a460-986195a2dbc9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1gG$If7oj32gHWc66Lejl9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34400</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/86ee5c9a-4a50-477f-9ba6-051362126585</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>86ee5c9a-4a50-477f-9ba6-051362126585</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>26xboQIb17Vvkc1HDY4cM5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34401</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d3c63a71-4029-4e74-b84c-9c0f658b5f1c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d3c63a71-4029-4e74-b84c-9c0f658b5f1c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3JnZfnG2bETBXCd0zbYryS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34402</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f28f705e-610a-4b60-b539-358540ef7be8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f28f705e-610a-4b60-b539-358540ef7be8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3oZt1UOGfBOBKvDOL0xtle</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34403</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/0d1f2879-1757-47da-9576-b26d10e7bb0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0d1f2879-1757-47da-9576-b26d10e7bb0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0D7oXv5rT7sfLsicqGvxiC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34404</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9041e98d-1f52-4363-b1fd-da2d43511e33</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9041e98d-1f52-4363-b1fd-da2d43511e33</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2GGUcD7r93Ox7zsYr3KHup</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34405</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/0561ba19-9774-4954-aa94-ef9e451861f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0561ba19-9774-4954-aa94-ef9e451861f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>05ORePbtH9LAgKxvv5667m</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34406</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b8fa84bb-2b66-4a4c-8567-d9f9ca619469</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b8fa84bb-2b66-4a4c-8567-d9f9ca619469</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2u_eIxAsPAJ8LdsVdAOPHf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34407</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f75243ad-317a-4dbe-b590-c7bcfec07537</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f75243ad-317a-4dbe-b590-c7bcfec07537</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3tKaEjCNfDlhMGnxp_m7Kt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34408</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/74b13969-6746-4336-b505-68b53481d369</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>74b13969-6746-4336-b505-68b53481d369</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1qiJbfPqP3DhK5QBKqWTDf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a73e0685-bed4-43aa-8692-ee7c140219b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a73e0685-bed4-43aa-8692-ee7c140219b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2dFWQ5ljH3geQIxdmK0Xct</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34410</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/37b313c5-a54f-49a1-8187-25c151572155</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37b313c5-a54f-49a1-8187-25c151572155</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0tinF5fKz9eO679S5HLo5L</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34411</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/72253125-2bc1-4bfe-abab-ff86165d42fd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>72253125-2bc1-4bfe-abab-ff86165d42fd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1o9J4bAy5B$gkh$uOMNKBz</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34412</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/cb3a9b59-aa80-4f12-a8d7-77d5c90af1f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cb3a9b59-aa80-4f12-a8d7-77d5c90af1f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3BEfjPge1F4gZNTzN92l7m</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34413</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/30a65c8e-d039-4e8e-a1c3-ab25960376a1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>30a65c8e-d039-4e8e-a1c3-ab25960376a1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0mfboEq3bEZg73goMM0tQX</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34414</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5bcce3c4-4e89-4a90-ad9f-4ec1fd1d242b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5bcce3c4-4e89-4a90-ad9f-4ec1fd1d242b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1RpEF4JebAaAsVJi7z7IGh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34415</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fc6e2686-b8cc-4585-bdbd-9547312453ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fc6e2686-b8cc-4585-bdbd-9547312453ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3yRYQ6kCn5XRszbKSn95Fg</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34416</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/48eaac48-c261-4ee1-98f0-e79e3aea0a7d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>48eaac48-c261-4ee1-98f0-e79e3aea0a7d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>18wgn8mc5EuPZmvvuwwWfz</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34417</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d87febbd-f38c-4405-83dc-add018100ca1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d87febbd-f38c-4405-83dc-add018100ca1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OV_kzyun41OFShT0O40oX</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34418</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4019ea21-17c5-4dfc-bfb2-e2aba0333f25</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4019ea21-17c5-4dfc-bfb2-e2aba0333f25</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>106UeX5yLD$B_ougkWCpyb</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34419</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b8a84ab6-ace0-4f25-b0b0-317e0fcaed0b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b8a84ab6-ace0-4f25-b0b0-317e0fcaed0b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ug4gshE1F9R2mCNuFokqB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34420</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/54ab5d14-d6b6-4e34-bb34-3442f9c42eac</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>54ab5d14-d6b6-4e34-bb34-3442f9c42eac</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1KgrqKrhPEDBiqD4Bvn2wi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34421</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b34ccbc0-c008-441b-b8bf-1995ddd337a0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b34ccbc0-c008-441b-b8bf-1995ddd337a0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2pJCl0m0X46xY$6PNTqpUW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34422</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/ab6235c0-eaf1-4b93-b3a6-4e65495ab91f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ab6235c0-eaf1-4b93-b3a6-4e65495ab91f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2hOZN0wl5BaxEcJcL9MhaV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34423</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/71f180f3-f935-4a7a-a3b8-3583d3764125</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>71f180f3-f935-4a7a-a3b8-3583d3764125</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nyO3p_JLAUgEuDOFJTa4b</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34424</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f7e0e737-4e83-4db5-b970-cf90a85651a1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f7e0e737-4e83-4db5-b970-cf90a85651a1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3tuEStJeDDjRbmpv2eLb6X</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34425</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6c7481a0-a1ee-4cb7-a081-edf7933d73a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6c7481a0-a1ee-4cb7-a081-edf7933d73a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1iT86WeUvCjw21xVUJFNEa</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34426</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9adf2d84-d326-475e-ab56-6f013f722e42</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9adf2d84-d326-475e-ab56-6f013f722e42</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Qtos4qoP7NgjMRm4$SYv2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34427</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/badd96b8-b8cb-4e96-81f2-f4f69d1b6fb1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>badd96b8-b8cb-4e96-81f2-f4f69d1b6fb1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2wtPQukCjEbe7ozFQT6s_n</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34428</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/dd9f9c09-d765-4b81-9a76-eaf918427bc0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dd9f9c09-d765-4b81-9a76-eaf918427bc0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Tdvm9rsLBWPfswlaOGdl0</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34429</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9f9454b3-9230-4310-bc05-4effa6a52b73</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9f9454b3-9230-4310-bc05-4effa6a52b73</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Vb5IpaZ134Bm5Jl_cfIjp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34430</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b2cdc4a0-f587-425d-8623-4ec4cee5fcd5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b2cdc4a0-f587-425d-8623-4ec4cee5fcd5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2opSIWzOT2NOOZJiJEvVpL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34431</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e0254a51-d4d0-42f2-8b54-86da4ec97b6f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e0254a51-d4d0-42f2-8b54-86da4ec97b6f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3W9KfHrD12yejKXjfEoNjl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34432</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c7087110-61a4-4476-8c95-b3a1d0b14a2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c7087110-61a4-4476-8c95-b3a1d0b14a2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37274GOQH4TeoLiw7GiKeh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34433</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/51388b6f-2742-4a0b-b25d-9eb416b282c9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>51388b6f-2742-4a0b-b25d-9eb416b282c9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1HE8jl9q9A2x9TdhGMieB9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34434</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/ac15bf91-071b-4cff-84f2-f02d3cb350e1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ac15bf91-071b-4cff-84f2-f02d3cb350e1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2i5R_H1njC$uJoy2qyir3X</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34435</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f3f0e78e-32bf-4330-bc4e-e7237be7f22c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f3f0e78e-32bf-4330-bc4e-e7237be7f22c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3pyEUEChz3CBnEvoDxv$8i</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34436</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d0d0e323-574a-4080-bcf7-ca36f0026288</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d0d0e323-574a-4080-bcf7-ca36f0026288</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3GqECZLqf0WBptoZRm0cA8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34437</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4b10f92a-ac8d-4d3c-bcf8-c3e4ccf969bc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4b10f92a-ac8d-4d3c-bcf8-c3e4ccf969bc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1B4Fagh8rDFBpum_JC_Mcy</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34438</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/8a5bbbfd-7c9f-4f54-adb9-6bdef3a156f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8a5bbbfd-7c9f-4f54-adb9-6bdef3a156f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2AMxlzV9zFLAsvQzxpeLRo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34439</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5de92c18-d163-4c15-a009-53048cf5f768</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5de92c18-d163-4c15-a009-53048cf5f768</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1TwImOqMDC5Q09KmICzVTe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34440</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f7c5cd73-ff7a-42d0-9e43-3ffebf897f6d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f7c5cd73-ff7a-42d0-9e43-3ffebf897f6d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3tnSrp$tf2q9v3F$w$YNzj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34441</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7a656d1f-c67b-455f-a4a0-6671c86313b6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7a656d1f-c67b-455f-a4a0-6671c86313b6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1wPMqVndj5NwIWPd78OnEs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34442</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/291e16a3-db03-433d-88ff-be15a0af3d41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>291e16a3-db03-433d-88ff-be15a0af3d41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0f7XQZsmD3FOZ$lXMWhpr1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34443</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f6117b82-3e6e-40bc-b0fb-67a967466d20</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f6117b82-3e6e-40bc-b0fb-67a967466d20</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3s4Nk2Fcv0lB3xPwbdHcqW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34444</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9786ca6a-08ed-4eb9-a6f6-64f887d3dedf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9786ca6a-08ed-4eb9-a6f6-64f887d3dedf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2NXifg2ErEkQRsPFY7qzxV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34445</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/90d184d6-d1db-4b3f-bde4-6013b4a618cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>90d184d6-d1db-4b3f-bde4-6013b4a618cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2GqOJMqTjBFxtaO1EqfXZF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34446</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/ef62e2cb-0c1d-4cba-8e57-f9b8b77a492b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ef62e2cb-0c1d-4cba-8e57-f9b8b77a492b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3lOkBB31rCkevN_RYtUaah</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34447</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a2373246-d4bf-4491-8f26-5a9a8143b409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a2373246-d4bf-4491-8f26-5a9a8143b409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2YDp96rBz4aOycMfg1GxG9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34448</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/95e89863-1fe5-4043-99e9-c42f2327d7b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>95e89863-1fe5-4043-99e9-c42f2327d7b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Lw9XZ7_L0Gvdfn2yZ9zUp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34449</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a3fef998-a1b9-45ed-a64c-cf04f5cb81dc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a3fef998-a1b9-45ed-a64c-cf04f5cb81dc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Z$lcOeRb5xQPCpmJrou7S</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34450</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/260837c0-4871-491b-8269-8293a0d67b99</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>260837c0-4871-491b-8269-8293a0d67b99</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0c23V0I7596u9fWfEWrdkP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34451</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e33c9dcc-1e34-41ad-b896-3ac2b2b2f52f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e33c9dcc-1e34-41ad-b896-3ac2b2b2f52f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ZF9tC7ZH1hRYMEiAoilKl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34452</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/04f10c7c-f2c4-43c6-9f6d-507e0653c782</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04f10c7c-f2c4-43c6-9f6d-507e0653c782</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04yGnyyiH3nfzjK7u6KyU2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34453</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/85be5548-b9e7-4853-844d-0daf6e1cd023</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>85be5548-b9e7-4853-844d-0daf6e1cd023</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>25lbL8kUT8KuHD3Qzk7D0Z</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34454</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/741b41a0-68c8-4deb-8e2a-f523816c0719</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>741b41a0-68c8-4deb-8e2a-f523816c0719</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1q6q6WQCXDwuugzIE1R0SP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34455</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e55ffa02-1b9f-45e6-9a9c-714a24357e5c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e55ffa02-1b9f-45e6-9a9c-714a24357e5c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3bN$e26vz5vfgSSKeaDNvS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34456</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9814e541-aac1-4c84-b3c2-901746b1025c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9814e541-aac1-4c84-b3c2-901746b1025c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2O5EL1gi5CXBF2a1T6iG9S</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34457</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/46540e9d-3647-47b2-a3f7-b13642b61a09</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>46540e9d-3647-47b2-a3f7-b13642b61a09</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16L0wTDaT7igFtiJP2jXe9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34458</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6caa3a9b-b3ee-4e9a-8b12-f092ddef8e6c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6caa3a9b-b3ee-4e9a-8b12-f092ddef8e6c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1igZgRi_vEceiIy9BTxuvi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34459</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c7e87d51-e44f-4bdd-b0e3-812d12bbf0ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c7e87d51-e44f-4bdd-b0e3-812d12bbf0ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37w7rHv4zBtR3ZWIqIk$3l</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34460</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d8e0d5d5-03e2-4062-aa6e-a8f7cac206a5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d8e0d5d5-03e2-4062-aa6e-a8f7cac206a5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OuDNL0_90OgfkgFVAmWQb</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34461</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a72da39e-9d8d-41f6-9b6c-f1c5bcfc8e4a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a72da39e-9d8d-41f6-9b6c-f1c5bcfc8e4a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2dBQEUdOr1zfjiySMy$8vA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34462</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f5d89569-4496-456d-9b40-0c9e88b536fd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f5d89569-4496-456d-9b40-0c9e88b536fd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3rs9LfH9P5RPj039w8jJRz</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34463</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/efb503fc-3291-472a-95af-b5dde5802be3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>efb503fc-3291-472a-95af-b5dde5802be3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ljGFyCf57AfMljTtbW2lZ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34464</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6d077218-7d72-454d-8b6a-13ff476e95b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6d077218-7d72-454d-8b6a-13ff476e95b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1j1t8OVN95JOjg4$z7RfMt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34465</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c9c5bea7-9c0b-4d5c-8b7e-18550bef77ba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c9c5bea7-9c0b-4d5c-8b7e-18550bef77ba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>39nRwdd0jDN8j_65KBxtUw</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34466</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fc5e879d-4caf-43d7-b96d-73abd97a1668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fc5e879d-4caf-43d7-b96d-73abd97a1668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3yNeUTJAz3rxbjSwlPUXPe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34467</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/531f6b77-7deb-4ad4-9bf3-e19607913467</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>531f6b77-7deb-4ad4-9bf3-e19607913467</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1J7sjtVUjAr9lpuPO7aJHd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34468</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b25dff49-9d10-464b-b935-56d04002d75a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b25dff49-9d10-464b-b935-56d04002d75a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2oNVz9dH16IxarLj100jTQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34469</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fb273f1e-566f-4d4d-ae9c-f1e1d4624455</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fb273f1e-566f-4d4d-ae9c-f1e1d4624455</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3x9pyULczDJQwSyU7KOaHL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34470</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fae9d35c-ee68-4cc4-a29d-2f214bc5650b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fae9d35c-ee68-4cc4-a29d-2f214bc5650b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wwTDSxcXCnAATBo5BnMKB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34471</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/878aaf6a-371c-4a29-a551-56f6a3c8d31f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>878aaf6a-371c-4a29-a551-56f6a3c8d31f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>27YgzgDnnAAQLHLlQZoDCV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34472</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5b74fc97-ac48-4c89-a626-63d6042e5410</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5b74fc97-ac48-4c89-a626-63d6042e5410</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1RTFoNh4XCYQOcOzO4BbGG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34473</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/8ae47e3f-58d0-4457-8a86-a78c3cb3d07c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8ae47e3f-58d0-4457-8a86-a78c3cb3d07c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Av7u$MD14Lug6fumyiz1y</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34474</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/8ce06bd9-5f02-4f0c-8ba3-559760ce8a0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8ce06bd9-5f02-4f0c-8ba3-559760ce8a0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Cu6lPNm9F38kZLPTWpeeF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34475</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d9fff7ee-73fa-46e4-84ed-a234aa658c46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d9fff7ee-73fa-46e4-84ed-a234aa658c46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3P$$VkS$f6v8JjeZIgPOn6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34476</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d08b2315-d411-42b6-9d21-a4a330dec479</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d08b2315-d411-42b6-9d21-a4a330dec479</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3GYoCLr152jfqXfACmtiHv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34477</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f276760e-5149-4f15-8870-c0509b4c099d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f276760e-5149-4f15-8870-c0509b4c099d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3oTdOEKKbF5OXmm52RJ0cT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34478</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/575f3718-5cde-4985-8a3f-c61588d07f8c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>575f3718-5cde-4985-8a3f-c61588d07f8c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1NNpSONDv9XOe$nXM8q7_C</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34479</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/deee58fb-1b18-432d-b95b-c05f8f5e7df2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>deee58fb-1b18-432d-b95b-c05f8f5e7df2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3UxbZx6nX3BRbRm5_FNdto</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34480</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/f7e2ca25-0a75-42a9-bcc4-33d9a8df43b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f7e2ca25-0a75-42a9-bcc4-33d9a8df43b4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3tuieb2dL2gRp4CzcetqEq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34481</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/722c74fb-0f35-46b3-8628-742684d84794</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>722c74fb-0f35-46b3-8628-742684d84794</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1oB7Jx3pL6iuOeT2Q4s4UK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34482</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7e24c023-32e5-41f5-857c-c12964811804</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7e24c023-32e5-41f5-857c-c12964811804</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1_9C0ZCkL1zOLymIbaWHW4</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34483</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/978f8900-f204-46ea-a5aa-2cb38eed9ec9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>978f8900-f204-46ea-a5aa-2cb38eed9ec9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2NZua0yWH6wgMgBBEExPx9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34484</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/43f6fff6-1a5e-476e-867d-b7356bfaaddf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>43f6fff6-1a5e-476e-867d-b7356bfaaddf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>13zl$s6bv7RePzjpLh_gtV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34485</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/38b36dc0-5715-40b0-ae73-8b6ea8f9791b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>38b36dc0-5715-40b0-ae73-8b6ea8f9791b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0uist0LnL0iAvpYswe_NaR</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34486</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7b69e297-9bd0-47f4-8ce8-081f51beb274</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7b69e297-9bd0-47f4-8ce8-081f51beb274</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1xQUANcz17z8pe21zHlh9q</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34487</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/60e116de-bdbc-4107-875c-79cf53102f82</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>60e116de-bdbc-4107-875c-79cf53102f82</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1WuHRUlRn11uTSUSzJ42_2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34488</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5cd8cce6-2214-40d3-a200-4261e7940f5e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5cd8cce6-2214-40d3-a200-4261e7940f5e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1SsCpc8XH0qw80Gc7db0zU</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34489</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/3db81b6d-d295-4de0-b3ef-46d4594b3dcc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3db81b6d-d295-4de0-b3ef-46d4594b3dcc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0zk1jjqfLDuBFlHjHPIptC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34490</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/663b80e1-d231-4aa9-867b-10d59e6ad160</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>663b80e1-d231-4aa9-867b-10d59e6ad160</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1cEu3XqZ5AgOPx4DMUQj5W</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34491</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a82abca8-2373-4a6c-b064-2ff4bbec5238</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a82abca8-2373-4a6c-b064-2ff4bbec5238</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eAhoe8tDARB1aB$Ixx58u</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34492</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/948127d6-5350-42b6-835a-1ccae2a45a9b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>948127d6-5350-42b6-835a-1ccae2a45a9b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2KWIVMKr12jeDQ7ChYf5gR</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34493</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/66db2773-44d1-4919-ad57-1f13155acf29</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>66db2773-44d1-4919-ad57-1f13155acf29</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1csoTpHD596QrN7nCLMiyf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34494</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4f319da6-de75-4772-a0e2-bd95d10acb47</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4f319da6-de75-4772-a0e2-bd95d10acb47</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1FCPsctdL7Sg3YlPNH2ij7</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34495</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d6a6daff-0037-44ac-8dff-b7fcb189a203</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d6a6daff-0037-44ac-8dff-b7fcb189a203</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Mfjh$03T4h8t$j$onYQ83</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34496</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/ec106316-28f5-4fd8-b3df-81eaed1a42ed</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ec106316-28f5-4fd8-b3df-81eaed1a42ed</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3i46CMAFLFsBFVWUhj6aBj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34497</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/abc7c070-53e5-4047-9a0e-3fe07b8ccca3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>abc7c070-53e5-4047-9a0e-3fe07b8ccca3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2hny1mK_L0HveEF_1xZCoZ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34498</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/824de908-c588-4b20-8eb3-7f295bc8858d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>824de908-c588-4b20-8eb3-7f295bc8858d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>22JUa8nOXB88wpVobRo8MD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34499</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/3412478a-2404-45f2-9366-633e08f2e849</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3412478a-2404-45f2-9366-633e08f2e849</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0q4aUA90H5yfDcOpu8ykX9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34500</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7f42f48d-577d-4cae-be7c-8e98efc7bdb3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7f42f48d-577d-4cae-be7c-8e98efc7bdb3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1$GlIDLtrChhvyZfZlnxsp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34501</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c0f2f5fe-8b66-40b5-8ca9-67fb59b8747d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c0f2f5fe-8b66-40b5-8ca9-67fb59b8747d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>30ylN_YsP0jOofP$jPk7Hz</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34502</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/65c9966b-c53a-4871-a59a-86b10d02d182</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>65c9966b-c53a-4871-a59a-86b10d02d182</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1boPPhnJf8SQMQXh4D0j62</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34503</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/71d5c53f-9c5a-4fe7-8d1b-df1af2b24976</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>71d5c53f-9c5a-4fe7-8d1b-df1af2b24976</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nrSK$d5fFvuqRtnhoiabs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34504</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/91e77302-2996-4f34-a3c5-4d67b27da816</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>91e77302-2996-4f34-a3c5-4d67b27da816</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2HvtC2APPFDAF5JMUoVQWM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34505</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5397fc80-b136-4b14-8750-00d6cb62e8d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5397fc80-b136-4b14-8750-00d6cb62e8d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Jb$o0iJPB58TG0DRBOkZH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34506</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9f1872f6-a373-4a37-a9e4-1235663f230b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9f1872f6-a373-4a37-a9e4-1235663f230b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2V67BsetDADwda4ZLcFoCB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34507</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6ebae7cc-171b-49f9-9588-8018128ad1b5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6ebae7cc-171b-49f9-9588-8018128ad1b5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1kkkVC5nj9_PM8W1WIYj6r</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34508</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/17ca4609-346a-46ce-80df-cc3effd042f6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>17ca4609-346a-46ce-80df-cc3effd042f6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0NoaO9D6f6pe3Vp3x$q4Bs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34509</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/38c7e6fb-4835-4bb0-8e53-4130fd162d39</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>38c7e6fb-4835-4bb0-8e53-4130fd162d39</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0un_RxI3LBi8vJGJ3z5Yqv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34510</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/338f1b0a-1304-4db5-89c6-a1e6c76ae97c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>338f1b0a-1304-4db5-89c6-a1e6c76ae97c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0pZniA4mHDjOd6eUR7Qkby</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34511</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c8ef9e6a-f49f-4c91-b997-95a5e2bd3b7e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c8ef9e6a-f49f-4c91-b997-95a5e2bd3b7e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>38xvvgz9zCaRcNbQNYlJj_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34512</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/2a6ad550-e25e-4619-bce9-a70f0145b260</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2a6ad550-e25e-4619-bce9-a70f0145b260</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0gQjLGubv66Rpffmy1HR9W</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34513</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c55811ac-720a-4cb9-938d-80a0fc0b36a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c55811ac-720a-4cb9-938d-80a0fc0b36a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35M16iSWfCkPEDWA3y2pQe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34514</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a379718a-943a-41a4-b5cb-b9976e6abb08</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a379718a-943a-41a4-b5cb-b9976e6abb08</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ZUN6Ab3f1fBNBkPTkQhi8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34515</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/63f5c48a-be7a-488c-b2d4-a6e8cb5c72d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>63f5c48a-be7a-488c-b2d4-a6e8cb5c72d1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1ZzSIAldf8ZBBKfkZBN7BH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34516</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/00b9c06d-e0d3-4c17-8091-b784657f5546</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00b9c06d-e0d3-4c17-8091-b784657f5546</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00kS1juDDC5u2HjuHbVrL6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34517</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/10176d58-b297-442b-9a2e-ba6e9bc849c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>10176d58-b297-442b-9a2e-ba6e9bc849c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0G5srOifT4AvekkcwRo4d8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34518</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/3affac2b-7bb9-4a11-8254-7aadd59d1d35</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3affac2b-7bb9-4a11-8254-7aadd59d1d35</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0w$wmhUxbA4O9KUgtLdHqr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34519</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/45a6bb7f-637e-41c5-90ce-55dbd0c978a6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>45a6bb7f-637e-41c5-90ce-55dbd0c978a6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>15fhj$Otv1nP3ELTlGoNYc</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34520</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/41140462-5bd3-4dec-aa31-0fdfa9f88636</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>41140462-5bd3-4dec-aa31-0fdfa9f88636</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1150HYMzDDxAen3z_f_8Os</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34521</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4021af87-69c1-4571-86d7-9e748dec9e5f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4021af87-69c1-4571-86d7-9e748dec9e5f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>108Q_7QS55SORNddIDx9vV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34522</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/c8fe10ae-3b88-436e-bbc5-0340dd083029</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c8fe10ae-3b88-436e-bbc5-0340dd083029</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>38$X2kEuX3Rhl50q3T230f</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34523</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/a178c996-f0f9-4cb0-8cd8-e404ff437e37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a178c996-f0f9-4cb0-8cd8-e404ff437e37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2XUCcMyFbCi8pOv0J$Gtut</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34524</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d57f930b-6003-4b39-914f-6394c6ee2b37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d57f930b-6003-4b39-914f-6394c6ee2b37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3LVvCBO0DBEP5FOvJ6xYit</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34525</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b22f994a-a8ba-43aa-b2ea-cce31b89a609</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b22f994a-a8ba-43aa-b2ea-cce31b89a609</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2oBvbAgBf3ghBgpECRYQO9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34526</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fa841121-19ca-4d8a-9f91-cae505b87190</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fa841121-19ca-4d8a-9f91-cae505b87190</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wX14X6SfDYf_HokK5k76G</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34527</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/1c41fb16-8ed4-4fef-b28b-da024b373a9a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1c41fb16-8ed4-4fef-b28b-da024b373a9a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0SGViMZjHFxxABsW9BDpgQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34528</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fe93e4bd-44bd-4738-bcc9-f9b8b4b90e79</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fe93e4bd-44bd-4738-bcc9-f9b8b4b90e79</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3_a_IzHBr7EBp9_RYqkGvv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/51f320cf-c03d-4f6a-aeef-837f33ab2f64</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>51f320cf-c03d-4f6a-aeef-837f33ab2f64</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Hyo3Fm3rFQgxlWtypgoza</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34530</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d189bf36-ff48-49c6-ad7c-24c500b704ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d189bf36-ff48-49c6-ad7c-24c500b704ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3HYRys$qX9ngry9CK0jmJl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34531</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/7945e4dd-13f8-4bb8-ba0b-d77516e662d4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7945e4dd-13f8-4bb8-ba0b-d77516e662d4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1vHUJT4$XBkBeBrtKMvcBK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34532</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/d91732f7-b3e2-468a-9536-6c27b64c49b8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d91732f7-b3e2-468a-9536-6c27b64c49b8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3P5pBti_96YfKsR2UsJ4cu</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34533</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/61b39e7e-1fab-4ed0-ae1b-cf8a1f6ac38c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>61b39e7e-1fab-4ed0-ae1b-cf8a1f6ac38c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Xivv_7wjEqAuRpueVQiEC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34534</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/6fc52f60-698b-43f3-bb78-5e6b6fbf5157</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6fc52f60-698b-43f3-bb78-5e6b6fbf5157</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1lnIzWQOj3yxjuNcjllr5N</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34535</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/479052f1-4381-40bd-a7d6-5a59576574b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>479052f1-4381-40bd-a7d6-5a59576574b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>17a5BnGu50lQVMMbbNPNIo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34536</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/50aa8f17-1af6-416d-8965-d034c3f45ab3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>50aa8f17-1af6-416d-8965-d034c3f45ab3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1GgeyN6lP1RObbq3J3z5gp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34537</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/734af854-2ef0-4267-81bc-c0a91d398750</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>734af854-2ef0-4267-81bc-c0a91d398750</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1pIlXKBl12Pu6ymAaTEOTG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34538</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/210f823f-7074-4e04-98d4-0b19d655899e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>210f823f-7074-4e04-98d4-0b19d655899e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0X3u8$S7HE19ZK2ndMLOcU</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34539</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/3cf5c2da-4193-4488-831f-00e67ac064fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3cf5c2da-4193-4488-831f-00e67ac064fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0yzSBQGPD4Y8CV0EPwm6J_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34540</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4b8cb8fb-8d0b-435c-9a7b-0f1e708adec8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4b8cb8fb-8d0b-435c-9a7b-0f1e708adec8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1BZBZxZGj3N9fx3nvmYjx8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34541</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/93a48f96-4a50-4851-861a-76c868308cdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>93a48f96-4a50-4851-861a-76c868308cdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Jf8_MIb18KOOQTiXeC8pV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34542</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4c7e2980-cda8-44c3-8646-1d3fc8445eca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4c7e2980-cda8-44c3-8646-1d3fc8445eca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1CVYc0pQX4muP67J$8H5xA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34543</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/78cefe85-c231-4e51-aeeb-cb719685fe13</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>78cefe85-c231-4e51-aeeb-cb719685fe13</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1uplw5mZ5EKQxhot6MXVuJ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34544</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/e0479c8f-f460-448d-ba1e-84ea2af9f5f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e0479c8f-f460-448d-ba1e-84ea2af9f5f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3WHvoFz614ZReUXEeg_VNp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34545</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fe12053a-f7d6-4c89-b3d7-df92c3dde849</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fe12053a-f7d6-4c89-b3d7-df92c3dde849</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3_4WKwzzPCYRFNtvB3tUX9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34546</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/4c724d02-8fc0-4756-889a-31a86f2317c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4c724d02-8fc0-4756-889a-31a86f2317c8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1CSaq2Zy17LeYQCQXl8nV8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34547</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/b8516cd9-ddcc-4b84-84ea-7e457fb06ad0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b8516cd9-ddcc-4b84-84ea-7e457fb06ad0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2uKMpPtSnBX8JgVaL$i6hG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34548</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/fa621314-4198-4226-953e-33fe57675b0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fa621314-4198-4226-953e-33fe57675b0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wOXCKGPX29fK_C$vNPriF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34549</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/57f37bf5-0f28-4fca-9553-f9af19183aa0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>57f37bf5-0f28-4fca-9553-f9af19183aa0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Nytlr3oXFofLJ_QyP63gW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34550</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/eef54a60-6e31-4d6a-bb77-f75bde6a8f22</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>eef54a60-6e31-4d6a-bb77-f75bde6a8f22</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3kzKfWRZ5DQhjtzrlUQeyY</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34551</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/9e431e69-6f36-4d58-87ec-f8f5a33484a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9e431e69-6f36-4d58-87ec-f8f5a33484a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2UGnvfRpPDM8Vi_FMZD8Ia</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34552</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/2b918cb7-e3fd-497c-8c61-2fe9c68e0cd1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2b918cb7-e3fd-497c-8c61-2fe9c68e0cd1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0haOotu$r9V8nXB_d6ZWpH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34553</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/5441215e-e2c6-41fc-97d3-961362b9ad2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5441215e-e2c6-41fc-97d3-961362b9ad2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1KGI5UuiP1$9VJbXDYkQqh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i34554</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-2-Table2.EN/cb3ddcce-ba2b-426e-8faa-73ca0c68f86f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Iso81346-2-Table2.EN</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cb3ddcce-ba2b-426e-8faa-73ca0c68f86f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3BFTpEkYj2Re_gSyeCQFXl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="i34374" Edition="1.0" EditionDate="2018-12-27T11:54:14.9476281Z" Name="Iso81346-2-Table2.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-2-Table2" />
+  <IfcRelAssociatesClassification id="i34375" GlobalId="1ev93eRIrDwv6s_bJbrRc4">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i34372" Name="" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i34376" Identification="B" Name="Erkennungsobjekt" Description="Objekt zur Erfassung und Darstellung von Informationen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34377" Identification="BA" Name="Objekt zur Erkennung von elektrischem Potential" Description="Erkennungsobjekt für elektrisches Potential">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34378" Identification="BB" Name="Objekt zur Erkennung von Widerstand" Description="Erkennungsobjekt für Widerstand">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34379" Identification="BC" Name="Objekt zur Erkennung von elektrischem Strom" Description="Erkennungsobjekt für elektrischen Strom">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34380" Identification="BD" Name="Dichteerkennungsobjekt" Description="Erkennungsobjekt für Dichte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34381" Identification="BE" Name="Spannungsfelderkennungsobjekt" Description="Erkennungsobjekt für Spannungsfeld">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34382" Identification="BF" Name="Durchflusserkennungsobjekt" Description="Erkennungsobjekt für Durchfluss">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34383" Identification="BG" Name="Objekt zur Erkennung von physikalischen Dimensionen" Description="Erkennungsobjekt für räumliche Dimensionen und/oder Positionen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34384" Identification="BH" Name="Energieerkennungsobjekt" Description="Erkennungsobjekt für Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34385" Identification="BJ" Name="Leistungserkennungsobjekt" Description="Erkennungsobjekt für Leistung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34386" Identification="BK" Name="Zeiterkennungsobjekt" Description="Erkennungsobjekt für Zeit">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34387" Identification="BL" Name="Füllstandserkennungsobjekt" Description="Erkennungsobjekt für Füllstand">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34388" Identification="BM" Name="Luftfeuchteerkennungsobjekt" Description="Erkennungsobjekt für Luftfeuchte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34389" Identification="BP" Name="Druckerkennungsobjekt" Description="Erkennungsobjekt für Druck">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34390" Identification="BQ" Name="Konzentrationserkennungsobjekt" Description="Erkennungsobjekt für Substanzkonzentration">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34391" Identification="BR" Name="Strahlungserkennungsobjekt" Description="Erkennungsobjekt für Strahlung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34392" Identification="BS" Name="Zeitbereicherkennungsobjekt" Description="Erkennungsobjekt für Zeitbereich">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34393" Identification="BT" Name="Temperaturerkennungsobjekt" Description="Erkennungsobjekt für Temperatur">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34394" Identification="BU" Name="Mehrfacherkennungsobjekt" Description="Erkennungsobjekt für mehrere Mengen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34395" Identification="BW" Name="Krafterkennungsobjekt" Description="Erkennungsobjekt für Gewicht, Kraft oder Drehmoment">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34396" Identification="BX" Name="Audiovisuelles Erkennungsobjekt" Description="Erkennungsobjekt für Ton und/oder Bilder">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34397" Identification="BY" Name="Informationserkennungsobjekt" Description="Erkennungsobjekt für gespeicherte Informationen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34398" Identification="BZ" Name="Ereigniserkennungsobjekt" Description="Erkennungsobjekt für Ereignisse und Mengen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34376" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34399" Identification="C" Name="Speicherobjekt" Description="Objekt zum Speichern für ein späteres Abrufen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34400" Identification="CA" Name="Kapazitives Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektrostatischen Felds">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34401" Identification="CB" Name="Induktives Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektromagnetischen Felds">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34402" Identification="CC" Name="Elektrochemisches Speicherobjekt" Description="Speicherobjekt für elektrische Energie innerhalb eines elektrochemischen Stoffes">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34403" Identification="CF" Name="Informationsspeicherobjekt" Description="Speicherobjekt für Informationen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34404" Identification="CL" Name="Offenes stationäres Speicherobjekt" Description="Speicherobjekt für Stoffe oder Personen innerhalb offener Umschließungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34405" Identification="CM" Name="Geschlossenes stationäres Speicherobjekt" Description="Speicherobjekt für Stoffe innerhalb einer stationären geschlossenen Umschließung innerhalb einer stationären geschlossenen Umschließung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34406" Identification="CN" Name="Bewegliches Speicherobjekt" Description="Speicherobjekt für Stoffe oder Personen innerhalb beweglicher geschlossener Umschließungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34407" Identification="CP" Name="Wärmeenergie-Speicherobjekt" Description="Speicherobjekt für Wärmeenergie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34408" Identification="CQ" Name="Speicherobjekt für mechanische Energie" Description="Speicherobjekt für mechanische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34399" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34409" Identification="E" Name="Aussendeobjekt" Description="Objekt zum Aussenden">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34410" Identification="EA" Name="Lichtobjekt" Description="Aussendeobjekt für Licht">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34411" Identification="EB" Name="Elektroheizungsobjekt" Description="Aussendeobjekt für durch elektrische Energie abgegebene Wärme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34412" Identification="EC" Name="Elektrokühlobjekt" Description="Aussendeobjekt für durch elektrische Energie abgegebene Kälte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34413" Identification="EE" Name="Drahtlosenergie-Objekt" Description="Aussendeobjekt für drahtlose Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34414" Identification="EG" Name="Wärmeenergie-Übertragungsobjekt" Description="Aussendeobjekt für durch Wärmeenergie übertragene Wärme und Kälte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34415" Identification="EM" Name="Verbrennungsheizobjekt" Description="Aussendeobjekt für durch Verbrennung erzeugte Wärme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34416" Identification="EP" Name="Wärmeheizobjekt" Description="Aussendeobjekt für durch Wärmeenergie erzeugte Wärme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34417" Identification="EQ" Name="Thermal-Kühlobjekt" Description="Aussendeobjekt für durch Wärmeenergie erzeugte Kälte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34418" Identification="ET" Name="Nuklearenergie-Wärmeobjekt" Description="Aussendeobjekt für durch Kernspaltung erzeugte Wärme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34419" Identification="EU" Name="Partikelaussendeobjekt" Description="Aussendeobjekt für mikroskopische Partikel">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34420" Identification="EV" Name="Schallwellenaussendeobjekt" Description="Aussendeobjekt für Schallwellen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34409" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34421" Identification="F" Name="Schutzobjekt" Description="Objekt zum Schutz vor den Auswirkungen gefährlicher oder unerwünschter Bedingungen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34422" Identification="FA" Name="Überspannungsschutzobjekt" Description="Schutzobjekt für Überspannung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34423" Identification="FB" Name="Erdschlussstrom-Schutzobjekt" Description="Schutzobjekt für Erdschlussströme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34424" Identification="FC" Name="Überstromschutzobjekt" Description="Schutzobjekt für Überströme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34425" Identification="FE" Name="Feldschutzobjekt" Description="Schutzobjekt für elektrische und/oder magnetische Felder">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34426" Identification="FL" Name="Druckschutzobjekt" Description="Schutzobjekt für Drücke">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34427" Identification="FM" Name="Brandschutzobjekt" Description="Schutzobjekt für Feuer">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34428" Identification="FN" Name="Objekt zum Schutz vor mechanischer Kraft" Description="Schutzobjekt für mechanische Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34429" Identification="FQ" Name="Vorbeugendes Schutzobjekt" Description="Schutzobjekt durch Barriere oder Hindernis">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34430" Identification="FR" Name="Umgebungsschutzobjekt" Description="Schutzobjekt in Bezug auf die lokale Umgebung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34431" Identification="FS" Name="Verschleißschutzobjekt" Description="Schutzobjekt für Materialerosion">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34432" Identification="G" Name="Erzeugungsobjekt" Description="Objekt zur Bereitstellung eines steuerbaren Durchflusses">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34433" Identification="GA" Name="Elektromechanisches Erzeugungsobjekt" Description="Erzeugungsobjekt für durch mechanische Energie erzeugte elektrische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34434" Identification="GB" Name="Elektrochemisches Erzeugungsobjekt" Description="Erzeugungsobjekt für durch chemische Reaktion erzeugte elektrische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34435" Identification="GC" Name="Elektrostrahlungs-Erzeugungsobjekt" Description="Erzeugungsobjekt für durch Solarenergie erzeugte elektrische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34436" Identification="GF" Name="Signalerzeugungsobjekt" Description="Erzeugungsobjekt von Signalen für Informationsträger">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34437" Identification="GL" Name="Kontinuierliches Beförderungsobjekt" Description="Erzeugungsobjekt für kontinuierlich laufende Geräte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34438" Identification="GM" Name="Nicht kontinuierliches Beförderungsobjekt" Description="Erzeugungsobjekt für nicht kontinuierlich laufende Geräte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34439" Identification="GP" Name="Flüssigkeitsstrom-Erzeugungsobjekt" Description="Erzeugungsobjekt für Flüssigkeiten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34440" Identification="GQ" Name="Gasstrom-Erzeugungsobjekt" Description="Erzeugungsobjekt für Gas">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34441" Identification="GR" Name="Thermalstrahlungs-Erzeugungsobjekt" Description="Erzeugungsobjekt für durch Solarenergie erzeugte thermische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34442" Identification="H" Name="Stoffbearbeitungsobjekt" Description="Objekt zur Behandlung von Stoffen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34443" Identification="HJ" Name="Urformobjekt" Description="Stoffbearbeitungsobjekt durch Urformen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34444" Identification="HK" Name="Oberflächenbehandlungsobjekt" Description="Stoffbearbeitungsobjekt für Oberflächenbehandlung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34445" Identification="HL" Name="Montierobjekt" Description="Stoffbearbeitungsobjekt durch Fügen oder Montieren">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34446" Identification="HM" Name="Krafttrennobjekt" Description="Stoffbearbeitungsobjekt zum erzwungenen Trennen vermischter Substanzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34447" Identification="HP" Name="Thermisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum thermischen Trennen vermischter Substanzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34448" Identification="HQ" Name="Mechanisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum mechanischen Trennen vermischter Substanzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34449" Identification="HR" Name="Elektromagnetisches Trennobjekt" Description="Stoffbearbeitungsobjekt zum elektromagnetischen Trennen vermischter Substanzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34450" Identification="HS" Name="Chemisches Trennobjekt" Description="Stoffbearbeitungsobjekt durch chemische Prozesse">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34451" Identification="HU" Name="Schleif- und Zerkleinerungsobjekt" Description="Stoffbearbeitungsobjekt, mit dem festes Material zerkleinert wird">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34452" Identification="HV" Name="Anhäufungsobjekt" Description="Stoffbearbeitungsobjekt, mit dem größere Formen von Material erzeugt werden">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34453" Identification="HW" Name="Mischobjekt" Description="Stoffbearbeitungsobjekt, mit dem verschiedene Substanzen gemischt werden">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34454" Identification="HX" Name="Reaktionsobjekt" Description="Stoffbearbeitungsobjekt, mit dem durch chemische oder biologische Reaktion neues Material erzeugt wird">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34442" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34455" Identification="K" Name="Informationsverarbeitungsobjekt" Description="Objekt zur Verarbeitung von Eingangssignalen und Bereitstellung eines geeigneten Ausgangs">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34456" Identification="KE" Name="Elektrische Signale verarbeitendes Objekt" Description="Informationsverarbeitendes Objekt zur Verarbeitung elektrischer Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34455" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34457" Identification="KF" Name="Elektrische Signale weiterleitendes Objekt" Description="Informationsverarbeitendes Objekt zur Weiterleitung elektrischer Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34455" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34458" Identification="KG" Name="Optisches Signalobjekt" Description="Informationsverarbeitendes Objekt für optische Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34455" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34459" Identification="KH" Name="Fluidisches Signalobjekt" Description="Informationsverarbeitendes Objekt für fluidische Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34455" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34460" Identification="KJ" Name="Mechanisches Signalobjekt" Description="Informationsverarbeitendes Objekt für mechanische Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34455" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34461" Identification="M" Name="Antriebsobjekt" Description="Objekt zur Erzeugung mechanischer Bewegungen oder Kraft">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34462" Identification="MA" Name="Elektromagnetisches Rotationsantriebsobjekt" Description="Antriebsobjekt in Form von Drehmoment, angetrieben durch elektromagnetische Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34463" Identification="MB" Name="Elektromagnetisches Linearantriebsobjekt" Description="Antriebsobjekt in Form von linearer Kraft, angetrieben durch elektromagnetische Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34464" Identification="MC" Name="Magnetkraft-Antriebsobjekt" Description="Antriebsobjekt angetrieben durch mechanische Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34465" Identification="ML" Name="Durch mechanische Energie angetriebenes Objekt" Description="Antriebsobjekt angetrieben durch mechanische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34466" Identification="MM" Name="Flüssigkeitsbetriebenes Objekt" Description="Antriebsobjekt angetrieben durch Flüssigkeitsverdrängung oder Druck">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34467" Identification="MS" Name="Verbrennungsmotor" Description="Antriebsobjekt angetrieben durch Verbrennung von Brennstoffen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34468" Identification="MT" Name="Wärmemaschine" Description="Antriebsobjekt angetrieben durch eine externe Wärmequelle">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34461" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34469" Identification="N" Name="Abdeckobjekt" Description="Objekt zum teilweisen oder vollständigen Abdecken eines anderen Objekts">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34470" Identification="NA" Name="Füllobjekt" Description="Abdeckungsobjekt durch Füllen einer Öffnung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34469" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34471" Identification="NB" Name="Schließungsobjekt" Description="Abdeckungsobjekt durch Schließen einer Öffnung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34469" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34472" Identification="NC" Name="Abschlussobjekt" Description="Abdeckungsobjekt durch Abschlussstrukturen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34469" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34473" Identification="ND" Name="Abschließungsobjekt" Description="Abdeckungsobjekt zum Abschließen eines anderen Objekts">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34469" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34474" Identification="NE" Name="Fugenabdeckobjekt" Description="Abdeckungsobjekt für Übergänge und Fugen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34469" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34475" Identification="P" Name="Präsentierobjekt" Description="Objekt zur Bereitstellung wahrnehmbarer Informationen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34476" Identification="PF" Name="Sichtbare Zustandsanzeige" Description="Präsentierobjekt in sichtbarer Form diskreter Zustände">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34477" Identification="PG" Name="Skalaranzeige" Description="Präsentierobjekt in sichtbarer Form einer einzelnen Skalarvariablen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34478" Identification="PH" Name="Grafische Anzeige" Description="Präsentierobjekt in sichtbarer Form durch Bilder, Symbole, Text oder physikalische Eigenschaften&#xA;">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34479" Identification="PJ" Name="Akustisches Gerät" Description="Präsentationsobjekt in hörbarer Form">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34480" Identification="PK" Name="Taktiles Gerät" Description="Präsentationsobjekt in taktiler Form">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34481" Identification="PL" Name="Ornamentobjekt" Description="Präsentationsobjekt in Ornamentform">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34482" Identification="PZ" Name="Mehrfachpräsentierobjekt" Description="Präsentationsobjekt in mehrfacher Form">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34475" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34483" Identification="Q" Name="Steuerobjekt" Description="Objekt zur Steuerung von Zugang oder Durchfluss">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34484" Identification="QA" Name="Stromsteuerungsobjekt" Description="Steuerobjekt für elektrischen Strom in einem Schaltkreis">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34485" Identification="QB" Name="Elektrisches Trennobjekt" Description="Steuerobjekt durch Trennen elektrischer Stromkreise">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34486" Identification="QC" Name="Elektrisches Erdungsobjekt" Description="Steuerobjekt durch Erdung elektrischer Stromkreise">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34487" Identification="QM" Name="Schaltobjekt für eingeschlossene Flüssigkeiten" Description="Steuerobjekt zum Aktivieren/Deaktivieren von Flüssigkeiten in verschlossenen Umschließungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34488" Identification="QN" Name="Variierobjekt für eingeschlossene Flüssigkeiten" Description="Steuerobjekt zum Variieren des Flüssigkeitsstroms in verschlossenen Umschließungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34489" Identification="QP" Name="Steuerobjekt für offene Flüssigkeiten" Description="Steuerobjekt für Flüssigkeiten in offenen Umschließungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34490" Identification="QQ" Name="Raumzugangsobjekt" Description="Steuerobjekt für einen Raum">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34491" Identification="QR" Name="Variierobjekt für feste Substanzen" Description="Steuerobjekt für feste Substanzen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34492" Identification="QS" Name="Objekt zur Steuerung mechanischer Bewegungen" Description="Steuerobjekt für mechanische Bewegung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34493" Identification="QZ" Name="Steuerobjekt mit mehreren Maßnahmen" Description="Steuerobjekt in elektrischen Kreisen durch mehrere Maßnahmen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34483" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34494" Identification="R" Name="Dämmungsobjekt" Description="Objekt zur Begrenzung oder Stabilisierung">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34495" Identification="RA" Name="Elektrizitätsbegrenzungsobjekt" Description="Beschränkungsobjekt durch Einschränken des elektrischen Energieflusses">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34496" Identification="RB" Name="Elektrizitätsstabilisierungsobjekt" Description="Beschränkungsobjekt durch Stabilisation eines elektrischen Energieflusses">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34497" Identification="RF" Name="Signalstabilisierungsobjekt" Description="Beschränkungsobjekt zur Stabilisierung eines Signals">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34498" Identification="RL" Name="Bewegungsbegrenzungsobjekt" Description="Beschränkungsobjekt zur Beschränkung von Bewegung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34499" Identification="RM" Name="Rückflussbegrenzungsobjekt" Description="Beschränkungsobjekt zur Begrenzung des Rückflusses">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34500" Identification="RN" Name="Durchflussbegrenzer" Description="Beschränkungsobjekt zur Begrenzung eines geführten Flüssigkeitsstroms">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34501" Identification="RQ" Name="Lokales Klimastabilisierungsobjekt" Description="Beschränkungsobjekt für die lokale Umgebung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34502" Identification="RU" Name="Zutrittsbeschränkungsobjekt" Description="Beschränkungsobjekt zur Zutrittsbeschränkung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34494" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34503" Identification="S" Name="Manuell agierendes Objekt" Description="Objekt zum Erkennen einer manuellen Handlung und Bereitstellung einer geeigneten Reaktion">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34504" Identification="SF" Name="Augenbetätigung" Description="Manuelles Interaktionsobjekt zum Fokussieren mit dem Auge">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34503" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34505" Identification="SG" Name="Handbetätigungsgerät" Description="Manuelles Interaktionsobjekt zur Handbetätigung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34503" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34506" Identification="SH" Name="Fußbetätiger" Description="Manuelles Interaktionsobjekt zur Fußbedienung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34503" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34507" Identification="SJ" Name="Fingerbetätigung" Description="Manuelles Interaktionsobjekt zur Fingerbetätigung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34503" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34508" Identification="SK" Name="Bewegungsbetätiger" Description="Manuelles Interaktionsobjekt zum Bewegen bzw. Positionieren">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34503" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34509" Identification="T" Name="Transformierobjekt" Description="Objekt zum Transformieren">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34510" Identification="TA" Name="Stromtransformierendes Objekt" Description="Transformierobjekt für elektrische Energie bei Beibehaltung von Wechsel- oder Gleichstrom">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34511" Identification="TB" Name="Stromkonvertierungsobjekt" Description="Transformierobjekt für elektrische Energie mit Änderung zwischen Wechsel- oder Gleichstrom">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34512" Identification="TF" Name="Signalkonvertierungsobjekt" Description="Transformierobjekt für Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34513" Identification="TL" Name="Objekt zum Transformieren von mechanischer Energie" Description="Transformierobjekt für mechanische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34514" Identification="TM" Name="Massereduktionsobjekt" Description="Transformierobjekt für Materie durch Massereduktion">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34515" Identification="TP" Name="Materieumformungsobjekt" Description="Transformierobjekt für Materie durch Formänderung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34516" Identification="TR" Name="Pflanze" Description="Transformierobjekt für Strahlung durch Photosynthese">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34509" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34517" Identification="U" Name="Halteobjekt" Description="Objekt zur Positionsstrukturierung anderer Objekte">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34518" Identification="UA" Name="Fixierobjekt" Description="Halteobjekt zur Fixierung in einer bestimmten Position">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34519" Identification="UB" Name="Trageobjekt" Description="Halteobjekt zum Tragen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34520" Identification="UC" Name="Umschließobjekt" Description="Halteobjekt zum Umschließen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34521" Identification="UL" Name="Strukturstützobjekt" Description="Halteobjekt zur Bildung einer Strukturstütze">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34522" Identification="UM" Name="Verstärkungsobjekt" Description="Halteobjekt zur Verstärkung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34523" Identification="UN" Name="Umrahmungsobjekt" Description="Halteobjekt zur Umrahmung anderer Objekte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34524" Identification="UP" Name="Fugenobjekt" Description="Halteobjekt mit Fugengeräten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34525" Identification="UQ" Name="Befestigungsobjekt" Description="Halteobjekt zur Befestigung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34526" Identification="UT" Name="Ausgleichungsobjekt" Description="Halteobjekt zum Ausgleichen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34527" Identification="UU" Name="Vorhandener Boden" Description="Halteobjekt als vorhandener Boden">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34517" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34528" Identification="W" Name="Leitobjekt" Description="Objekt zum Leiten von einem Ort zu einem anderen">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34529" Identification="WB" Name="Hochspannungsenergie-Leitobjekt" Description="Leitobjekt für elektrische Hochspannungsenergie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34530" Identification="WD" Name="Niederspannungsenergie-Leitobjekt" Description="Leitobjekt für elektrische Niederspannungsenergie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34531" Identification="WE" Name="Referenzpotential-Leitobjekt" Description="Leitobjekt für ein Referenzpotential">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34532" Identification="WG" Name="Elektrisches Signalleitobjekt" Description="Leitobjekt für elektrische Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34533" Identification="WH" Name="Lichtleitobjekt" Description="Leitobjekt für Licht">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34534" Identification="WJ" Name="Schallleitobjekt" Description="Leitobjekt für Schall">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34535" Identification="WL" Name="Feststoff-Leitobjekt" Description="Leitobjekt von festen Stoffen in offener Umschließung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34536" Identification="WM" Name="Leitobjekt in offener Umschließung" Description="Leitobjekt für Flüssigkeitsdurchfluss in offener Umschließung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34537" Identification="WP" Name="Leitobjekt in geschlossener Umschließung" Description="Leitobjekt für Feststofffluss in geschlossener Umschließung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34538" Identification="WQ" Name="Objekt zum Leiten von mechanischer Energie" Description="Leitobjekt für mechanische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34539" Identification="WR" Name="Gleisobjekt" Description="Leitobjekt für gleisgebundene Objekte">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34540" Identification="WV" Name="Objekt zum Leiten von thermischer Energie" Description="Leitobjekt für thermische Energie">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34541" Identification="WZ" Name="Mehrfachfluss-Leitobjekt" Description="Leitobjekt mit mehreren Flussarten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34528" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34542" Identification="X" Name="Schnittstellenobjekt" Description="Objekt zur Bereitstellung einer Schnittstelle zu einem anderen Objekt">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="i34374" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34543" Identification="XB" Name="Hochspannungs-Verbindungsobjekt" Description="Schnittstellenobjekt für Hochspannungsstrom">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34544" Identification="XD" Name="Niederspannungs-Verbindungsobjekt" Description="Schnittstellenobjekt für Niederspannungsstrom">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34545" Identification="XE" Name="Potentialverbindungsobjekt" Description="Schnittstellenobjekt für Erd- oder Bezugspotential">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34546" Identification="XG" Name="Elektrisches Signalverbindungsobjekt" Description="Schnittstellenobjekt für elektrische Signale">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34547" Identification="XH" Name="Lichtverbindungsobjekt" Description="Schnittstellenobjekt für optische Fasern">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34548" Identification="XK" Name="Sammelschnittstellenobjekt" Description="Schnittstellenobjekt zum Ansammeln und Weiterleiten in einen Durchfluss">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34549" Identification="XM" Name="Versiegeltes Durchflussverbindungsobjekt" Description="Schnittstellenobjekt für Materialfluss in versiegeltem Objekt">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34550" Identification="XN" Name="Fest angeschlossener Koppler" Description="Schnittstellenobjekt für kontinuierliche Übertragung von mechanischer Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34551" Identification="XP" Name="Nicht fest angeschlossener Koppler" Description="Schnittstellenobjekt für nicht kontinuierliche Übertragung von mechanischer Kraft">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34552" Identification="XS" Name="Ebenenverbindungsobjekt" Description="Schnittstellenobjekt zur Verbindung mehrerer Ebenen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34553" Identification="XT" Name="Raumverbindungsobjekt" Description="Schnittstellenobjekt zum Verbinden von Räumen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i34554" Identification="XZ" Name="Mehrfachfluss-Verbindungsobjekt" Description="Schnittstellenobjekt mit mehreren Flussarten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i34542" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+</ifcXML>
