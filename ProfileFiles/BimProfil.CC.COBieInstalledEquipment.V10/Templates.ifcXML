@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil COBieInstalledEquipment</name>
-    <time_stamp>2018-11-06T11:48:16.2983105+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:06:01.340564+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i40754" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen" Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501296334">
+    <OwnerHistory CreationDate="1541502361372">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />

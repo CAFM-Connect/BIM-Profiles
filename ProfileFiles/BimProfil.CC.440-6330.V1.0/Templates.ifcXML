@@ -2,18 +2,18 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Hoch- und Mittelspannungsanlagen inspizieren und warten</name>
-    <time_stamp>2018-11-06T11:50:38.7699807+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:08:29.1075109+01:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
-    <organization />
+    <organization>CAFM-Connect</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i61701" GlobalId="14KC5fWcj7awuKKf2qWXO1" Name="Hoch- und Mittelspannungsanlagen inspizieren und warten" Description="-" Phase="Betreiben">
-    <OwnerHistory CreationDate="1541501438833">
+    <OwnerHistory CreationDate="1541502509184">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
-        <TheOrganization Name="" />
+        <TheOrganization Name="CAFM-Connect" />
       </OwningUser>
       <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
         <ApplicationDeveloper Name="" />

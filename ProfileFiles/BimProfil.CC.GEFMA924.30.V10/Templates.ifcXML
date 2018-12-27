@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil GEFMA924.30</name>
-    <time_stamp>2018-11-06T11:48:30.4425228+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:06:15.4296293+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i41686" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Basisprofil GEFMA924.30" Description="Klassifikation von Lebenszyklusphasen nach GEFMA924.30. Die Rechte des GEFMA e.V. bleiben unberührt." Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501310480">
+    <OwnerHistory CreationDate="1541502375459">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -4878,7 +4878,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i41689" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:48:30.5412977+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
+  <IfcClassification id="i41689" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:06:15.5127623+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
   <IfcRelAssociatesClassification id="i41690" GlobalId="0_xVWzi3DEgAsgnpjHDqcD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

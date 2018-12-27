@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil DIN 277</name>
-    <time_stamp>2018-11-06T11:48:19.692966+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:06:04.6876846+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i40757" GlobalId="0bbYLqPf95CQsyY$034FGB" Name="Basisprofil DIN 277" Description="Dieses Profil kann dazu verwendet werden, um Räume in Nutzungsarten nach DIN 277-2 zu ordnen. Die Rechte des DIN e.V. und des Beuth Verlags bleiben unberührt." Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501299737">
+    <OwnerHistory CreationDate="1541502364723">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />

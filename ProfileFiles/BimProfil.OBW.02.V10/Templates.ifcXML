@@ -2,18 +2,18 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil OBW TGA-Planung</name>
-    <time_stamp>2018-11-06T11:50:59.5806879+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:08:48.2122321+01:00</time_stamp>
     <author>OBW Open BIM Workflow</author>
-    <organization />
+    <organization>Open Bim Workflow</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i62669" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="OBW TGA-Planung" Description="ARC=&gt;TWP" Phase="Planen">
-    <OwnerHistory CreationDate="1541501459638">
+    <OwnerHistory CreationDate="1541502528265">
       <OwningUser>
         <ThePerson FamilyName="OBW Open BIM Workflow" />
-        <TheOrganization Name="" />
+        <TheOrganization Name="Open Bim Workflow" />
       </OwningUser>
       <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
         <ApplicationDeveloper Name="" />

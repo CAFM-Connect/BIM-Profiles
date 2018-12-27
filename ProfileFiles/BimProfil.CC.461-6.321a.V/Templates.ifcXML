@@ -2,18 +2,18 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Fördertechnische Anlagen prüfen</name>
-    <time_stamp>2018-11-06T11:50:28.9442332+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:08:19.5050468+01:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
-    <organization />
+    <organization>CAFM-Connect</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i61579" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Fördertechnische Anlagen prüfen" Description="Dieses BIM Profil beschreibt die Standardinformationen die zur Veranlassung und Abwicklung von wiederkehrenden gesetzlichen Prüfungen von fördertechnischen Anlagen (wie z.B. Aufzugsanlagen) benötigt werden." Phase="Betreiben">
-    <OwnerHistory CreationDate="1541501428992">
+    <OwnerHistory CreationDate="1541502499553">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
-        <TheOrganization Name="" />
+        <TheOrganization Name="CAFM-Connect" />
       </OwningUser>
       <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
         <ApplicationDeveloper Name="" />

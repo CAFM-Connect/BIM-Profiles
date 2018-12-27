@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Türen inspizieren und warten</name>
-    <time_stamp>2018-11-06T11:51:13.7449959+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:09:02.3763912+01:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
     <organization>CAFM-Connect</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i62681" GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="Türen inspizieren und warten" Description="Zur Überprüfung der einwandfreien Funktion von Türen und um etwaige Schäden frühzeitig zu erkennen, können Gebäudeeigentümer ihre Türen regelmässig einer umfassenden Wartung und Instandsetzung unterziehen. Dies kann die Lebensdauer der Türen deutlich verlängern, so dass sie erst später ausgetauscht werden müssen und somit auch die Modernisierungskosten erst später entstehen. In diesem BIM-Profil wird beschrieben, welche Bauteiltypen und Merkmale zur Planung, Vergabe und Durchführung benötigt werden." Phase="Betreiben">
-    <OwnerHistory CreationDate="1541501473803">
+    <OwnerHistory CreationDate="1541502542447">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />
@@ -100,10 +100,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62688</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c2dd111a-51fe-4a9b-b184-217c2ed0034f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/85d43971-96b4-48b4-bb64-e00f0f80f842</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>c2dd111a-51fe-4a9b-b184-217c2ed0034f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>32tH4QKVvAcx648Nmkq0DF</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>85d43971-96b4-48b4-bb64-e00f0f80f842</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>25r3bnbhH8jBjau0yFWFX2</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -120,10 +120,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62691</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0a77f981-d4ec-4725-bf29-b5e8a14f2812</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/30a25985-3d63-45bc-a617-658a43fd59d8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0a77f981-d4ec-4725-bf29-b5e8a14f2812</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0AT$c1rEn79RyfjUYXJoWI</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>30a25985-3d63-45bc-a617-658a43fd59d8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0mebc5FMD5lAONPOf3$LdO</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -140,10 +140,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62694</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/43eb9a1f-ddd2-49ce-aa21-1c28b65e6e69</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/9392a380-f092-4517-bd75-a9ce9d4bcae2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>43eb9a1f-ddd2-49ce-aa21-1c28b65e6e69</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>13wveVtT99pgeX72YsNcvf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9392a380-f092-4517-bd75-a9ce9d4bcae2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2JagE0y9955xrrgSwTIyhY</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -390,10 +390,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62720</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a90eb66f-1992-4f17-9d1d-a11e1019a5de</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dceef85f-86ab-4dde-830d-96f160dcfed5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>a90eb66f-1992-4f17-9d1d-a11e1019a5de</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2f3hPl6P9F5vqTeHuG6QNU</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dceef85f-86ab-4dde-830d-96f160dcfed5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SxlXVXgjDteCDbl5WtFxL</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -530,10 +530,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62735</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/95902532-69f4-4dda-8473-00ef59c97327</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/7051d452-c133-43b0-859e-a4a7ba533459</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>95902532-69f4-4dda-8473-00ef59c97327</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2La2KoQVHDseHp0EzPoNCd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7051d452-c133-43b0-859e-a4a7ba533459</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1mKTHImJD3i8MUfAUwKpHP</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -550,10 +550,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62738</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f059fe83-bd56-4e85-918a-b3e1a53be5fc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/cd3c5451-e39a-4242-805c-ea132124894a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>f059fe83-bd56-4e85-918a-b3e1a53be5fc</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3mMVw3lLPEXP6Ai_6bE_Ny</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cd3c5451-e39a-4242-805c-ea132124894a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3DF5HHuvf2Ge1SwXCX98bA</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -570,10 +570,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62741</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/1e41d52a-d2e1-4fa2-a8dc-1b6bd5269cdd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b5a3330c-d388-480c-aba6-401f7210d0d8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1e41d52a-d2e1-4fa2-a8dc-1b6bd5269cdd</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0UGTKgqk5FegZS6slL9fpT</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b5a3330c-d388-480c-aba6-401f7210d0d8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2repCCquX83AkcG1zo4D3O</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -810,10 +810,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i62766</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/382093b5-a00f-436d-94ae-1c2cbf0d3679</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/30d081c6-fd64-40c9-88d3-9380fa633eb0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>382093b5-a00f-436d-94ae-1c2cbf0d3679</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0u89Ere0z3RPIk72o$3JPv</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>30d081c6-fd64-40c9-88d3-9380fa633eb0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0mq876$MH0oOZJau3wOpwm</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -1728,7 +1728,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i62684" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:51:13.8577688+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i62684" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:09:02.5190179+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i62685" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -1747,10 +1747,10 @@
       <IfcClassificationReference xsi:nil="true" ref="i62686" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62688" GlobalId="32tH4QKVvAcx648Nmkq0DF" Name="330" Description="PropertySet Template for 'CAFMConnect.DE Außenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i62688" GlobalId="25r3bnbhH8jBjau0yFWFX2" Name="330" Description="PropertySet Template for 'CAFMConnect.DE Außenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62689" GlobalId="32tH4QKVvAcx648Nmkq0DF">
+  <IfcRelAssociatesClassification id="i62689" GlobalId="25r3bnbhH8jBjau0yFWFX2">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62688" />
     </RelatedObjects>
@@ -1763,10 +1763,10 @@
       <IfcClassificationReference xsi:nil="true" ref="i62687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62691" GlobalId="0AT$c1rEn79RyfjUYXJoWI" Name="334" Description="PropertySet Template for 'CAFMConnect.DE Außentüren, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i62691" GlobalId="0mebc5FMD5lAONPOf3$LdO" Name="334" Description="PropertySet Template for 'CAFMConnect.DE Außentüren, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62692" GlobalId="0AT$c1rEn79RyfjUYXJoWI">
+  <IfcRelAssociatesClassification id="i62692" GlobalId="0mebc5FMD5lAONPOf3$LdO">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62691" />
     </RelatedObjects>
@@ -1779,7 +1779,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i62690" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62694" GlobalId="13wveVtT99pgeX72YsNcvf" Name="334.10" Description="PropertySet Template for 'CAFMConnect.DE Außentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i62694" GlobalId="2JagE0y9955xrrgSwTIyhY" Name="334.10" Description="PropertySet Template for 'CAFMConnect.DE Außentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i62696" GlobalId="1hUbBImKz6ge2S_MY$7y4I" Name="Feststellanlage" Description="Gibt an, ob und welche Art von Feststellanlage vorliegt." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Feststellanlage">
@@ -1816,7 +1816,7 @@
       <IfcSimplePropertyTemplate id="i62718" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62695" GlobalId="13wveVtT99pgeX72YsNcvf">
+  <IfcRelAssociatesClassification id="i62695" GlobalId="2JagE0y9955xrrgSwTIyhY">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62694" />
     </RelatedObjects>
@@ -1829,7 +1829,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i62690" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62720" GlobalId="2f3hPl6P9F5vqTeHuG6QNU" Name="334.20" Description="PropertySet Template for 'CAFMConnect.DE Tor außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i62720" GlobalId="3SxlXVXgjDteCDbl5WtFxL" Name="334.20" Description="PropertySet Template for 'CAFMConnect.DE Tor außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i62722" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i62723" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
@@ -1845,7 +1845,7 @@
       <IfcSimplePropertyTemplate id="i62733" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62721" GlobalId="2f3hPl6P9F5vqTeHuG6QNU">
+  <IfcRelAssociatesClassification id="i62721" GlobalId="3SxlXVXgjDteCDbl5WtFxL">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62720" />
     </RelatedObjects>
@@ -1858,10 +1858,10 @@
       <IfcClassificationReference xsi:nil="true" ref="i62686" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62735" GlobalId="2La2KoQVHDseHp0EzPoNCd" Name="340" Description="PropertySet Template for 'CAFMConnect.DE Innenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+  <IfcPropertySetTemplate id="i62735" GlobalId="1mKTHImJD3i8MUfAUwKpHP" Name="340" Description="PropertySet Template for 'CAFMConnect.DE Innenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62736" GlobalId="2La2KoQVHDseHp0EzPoNCd">
+  <IfcRelAssociatesClassification id="i62736" GlobalId="1mKTHImJD3i8MUfAUwKpHP">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62735" />
     </RelatedObjects>
@@ -1874,10 +1874,10 @@
       <IfcClassificationReference xsi:nil="true" ref="i62734" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62738" GlobalId="3mMVw3lLPEXP6Ai_6bE_Ny" Name="344" Description="PropertySet Template for 'CAFMConnect.DE Türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+  <IfcPropertySetTemplate id="i62738" GlobalId="3DF5HHuvf2Ge1SwXCX98bA" Name="344" Description="PropertySet Template for 'CAFMConnect.DE Türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates />
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62739" GlobalId="3mMVw3lLPEXP6Ai_6bE_Ny">
+  <IfcRelAssociatesClassification id="i62739" GlobalId="3DF5HHuvf2Ge1SwXCX98bA">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62738" />
     </RelatedObjects>
@@ -1890,7 +1890,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i62737" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62741" GlobalId="0UGTKgqk5FegZS6slL9fpT" Name="344.10" Description="PropertySet Template for 'CAFMConnect.DE Innentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i62741" GlobalId="2repCCquX83AkcG1zo4D3O" Name="344.10" Description="PropertySet Template for 'CAFMConnect.DE Innentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i62743" GlobalId="1hUbBImKz6ge2S_MY$7y4I" Name="Feststellanlage" Description="Gibt an, ob und welche Art von Feststellanlage vorliegt." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Feststellanlage">
@@ -1926,7 +1926,7 @@
       <IfcSimplePropertyTemplate id="i62764" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62742" GlobalId="0UGTKgqk5FegZS6slL9fpT">
+  <IfcRelAssociatesClassification id="i62742" GlobalId="2repCCquX83AkcG1zo4D3O">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62741" />
     </RelatedObjects>
@@ -1939,7 +1939,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i62737" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i62766" GlobalId="0u89Ere0z3RPIk72o$3JPv" Name="344.20" Description="PropertySet Template for 'CAFMConnect.DE Tor innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i62766" GlobalId="0mq876$MH0oOZJau3wOpwm" Name="344.20" Description="PropertySet Template for 'CAFMConnect.DE Tor innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i62768" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i62769" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
@@ -1955,7 +1955,7 @@
       <IfcSimplePropertyTemplate id="i62779" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i62767" GlobalId="0u89Ere0z3RPIk72o$3JPv">
+  <IfcRelAssociatesClassification id="i62767" GlobalId="0mq876$MH0oOZJau3wOpwm">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i62766" />
     </RelatedObjects>
@@ -1963,7 +1963,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i62765" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i62780" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:51:15.7881805+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i62780" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:09:03.4245981+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i62781" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

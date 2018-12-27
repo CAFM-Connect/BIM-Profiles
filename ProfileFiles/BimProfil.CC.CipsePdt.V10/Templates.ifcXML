@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil CipsePdt</name>
-    <time_stamp>2018-11-06T11:48:12.337884+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:05:57.2508511+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i40472" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Basisprofil CipsePdt" Description="Klassifikation von  Bauteiltypen" Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501292379">
+    <OwnerHistory CreationDate="1541502357287">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -2848,7 +2848,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i40475" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:48:12.4526532+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i40475" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:05:57.3539617+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i40476" GlobalId="1IYuXNNt9BLvA3PWLG4MOW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

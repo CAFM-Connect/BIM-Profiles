@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Base classification of space types</name>
-    <time_stamp>2018-11-06T11:47:52.8754705+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:05:38.0779113+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i32490" GlobalId="099fL0qv5DFvMynPSLmSZ$" Name="Base classification of space types" Description="Base classification of space types, to group rooms in usage types according to DIN 277-2.The rights of DIN e.V. and Beuth stay untouched." Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501272928">
+    <OwnerHistory CreationDate="1541502338127">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -868,7 +868,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i32493" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:47:52.9822296+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i32493" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:05:38.1796531+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i32494" GlobalId="099fL0qv5DFvMynPSLmSZ$">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

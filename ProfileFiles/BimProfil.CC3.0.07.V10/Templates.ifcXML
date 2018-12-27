@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil TGM Ausschreibung</name>
-    <time_stamp>2018-11-06T11:51:09.8223603+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:08:58.4434941+01:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i62678" GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="TGM Ausschreibung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine TGM Ausschreibung" Phase="Betreiben">
-    <OwnerHistory CreationDate="1541501469875">
+    <OwnerHistory CreationDate="1541502538497">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />

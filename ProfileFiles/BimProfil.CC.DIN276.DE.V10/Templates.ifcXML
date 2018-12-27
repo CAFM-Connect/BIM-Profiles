@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisklassifikationen Kostengruppen</name>
-    <time_stamp>2018-11-06T11:47:56.4347968+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:05:41.6293651+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i32574" GlobalId="0sflYuewLDOBnaXr8agVMX" Name="Basisklassifikationen Kostengruppen" Description="Klassifikation der Kostengruppen nach DIN 276. Die Rechte des DIN e.V. und des Beuth Verlags bleiben unberührt." Phase="Betreiben">
-    <OwnerHistory CreationDate="1541501276491">
+    <OwnerHistory CreationDate="1541502341674">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -2888,7 +2888,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i32577" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:47:56.5554584+01:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
+  <IfcClassification id="i32577" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:05:41.7251103+01:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
   <IfcRelAssociatesClassification id="i32578" GlobalId="0sflYuewLDOBnaXr8agVMX">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

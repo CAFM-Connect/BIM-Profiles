@@ -2,18 +2,18 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil VDI2552-9A</name>
-    <time_stamp>2018-11-06T11:50:08.6355987+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:07:58.8371146+01:00</time_stamp>
     <author />
-    <organization />
+    <organization>Verein Deutscher Ingenieure e.V.</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i61561" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Basisprofil VDI2552-9A" Description="Klassifikation von Bauteiltypen (Entwurf VDI 2552-A)" Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501408698">
+    <OwnerHistory CreationDate="1541502478885">
       <OwningUser>
         <ThePerson FamilyName="" />
-        <TheOrganization Name="" />
+        <TheOrganization Name="Verein Deutscher Ingenieure e.V." />
       </OwningUser>
       <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
         <ApplicationDeveloper Name="" />

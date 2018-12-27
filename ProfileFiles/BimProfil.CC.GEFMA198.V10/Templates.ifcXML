@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil GEFMA198</name>
-    <time_stamp>2018-11-06T11:48:23.1541806+01:00</time_stamp>
+    <time_stamp>2018-11-06T12:06:08.1708618+01:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i40760" GlobalId="0EY75QBWf8leDvhxGTxcVZ" Name="Basisprofil GEFMA198" Description="Klassifikation von Dokumententypen nach GEFMA 198. Die Rechte des GEFMA e.V. bleiben unberührt." Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541501303194">
+    <OwnerHistory CreationDate="1541502368216">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -8568,7 +8568,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i40763" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T11:48:23.2489841+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i40763" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-11-06T12:06:08.2845760+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i40764" GlobalId="0EY75QBWf8leDvhxGTxcVZ">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
