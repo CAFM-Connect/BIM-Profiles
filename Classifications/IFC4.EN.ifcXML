@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>Classification file from IFC Navigator Germany</name>
-    <time_stamp>2018-12-27T13:08:55.67535+01:00</time_stamp>
+    <time_stamp>2017-01-01T00:00:00</time_stamp>
     <author>katalog@cafm-connect.org</author>
     <organization>CAFM Ring e.V.</organization>
     <preprocessor_version>0.5</preprocessor_version>
@@ -11464,7 +11464,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i102" Edition="1.0" EditionDate="2018-12-27T12:08:55.6883158Z" Name="IFC4.EN" Location="https://www.cafm-connect.org/IFC4" />
+  <IfcClassification id="i102" Edition="1.0" EditionDate="2018-12-27T12:12:29.8841491Z" Name="IFC4.EN" Location="https://www.cafm-connect.org/IFC4" />
   <IfcRelAssociatesClassification id="i103">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i100" />
