@@ -1,0 +1,15 @@
+## Hoch- und Mittelspannungsanlagen inspizieren und warten
+-
+
+Key | Value |
+--|--|
+Code | CC.440-6330 |  
+AreaOfApplication | Deutschland |  
+Language | de |  
+License | Creative Commons Attribution-ShareAlike 4.0 International License |  
+LifeCyclePhase | Betreiben |  
+Publisher | [CAFM-Connect]() |  
+PublisherTeam | AK-Implementierung CAFM-Ring |  
+Tags |  |  
+Version | 1.0 |  
+PublicationDate | 04.02.2018 |  

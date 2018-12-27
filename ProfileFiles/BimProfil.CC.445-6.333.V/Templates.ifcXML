@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Leuchtmittelwechsel</name>
-    <time_stamp>2018-11-06T12:08:39.4261165+01:00</time_stamp>
+    <time_stamp>2018-08-17T00:00:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
     <organization>CAFM-Connect</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i61710" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Leuchtmittelwechsel" Description="Leuchtmittelwechsel durchführen inkl. Ersatzbeschaffung, Austausch und Entsorgung" Phase="Betreiben">
-    <OwnerHistory CreationDate="1541502519474">
+  <IfcProjectLibrary id="i64041" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Leuchtmittelwechsel" Description="Leuchtmittelwechsel durchführen inkl. Ersatzbeschaffung, Austausch und Entsorgung" Phase="Betreiben">
+    <OwnerHistory CreationDate="1545916558354">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i61711" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i61710" />
+  <IfcRelDefinesByProperties id="i64042" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i64041" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="PSet_Library" Description="">
         <HasProperties>
@@ -64,7 +64,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i61712" Name="DictionaryReferenceTable">
+  <IfcTable id="i64043" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

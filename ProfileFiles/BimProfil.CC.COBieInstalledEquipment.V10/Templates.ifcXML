@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Basisprofil COBieInstalledEquipment</name>
-    <time_stamp>2018-11-06T12:06:01.340564+01:00</time_stamp>
+    <time_stamp>2017-11-29T00:00:00</time_stamp>
     <author />
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i40754" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen" Phase="Planen,Bauen,Betreiben">
-    <OwnerHistory CreationDate="1541502361372">
+  <IfcProjectLibrary id="i43067" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen" Phase="Planen, Bauen, Betreiben">
+    <OwnerHistory CreationDate="1545916404350">
       <OwningUser>
         <ThePerson FamilyName="" />
         <TheOrganization Name="" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i40755" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40754" />
+  <IfcRelDefinesByProperties id="i43068" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i43067" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="PSet_Library" Description="">
         <HasProperties>
@@ -64,7 +64,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i40756" Name="DictionaryReferenceTable">
+  <IfcTable id="i43069" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -76,6 +76,255 @@
           <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43072</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/1efa1630-1a0f-46c0-850f-d0e6a5f2e12b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1efa1630-1a0f-46c0-850f-d0e6a5f2e12b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0U_XOm6Wz6m8KFqEQbyk4h</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43073</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/641b4e65-63cf-4b2d-aec8-47e5e7693684</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>641b4e65-63cf-4b2d-aec8-47e5e7693684</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1a6qvbOyzBBQx8H_NdQJQ4</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43074</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/b6440c24-4503-4ef0-a680-b43a10b7c2a7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b6440c24-4503-4ef0-a680-b43a10b7c2a7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2sH0maHGDEyAQ0j3eGjyAd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43075</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/dc3a4310-216b-462f-960b-ea84cfd703ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dc3a4310-216b-462f-960b-ea84cfd703ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SEaCG8Mj6BvOBweJFrmFA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43076</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/b53e536a-74dc-4ade-a454-f732f14bb338</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b53e536a-74dc-4ade-a454-f732f14bb338</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2rFbDgTDnAtgHKzpBnIxCu</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43077</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/3e3d30c2-7888-424b-b13f-f927f9c34732</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3e3d30c2-7888-424b-b13f-f927f9c34732</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0_FJ32U8X2Ix4$_IVvmqSo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43078</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/6b90e91b-a31a-4851-8525-e126ce82052e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6b90e91b-a31a-4851-8525-e126ce82052e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1haEaRenf8KOKbuIREWWKk</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43079</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/cc689c74-99d7-4c71-a2e0-bf6a1f8fa5df</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cc689c74-99d7-4c71-a2e0-bf6a1f8fa5df</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3CQ9nqcTTCSQBWlseVZwNV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43080</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/3ca8255f-da79-4346-a2a5-ce810c155397</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ca8255f-da79-4346-a2a5-ce810c155397</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0yg2LVsdb3HgAbpe4C5LEN</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43081</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/4c7cb86a-ad98-4725-84ca-7cb549745d34</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4c7cb86a-ad98-4725-84ca-7cb549745d34</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1CVBXghPX79OJAVBL9T5qq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43082</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/d8326b7d-738b-4ca6-b183-4912c43377ed</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d8326b7d-738b-4ca6-b183-4912c43377ed</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OCcjzSujCfh63IHB4CtVj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43083</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/4b3f0a78-c75b-45af-8bbf-85e4732dbb60</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4b3f0a78-c75b-45af-8bbf-85e4732dbb60</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1BFmfunrj5huk$XUHpBRjW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43084</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/a0a363ef-3453-4422-88a1-4541bdc142e2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a0a363ef-3453-4422-88a1-4541bdc142e2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2WesFlD5D48eYXHK6zmKBY</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43085</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/35e837a0-1b2a-4978-8d7a-a893321de302</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35e837a0-1b2a-4978-8d7a-a893321de302</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0rw3UW6of9U8rwg9Co7UC2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43086</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/b8b57c77-6a8d-44a5-a392-8a97b727e6f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b8b57c77-6a8d-44a5-a392-8a97b727e6f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ujNntQer4fQEIYfUt9_Ro</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i43087</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment/c5d0c5e2-a22f-4951-970e-48533bfb6010</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>COBieInstalledEquipment</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c5d0c5e2-a22f-4951-970e-48533bfb6010</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35qCNYeYz9KPSEI5Cx_s0G</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
     </Rows>
   </IfcTable>
+  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T14:13:24.4142467+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i43071" GlobalId="0rlIEJelrC3BWoff3rC6aD">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" Name="" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i43072" Identification="AirConditioner" Name="AirConditioner" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43073" Identification="AirHandler" Name="AirHandler" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43074" Identification="Boiler" Name="Boiler" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43075" Identification="Burner" Name="Burner" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43076" Identification="Compressor" Name="Compressor" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43077" Identification="Condenser" Name="Condenser" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43078" Identification="Controller" Name="Controller" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43079" Identification="Door" Name="Door" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43080" Identification="Electrical" Name="Electrical" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43081" Identification="Evaporator" Name="Evaporator" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43082" Identification="Fan" Name="Fan" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43083" Identification="Furnace" Name="Furnace" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43084" Identification="General" Name="General" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43085" Identification="HotWaterHeater" Name="HotWaterHeater" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43086" Identification="Plumbing" Name="Plumbing" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i43087" Identification="ValvesStrainers" Name="ValvesStrainers" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i43070" />
+    </ReferencedSource>
+  </IfcClassificationReference>
 </ifcXML>

@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil TGM Ausschreibung</name>
-    <time_stamp>2018-11-06T12:08:58.4434941+01:00</time_stamp>
+    <time_stamp>2017-06-08T00:00:00</time_stamp>
     <author>AK-Implementierung CAFM-Ring</author>
     <organization />
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Not yet decided</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i62678" GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="TGM Ausschreibung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine TGM Ausschreibung" Phase="Betreiben">
-    <OwnerHistory CreationDate="1541502538497">
+  <IfcProjectLibrary id="i65009" GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="TGM Ausschreibung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine TGM Ausschreibung" Phase="Betreiben">
+    <OwnerHistory CreationDate="1545916578837">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i62679" GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i62678" />
+  <IfcRelDefinesByProperties id="i65010" GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i65009" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="2AWYYaZpbEb83nf$REmJ1F" Name="PSet_Library" Description="">
         <HasProperties>
@@ -64,7 +64,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i62680" Name="DictionaryReferenceTable">
+  <IfcTable id="i65011" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

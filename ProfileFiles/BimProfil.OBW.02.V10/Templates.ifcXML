@@ -2,15 +2,15 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil OBW TGA-Planung</name>
-    <time_stamp>2018-11-06T12:08:48.2122321+01:00</time_stamp>
+    <time_stamp>2018-02-04T00:00:00</time_stamp>
     <author>OBW Open BIM Workflow</author>
     <organization>Open Bim Workflow</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i62669" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="OBW TGA-Planung" Description="ARC=&gt;TWP" Phase="Planen">
-    <OwnerHistory CreationDate="1541502528265">
+  <IfcProjectLibrary id="i65000" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="OBW TGA-Planung" Description="ARC=&gt;TWP" Phase="Planen">
+    <OwnerHistory CreationDate="1545916568412">
       <OwningUser>
         <ThePerson FamilyName="OBW Open BIM Workflow" />
         <TheOrganization Name="Open Bim Workflow" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i62670" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i62669" />
+  <IfcRelDefinesByProperties id="i65001" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i65000" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="PSet_Library" Description="">
         <HasProperties>
@@ -64,7 +64,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i62671" Name="DictionaryReferenceTable">
+  <IfcTable id="i65002" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
