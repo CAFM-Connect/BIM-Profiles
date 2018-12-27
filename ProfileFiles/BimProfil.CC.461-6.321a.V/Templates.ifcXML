@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i63910" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Fördertechnische Anlagen prüfen" Description="Dieses BIM Profil beschreibt die Standardinformationen die zur Veranlassung und Abwicklung von wiederkehrenden gesetzlichen Prüfungen von fördertechnischen Anlagen (wie z.B. Aufzugsanlagen) benötigt werden." Phase="Betreiben">
-    <OwnerHistory CreationDate="1545916538417">
+    <OwnerHistory CreationDate="1545921711938">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />

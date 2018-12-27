@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i63895" GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="Betreiberverantwortung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine Bestandsdatenerfassung im Rahmen der Betreiberverantwortung" Phase="Bauen,Betreiben">
-    <OwnerHistory CreationDate="1545916521367">
+    <OwnerHistory CreationDate="1545921694036">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />

@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i63898" GlobalId="2WHCYG4W11ehjSKKAWXB26" Name="Energiecontrolling" Description="BIM Profil mit Standards für die Informationsanforderungen für ein Energiecontrolling (Zähler)" Phase="Betreiben">
-    <OwnerHistory CreationDate="1545916524749">
+    <OwnerHistory CreationDate="1545921697671">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />

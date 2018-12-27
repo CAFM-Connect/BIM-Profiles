@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i34800" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Base classification cost planning in construction" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
-    <OwnerHistory CreationDate="1545916376695">
+    <OwnerHistory CreationDate="1545921541210">
       <OwningUser>
         <ThePerson FamilyName="DIN 276" />
         <TheOrganization Name="Beuth Verlag GmbH" />

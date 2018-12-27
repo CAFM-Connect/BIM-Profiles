@@ -1,0 +1,15 @@
+## Basisprofil GEFMA198
+Klassifikation von Dokumententypen nach GEFMA 198. Die Rechte des GEFMA e.V. bleiben unberührt.
+
+Key | Value |
+--|--|
+Code | CC.GEFMA198 |  
+AreaOfApplication | Deutschland |  
+Language | de |  
+License | - |  
+LifeCyclePhase | Planen, Bauen, Betreiben |  
+Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.cafmring.de/cafm-connect/) |  
+PublisherTeam | 198 |  
+Tags |  |  
+Version | 1.0 |  
+PublicationDate | 29.11.2017 |  

@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i64044" GlobalId="2YZw$LSqj26x9CYWb29aBW" Name="OBW Objektplanung" Description="Planung des Architekturmodells durch Objektplaner" Phase="Planen">
-    <OwnerHistory CreationDate="1545916562467">
+    <OwnerHistory CreationDate="1545921737371">
       <OwningUser>
         <ThePerson FamilyName="OBW Open BIM Workflow" />
         <TheOrganization Name="Open Bim Workflow" />
@@ -9518,7 +9518,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64047" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T14:16:02.5352754+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i64047" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:42:17.4366742+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i64048" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -9600,7 +9600,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64056" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i64068" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T14:16:04.5926859+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i64068" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:42:19.5051608+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i64069" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -10004,7 +10004,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64138" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassification id="i64149" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T14:16:04.6904249+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i64149" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:42:19.5944362+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i64150" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

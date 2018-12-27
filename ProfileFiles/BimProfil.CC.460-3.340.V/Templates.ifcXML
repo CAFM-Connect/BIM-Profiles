@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i64035" GlobalId="0XW4y9vTP8j8ZD0HXMsExD" Name="Inbetriebnahme Fördertechnik" Description="" Phase="Betreiben">
-    <OwnerHistory CreationDate="1545916551309">
+    <OwnerHistory CreationDate="1545921725655">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />

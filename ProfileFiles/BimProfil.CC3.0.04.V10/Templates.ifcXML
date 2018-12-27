@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i65006" GlobalId="1YthVUhwL6xOKNDyyNZh2s" Name="Provisionierung GLT,Sensorik,IoT" Description="BIM Profil mit Standards für die Informationsanforderungen für die Provisionierung von GLT-Systemen (Konnex, Bacnet) und IoT Sensoren" Phase="Bauen">
-    <OwnerHistory CreationDate="1545916575386">
+    <OwnerHistory CreationDate="1545921750854">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="" />
