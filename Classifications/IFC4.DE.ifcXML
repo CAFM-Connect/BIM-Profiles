@@ -11464,7 +11464,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i1250" Edition="1.0" EditionDate="2018-12-27T12:12:35.6636295Z" Name="IFC4.DE" Location="https://www.cafm-connect.org/IFC4" />
+  <IfcClassification id="i1250" Edition="1.0" EditionDate="2017-01-01T00:00:00.0000000" Name="IFC4.DE" Location="https://www.cafm-connect.org/IFC4" />
   <IfcRelAssociatesClassification id="i1251">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1248" />
