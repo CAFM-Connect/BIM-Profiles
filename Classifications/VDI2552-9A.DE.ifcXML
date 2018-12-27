@@ -27325,8 +27325,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i10476" Edition="1.0" EditionDate="2018-12-27T11:54:06.5674702Z" Name="VDI2552-9A.DE" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_VDI2552_9_A" />
-  <IfcRelAssociatesClassification id="i10477" GlobalId="1L3QCGqWbFQgoAB4kLVqb8">
+  <IfcClassification id="i10476" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="VDI2552-9A.DE" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_VDI2552_9_A" />
+  <IfcRelAssociatesClassification id="i10477" GlobalId="2dAQABbhD4ngBww2WO8jfx">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i10474" Name="" />
     </RelatedObjects>

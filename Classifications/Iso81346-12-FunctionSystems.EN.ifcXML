@@ -185,8 +185,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34682" Edition="1.0" EditionDate="2018-12-27T11:54:16.1567332Z" Name="Iso81346-12-FunctionSystems.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-FunctionSystems" />
-  <IfcRelAssociatesClassification id="i34683" GlobalId="3BMBLVxjvFo9jYVyISbZJo">
+  <IfcClassification id="i34682" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Iso81346-12-FunctionSystems.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-FunctionSystems" />
+  <IfcRelAssociatesClassification id="i34683" GlobalId="2Nq2KNzX18KB6a7GQMo7q2">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i34680" Name="" />
     </RelatedObjects>

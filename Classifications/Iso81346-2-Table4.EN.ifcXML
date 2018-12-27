@@ -1105,8 +1105,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34557" Edition="1.0" EditionDate="2018-12-27T11:54:15.3857562Z" Name="Iso81346-2-Table4.EN" Description="CAFMConnectCatalogueOfSpaceTypes" Location="https://www.cafm-connect.org/Iso81346-2-Table4" />
-  <IfcRelAssociatesClassification id="i34558" GlobalId="282KH1TyD1pxUnFSlZAbX$">
+  <IfcClassification id="i34557" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Iso81346-2-Table4.EN" Description="CAFMConnectCatalogueOfSpaceTypes" Location="https://www.cafm-connect.org/Iso81346-2-Table4" />
+  <IfcRelAssociatesClassification id="i34558" GlobalId="1Be0mFz$rBKuHikueBx2UM">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i34555" Name="" />
     </RelatedObjects>

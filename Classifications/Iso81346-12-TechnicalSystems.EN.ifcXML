@@ -815,8 +815,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34702" Edition="1.0" EditionDate="2018-12-27T11:54:16.5673971Z" Name="Iso81346-12-TechnicalSystems.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-TechnicalSystems" />
-  <IfcRelAssociatesClassification id="i34703" GlobalId="3QpBh7is1AyAzxgtN181ce">
+  <IfcClassification id="i34702" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Iso81346-12-TechnicalSystems.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-TechnicalSystems" />
+  <IfcRelAssociatesClassification id="i34703" GlobalId="3I3Zl0n1f2mQtIZ5IfKs7Q">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i34700" Name="" />
     </RelatedObjects>

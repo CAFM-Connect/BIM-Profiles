@@ -1095,8 +1095,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i9512" Edition="1.0" EditionDate="2018-12-27T11:54:05.6628519Z" Name="GEFMA924.60.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_924_60" />
-  <IfcRelAssociatesClassification id="i9513" GlobalId="3nA9qL$Xb8EP67PZl11zTD">
+  <IfcClassification id="i9512" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="GEFMA924.60.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_924_60" />
+  <IfcRelAssociatesClassification id="i9513" GlobalId="2d1G6kA$D2ew8S08$QAOVU">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i9510" Name="" />
     </RelatedObjects>

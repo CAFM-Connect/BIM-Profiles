@@ -185,8 +185,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34354" Edition="1.0" EditionDate="2018-12-27T11:54:14.5679078Z" Name="COBieInstalledEquipment.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_Cobie_InstalledEquipment" />
-  <IfcRelAssociatesClassification id="i34355" GlobalId="3$KmNInoTFKeJy7uumWe3M">
+  <IfcClassification id="i34354" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="COBieInstalledEquipment.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_Cobie_InstalledEquipment" />
+  <IfcRelAssociatesClassification id="i34355" GlobalId="0XjwtOPcr12APH4YuZW3AW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i34352" Name="" />
     </RelatedObjects>

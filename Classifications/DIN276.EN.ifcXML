@@ -2835,8 +2835,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i2849" Edition="1.0" EditionDate="2018-12-27T11:54:03.1411510Z" Name="DIN276.EN" Description="CAFMConnectCatalogueOfCostTypes" Location="https://www.cafm-connect.org/ZE_DIN276" />
-  <IfcRelAssociatesClassification id="i2850" GlobalId="2bVK1DooT7auJgcti26byB">
+  <IfcClassification id="i2849" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="DIN276.EN" Description="CAFMConnectCatalogueOfCostTypes" Location="https://www.cafm-connect.org/ZE_DIN276" />
+  <IfcRelAssociatesClassification id="i2850" GlobalId="0O6TN2Otb3VRdoZcVNTw4I">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i2847" Name="" />
     </RelatedObjects>

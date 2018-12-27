@@ -815,8 +815,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i2481" Edition="1.0" EditionDate="2018-12-27T11:54:02.2529104Z" Name="DIN277.EN" Description="CAFMConnectCatalogueOfSpaceTypes" Location="https://www.cafm-connect.org/ZE_DIN277" />
-  <IfcRelAssociatesClassification id="i2482" GlobalId="2E9esZp6r0AONjJF6ffYSM">
+  <IfcClassification id="i2481" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="DIN277.EN" Description="CAFMConnectCatalogueOfSpaceTypes" Location="https://www.cafm-connect.org/ZE_DIN277" />
+  <IfcRelAssociatesClassification id="i2482" GlobalId="2MXHQbVej9ARfOmkPhK8$2">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i2479" Name="" />
     </RelatedObjects>

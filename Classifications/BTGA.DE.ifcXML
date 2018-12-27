@@ -16005,8 +16005,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i13210" Edition="1.0" EditionDate="2018-12-27T11:54:08.8702766Z" Name="BTGA.DE" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_BTGA" />
-  <IfcRelAssociatesClassification id="i13211" GlobalId="3e70deTKP87Bgfe0WnHwij">
+  <IfcClassification id="i13210" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="BTGA.DE" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_BTGA" />
+  <IfcRelAssociatesClassification id="i13211" GlobalId="0uFyy8hjLCtu6RH1DsIWnf">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i13208" Name="" />
     </RelatedObjects>

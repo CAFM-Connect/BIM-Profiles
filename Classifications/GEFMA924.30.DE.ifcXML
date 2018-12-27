@@ -4825,8 +4825,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i9028" Edition="1.0" EditionDate="2018-12-27T11:54:05.2117372Z" Name="GEFMA924.30.DE" Description="CAFMConnectCatalogueOfLifeCyclePhases" Location="https://www.cafm-connect.org/ZE_GEFMA_924_30" />
-  <IfcRelAssociatesClassification id="i9029" GlobalId="2xXZVg3890evLqUq4rX$u8">
+  <IfcClassification id="i9028" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="GEFMA924.30.DE" Description="CAFMConnectCatalogueOfLifeCyclePhases" Location="https://www.cafm-connect.org/ZE_GEFMA_924_30" />
+  <IfcRelAssociatesClassification id="i9029" GlobalId="07ZEBH_hf788AGDZMgO1xB">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i9026" Name="" />
     </RelatedObjects>

@@ -2795,8 +2795,8 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34073" Edition="1.0" EditionDate="2018-12-27T11:54:14.1319174Z" Name="CipsePdt.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_CipsePdt" />
-  <IfcRelAssociatesClassification id="i34074" GlobalId="0BV9T0CpvDWgn1v3nVNPKV">
+  <IfcClassification id="i34073" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="CipsePdt.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_CipsePdt" />
+  <IfcRelAssociatesClassification id="i34074" GlobalId="1$OqvqoyzDjhhh9BkjesJl">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i34071" Name="" />
     </RelatedObjects>
