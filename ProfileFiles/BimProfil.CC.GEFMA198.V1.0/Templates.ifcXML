@@ -8578,7 +8578,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43094" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:58.2672868+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i43094" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:22.0607453Z" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i43095" GlobalId="0EY75QBWf8leDvhxGTxcVZ">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

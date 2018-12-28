@@ -878,7 +878,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:26.5870577+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:19.8525142Z" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i34807" GlobalId="099fL0qv5DFvMynPSLmSZ$">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

@@ -248,7 +248,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:50.7268805+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:29.0313641Z" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i43071" GlobalId="0rlIEJelrC3BWoff3rC6aD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

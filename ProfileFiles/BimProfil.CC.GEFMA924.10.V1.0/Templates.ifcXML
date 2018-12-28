@@ -758,7 +758,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43948" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:55:01.9538850+01:00" Name="Bauwerkstypen nach GEFMA 924.10" Description="CAFMConnectCatalogueOfBuildingTypes" />
+  <IfcClassification id="i43948" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:21.4748262Z" Name="Bauwerkstypen nach GEFMA 924.10" Description="CAFMConnectCatalogueOfBuildingTypes" />
   <IfcRelAssociatesClassification id="i43949" GlobalId="0f0mRoVPH0KwcqbOOPPlej">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

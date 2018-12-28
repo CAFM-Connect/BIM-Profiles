@@ -2898,7 +2898,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34890" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:30.1429087+01:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
+  <IfcClassification id="i34890" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:19.9991294Z" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
   <IfcRelAssociatesClassification id="i34891" GlobalId="0sflYuewLDOBnaXr8agVMX">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

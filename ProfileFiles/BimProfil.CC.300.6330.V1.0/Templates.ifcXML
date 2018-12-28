@@ -1738,7 +1738,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i65015" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:57:52.0861928+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i65015" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:20.5037720Z" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i65016" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -1973,7 +1973,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i65096" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i65111" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:57:54.2006560+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i65111" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:19.6890103Z" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i65112" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

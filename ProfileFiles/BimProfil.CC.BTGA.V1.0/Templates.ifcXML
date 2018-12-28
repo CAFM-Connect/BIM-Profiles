@@ -16068,7 +16068,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:33.9037562+01:00" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:24.3390974Z" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i35177" GlobalId="29oNb1I9bDd9OuhhjqUlCG">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
