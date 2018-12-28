@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="099fL0qv5DFvMynPSLmSZ$" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.DIN277.EN</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>5</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -873,7 +878,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:03.7256291+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:26.5870577+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i34807" GlobalId="099fL0qv5DFvMynPSLmSZ$">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

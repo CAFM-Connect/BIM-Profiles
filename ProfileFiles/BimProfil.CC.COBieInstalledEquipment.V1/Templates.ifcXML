@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.COBieInstalledEquipment</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>16</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -243,7 +248,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:27.7813237+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:50.7268805+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i43071" GlobalId="0rlIEJelrC3BWoff3rC6aD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

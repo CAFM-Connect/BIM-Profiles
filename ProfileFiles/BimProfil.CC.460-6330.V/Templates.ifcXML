@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.460-6330</IfcLabel-wrapper>
             </NominalValue>
@@ -61,6 +61,11 @@
             </NominalValue>
           </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
             </NominalValue>

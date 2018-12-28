@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1c86xPFWX1jvoTJ$ac4GG4" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.GEFMA924.60</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>9</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -1153,7 +1158,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i44505" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:45.7198193+01:00" Name="Dokumententypen nach GEFMA 924.60" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i44505" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:55:09.1023085+01:00" Name="Dokumententypen nach GEFMA 924.60" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i44506" GlobalId="1c86xPFWX1jvoTJ$ac4GG4">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

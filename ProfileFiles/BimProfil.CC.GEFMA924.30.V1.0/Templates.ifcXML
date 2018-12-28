@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.GEFMA924.30</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>8</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -4883,7 +4888,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i44020" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:42.1849138+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
+  <IfcClassification id="i44020" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:55:05.4784072+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
   <IfcRelAssociatesClassification id="i44021" GlobalId="0_xVWzi3DEgAsgnpjHDqcD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

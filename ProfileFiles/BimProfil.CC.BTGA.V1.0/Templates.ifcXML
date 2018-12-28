@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.BTGA</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>11</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -16063,7 +16068,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:11.0861059+01:00" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:33.9037562+01:00" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i35177" GlobalId="29oNb1I9bDd9OuhhjqUlCG">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

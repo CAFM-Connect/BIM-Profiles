@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>CC.CibsePdt</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>14</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -2853,7 +2858,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i42788" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:23.8221269+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i42788" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:54:46.5030782+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i42789" GlobalId="1IYuXNNt9BLvA3PWLG4MOW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

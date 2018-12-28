@@ -25,7 +25,7 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="2YZw$LSqj26x9CYWb29aBW" Name="PSet_Library" Description="">
         <HasProperties>
-          <IfcPropertySingleValue Name="Code" Description="">
+          <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
               <IfcLabel-wrapper>OBW.01</IfcLabel-wrapper>
             </NominalValue>
@@ -63,6 +63,11 @@
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
             <NominalValue>
               <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper>22</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
         </HasProperties>
@@ -9523,7 +9528,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i64047" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:25:02.7074010+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i64047" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:57:32.2702042+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i64048" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -9605,7 +9610,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64056" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i64068" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:25:04.8115475+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i64068" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:57:34.2745400+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i64069" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -10009,7 +10014,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i64138" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassification id="i64149" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:25:04.8584105+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i64149" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:57:34.3383704+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i64150" GlobalId="2YZw$LSqj26x9CYWb29aBW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
