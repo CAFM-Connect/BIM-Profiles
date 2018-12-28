@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i65012" GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="Türen inspizieren und warten" Description="Zur Überprüfung der einwandfreien Funktion von Türen und um etwaige Schäden frühzeitig zu erkennen, können Gebäudeeigentümer ihre Türen regelmässig einer umfassenden Wartung und Instandsetzung unterziehen. Dies kann die Lebensdauer der Türen deutlich verlängern, so dass sie erst später ausgetauscht werden müssen und somit auch die Modernisierungskosten erst später entstehen. In diesem BIM-Profil wird beschrieben, welche Bauteiltypen und Merkmale zur Planung, Vergabe und Durchführung benötigt werden." Phase="Betreiben">
-    <OwnerHistory CreationDate="1545921758745">
+    <OwnerHistory CreationDate="1527206400000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.300.6330</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -1728,7 +1733,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i65015" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:42:38.8101224+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i65015" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:25:22.5897393+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i65016" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -1963,7 +1968,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i65096" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i65111" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:42:40.9979271+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i65111" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:25:24.5075782+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i65112" GlobalId="244iR0vs93Rg_3ND5Ueyeq">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

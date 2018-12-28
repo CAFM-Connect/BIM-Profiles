@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i43067" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen nach dem National Institute of Building Sciences" Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921572389">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
         <TheOrganization Name="National Institute of Building Sciences (US)" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.COBieInstalledEquipment</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>en</IfcLabel-wrapper>
@@ -238,7 +243,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:32.4617211+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i43070" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:27.7813237+01:00" Name="Bauteiltypen COBie installed Equipment" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i43071" GlobalId="0rlIEJelrC3BWoff3rC6aD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i35173" GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="Basisprofil BTGA" Description="Klassifikation von technischer Gebäudeausstattungnach BTGA (Bundesindustrieverband Technische Gebäudeausrüstung e.V.)." Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921552960">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
         <TheOrganization Name="Bundesindustrieverband Technische Gebäudeausrüstung e.V." />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.BTGA</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -16058,7 +16063,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:13.0344373+01:00" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i35176" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:11.0861059+01:00" Name="Bauteiltypen  BTGA" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i35177" GlobalId="29oNb1I9bDd9OuhhjqUlCG">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

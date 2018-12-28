@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i43091" GlobalId="0EY75QBWf8leDvhxGTxcVZ" Name="Basisprofil GEFMA198" Description="Klassifikation von Dokumententypen nach GEFMA 198. Die Rechte des GEFMA e.V. bleiben unberührt." Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921580310">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="198" />
         <TheOrganization Name="GEFMA Deutscher Verband für Facility Management e.V." />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0EY75QBWf8leDvhxGTxcVZ" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.GEFMA198</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -8568,7 +8573,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i43094" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:40.3825054+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="i43094" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:35.1526911+01:00" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i43095" GlobalId="0EY75QBWf8leDvhxGTxcVZ">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i34803" GlobalId="099fL0qv5DFvMynPSLmSZ$" Name="Base classification of space types" Description="Classification of rooms and their type of use." Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921545088">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="277" />
         <TheOrganization Name="Beuth Verlag GmbH" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="099fL0qv5DFvMynPSLmSZ$" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.DIN277.EN</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>en</IfcLabel-wrapper>
@@ -868,7 +873,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:05.1569088+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i34806" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:03.7256291+01:00" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i34807" GlobalId="099fL0qv5DFvMynPSLmSZ$">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

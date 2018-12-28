@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i34887" GlobalId="0sflYuewLDOBnaXr8agVMX" Name="Basisklassifikationen Kostenplanung im Bauwesen" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
-    <OwnerHistory CreationDate="1545921548899">
+    <OwnerHistory CreationDate="1496880000000">
       <OwningUser>
         <ThePerson FamilyName="DIN 276" />
         <TheOrganization Name="Beuth Verlag GmbH" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0sflYuewLDOBnaXr8agVMX" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.DIN276.DE</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -2888,7 +2893,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34890" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:08.9761217+01:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
+  <IfcClassification id="i34890" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:07.2141313+01:00" Name="Kostengruppen nach DIN 276" Description="CAFMConnectCatalogueOfCostTypes" />
   <IfcRelAssociatesClassification id="i34891" GlobalId="0sflYuewLDOBnaXr8agVMX">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

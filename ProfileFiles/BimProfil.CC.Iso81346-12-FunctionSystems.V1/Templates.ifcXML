@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i44623" GlobalId="26jWzoqlH7IfZflO4noTH4" Name="Basisprofil Iso81346-12-FunctionSystems" Description="Klassifikation von Systemen nach strukturierten Prinipien und Referenzen." Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921606252">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="ISO/TC 10/SC 10" />
         <TheOrganization Name="International Organization for Standardization" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="26jWzoqlH7IfZflO4noTH4" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.Iso81346-12-FunctionSystems</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>en</IfcLabel-wrapper>

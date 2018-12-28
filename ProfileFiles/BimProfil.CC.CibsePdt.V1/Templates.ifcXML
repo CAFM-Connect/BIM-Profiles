@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i42785" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Basisprofil CipsePdt" Description="Klassifikation von  Bauteiltypen mit Product Data Templates" Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921568150">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
         <TheOrganization Name="The Chartered Institution of Building Services Engineers (UK)" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.CibsePdt</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>en</IfcLabel-wrapper>
@@ -2848,7 +2853,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i42788" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:28.2179527+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i42788" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:23.8221269+01:00" Name="Bauteiltypen nach Cipse PDT" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i42789" GlobalId="1IYuXNNt9BLvA3PWLG4MOW">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

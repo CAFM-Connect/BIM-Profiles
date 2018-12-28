@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i64035" GlobalId="0XW4y9vTP8j8ZD0HXMsExD" Name="Inbetriebnahme Fördertechnik" Description="" Phase="Betreiben">
-    <OwnerHistory CreationDate="1545921725655">
+    <OwnerHistory CreationDate="1534464000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0XW4y9vTP8j8ZD0HXMsExD" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.460-3.340</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>

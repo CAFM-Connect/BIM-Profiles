@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i44017" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Basisprofil GEFMA924.30" Description="Klassifikation von Lebenszyklusphasen nach GEFMA924.30." Phase="Planen, Bauen, Betreiben">
-    <OwnerHistory CreationDate="1545921588079">
+    <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="924.30" />
         <TheOrganization Name="GEFMA Deutscher Verband für Facility Management e.V." />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.GEFMA924.30</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -4878,7 +4883,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i44020" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:39:48.1415119+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
+  <IfcClassification id="i44020" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:22:42.1849138+01:00" Name="Lebenszyklusphasen nach GEFMA 924.30" Description="CAFMConnectCatalogueOfLifeCyclePhases" />
   <IfcRelAssociatesClassification id="i44021" GlobalId="0_xVWzi3DEgAsgnpjHDqcD">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />

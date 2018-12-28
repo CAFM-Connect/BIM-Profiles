@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i63913" GlobalId="0zWTCIzYn3vBcAaCvDKpKh" Name="Glasreinigung durchführen" Description="Durchführung der Glas- und Fassadenreinigung in Bauwerken für Glasflächen innen und außen" Phase="Betreiben">
-    <OwnerHistory CreationDate="1545921716190">
+    <OwnerHistory CreationDate="1534464000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
         <TheOrganization Name="CAFM-Connect" />
@@ -25,6 +25,11 @@
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0zWTCIzYn3vBcAaCvDKpKh" Name="PSet_Library" Description="">
         <HasProperties>
+          <IfcPropertySingleValue Name="Code" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.334-6.520</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Language" Description="">
             <NominalValue>
               <IfcLabel-wrapper>de</IfcLabel-wrapper>
@@ -1138,7 +1143,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i63916" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:41:56.2500623+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcClassification id="i63916" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:24:43.0164053+01:00" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
   <IfcRelAssociatesClassification id="i63917" GlobalId="0zWTCIzYn3vBcAaCvDKpKh">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -1282,7 +1287,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i63942" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassification id="i63951" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T15:41:58.5020447+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i63951" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-28T11:24:45.1680384+01:00" Name="Raumnutzungsarten nach DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i63952" GlobalId="0zWTCIzYn3vBcAaCvDKpKh">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
