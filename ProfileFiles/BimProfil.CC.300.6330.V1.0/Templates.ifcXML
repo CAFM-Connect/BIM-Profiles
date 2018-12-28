@@ -23,7 +23,7 @@
   <IfcRelDefinesByProperties id="i65013" GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="Defined by PSet_Library">
     <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i65012" />
     <RelatingPropertyDefinition>
-      <IfcPropertySet GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="PSet_Library" Description="">
+      <IfcPropertySet GlobalId="244iR0vs93Rg_3ND5Ueyeq" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
           <IfcPropertySingleValue Name="Identifier" Description="">
             <NominalValue>
