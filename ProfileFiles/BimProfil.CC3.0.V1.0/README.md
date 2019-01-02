@@ -12,4 +12,4 @@ Publisher | [CAFM-Connect](https://www.cafm-connect.org/) |
 PublisherTeam | AK-Implementierung CAFM-Ring |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 08.06.2017 |  
+PublicationDate | 2017-06-08 |  

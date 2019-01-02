@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i63892" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Basisprofil VDI2552-9A" Description="Klassifikation von Bauteiltypen (Entwurf VDI 2552-A)." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i63923" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Basisprofil VDI2552-9A" Description="Klassifikation von Bauteiltypen (Entwurf VDI 2552-A)." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="2552-A" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i63893" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i63892" />
+  <IfcRelDefinesByProperties id="i63924" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i63923" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i63894" Name="DictionaryReferenceTable">
+  <IfcTable id="i63925" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

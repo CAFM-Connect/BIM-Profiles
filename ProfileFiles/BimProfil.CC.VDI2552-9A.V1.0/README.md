@@ -12,4 +12,4 @@ Publisher | [Verein Deutscher Ingenieure e.V.](http://www.btga.de/) |
 PublisherTeam | 2552-A |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

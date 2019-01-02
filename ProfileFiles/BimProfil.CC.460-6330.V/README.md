@@ -12,4 +12,4 @@ Publisher | []() |
 PublisherTeam | BUW |  
 Tags |  |  
 Version |  |  
-PublicationDate | 17.08.2018 |  
+PublicationDate | 2018-08-17 |  

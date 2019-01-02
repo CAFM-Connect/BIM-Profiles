@@ -12,4 +12,4 @@ Publisher | [Beuth Verlag GmbH](https://www.beuth.de/de) |
 PublisherTeam | 277 |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

@@ -12,4 +12,4 @@ Publisher | [Bundesindustrieverband Technische Gebäudeausrüstung e.V.](http://
 PublisherTeam | - |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

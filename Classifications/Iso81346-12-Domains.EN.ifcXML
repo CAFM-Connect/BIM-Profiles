@@ -10,8 +10,8 @@
     <authorization>CAFM Ring e.V.</authorization>
     <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
   </header>
-  <IfcProject id="i34684" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="Iso81346-12-Domains.EN" />
-  <IfcTable id="i34685" Name="DictionaryReferenceTable">
+  <IfcProject id="i34715" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="Iso81346-12-Domains.EN" />
+  <IfcTable id="i34716" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -25,7 +25,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34688</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34719</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/ec84c500-3788-4fce-b7b3-9320e12570b4</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -35,7 +35,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34689</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34720</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/f4f92aaf-780c-4466-b7d2-aad3084fb938</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -45,7 +45,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34690</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34721</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/9fc8bbc1-cbbb-420a-a57a-53ee6cac667a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -55,7 +55,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34691</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34722</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/ea9b69ff-2f49-4aab-b0c5-132857bccac6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -65,7 +65,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34723</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/1204fc4d-8f52-43fd-adc6-ddbf932029c8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -75,7 +75,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34693</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34724</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/6cc7a373-b32a-4f36-a0a6-7b404218120b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -85,7 +85,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34694</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34725</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/dfb43a8c-0f76-4bae-aee8-309bc91501f2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -95,7 +95,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34695</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34726</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/0ec4117d-afbd-4eb0-a25c-4edd79040251</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -105,7 +105,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34696</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34727</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/Iso81346-12-Domains.EN/3fb5344f-9e5b-4be9-8a94-6baa9ab03cc5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Iso81346-12-Domains.EN</IfcIdentifier-wrapper>
@@ -115,58 +115,58 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34686" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Iso81346-12-Domains.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-Domains" />
-  <IfcRelAssociatesClassification id="i34687" GlobalId="1PeZrd3vL5b9UYcIzOR5wd">
+  <IfcClassification id="i34717" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Iso81346-12-Domains.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/Iso81346-12-Domains" />
+  <IfcRelAssociatesClassification id="i34718" GlobalId="1PeZrd3vL5b9UYcIzOR5wd">
     <RelatedObjects>
-      <IfcProject xsi:nil="true" ref="i34684" Name="" />
+      <IfcProject xsi:nil="true" ref="i34715" Name="" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i34688" Identification="A" Name="Activity space" Description="">
+  <IfcClassificationReference id="i34719" Identification="A" Name="Activity space" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34689" Identification="B" Name="Built space" Description="">
+  <IfcClassificationReference id="i34720" Identification="B" Name="Built space" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34690" Identification="C" Name="Construction complex" Description="">
+  <IfcClassificationReference id="i34721" Identification="C" Name="Construction complex" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34691" Identification="D" Name="Construction aid" Description="">
+  <IfcClassificationReference id="i34722" Identification="D" Name="Construction aid" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34692" Identification="E" Name="Construction entity" Description="">
+  <IfcClassificationReference id="i34723" Identification="E" Name="Construction entity" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34693" Identification="L" Name="Construction element" Description="">
+  <IfcClassificationReference id="i34724" Identification="L" Name="Construction element" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34694" Identification="P" Name="Construction product" Description="">
+  <IfcClassificationReference id="i34725" Identification="P" Name="Construction product" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34695" Identification="S" Name="Storey" Description="">
+  <IfcClassificationReference id="i34726" Identification="S" Name="Storey" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34696" Identification="Z" Name="Zone" Description="">
+  <IfcClassificationReference id="i34727" Identification="Z" Name="Zone" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34686" />
+      <IfcClassification xsi:nil="true" ref="i34717" />
     </ReferencedSource>
   </IfcClassificationReference>
 </ifcXML>

@@ -12,4 +12,4 @@ Publisher | []() |
 PublisherTeam | AK-Implementierung CAFM-Ring |  
 Tags |  |  
 Version | 10 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

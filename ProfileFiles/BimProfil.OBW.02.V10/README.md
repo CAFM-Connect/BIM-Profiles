@@ -12,4 +12,4 @@ Publisher | [Open Bim Workflow]() |
 PublisherTeam | OBW Open BIM Workflow |  
 Tags |  |  
 Version | 10 |  
-PublicationDate | 04.02.2018 |  
+PublicationDate | 2018-02-04 |  

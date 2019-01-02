@@ -12,4 +12,4 @@ Publisher | [OCCS Development Committee](http://www.omniclass.org/about) |
 PublisherTeam | OCCS Development Committee |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

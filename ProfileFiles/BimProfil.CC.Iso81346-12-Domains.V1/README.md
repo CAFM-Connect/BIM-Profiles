@@ -12,4 +12,4 @@ Publisher | [International Organization for Standardization](https://www.iso.org
 PublisherTeam | ISO/TC 10/SC 10 |  
 Tags |  |  
 Version | 1 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

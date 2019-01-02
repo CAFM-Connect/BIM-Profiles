@@ -12,4 +12,4 @@ Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.
 PublisherTeam | 924.30 |  
 Tags |  |  
 Version | 1.0 |  
-PublicationDate | 29.11.2017 |  
+PublicationDate | 2017-11-29 |  

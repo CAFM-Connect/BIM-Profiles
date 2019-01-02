@@ -12,4 +12,4 @@ Publisher | [Beuth Verlag GmbH](http://www.cafmring.de) |
 PublisherTeam | DIN 276 |  
 Tags |  |  
 Version | 2017-07 |  
-PublicationDate | 08.06.2017 |  
+PublicationDate | 2017-06-08 |  
