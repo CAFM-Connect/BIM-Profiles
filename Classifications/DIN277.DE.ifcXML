@@ -1049,17 +1049,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2445" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und&#xD;&#xA;Implantationsräume)">
+  <IfcClassificationReference id="i2445" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und Implantationsräume)">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2446" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und&#xD;&#xA;Gruppentherapie, Heilpädagogik, Arbeitstherapie">
+  <IfcClassificationReference id="i2446" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und Gruppentherapie, Heilpädagogik, Arbeitstherapie">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2447" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und&#xD;&#xA;Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
+  <IfcClassificationReference id="i2447" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>

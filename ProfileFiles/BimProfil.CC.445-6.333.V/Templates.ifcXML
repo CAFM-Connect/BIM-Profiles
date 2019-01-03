@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i64072" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Leuchtmittelwechsel" Description="Leuchtmittelwechsel durchführen inkl. Ersatzbeschaffung, Austausch und Entsorgung" Phase="Betreiben">
+  <IfcProjectLibrary id="i42281" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Leuchtmittelwechsel" Description="Leuchtmittelwechsel durchführen inkl. Ersatzbeschaffung, Austausch und Entsorgung" Phase="Betreiben">
     <OwnerHistory CreationDate="1534464000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i64073" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i64072" />
+  <IfcRelDefinesByProperties id="i42282" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42281" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i64074" Name="DictionaryReferenceTable">
+  <IfcTable id="i42283" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

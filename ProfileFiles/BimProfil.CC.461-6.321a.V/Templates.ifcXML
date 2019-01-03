@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i63941" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Fördertechnische Anlagen prüfen" Description="Dieses BIM Profil beschreibt die Standardinformationen die zur Veranlassung und Abwicklung von wiederkehrenden gesetzlichen Prüfungen von fördertechnischen Anlagen (wie z.B. Aufzugsanlagen) benötigt werden." Phase="Betreiben">
+  <IfcProjectLibrary id="i42148" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Fördertechnische Anlagen prüfen" Description="Dieses BIM Profil beschreibt die Standardinformationen die zur Veranlassung und Abwicklung von wiederkehrenden gesetzlichen Prüfungen von fördertechnischen Anlagen (wie z.B. Aufzugsanlagen) benötigt werden." Phase="Betreiben">
     <OwnerHistory CreationDate="1517702400000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i63942" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i63941" />
+  <IfcRelDefinesByProperties id="i42149" GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42148" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1bWiFgcGX32ud_1yRm5rHl" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i63943" Name="DictionaryReferenceTable">
+  <IfcTable id="i42150" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

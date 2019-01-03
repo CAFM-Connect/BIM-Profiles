@@ -878,7 +878,7 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34837" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T10:19:19.8525142Z" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
+  <IfcClassification id="i34837" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Space types according to DIN 277-2" Description="CAFMConnectCatalogueOfSpaceTypes" />
   <IfcRelAssociatesClassification id="i34838" GlobalId="099fL0qv5DFvMynPSLmSZ$">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
@@ -1092,17 +1092,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i34837" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34880" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische&#xD;&#xA;Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
+  <IfcClassificationReference id="i34880" Identification="6.1" Name="Räume mit allgemeiner medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34881" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und&#xD;&#xA;Sinnesphysiologie) und spezielle Behandlung">
+  <IfcClassificationReference id="i34881" Identification="6.2" Name="Räume mit besonderer medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und Sinnesphysiologie) und spezielle Behandlung">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34882" Identification="6.3" Name="Räume für operative Eingriffe,&#xD;&#xA;Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
+  <IfcClassificationReference id="i34882" Identification="6.3" Name="Räume für operative Eingriffe, Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
@@ -1112,17 +1112,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34884" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und&#xD;&#xA;Implantationsräume)">
+  <IfcClassificationReference id="i34884" Identification="6.5" Name="Räume für Strahlentherapie" Description="Räume für konventionelle Röntgentherapie, Hochvolttherapie, Telegammatherapie, Nuklearmedizinische Therapie (Applikations- und Implantationsräume)">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34885" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und&#xD;&#xA;Gruppentherapie, Heilpädagogik, Arbeitstherapie">
+  <IfcClassificationReference id="i34885" Identification="6.6" Name="Rehabilitation und Physiotherapie" Description="Räume für Hydro-, Bewegungs-, Elektro- und Ergotherapie sowie Kuranwendungen; Räume für therapeutische Bäder aller Art, Inhalations- und Klimabehandlung, Krankengymnastik und Massage, Spiel- und Gruppentherapie, Heilpädagogik, Arbeitstherapie">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34886" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und&#xD;&#xA;Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
+  <IfcClassificationReference id="i34886" Identification="6.7" Name="Allgemeine Bettenräume" Description="Bettenräume mit allgemeiner Ausstattung in Krankenhäusern, Pflegeheimen, Heil- und Pflegeanstalten, Räume für Normal-, Langzeit- und Leichtpflege von kranken, pflegebedürftigen und psychiatrischen Patienten">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i34879" />
     </ReferencedSource>
