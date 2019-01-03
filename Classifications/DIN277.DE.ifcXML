@@ -1029,12 +1029,12 @@
       <IfcClassification xsi:nil="true" ref="i2398" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2441" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische&#xD;&#xA;Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
+  <IfcClassificationReference id="i2441" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2442" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und&#xD;&#xA;Sinnesphysiologie) und spezielle Behandlung">
+  <IfcClassificationReference id="i2442" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und Sinnesphysiologie) und spezielle Behandlung">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
