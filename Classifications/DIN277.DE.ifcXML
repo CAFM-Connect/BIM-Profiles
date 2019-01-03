@@ -1029,17 +1029,17 @@
       <IfcClassification xsi:nil="true" ref="i2398" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2441" Identification="6.1" Name="Räume mit allgemeiner&#xD;&#xA;medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
+  <IfcClassificationReference id="i2441" Identification="6.1" Name="Räume mit allgemeiner medizinischer Ausstattung" Description="Räume für allgemeine Untersuchung und Behandlung, medizinische Erstversorgung und Erste-Hilfe, Wundversorgung, Beratung (medizinische&#xD;&#xA;Vor- und Fürsorge), Ambulanz, Obduktions- und Verstorbenenräume">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2442" Identification="6.2" Name="Räume mit besonderer&#xD;&#xA;medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und Sinnesphysiologie) und spezielle Behandlung">
+  <IfcClassificationReference id="i2442" Identification="6.2" Name="Räume mit besonderer medizinischer Ausstattung" Description="Räume für Funktionsuntersuchung (klinische Physiologie, Neuro- und Sinnesphysiologie) und spezielle Behandlung">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2443" Identification="6.3" Name="Räume für operative Eingriffe,&#xD;&#xA;Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
+  <IfcClassificationReference id="i2443" Identification="6.3" Name="Räume für operative Eingriffe, Endoskopien und Entbindungen" Description="Räume für Operationen, Notfall- und Unfallbehandlung, einschließlich Ein- und Ausleitungsräume, Ärztewaschräume">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2440" />
     </ReferencedSource>
