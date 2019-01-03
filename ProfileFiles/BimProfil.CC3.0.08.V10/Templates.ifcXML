@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i43245" GlobalId="1MFa_x0jf1lvOYF2SSZdVP" Name="Pflanzenpflege" Description="Dieses Profil kann dazu verwendet werden, um Daten zu dem Anwendungsfall der Pflege von Planzen innerhalb von Gebäuden zu klassifizieren und absprachelos zu transportieren." Phase="Betreiben">
+  <IfcProjectLibrary id="i38653" GlobalId="1MFa_x0jf1lvOYF2SSZdVP" Name="Pflanzenpflege" Description="Dieses Profil kann dazu verwendet werden, um Daten zu dem Anwendungsfall der Pflege von Planzen innerhalb von Gebäuden zu klassifizieren und absprachelos zu transportieren." Phase="Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i43246" GlobalId="1MFa_x0jf1lvOYF2SSZdVP" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i43245" />
+  <IfcRelDefinesByProperties id="i38654" GlobalId="1MFa_x0jf1lvOYF2SSZdVP" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i38653" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1MFa_x0jf1lvOYF2SSZdVP" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i43247" Name="DictionaryReferenceTable">
+  <IfcTable id="i38655" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

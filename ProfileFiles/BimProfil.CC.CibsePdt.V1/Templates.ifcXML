@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i41231" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Basisprofil CipsePdt" Description="Klassifikation von  Bauteiltypen mit Product Data Templates" Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i36655" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Basisprofil CipsePdt" Description="Klassifikation von  Bauteiltypen mit Product Data Templates" Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i41232" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i41231" />
+  <IfcRelDefinesByProperties id="i36656" GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i36655" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1IYuXNNt9BLvA3PWLG4MOW" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i41233" Name="DictionaryReferenceTable">
+  <IfcTable id="i36657" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
