@@ -9,7 +9,7 @@
     <authorization>OmniClass License Rev 2014-10-1</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i37547" GlobalId="1v61hNgNT6c8_NPHv7yeYC" Name="Basisprofil Omniclass" Description="Standardized basis for classifying information created and used by the North American architectural, engineering and construction (AEC) industry, throughout the full facility life cycle from conception to demolition or reuse" Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i42133" GlobalId="1v61hNgNT6c8_NPHv7yeYC" Name="Basisprofil Omniclass" Description="Standardized basis for classifying information created and used by the North American architectural, engineering and construction (AEC) industry, throughout the full facility life cycle from conception to demolition or reuse" Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="OCCS Development Committee" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i37548" GlobalId="1v61hNgNT6c8_NPHv7yeYC" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i37547" />
+  <IfcRelDefinesByProperties id="i42134" GlobalId="1v61hNgNT6c8_NPHv7yeYC" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42133" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1v61hNgNT6c8_NPHv7yeYC" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i37549" Name="DictionaryReferenceTable">
+  <IfcTable id="i42135" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

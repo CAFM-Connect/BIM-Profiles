@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i37543" GlobalId="0gt4YRERTCPRN0Ejjalobn" Name="Basisprofil Iso81346-12-TechnicalSystems" Description="Klassifikation von Systemen nach strukturierten Prinipien und Referenzen." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i42129" GlobalId="0gt4YRERTCPRN0Ejjalobn" Name="Basisprofil Iso81346-12-TechnicalSystems" Description="Klassifikation von Systemen nach strukturierten Prinipien und Referenzen." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="ISO/TC 10/SC 10" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i37544" GlobalId="0gt4YRERTCPRN0Ejjalobn" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i37543" />
+  <IfcRelDefinesByProperties id="i42130" GlobalId="0gt4YRERTCPRN0Ejjalobn" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42129" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0gt4YRERTCPRN0Ejjalobn" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -74,7 +74,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i37545" Name="DictionaryReferenceTable">
+  <IfcTable id="i42131" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

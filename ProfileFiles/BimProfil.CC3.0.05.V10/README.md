@@ -1,5 +1,5 @@
 ## Betreiberverantwortung
-BIM Profil mit Standards für die Informationsanforderungen für eine Bestandsdatenerfassung im Rahmen der Betreiberverantwortung
+BIM Profil mit Standards für die Informationsanforderungen für eine Bestandsdatenerfassung im Rahmen der Betreiberverantwortung.
 
 Key | Value |
 --|--|

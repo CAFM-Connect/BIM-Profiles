@@ -10,8 +10,8 @@
     <authorization>CAFM Ring e.V.</authorization>
     <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
   </header>
-  <IfcProject id="i9527" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="GEFMA924.60.DE" />
-  <IfcTable id="i9528" Name="DictionaryReferenceTable">
+  <IfcProject id="i9532" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="GEFMA924.60.DE" />
+  <IfcTable id="i9533" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -25,7 +25,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9531</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9536</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/b0aa1d16-3b04-4e10-8f86-a644383880ff</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -35,7 +35,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9532</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9537</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/562b706a-870c-4455-88fe-11ec5815701f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -45,7 +45,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9533</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9538</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a2aeb795-a1ad-44b5-ad41-adccb106a503</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -55,7 +55,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9534</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9539</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/44e15fd2-6f65-4c42-9973-a76daf9d712a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -65,7 +65,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9535</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9540</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/44f98836-668c-47a2-a977-8ff6827387b1</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -75,7 +75,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9536</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9541</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a0c7afb2-4160-4ac7-9727-dd504c906adb</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -85,7 +85,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9537</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9542</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/97ee6500-2306-482f-a267-70ef55af68b8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -95,7 +95,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9538</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9543</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a0ebe448-a71a-4168-b6e0-6d4e8e0e5540</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -105,7 +105,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9539</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9544</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/1a5eecc2-a416-417d-97cf-45d13f98e359</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -115,7 +115,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9540</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9545</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/954e1fea-870b-4eba-b84a-ba74a6050092</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -125,7 +125,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9541</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9546</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/5a19e139-adad-44f0-96f4-b5ae83c7418b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -135,7 +135,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9542</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9547</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/d9c4ada8-8e5d-435a-b1eb-80e90c3f252c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -145,7 +145,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9543</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9548</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/454c475a-3b9c-4149-a114-9a4382585825</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -155,7 +155,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9544</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9549</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/e589aade-adb7-4fd3-b58d-c7318b5fe9e5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -165,7 +165,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9545</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9550</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/4c6525d2-c35a-4a61-88ef-c8f45570b9d8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -175,7 +175,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9546</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9551</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/2ca7e7a5-e302-4312-87a7-8efff0d99d64</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -185,7 +185,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9547</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9552</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/47baf0be-4361-4b50-bc11-4384aae8ad9d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -195,7 +195,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9548</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9553</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/dc139c06-fd7f-443f-80c7-066c4a24c61c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -205,7 +205,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9549</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9554</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/11699164-d0a4-480b-8d6d-7659f190638c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -215,7 +215,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9550</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9555</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/cad312b7-8615-4198-b1e6-7d7b5a5abf5c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -225,7 +225,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9551</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9556</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/369c9eaf-e78c-446e-b049-021647a01518</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -235,7 +235,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9552</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9557</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/419f60be-a8e0-477c-9071-5e88e1e581b7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -245,7 +245,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9553</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9558</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a109da09-3dbc-4615-8a55-1b727f257613</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -255,7 +255,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9554</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9559</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/3adb4af0-c3ba-4926-8257-bab148375169</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -265,7 +265,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9555</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9560</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/52013479-c61a-4c5a-bac6-4441a2263cdb</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -275,7 +275,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9556</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9561</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/be7e2bc0-a4ed-4118-a2e4-3498d8d3b19a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -285,7 +285,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9557</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9562</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/3d665cfe-df2b-4bac-afd7-50d79434b32e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -295,7 +295,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9558</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9563</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a89f6914-cfea-4873-b046-5db609f9a6bd</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -305,7 +305,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9559</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9564</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/8532911a-898e-4adb-ba02-1c8708b19f0e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -315,7 +315,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9560</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9565</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/edcbd165-b301-46e7-b2e8-161ae1faed2c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -325,7 +325,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9561</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9566</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/9b8f5dfc-5d17-43e8-8c19-7c81cb2b8462</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -335,7 +335,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9562</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9567</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/faec230c-9403-4aa5-b17c-b3f54ff78eba</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -345,7 +345,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9563</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9568</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/c604e147-a3d5-4bad-bc7c-0af0dadfbbe7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -355,7 +355,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9564</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9569</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/18890635-13b7-4bdc-b73b-e0233eeefa81</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -365,7 +365,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9565</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9570</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/86468e6e-e8e0-4706-b179-5113ae6f85a0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -375,7 +375,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9566</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9571</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/0c160486-f262-4839-bcf2-e9d1a8e77297</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -385,7 +385,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9567</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9572</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/30034d48-fa4f-402c-a747-37d3bb8bd581</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -395,7 +395,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9568</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9573</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/99967797-f5ab-4286-9ace-6d1a0ad3c20f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -405,7 +405,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9569</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9574</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/4e4cd6d3-cf00-4a42-a2cc-1fe03b70b41a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -415,7 +415,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9570</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9575</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/3af70094-1f80-4bf5-8d7e-d23f0f18da33</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -425,7 +425,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9571</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9576</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/19d90138-55f6-49ac-9f64-6f83292c2e9a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -435,7 +435,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9572</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9577</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/44c748eb-0bd1-4fda-ba75-d94f74cc8fc7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -445,7 +445,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9573</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9578</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/096fdd58-ab90-4e0b-aa98-b5959702e7f0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -455,7 +455,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9574</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9579</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/44326483-97ce-4ce9-a65e-db78a2c70ef1</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -465,7 +465,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9575</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9580</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/f7147165-75f0-4501-b28f-45b943549894</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -475,7 +475,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9576</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9581</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/284dbe65-d0d0-45e1-9ae4-a60527562f5a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -485,7 +485,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9577</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9582</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/63f011f7-ac6f-4165-bbe0-cf50cd05d43c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -495,7 +495,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9578</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9583</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/14a83d76-dc97-4c75-a34f-7a2c3fa0b9ad</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -505,7 +505,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9579</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9584</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/6fdf12b0-41b7-4454-b215-85ce460fc573</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -515,7 +515,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9580</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9585</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/c8960fae-144d-415e-a49f-f9aba35faa1c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -525,7 +525,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9581</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/9d85300a-4fc8-4bed-be5f-6e9eca3fff26</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -535,7 +535,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9582</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9587</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/1ce89827-4cad-4b49-b88f-bd2c155c3c58</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -545,7 +545,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9583</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9588</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/bb51c4e3-3ab1-4f5f-aef6-dd55ad3a1ff5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -555,7 +555,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9584</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9589</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/6922fd5e-447f-467b-8490-db3613abd654</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -565,7 +565,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9585</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9590</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/47e98df0-8d56-406e-9c4d-9401e33d1614</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -575,7 +575,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9586</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9591</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/73558aec-6ae7-4916-868e-475c928c055f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -585,7 +585,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9587</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9592</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/39a4c68c-db85-4b34-8733-26463207b1f5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -595,7 +595,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9588</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9593</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/4dde9d97-2473-4f14-ac72-73ef1e3c1059</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -605,7 +605,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9589</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9594</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/40d95a50-a9b3-40f7-a678-e7fc2b681a54</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -615,7 +615,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9590</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9595</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/9ed892ef-e763-439b-86c2-6a8ee4aca9ea</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -625,7 +625,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9591</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9596</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/0cb60250-67a5-470e-8e97-eaf38cc2985d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -635,7 +635,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9592</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9597</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/8816ef88-2d98-4b62-91da-e89e790fd574</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -645,7 +645,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9593</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9598</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/2955cef5-a094-49fe-b4ca-9b39733d1279</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -655,7 +655,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9594</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9599</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/99ca2015-c209-42dd-8bf7-842c84588b74</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -665,7 +665,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9595</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9600</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/b7f1c458-8e44-47e1-8827-2657e6dfa624</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -675,7 +675,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9596</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9601</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a1c90de7-830d-477c-b314-b3d693b06859</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -685,7 +685,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9597</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9602</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/983cb8e9-c3fd-4124-9cb6-04b12b6caa4d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -695,7 +695,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9598</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9603</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/d694ff80-9b7a-452e-9ec6-cb6d6fe4db5a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -705,7 +705,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9599</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9604</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/df08b485-0d2d-4262-aca9-96f91648e15e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -715,7 +715,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9600</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9605</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/e840560f-29d7-47bc-885d-4211e8a0ff41</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -725,7 +725,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9601</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9606</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/62461fd4-a307-4d6c-9604-fe8ecb7c1f5f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -735,7 +735,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9602</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9607</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/548fb904-902f-4b98-ab99-80b4cc937732</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -745,7 +745,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9603</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9608</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/cae3fb52-137c-496b-b2e7-124edfa390ad</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -755,7 +755,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9604</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9609</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/99613bd1-3a5c-425c-a6a4-477500daf98f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -765,7 +765,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9605</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9610</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a954aa57-9115-4f4b-909c-7ef8afc874a8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -775,7 +775,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9606</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9611</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a47d6d68-8d95-4ea4-ac74-f68386f5da73</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -785,7 +785,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9607</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9612</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/031045de-7e06-4c9c-9ac1-627e73ae627e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -795,7 +795,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9608</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9613</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/d9aab0fe-f578-4412-8af4-4eb98809fb9e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -805,7 +805,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9609</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9614</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/b4960750-fc16-484a-83e5-84479c1f04bc</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -815,7 +815,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9610</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9615</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/2208d649-d961-40e1-a21c-995cdacb1911</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -825,7 +825,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9611</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9616</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/d3ae6113-36dd-4b7e-b4e4-d959533d44a9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -835,7 +835,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9612</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9617</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/b8296819-44cf-41c6-8b08-c05d5c81ccc5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -845,7 +845,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9613</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9618</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/3d14ba8a-ceec-4ba6-a72b-1b17a9516f6b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -855,7 +855,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9614</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9619</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/6cbba950-9d07-430b-9b9e-902d386d1a4e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -865,7 +865,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9615</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9620</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/7080cf97-34da-4d96-913f-bf810cbdd579</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -875,7 +875,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9616</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9621</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a0e2ca62-46e4-433e-a99f-70a4a7a3df0b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -885,7 +885,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9617</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9622</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/8e34a7d7-9c4a-497b-b765-69fb8a4c5711</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -895,7 +895,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9618</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9623</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/28a574b9-3d50-48c5-a79e-2419432a5790</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -905,7 +905,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9619</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9624</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/ed6c8248-7702-4717-b4ce-6722254076d7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -915,7 +915,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9620</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9625</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/75a86a9e-7cfe-46b0-b20c-41d14a63596b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -925,7 +925,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9621</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9626</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/77fcafc9-42cf-4ce5-9bdd-e6dec8cd0e33</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -935,7 +935,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9622</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9627</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/3240f0c8-135e-4510-9ffc-4605ee44c862</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -945,7 +945,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9623</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9628</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/f5ef3524-cebd-49f4-ae24-ff0fe7c88864</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -955,7 +955,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9624</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9629</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/ce2eee26-3768-452b-ad2d-29c51dc2e7bd</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -965,7 +965,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9625</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9630</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/a03fba6f-0503-46d5-af69-29ffa1a78f43</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -975,7 +975,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9626</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9631</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/9a2a0fa2-67a1-4a05-8d85-d51aef64686b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -985,7 +985,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9627</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9632</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/188083be-1e51-497e-a29c-83a3e3f426b2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -995,7 +995,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9628</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9633</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/e8698ba6-5128-4582-8e98-00cca17c728d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1005,7 +1005,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9629</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9634</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/e41a533f-0940-454b-a9c9-e91e529f3ecb</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1015,7 +1015,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9630</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9635</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/acbfc6fe-960f-429a-ace9-d6d605bd3809</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1025,7 +1025,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9631</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9636</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/d2438f48-2e36-4006-972a-29105e1ada4b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1035,7 +1035,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9632</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9637</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/f1e8361f-21d9-4314-aa04-3a82afb22e88</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1045,7 +1045,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9633</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9638</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/938e4847-5525-4fb0-a425-ceb9e11ffdfc</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1055,7 +1055,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9639</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/e67e8b60-bf54-4c44-95e9-c5ec82408b0c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1065,7 +1065,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9635</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9640</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/1b9ed811-0b16-4e5e-963c-e3b557df1c80</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1075,7 +1075,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9636</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9641</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/8d240621-9c25-48df-9d3c-8a52e3423cff</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1085,7 +1085,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i9637</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i9642</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.60.DE/ce3d49e9-fdd1-4923-bed2-2448e16da55b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>GEFMA924.60.DE</IfcIdentifier-wrapper>
@@ -1095,548 +1095,548 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i9529" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="GEFMA924.60.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_924_60" />
-  <IfcRelAssociatesClassification id="i9530" GlobalId="2d1G6kA$D2ew8S08$QAOVU">
+  <IfcClassification id="i9534" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="GEFMA924.60.DE" Description="CAFMConnectCatalogueOfDocumentTypes" Location="https://www.cafm-connect.org/ZE_GEFMA_924_60" />
+  <IfcRelAssociatesClassification id="i9535" GlobalId="2d1G6kA$D2ew8S08$QAOVU">
     <RelatedObjects>
-      <IfcProject xsi:nil="true" ref="i9527" Name="" />
+      <IfcProject xsi:nil="true" ref="i9532" Name="" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassification xsi:nil="true" ref="i9529" />
+      <IfcClassification xsi:nil="true" ref="i9534" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i9531" Identification="C" Name="Bauwesen (Hoch- und Tiefbau)" Description="">
+  <IfcClassificationReference id="i9536" Identification="C" Name="Bauwesen (Hoch- und Tiefbau)" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i9529" />
+      <IfcClassification xsi:nil="true" ref="i9534" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9532" Identification="CA" Name="Dokumentationsbeschreibende Dokumente" Description="Dokumente, die Informationen über die Dokumentation selbst bereitstellen Informationselemente sind z. B.:&#xA;• Zeichnungs-/Dokumentennummer&#xA;• Dokumentenart-Klassenschlüssel&#xA;• Anzahl der Seiten&#xA;• Titel des Dokuments (des Dokumentensatzes)&#xA;• Struktur der Dokumentation.">
+  <IfcClassificationReference id="i9537" Identification="CA" Name="Dokumentationsbeschreibende Dokumente" Description="Dokumente, die Informationen über die Dokumentation selbst bereitstellen Informationselemente sind z. B.:&#xA;• Zeichnungs-/Dokumentennummer&#xA;• Dokumentenart-Klassenschlüssel&#xA;• Anzahl der Seiten&#xA;• Titel des Dokuments (des Dokumentensatzes)&#xA;• Struktur der Dokumentation.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9533" Identification="CAA" Name="Verwaltungstechnische Dokumente" Description="Dokumente, die einem Dokumentensatz vorangestellt sind und die allgemeine Informationen über seinen Inhalt und über Zusammenhänge geben.">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9532" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9534" Identification="CAB" Name="Listen (Dokumente betreffend)" Description="Dokumente mit Informationen über die Bestandteile eines Dokuments, Dokumentensatzes oder einer Dokumentation.">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9532" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9535" Identification="CAC" Name="Erläuternde Dokumente (Dokumente betreffend)" Description="Dokumente mit Informationen zur Dokumentation und ihrer Struktur.">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9532" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9536" Identification="CAZ" Name="Frei für Anwender" Description="">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9532" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9537" Identification="CB" Name="Managementdokumente" Description="Dokumente, die hauptsächlich Informationen über Ressourcen wie Personal, Kosten, Material, Zeit usw. bereitstellen, die erforderlich sind für die verschiedenen Tätigkeiten wie Planung, Fertigung, Versand, Errichtung, Inbetriebnahme, Betrieb usw., und/oder Dokumente, die hauptsächlich Informationen über Abläufe und Regeln für die verschiedenen Tätigkeiten beinhalten.">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9538" Identification="CBA" Name="Register" Description="Dokumente mit Informationen über Geschäftspartner, wie Lieferanten, Kunden, Berater usw.">
+  <IfcClassificationReference id="i9538" Identification="CAA" Name="Verwaltungstechnische Dokumente" Description="Dokumente, die einem Dokumentensatz vorangestellt sind und die allgemeine Informationen über seinen Inhalt und über Zusammenhänge geben.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9537" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9539" Identification="CBB" Name="Berichte" Description="Dokumente mit Informationen über Beobachtungen, Managementaspekte betreffend&#xA;ANMERKUNG Berichte können auch der Klasse QA zugeordnet sein, falls ihr Hauptgegenstand sich auf Qualitätsmanagementaspekte bezieht, oder der Klasse QB, falls er mehr sicherheitsbezogen ist.">
+  <IfcClassificationReference id="i9539" Identification="CAB" Name="Listen (Dokumente betreffend)" Description="Dokumente mit Informationen über die Bestandteile eines Dokuments, Dokumentensatzes oder einer Dokumentation.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9537" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9540" Identification="CBC" Name="Schriftwechsel" Description="Dokumente, wie zum Beispiel Briefe, die nicht anderweitig klassifiziert werden können.">
+  <IfcClassificationReference id="i9540" Identification="CAC" Name="Erläuternde Dokumente (Dokumente betreffend)" Description="Dokumente mit Informationen zur Dokumentation und ihrer Struktur.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9537" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9541" Identification="CBD" Name="Projektleitungsdokumente" Description="Dokumente mit Informationen über Tätigkeiten der Projektleitung und Projektüberwachung.">
+  <IfcClassificationReference id="i9541" Identification="CAZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9537" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9542" Identification="CBE" Name="Ressourcen-Planungsdokumente" Description="Dokumente mit Informationen über die Planung von Zeit, Personal und Material.">
+  <IfcClassificationReference id="i9542" Identification="CB" Name="Managementdokumente" Description="Dokumente, die hauptsächlich Informationen über Ressourcen wie Personal, Kosten, Material, Zeit usw. bereitstellen, die erforderlich sind für die verschiedenen Tätigkeiten wie Planung, Fertigung, Versand, Errichtung, Inbetriebnahme, Betrieb usw., und/oder Dokumente, die hauptsächlich Informationen über Abläufe und Regeln für die verschiedenen Tätigkeiten beinhalten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9543" Identification="CBF" Name="Versand-, Lager- und Transportdokumente" Description="Dokumente mit Informationen, die für den Versand von Gütern erforderlich sind.">
+  <IfcClassificationReference id="i9543" Identification="CBA" Name="Register" Description="Dokumente mit Informationen über Geschäftspartner, wie Lieferanten, Kunden, Berater usw.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9544" Identification="CBG" Name="Standortsplanungs- und Standortsorganisationsdokumente" Description="Dokumente mit Informationen, die für Personal, Tätigkeiten und Einrichtungen auf dem Standort erforderlich sind.">
+  <IfcClassificationReference id="i9544" Identification="CBB" Name="Berichte" Description="Dokumente mit Informationen über Beobachtungen, Managementaspekte betreffend&#xA;ANMERKUNG Berichte können auch der Klasse QA zugeordnet sein, falls ihr Hauptgegenstand sich auf Qualitätsmanagementaspekte bezieht, oder der Klasse QB, falls er mehr sicherheitsbezogen ist.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9545" Identification="CBH" Name="Dokumente zum Änderungswesen" Description="Dokumente mit Informationen über das Auftreten von Änderungen. Die Änderungen können sich auf Abläufe oder Anweisungen für verschiedene Tätigkeiten beziehen oder auf die notwendige Behebung von Fehlern oder Abweichungen.">
+  <IfcClassificationReference id="i9545" Identification="CBC" Name="Schriftwechsel" Description="Dokumente, wie zum Beispiel Briefe, die nicht anderweitig klassifiziert werden können.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9546" Identification="CBS" Name="Objektschutzdokumente" Description="Dokumente mit Informationen über die Objektsicherheit (Personal und Güter, einschließlich Dokumente und Daten) in Bezug auf die Verhinderung von Gefahr und Beschädigung, verursacht durch externe Einflüsse.">
+  <IfcClassificationReference id="i9546" Identification="CBD" Name="Projektleitungsdokumente" Description="Dokumente mit Informationen über Tätigkeiten der Projektleitung und Projektüberwachung.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9547" Identification="CBT" Name="Schulungsdokumente" Description="Dokumente mit Informationen zur Schulung, wie&#xA;• Schulungsgegenstand &#xA;• Zeit und Dauer der Schulung &#xA;• Ort der Schulung &#xA;• Anzahl der Teilnehmer &#xA;• Qualifikation der Teilnehmer.">
+  <IfcClassificationReference id="i9547" Identification="CBE" Name="Ressourcen-Planungsdokumente" Description="Dokumente mit Informationen über die Planung von Zeit, Personal und Material.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9548" Identification="CBZ" Name="Personalbestellungen und dgl." Description="Dokumente zur Bestellung oder Benennung von Funktionsträgern.">
+  <IfcClassificationReference id="i9548" Identification="CBF" Name="Versand-, Lager- und Transportdokumente" Description="Dokumente mit Informationen, die für den Versand von Gütern erforderlich sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9537" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9549" Identification="CC" Name="Vertragliche und nichttechnische Dokumente" Description="Dokumente, die hauptsächlich Informationen über vertragliche (technische und kaufmännische) und nicht-technische Aspekte von Anlagen, Systemen oder Ausrüstungen beinhalten.">
+  <IfcClassificationReference id="i9549" Identification="CBG" Name="Standortsplanungs- und Standortsorganisationsdokumente" Description="Dokumente mit Informationen, die für Personal, Tätigkeiten und Einrichtungen auf dem Standort erforderlich sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9550" Identification="CCA" Name="Anfrage-, Kalkulations- und Angebotsdokumente" Description="Dokumente mit Informationen über vom Kunden benötigte Ausrüstungen und/oder Dienstleistungen, die zur Kalkulation von Teilen, Material, Kosten und Zeitaufwand notwendig sind; Dokumente mit Informationen über die Kalkulation von Kosten entsprechend der spezifizierten und vorzusehenden Waren und/oder Dienstleistungen; Dokumente mit Informationen über Preise, Zeitplanung und vom Lieferer angebotene Teile, Material und Dienstleistungen.">
+  <IfcClassificationReference id="i9550" Identification="CBH" Name="Dokumente zum Änderungswesen" Description="Dokumente mit Informationen über das Auftreten von Änderungen. Die Änderungen können sich auf Abläufe oder Anweisungen für verschiedene Tätigkeiten beziehen oder auf die notwendige Behebung von Fehlern oder Abweichungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9551" Identification="CCB" Name="Genehmigungsdokumente" Description="Dokumente mit Informationen über Genehmigungen, die, basierend auf rechtlichen oder anderen Anforderungen, von Behörden oder autorisierten Personen erteilt werden.">
+  <IfcClassificationReference id="i9551" Identification="CBS" Name="Objektschutzdokumente" Description="Dokumente mit Informationen über die Objektsicherheit (Personal und Güter, einschließlich Dokumente und Daten) in Bezug auf die Verhinderung von Gefahr und Beschädigung, verursacht durch externe Einflüsse.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9552" Identification="CCC" Name="Vertragliche Dokumente" Description="Dokumente, die Bestandteil eines Vertrages sind oder diesen begleiten, oder Dokumente mit formellen Informationen über vertragliche Ereignisse.">
+  <IfcClassificationReference id="i9552" Identification="CBT" Name="Schulungsdokumente" Description="Dokumente mit Informationen zur Schulung, wie&#xA;• Schulungsgegenstand &#xA;• Zeit und Dauer der Schulung &#xA;• Ort der Schulung &#xA;• Anzahl der Teilnehmer &#xA;• Qualifikation der Teilnehmer.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9553" Identification="CCD" Name="Bestell- und Lieferdokumente" Description="Dokumente mit Informationen über bestellte Waren und Dienstleistungen.">
+  <IfcClassificationReference id="i9553" Identification="CBZ" Name="Personalbestellungen und dgl." Description="Dokumente zur Bestellung oder Benennung von Funktionsträgern.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9542" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9554" Identification="CCE" Name="Rechnungsdokumente" Description="Dokumente mit Informationen über gelieferte Waren und Dienstleistungen, Preise und Zahlungsbedingungen.">
+  <IfcClassificationReference id="i9554" Identification="CC" Name="Vertragliche und nichttechnische Dokumente" Description="Dokumente, die hauptsächlich Informationen über vertragliche (technische und kaufmännische) und nicht-technische Aspekte von Anlagen, Systemen oder Ausrüstungen beinhalten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9555" Identification="CCF" Name="Versicherungsdokumente" Description="Dokumente mit Informationen zu Versicherungsangelegenheiten.">
+  <IfcClassificationReference id="i9555" Identification="CCA" Name="Anfrage-, Kalkulations- und Angebotsdokumente" Description="Dokumente mit Informationen über vom Kunden benötigte Ausrüstungen und/oder Dienstleistungen, die zur Kalkulation von Teilen, Material, Kosten und Zeitaufwand notwendig sind; Dokumente mit Informationen über die Kalkulation von Kosten entsprechend der spezifizierten und vorzusehenden Waren und/oder Dienstleistungen; Dokumente mit Informationen über Preise, Zeitplanung und vom Lieferer angebotene Teile, Material und Dienstleistungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9556" Identification="CCG" Name="Gewährleistungsdokumente" Description="Dokumente mit Informationen zu Angelegenheiten der Gewährleistung.">
+  <IfcClassificationReference id="i9556" Identification="CCB" Name="Genehmigungsdokumente" Description="Dokumente mit Informationen über Genehmigungen, die, basierend auf rechtlichen oder anderen Anforderungen, von Behörden oder autorisierten Personen erteilt werden.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9557" Identification="CCH" Name="Gutachten" Description="Dokumente mit Informationen über Expertenmeinungen oder -wissen.">
+  <IfcClassificationReference id="i9557" Identification="CCC" Name="Vertragliche Dokumente" Description="Dokumente, die Bestandteil eines Vertrages sind oder diesen begleiten, oder Dokumente mit formellen Informationen über vertragliche Ereignisse.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9558" Identification="CCZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9558" Identification="CCD" Name="Bestell- und Lieferdokumente" Description="Dokumente mit Informationen über bestellte Waren und Dienstleistungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9549" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9559" Identification="CD" Name="Dokumente mit allgemeiner technischer Information" Description="Dokumente, die hauptsächlich Informationen über allgemeine technische Aspekte einer Anlage, eines Systems oder einer Ausrüstung bereitstellen und die nicht durch eine der anderen, weitergehend spezifizierten Dokumentenartklassen abgedeckt sind.">
+  <IfcClassificationReference id="i9559" Identification="CCE" Name="Rechnungsdokumente" Description="Dokumente mit Informationen über gelieferte Waren und Dienstleistungen, Preise und Zahlungsbedingungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9560" Identification="CDA" Name="Datenblätter" Description="Dokumente mit Informationen über technische Daten und Eigenschaften von Material, Produkten oder  Systemen, die für eine ordnungsgemäße Anwendung notwendig sind, wie zum Beispiel: &#xA;• Versorgungsspannung&#xA;• Leistungsverbrauch&#xA;• Thermische Grenzwerte&#xA;• Dichte&#xA;• Einsatzbereiche&#xA;• Gewicht&#xA;• Eigenschaften&#xA;• Maße&#xA;• Informationen zur Befestigung.">
+  <IfcClassificationReference id="i9560" Identification="CCF" Name="Versicherungsdokumente" Description="Dokumente mit Informationen zu Versicherungsangelegenheiten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9561" Identification="CDB" Name="Erläuternde Dokumente" Description="Dokumente mit allgemeinen lnformationen zur Erleichterung des technischen Verständnisses eines Systems und/oder des Lesens und Verstehens anderer Dokumente.">
+  <IfcClassificationReference id="i9561" Identification="CCG" Name="Gewährleistungsdokumente" Description="Dokumente mit Informationen zu Angelegenheiten der Gewährleistung.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9562" Identification="CDC" Name="Anleitungen und Handbücher" Description="Dokumente mit allgemeinen lnformationen zur Handhabung von Produkten, Einheiten, Systemen, Anlagen oder Einrichtungen, zum Beispiel:&#xA;• Auspacken&#xA;• Zusammenbau&#xA;• Montage&#xA;• Inbetriebsetzung&#xA;• Betrieb&#xA;• Verhinderung von Schäden&#xA;• Verhalten im Fehlerfall&#xA;• Wartung.">
+  <IfcClassificationReference id="i9562" Identification="CCH" Name="Gutachten" Description="Dokumente mit Informationen über Expertenmeinungen oder -wissen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9563" Identification="CDD" Name="Technische Berichte" Description="Dokumente mit allgemeinen lnformationen über Ergebnisse von Beobachtungen, Überprüfungen, Inspektionen, Erfahrungen usw., welche technische Aspekte betreffen.">
+  <IfcClassificationReference id="i9563" Identification="CCZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9554" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9564" Identification="CDE" Name="Kataloge, Werbeschriften" Description="Dokumente mit Informationen über ein Produktspektrum und Dienstleistungen, die von einem Lieferanten angeboten werden.">
+  <IfcClassificationReference id="i9564" Identification="CD" Name="Dokumente mit allgemeiner technischer Information" Description="Dokumente, die hauptsächlich Informationen über allgemeine technische Aspekte einer Anlage, eines Systems oder einer Ausrüstung bereitstellen und die nicht durch eine der anderen, weitergehend spezifizierten Dokumentenartklassen abgedeckt sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9565" Identification="CDF" Name="Technische Veröffentlichungen" Description="Dokumente mit Informationen über technische oder wissenschaftliche Themen in Form von Veröffentlichungen.">
+  <IfcClassificationReference id="i9565" Identification="CDA" Name="Datenblätter" Description="Dokumente mit Informationen über technische Daten und Eigenschaften von Material, Produkten oder  Systemen, die für eine ordnungsgemäße Anwendung notwendig sind, wie zum Beispiel: &#xA;• Versorgungsspannung&#xA;• Leistungsverbrauch&#xA;• Thermische Grenzwerte&#xA;• Dichte&#xA;• Einsatzbereiche&#xA;• Gewicht&#xA;• Eigenschaften&#xA;• Maße&#xA;• Informationen zur Befestigung.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9566" Identification="CDG - CDY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9566" Identification="CDB" Name="Erläuternde Dokumente" Description="Dokumente mit allgemeinen lnformationen zur Erleichterung des technischen Verständnisses eines Systems und/oder des Lesens und Verstehens anderer Dokumente.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9567" Identification="CDZ" Name="Produktkennzeichnungen" Description="Kennzeichnungen von Produkten.">
+  <IfcClassificationReference id="i9567" Identification="CDC" Name="Anleitungen und Handbücher" Description="Dokumente mit allgemeinen lnformationen zur Handhabung von Produkten, Einheiten, Systemen, Anlagen oder Einrichtungen, zum Beispiel:&#xA;• Auspacken&#xA;• Zusammenbau&#xA;• Montage&#xA;• Inbetriebsetzung&#xA;• Betrieb&#xA;• Verhinderung von Schäden&#xA;• Verhalten im Fehlerfall&#xA;• Wartung.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9559" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9568" Identification="CE" Name="Dokumente für technische Anforderungen und Auslegung" Description="Dokumente, die hauptsächlich Informationen über allgemeine technische Aspekte für eine Anlage, ein System oder für Ausrüstungen oder über zugehörige Tätigkeiten im Lebenszyklus bereitstellen.">
+  <IfcClassificationReference id="i9568" Identification="CDD" Name="Technische Berichte" Description="Dokumente mit allgemeinen lnformationen über Ergebnisse von Beobachtungen, Überprüfungen, Inspektionen, Erfahrungen usw., welche technische Aspekte betreffen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9569" Identification="CEA" Name="Dokumente über gesetzliche Anforderungen" Description="Dokumente mit Informationen über technische Restriktionen oder Genehmigungen, die durch Behörden gegeben werden.">
+  <IfcClassificationReference id="i9569" Identification="CDE" Name="Kataloge, Werbeschriften" Description="Dokumente mit Informationen über ein Produktspektrum und Dienstleistungen, die von einem Lieferanten angeboten werden.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9570" Identification="CEB" Name="Normen und Richtlinien" Description="International und national anerkannte Regeln, die durch Normungsorganisationen veröffentlicht wurden, und Regeln zu einem bestimmten Zweck, welche internationale oder nationale Normen ergänzen oder die Richtlinien geben, wenn keine Norm verfügbar ist.&#xA;Die Regeln können zum Beispiel durch Kunden, Lieferer oder anerkannte Interessengemeinschaften aufgestellt sein.&#xA;ANMERKUNG In den meisten Fällen ist ein Verzeichnis der zu beachtenden Normen und Richtlinien ausreichend.">
+  <IfcClassificationReference id="i9570" Identification="CDF" Name="Technische Veröffentlichungen" Description="Dokumente mit Informationen über technische oder wissenschaftliche Themen in Form von Veröffentlichungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9571" Identification="CEC" Name="Techn. Spezifikations- /Anforderungsdokumente" Description="Dokumente mit Informationen, die für die Planung und Lieferung von geeigneten Ausrüstungen, von Systemen, Anlagen und Tätigkeiten, welche die Anforderungen des Bestellers erfüllen, erforderlich sind. Solche Informationen können sein:&#xA;• Betriebsbedingungen&#xA;• Mengen&#xA;• Funktionale Anforderungen&#xA;• Grenzwerte&#xA;• Umgebungsbedingungen&#xA;• Dimensionierungsdaten, Planungskriterien&#xA;• Schnittstellen&#xA;• Anforderungen an Energieversorgung und Hilfseinrichtungen&#xA;• Zukünftige Erweiterungen.">
+  <IfcClassificationReference id="i9571" Identification="CDG - CDY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9572" Identification="CED" Name="Dimensionierungsdokumente" Description="Dokumente mit Informationen über Daten und Basisbedingungen sowohl über getroffene Annahmen, die für die Auswahl geeigneter Systemlösungen, Teile oder Materialien angewendet wurden, als auch über die Weise, wie diese Daten verarbeitet und ausgewertet wurden.">
+  <IfcClassificationReference id="i9572" Identification="CDZ" Name="Produktkennzeichnungen" Description="Kennzeichnungen von Produkten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9564" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9573" Identification="CEE - CEY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9573" Identification="CE" Name="Dokumente für technische Anforderungen und Auslegung" Description="Dokumente, die hauptsächlich Informationen über allgemeine technische Aspekte für eine Anlage, ein System oder für Ausrüstungen oder über zugehörige Tätigkeiten im Lebenszyklus bereitstellen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9574" Identification="CEZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9574" Identification="CEA" Name="Dokumente über gesetzliche Anforderungen" Description="Dokumente mit Informationen über technische Restriktionen oder Genehmigungen, die durch Behörden gegeben werden.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9568" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9575" Identification="CF" Name="Funktionsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich Funktion, Aufgabe oder Verhalten eines Objekts graphisch oder verbal beschreiben. Informationselemente umfassen:&#xA;• Funktionsbeschreibende Symbole&#xA;• Verbindungen zwischen Symbolen&#xA;• Abhängigkeiten&#xA;• Befehle, Aktionen&#xA;• Zeitabhängigkeiten.">
+  <IfcClassificationReference id="i9575" Identification="CEB" Name="Normen und Richtlinien" Description="International und national anerkannte Regeln, die durch Normungsorganisationen veröffentlicht wurden, und Regeln zu einem bestimmten Zweck, welche internationale oder nationale Normen ergänzen oder die Richtlinien geben, wenn keine Norm verfügbar ist.&#xA;Die Regeln können zum Beispiel durch Kunden, Lieferer oder anerkannte Interessengemeinschaften aufgestellt sein.&#xA;ANMERKUNG In den meisten Fällen ist ein Verzeichnis der zu beachtenden Normen und Richtlinien ausreichend.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9576" Identification="CFA" Name="Funktionsübersichtsdokumente" Description="Dokumente, die eine Übersicht über das funktionale Verhalten oder die Struktur eines Systems, überwiegend in graphischer Form, geben.">
+  <IfcClassificationReference id="i9576" Identification="CEC" Name="Techn. Spezifikations- /Anforderungsdokumente" Description="Dokumente mit Informationen, die für die Planung und Lieferung von geeigneten Ausrüstungen, von Systemen, Anlagen und Tätigkeiten, welche die Anforderungen des Bestellers erfüllen, erforderlich sind. Solche Informationen können sein:&#xA;• Betriebsbedingungen&#xA;• Mengen&#xA;• Funktionale Anforderungen&#xA;• Grenzwerte&#xA;• Umgebungsbedingungen&#xA;• Dimensionierungsdaten, Planungskriterien&#xA;• Schnittstellen&#xA;• Anforderungen an Energieversorgung und Hilfseinrichtungen&#xA;• Zukünftige Erweiterungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9577" Identification="CFB" Name="Fließschemata" Description="Dokumente mit Informationen über Technologie und Betriebsabläufe einer Anlage oder eines Systems und über den Materialfluss zwisehen Maschinen, Apparaten, Geräten und Ausrüstungen in der Anlage oder im System.">
+  <IfcClassificationReference id="i9577" Identification="CED" Name="Dimensionierungsdokumente" Description="Dokumente mit Informationen über Daten und Basisbedingungen sowohl über getroffene Annahmen, die für die Auswahl geeigneter Systemlösungen, Teile oder Materialien angewendet wurden, als auch über die Weise, wie diese Daten verarbeitet und ausgewertet wurden.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9578" Identification="CFC" Name="Dokumente der MMS-Gestaltung (MMS = Mensch-Maschine-Schnittstelle)" Description="Dokumente mit Informationen über das Layout und über Eigenschaften von MMS-Einrichtungen.">
+  <IfcClassificationReference id="i9578" Identification="CEE - CEY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9579" Identification="CFD" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9579" Identification="CEZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9573" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9580" Identification="CFE" Name="Funktionsbeschreibungen" Description="Dokumente mit Informationen über das funktionale Verhalten eines Systems, Teilsystems, einer Einrichtung, Ausrüstung, von Software usw., überwiegend in Form verbaler Beschreibungen. &#xA;Die Dokumente müssen die verschiedenen Funktionen unter normalen Betriebsbedingungen, die Bedingungen selbst, Bedienelemente oder, ganz allgemein, die Eingangs- und Ausgangsgrößen an der Schnittstelle zum beschriebenen Objekt erläutern. Die Beschreibung darf durch graphische Darstellungen ergänzt sein.">
+  <IfcClassificationReference id="i9580" Identification="CF" Name="Funktionsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich Funktion, Aufgabe oder Verhalten eines Objekts graphisch oder verbal beschreiben. Informationselemente umfassen:&#xA;• Funktionsbeschreibende Symbole&#xA;• Verbindungen zwischen Symbolen&#xA;• Abhängigkeiten&#xA;• Befehle, Aktionen&#xA;• Zeitabhängigkeiten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9581" Identification="CFF" Name="Funktionsschaltpläne" Description="Dokumente, die das funktionale Verhalten aufzeigen, überwiegend unabhängig von der Ausführung.">
+  <IfcClassificationReference id="i9581" Identification="CFA" Name="Funktionsübersichtsdokumente" Description="Dokumente, die eine Übersicht über das funktionale Verhalten oder die Struktur eines Systems, überwiegend in graphischer Form, geben.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9582" Identification="CFG - CFN" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9582" Identification="CFB" Name="Fließschemata" Description="Dokumente mit Informationen über Technologie und Betriebsabläufe einer Anlage oder eines Systems und über den Materialfluss zwisehen Maschinen, Apparaten, Geräten und Ausrüstungen in der Anlage oder im System.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9583" Identification="CFP" Name="Signalbeschreibungen" Description="Dokumente mit Informationen über Signale, die als Eingang oder Ausgang von funktionalen Einheiten definiert sind.">
+  <IfcClassificationReference id="i9583" Identification="CFC" Name="Dokumente der MMS-Gestaltung (MMS = Mensch-Maschine-Schnittstelle)" Description="Dokumente mit Informationen über das Layout und über Eigenschaften von MMS-Einrichtungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9584" Identification="CFQ" Name="Einstellwertdokumente" Description="Dokumente mit Informationen über einstellbare Werte und/oder eingestellte Werte.">
+  <IfcClassificationReference id="i9584" Identification="CFD" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9585" Identification="CFR" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9585" Identification="CFE" Name="Funktionsbeschreibungen" Description="Dokumente mit Informationen über das funktionale Verhalten eines Systems, Teilsystems, einer Einrichtung, Ausrüstung, von Software usw., überwiegend in Form verbaler Beschreibungen. &#xA;Die Dokumente müssen die verschiedenen Funktionen unter normalen Betriebsbedingungen, die Bedingungen selbst, Bedienelemente oder, ganz allgemein, die Eingangs- und Ausgangsgrößen an der Schnittstelle zum beschriebenen Objekt erläutern. Die Beschreibung darf durch graphische Darstellungen ergänzt sein.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9586" Identification="CFS" Name="Schaltkreisdokumente" Description="Dokumente, die Schaltkreise von Systemen, Komponenten und Geräten, dargestellt durch Symbole und Verbindungen zwischen ihnen, aufzeigen.">
+  <IfcClassificationReference id="i9586" Identification="CFF" Name="Funktionsschaltpläne" Description="Dokumente, die das funktionale Verhalten aufzeigen, überwiegend unabhängig von der Ausführung.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9587" Identification="CFT" Name="Softwarespezifische Dokumente" Description="Dokumente mit softwarespezifischen Informationen. Die Informationen repräsentieren entweder die Software selbst oder sie befassen sich mit Objekten, die nur zusammen mit der zugehörigen Software existieren (nur die Dokumente, die nicht einer der anderen Klassen zuordenbar sind).">
+  <IfcClassificationReference id="i9587" Identification="CFG - CFN" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9588" Identification="CFU - CFY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9588" Identification="CFP" Name="Signalbeschreibungen" Description="Dokumente mit Informationen über Signale, die als Eingang oder Ausgang von funktionalen Einheiten definiert sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9589" Identification="CFZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9589" Identification="CFQ" Name="Einstellwertdokumente" Description="Dokumente mit Informationen über einstellbare Werte und/oder eingestellte Werte.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9575" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9590" Identification="CL" Name="Ortsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich die topographische oder geometrische Lage von Objekten in Bezug auf eine gegebene Umgebungsstruktur (Fläche, Gebäude, Schaltschrank usw.) beschreiben. Informationselemente umfassen:&#xA;• Vereinfachte Umrisse von realen Objekten an ihrer tatsächlichen Position&#xA;• Hauptabmessungen &#xA;• Symbolische Darstellung von Objekten an ihrer Position.">
+  <IfcClassificationReference id="i9590" Identification="CFR" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9591" Identification="CLA" Name="Erschließungs- und Vermessungsdokumente" Description="Dokumente mit Informationen über die Erschließung (zum Beispiel Anbindung an Straßen, Wasserversorgung, Energieversorgung) und die Vermessung von Standorten.">
+  <IfcClassificationReference id="i9591" Identification="CFS" Name="Schaltkreisdokumente" Description="Dokumente, die Schaltkreise von Systemen, Komponenten und Geräten, dargestellt durch Symbole und Verbindungen zwischen ihnen, aufzeigen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9592" Identification="CLB" Name="Erdbau- und Fundamentbaudokumente" Description="Dokumente mit Informationen über Erdarbeiten und/oder Fundamentarbeiten auf einem Standort.">
+  <IfcClassificationReference id="i9592" Identification="CFT" Name="Softwarespezifische Dokumente" Description="Dokumente mit softwarespezifischen Informationen. Die Informationen repräsentieren entweder die Software selbst oder sie befassen sich mit Objekten, die nur zusammen mit der zugehörigen Software existieren (nur die Dokumente, die nicht einer der anderen Klassen zuordenbar sind).">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9593" Identification="CLC" Name="Rohbaudokumente" Description="Dokumente mit Informationen über Ort und Eigenschaften von Konstruktionen wie Wände, Decken, Böden, Durchbrüche.">
+  <IfcClassificationReference id="i9593" Identification="CFU - CFY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9594" Identification="CLD" Name="Dokumente, die Orte auf Standorte beschreiben" Description="Dokumente mit Informationen über die Orte von Einrichtungen auf einem Standort&#xA;Objekte in Gebäuden: siehe LH&#xA;Objekte in Einrichtungen: siehe LU.">
+  <IfcClassificationReference id="i9594" Identification="CFZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9580" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9595" Identification="CLE - CLG" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9595" Identification="CL" Name="Ortsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich die topographische oder geometrische Lage von Objekten in Bezug auf eine gegebene Umgebungsstruktur (Fläche, Gebäude, Schaltschrank usw.) beschreiben. Informationselemente umfassen:&#xA;• Vereinfachte Umrisse von realen Objekten an ihrer tatsächlichen Position&#xA;• Hauptabmessungen &#xA;• Symbolische Darstellung von Objekten an ihrer Position.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9596" Identification="CLH" Name="Dokumente, die Orte in Gebäuden beschreiben" Description="Dokumente mit Informationen über den Ort von Einrichtungen, Bauteilen und Betriebsmitteln in oder auf einem Gebäude, Schiff, Flugzeug usw.&#xA;Objekte auf Standorten: siehe LD&#xA;Objekte in Einrichtungen: siehe LU.">
+  <IfcClassificationReference id="i9596" Identification="CLA" Name="Erschließungs- und Vermessungsdokumente" Description="Dokumente mit Informationen über die Erschließung (zum Beispiel Anbindung an Straßen, Wasserversorgung, Energieversorgung) und die Vermessung von Standorten.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9597" Identification="CLJ - CLT" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9597" Identification="CLB" Name="Erdbau- und Fundamentbaudokumente" Description="Dokumente mit Informationen über Erdarbeiten und/oder Fundamentarbeiten auf einem Standort.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9598" Identification="CLU" Name="Dokumente, die Orte in Einbaueinheiten beschreiben" Description="Dokumente mit Informationen über Ort kleiner Bauteile und Betriebsmittel in/auf Einrichtungen wie Schränke, Tafeln, Gehäuse oder Flachbaugruppen&#xA;Objekte auf Standorten: siehe LD&#xA;Objekte in Gebäuden: siehe LH.">
+  <IfcClassificationReference id="i9598" Identification="CLC" Name="Rohbaudokumente" Description="Dokumente mit Informationen über Ort und Eigenschaften von Konstruktionen wie Wände, Decken, Böden, Durchbrüche.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9599" Identification="CLV - CLY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9599" Identification="CLD" Name="Dokumente, die Orte auf Standorte beschreiben" Description="Dokumente mit Informationen über die Orte von Einrichtungen auf einem Standort&#xA;Objekte in Gebäuden: siehe LH&#xA;Objekte in Einrichtungen: siehe LU.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9600" Identification="CLZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9600" Identification="CLE - CLG" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9590" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9601" Identification="CM" Name="Verbindungsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich physikalische Verbindungen zwisehen Objekten beschreiben, mit Betonung der Verbindungen selbst und deren Art der Realisierung. Informationselemente umfassen:&#xA;• Anschlusskennzeichen&#xA;• Signalkennzeichen&#xA;• Kennzeichen beider Enden&#xA;• Ortskennzeichen der verbundenen Objekte&#xA;• Verbindungstyp.">
+  <IfcClassificationReference id="i9601" Identification="CLH" Name="Dokumente, die Orte in Gebäuden beschreiben" Description="Dokumente mit Informationen über den Ort von Einrichtungen, Bauteilen und Betriebsmitteln in oder auf einem Gebäude, Schiff, Flugzeug usw.&#xA;Objekte auf Standorten: siehe LD&#xA;Objekte in Einrichtungen: siehe LU.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9602" Identification="CMA" Name="Verbindungsbezogene Dokumente" Description="Verbindungsbezogene Dokumente enthalten Angaben über die physikalischen Verbindungen, beispielsweise zwischen Komponenten, Geräten, Baugruppen und Anlagen. &#xA;Verbindungsbezogene Dokumente werden für Montage, Errichtung oder Wartung von Einrichtungen angewendet.">
+  <IfcClassificationReference id="i9602" Identification="CLJ - CLT" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9601" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9603" Identification="CMB" Name="Verkabelungs- oder Rohrleitungsdokumente" Description="Dokumente mit Informationen, die für das Verlegen von Kabeln oder Rohrleitungen auf den Standorten erforderlich sind.">
+  <IfcClassificationReference id="i9603" Identification="CLU" Name="Dokumente, die Orte in Einbaueinheiten beschreiben" Description="Dokumente mit Informationen über Ort kleiner Bauteile und Betriebsmittel in/auf Einrichtungen wie Schränke, Tafeln, Gehäuse oder Flachbaugruppen&#xA;Objekte auf Standorten: siehe LD&#xA;Objekte in Gebäuden: siehe LH.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9601" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9604" Identification="CMC - CMY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9604" Identification="CLV - CLY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9601" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9605" Identification="CMZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9605" Identification="CLZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9601" />
+      <IfcClassificationReference xsi:nil="true" ref="i9595" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9606" Identification="CP" Name="Objektlisten" Description="Dokumente, die hauptsächlich Objekte wie Material und Teile auflisten, die verwendet werden, um eine Anlage, ein System oder Einrichtungen zu bauen, oder Objekte, die Funktionen oder Orte repräsentieren. Informationselemente umfassen:&#xA;• Typ&#xA;• Technische Daten&#xA;• ldentifizierungsschlüssel&#xA;• Mengen&#xA;• Hersteller&#xA;• Verweise auf Normen.">
+  <IfcClassificationReference id="i9606" Identification="CM" Name="Verbindungsbeschreibende Dokumente" Description="Dokumente, die hauptsächlich physikalische Verbindungen zwisehen Objekten beschreiben, mit Betonung der Verbindungen selbst und deren Art der Realisierung. Informationselemente umfassen:&#xA;• Anschlusskennzeichen&#xA;• Signalkennzeichen&#xA;• Kennzeichen beider Enden&#xA;• Ortskennzeichen der verbundenen Objekte&#xA;• Verbindungstyp.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9607" Identification="CPA" Name="Materiallisten" Description="Dokumente mit Informationen über Material, das für verschiedene Aktivitäten benötigt wird, hauptsächlich für die Montage und lnbetriebsetzung einer Anlage. Material kann sein: Kabel, Kanäle, Bolzen, Schrauben, Werkzeuge, Messinstrumente usw.">
+  <IfcClassificationReference id="i9607" Identification="CMA" Name="Verbindungsbezogene Dokumente" Description="Verbindungsbezogene Dokumente enthalten Angaben über die physikalischen Verbindungen, beispielsweise zwischen Komponenten, Geräten, Baugruppen und Anlagen. &#xA;Verbindungsbezogene Dokumente werden für Montage, Errichtung oder Wartung von Einrichtungen angewendet.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9606" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9608" Identification="CPB" Name="Teilelisten" Description="Dokumente mit Informationen über die Bestandteile des geplanten Objekts oder über Teile, die zum spätere Austausch auf Lager gehalten werden.">
+  <IfcClassificationReference id="i9608" Identification="CMB" Name="Verkabelungs- oder Rohrleitungsdokumente" Description="Dokumente mit Informationen, die für das Verlegen von Kabeln oder Rohrleitungen auf den Standorten erforderlich sind.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9606" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9609" Identification="CPC" Name="Stücklisten" Description="Dokumente mit Informationen über z. B. Teile, Material, Werkzeuge und Hilfsmittel, die zur Fertigung benötigt werden, wobei Mengen nicht angegeben sind.">
+  <IfcClassificationReference id="i9609" Identification="CMC - CMY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9606" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9610" Identification="CPD" Name="Produktlisten und Produkttyplisten" Description="Dokumente mit Informationen über Produkttypen für eine bestimmte Anwendung, wobei Mengen und Verwendungsorte nicht berücksichtigt sind.">
+  <IfcClassificationReference id="i9610" Identification="CMZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9606" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9611" Identification="CPE" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9611" Identification="CP" Name="Objektlisten" Description="Dokumente, die hauptsächlich Objekte wie Material und Teile auflisten, die verwendet werden, um eine Anlage, ein System oder Einrichtungen zu bauen, oder Objekte, die Funktionen oder Orte repräsentieren. Informationselemente umfassen:&#xA;• Typ&#xA;• Technische Daten&#xA;• ldentifizierungsschlüssel&#xA;• Mengen&#xA;• Hersteller&#xA;• Verweise auf Normen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9612" Identification="CPF" Name="Funktionslisten" Description="Dokumente mit Informationen über Bestandteilobjekte, die Funktionen des geplanten Objekts repräsentieren.">
+  <IfcClassificationReference id="i9612" Identification="CPA" Name="Materiallisten" Description="Dokumente mit Informationen über Material, das für verschiedene Aktivitäten benötigt wird, hauptsächlich für die Montage und lnbetriebsetzung einer Anlage. Material kann sein: Kabel, Kanäle, Bolzen, Schrauben, Werkzeuge, Messinstrumente usw.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9613" Identification="CPG - CPK" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9613" Identification="CPB" Name="Teilelisten" Description="Dokumente mit Informationen über die Bestandteile des geplanten Objekts oder über Teile, die zum spätere Austausch auf Lager gehalten werden.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9614" Identification="CPL" Name="Ortslisten" Description="Dokumente mit Informationen über Bestandteilobjekte, die Räumlichkeiten des geplanten Objekts repräsentieren.">
+  <IfcClassificationReference id="i9614" Identification="CPC" Name="Stücklisten" Description="Dokumente mit Informationen über z. B. Teile, Material, Werkzeuge und Hilfsmittel, die zur Fertigung benötigt werden, wobei Mengen nicht angegeben sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9615" Identification="CPM - CPY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9615" Identification="CPD" Name="Produktlisten und Produkttyplisten" Description="Dokumente mit Informationen über Produkttypen für eine bestimmte Anwendung, wobei Mengen und Verwendungsorte nicht berücksichtigt sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9616" Identification="CPZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9616" Identification="CPE" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9606" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9617" Identification="CQ" Name="Qualitätsmanagementdokumente und Sicherheit beschreibende Dokumente" Description="Dokumente, die hauptsächlich Informationen bereitstellen, welche die Erfüllung von Qualitätsanforderungen und die Wirksamkeit des Qualitätssicherungssystem nachweisen und Dokumente, die hauptsächlich Informationen über die Verhinderung von Schäden von Personen, Umwelt und Einrichtungen bereitstellen.">
+  <IfcClassificationReference id="i9617" Identification="CPF" Name="Funktionslisten" Description="Dokumente mit Informationen über Bestandteilobjekte, die Funktionen des geplanten Objekts repräsentieren.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9618" Identification="CQA" Name="Qualitätsmanagementdokumente" Description="Dokumente mit Informationen über Qualitätsmanagement-Aktivitäten. Dies können Informationen sein über:&#xA;• Einrichtung oder Weiterentwicklung eines QM-Systems&#xA;• Auswertung qualitätsbezogener Angelegenheiten wie Lieferanten, Herstellungsprozesse, Einrichtungen, Schulungsprogramme usw.&#xA;• Tests über die Erfüllung von Anforderungen an Produkte.">
+  <IfcClassificationReference id="i9618" Identification="CPG - CPK" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9617" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9619" Identification="CQB" Name="Sicherheitsbeschreibende Dokumente" Description="Dokumente mit Informationen über die Sicherheit technischer Produkte im Hinblick auf die Verhütung von Gefahr und Schaden von &#xA;• Leben und Gesundheit von Personal oder Anwendern&#xA;• Umwelt&#xA;• Eigenschaften und Material.">
+  <IfcClassificationReference id="i9619" Identification="CPL" Name="Ortslisten" Description="Dokumente mit Informationen über Bestandteilobjekte, die Räumlichkeiten des geplanten Objekts repräsentieren.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9617" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9620" Identification="CQC" Name="Qualitätsnachweisdokumente" Description="Dokumente mit Informationen über die Erfüllung spezifizierter Prüfungen.">
+  <IfcClassificationReference id="i9620" Identification="CPM - CPY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9617" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9621" Identification="CQD - CQY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9621" Identification="CPZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9617" />
+      <IfcClassificationReference xsi:nil="true" ref="i9611" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9622" Identification="CQZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9622" Identification="CQ" Name="Qualitätsmanagementdokumente und Sicherheit beschreibende Dokumente" Description="Dokumente, die hauptsächlich Informationen bereitstellen, welche die Erfüllung von Qualitätsanforderungen und die Wirksamkeit des Qualitätssicherungssystem nachweisen und Dokumente, die hauptsächlich Informationen über die Verhinderung von Schäden von Personen, Umwelt und Einrichtungen bereitstellen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9617" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9623" Identification="CT" Name="Dokumente zur Beschreibung geometrischer Formen" Description="Dokumente, die hauptsächlich Informationen über die geometrische Form von zu fertigenden Objekten und über deren Zusammenhänge bereitstellen. Informationselemente umfassen:&#xA;• Graphische Darstellung unter Anwendung verschiedener Ansichten und Schnitte&#xA;• Graphische Symbole für Form, Bearbeitung, Fertigung &#xA;• Maßangaben.">
+  <IfcClassificationReference id="i9623" Identification="CQA" Name="Qualitätsmanagementdokumente" Description="Dokumente mit Informationen über Qualitätsmanagement-Aktivitäten. Dies können Informationen sein über:&#xA;• Einrichtung oder Weiterentwicklung eines QM-Systems&#xA;• Auswertung qualitätsbezogener Angelegenheiten wie Lieferanten, Herstellungsprozesse, Einrichtungen, Schulungsprogramme usw.&#xA;• Tests über die Erfüllung von Anforderungen an Produkte.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9622" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9624" Identification="CTA" Name="Entwurfszeichnungen" Description="Dokumente mit Informationen über Objekte im Planungs- oder Konzeptstadium.">
+  <IfcClassificationReference id="i9624" Identification="CQB" Name="Sicherheitsbeschreibende Dokumente" Description="Dokumente mit Informationen über die Sicherheit technischer Produkte im Hinblick auf die Verhütung von Gefahr und Schaden von &#xA;• Leben und Gesundheit von Personal oder Anwendern&#xA;• Umwelt&#xA;• Eigenschaften und Material.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9622" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9625" Identification="CTB" Name="Konstruktionszeichnungen" Description="Dokumente mit Informationen über Objekte im beabsichtigten fertigen Stadium.">
+  <IfcClassificationReference id="i9625" Identification="CQC" Name="Qualitätsnachweisdokumente" Description="Dokumente mit Informationen über die Erfüllung spezifizierter Prüfungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9622" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9626" Identification="CTC" Name="Fertigungs- und Errichtungszeichnungen" Description="Dokumente mit Informationen, die besonders für die Fertigung und/oder Errichtung von Ausrüstungen erforderlich sind.">
+  <IfcClassificationReference id="i9626" Identification="CQD - CQY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9622" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9627" Identification="CTD - CTK" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9627" Identification="CQZ" Name="Frei für Anwender" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9622" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9628" Identification="CTL" Name="Anordnungsdokumente" Description="Dokumente mit Informationen über die Anordnung von Strukturteilen.">
+  <IfcClassificationReference id="i9628" Identification="CT" Name="Dokumente zur Beschreibung geometrischer Formen" Description="Dokumente, die hauptsächlich Informationen über die geometrische Form von zu fertigenden Objekten und über deren Zusammenhänge bereitstellen. Informationselemente umfassen:&#xA;• Graphische Darstellung unter Anwendung verschiedener Ansichten und Schnitte&#xA;• Graphische Symbole für Form, Bearbeitung, Fertigung &#xA;• Maßangaben.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9629" Identification="CTM - CTY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9629" Identification="CTA" Name="Entwurfszeichnungen" Description="Dokumente mit Informationen über Objekte im Planungs- oder Konzeptstadium.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9630" Identification="CTZ" Name="Bestandsdokumente" Description="Dokumente mit Informationen über bestehende Objekte und Ausrüstungen.">
+  <IfcClassificationReference id="i9630" Identification="CTB" Name="Konstruktionszeichnungen" Description="Dokumente mit Informationen über Objekte im beabsichtigten fertigen Stadium.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9623" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9631" Identification="CW" Name="Betriebliche Protokolle und Aufzeichnungen" Description="Dokumente, die hauptsächlich Informationen über Einstellwerte, Ereignisse und Werte bereitstellen, die fortlaufend oder zyklisch während der Betriebsphase von Anlagen oder Systemen aufgezeichnet werden, sowie deren Auswertungen. Informationselemente umfassen: &#xA;• Einstellwerte &#xA;• Messwerte &#xA;• Status (Mengen, Drücke, Temperaturen, Stände) &#xA;• Zeitzusammenhänge &#xA;• Text (Bericht) &#xA;• Auswertungen &#xA;• Alarmkriterien &#xA;• Verbrauchswerte &#xA;• Erzeugungskenngrößen.">
+  <IfcClassificationReference id="i9631" Identification="CTC" Name="Fertigungs- und Errichtungszeichnungen" Description="Dokumente mit Informationen, die besonders für die Fertigung und/oder Errichtung von Ausrüstungen erforderlich sind.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9632" Identification="CWA" Name="Einstellwertdokumente" Description="Dokumente mit Informationen über eingestellte Werte im Zusammenhang mit dem Betrieb eines Prozesses.">
+  <IfcClassificationReference id="i9632" Identification="CTD - CTK" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9631" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9633" Identification="CWB - CWS" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9633" Identification="CTL" Name="Anordnungsdokumente" Description="Dokumente mit Informationen über die Anordnung von Strukturteilen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9631" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9634" Identification="CWT" Name="Logbücher" Description="Dokumente mit Informationen über regelmäßige Aufzeichnungen von Ereignissen während einer bestimmten Phase oder einer Tätigkeit.">
+  <IfcClassificationReference id="i9634" Identification="CTM - CTY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9631" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9635" Identification="CWU - CWY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+  <IfcClassificationReference id="i9635" Identification="CTZ" Name="Bestandsdokumente" Description="Dokumente mit Informationen über bestehende Objekte und Ausrüstungen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9631" />
+      <IfcClassificationReference xsi:nil="true" ref="i9628" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9636" Identification="CWZ" Name="Frei für Anwender" Description="">
+  <IfcClassificationReference id="i9636" Identification="CW" Name="Betriebliche Protokolle und Aufzeichnungen" Description="Dokumente, die hauptsächlich Informationen über Einstellwerte, Ereignisse und Werte bereitstellen, die fortlaufend oder zyklisch während der Betriebsphase von Anlagen oder Systemen aufgezeichnet werden, sowie deren Auswertungen. Informationselemente umfassen: &#xA;• Einstellwerte &#xA;• Messwerte &#xA;• Status (Mengen, Drücke, Temperaturen, Stände) &#xA;• Zeitzusammenhänge &#xA;• Text (Bericht) &#xA;• Auswertungen &#xA;• Alarmkriterien &#xA;• Verbrauchswerte &#xA;• Erzeugungskenngrößen.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9631" />
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9637" Identification="CZZ" Name="Dokument noch nicht zugeordnet" Description="">
+  <IfcClassificationReference id="i9637" Identification="CWA" Name="Einstellwertdokumente" Description="Dokumente mit Informationen über eingestellte Werte im Zusammenhang mit dem Betrieb eines Prozesses.">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i9531" />
+      <IfcClassificationReference xsi:nil="true" ref="i9636" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9638" Identification="CWB - CWS" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i9636" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9639" Identification="CWT" Name="Logbücher" Description="Dokumente mit Informationen über regelmäßige Aufzeichnungen von Ereignissen während einer bestimmten Phase oder einer Tätigkeit.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i9636" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9640" Identification="CWU - CWY" Name="Reserviert für zukünftige Normung durch IEC" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i9636" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9641" Identification="CWZ" Name="Frei für Anwender" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i9636" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9642" Identification="CZZ" Name="Dokument noch nicht zugeordnet" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i9536" />
     </ReferencedSource>
   </IfcClassificationReference>
 </ifcXML>
