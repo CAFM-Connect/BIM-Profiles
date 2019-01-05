@@ -70,6 +70,11 @@
               <IfcLabel-wrapper>14</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="IsExchangeRequirement" Description="A nuWhen this property is true, it indicates, that this BIM Profile contains one or more digital Information Exchange Reqirements (IER). If this property is false, the profile file contains a digital classification (e.g. an object type library, OTL)">
+            <NominalValue>
+              <IfcLabel-wrapper>True</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
         </HasProperties>
       </IfcPropertySet>
     </RelatingPropertyDefinition>
