@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i37524" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Basisprofil GEFMA924.30" Description="Klassifikation von Lebenszyklusphasen nach GEFMA924.30." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i42110" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Basisprofil GEFMA924.30" Description="Klassifikation von Lebenszyklusphasen nach GEFMA924.30." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="924.30" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i37525" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i37524" />
+  <IfcRelDefinesByProperties id="i42111" GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42110" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0_xVWzi3DEgAsgnpjHDqcD" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -70,11 +70,16 @@
               <IfcLabel-wrapper>8</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="IsExchangeRequirement" Description="A nuWhen this property is true, it indicates, that this BIM Profile contains one or more digital Information Exchange Reqirements (IER). If this property is false, the profile file contains a digital classification (e.g. an object type library, OTL)">
+            <NominalValue>
+              <IfcLabel-wrapper>False</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
         </HasProperties>
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i37526" Name="DictionaryReferenceTable">
+  <IfcTable id="i42112" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

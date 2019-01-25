@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i37531" GlobalId="0cT7pQMFr5mggxAVqrw8Vu" Name="Basisprofil ISO 81346-12 - Structuring principles and reference designations" Description="Klassifikation von Systemen nach strukturierten Prinipien und Referenzen." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i42117" GlobalId="0cT7pQMFr5mggxAVqrw8Vu" Name="Basisprofil ISO 81346-12 - Structuring principles and reference designations" Description="Klassifikation von Systemen nach strukturierten Prinipien und Referenzen." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="ISO/TC 10/SC 10" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i37532" GlobalId="0cT7pQMFr5mggxAVqrw8Vu" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i37531" />
+  <IfcRelDefinesByProperties id="i42118" GlobalId="0cT7pQMFr5mggxAVqrw8Vu" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42117" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0cT7pQMFr5mggxAVqrw8Vu" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -70,11 +70,16 @@
               <IfcLabel-wrapper>17</IfcLabel-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="IsExchangeRequirement" Description="A nuWhen this property is true, it indicates, that this BIM Profile contains one or more digital Information Exchange Reqirements (IER). If this property is false, the profile file contains a digital classification (e.g. an object type library, OTL)">
+            <NominalValue>
+              <IfcLabel-wrapper>False</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
         </HasProperties>
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i37533" Name="DictionaryReferenceTable">
+  <IfcTable id="i42119" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
