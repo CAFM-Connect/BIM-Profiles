@@ -1,4 +1,4 @@
-## Basisprofil VDI2552-9A
+## Klassifikation VDI2552-9A
 Klassifikation von Bauteiltypen (Entwurf VDI 2552-A).
 
 Key | Value |

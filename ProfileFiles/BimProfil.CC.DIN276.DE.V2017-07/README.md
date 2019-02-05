@@ -1,4 +1,4 @@
-## Basisklassifikationen Kostenplanung im Bauwesen
+## Klassifikation der Kostengruppen nach DIN 276
 Klassifikation der Kostengruppen nach DIN 276.
 
 Key | Value |

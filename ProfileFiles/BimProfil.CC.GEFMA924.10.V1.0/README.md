@@ -1,4 +1,4 @@
-## Basisprofil GEFMA924.10
+## Klassifikation von Bauwerkstypen nach GEFMA924.10
 Klassifikation von Bauwerkstypen nach GEFMA924.10. Die Rechte des GEFMA e.V. bleiben unberührt.
 
 Key | Value |

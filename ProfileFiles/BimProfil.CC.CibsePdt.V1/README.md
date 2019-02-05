@@ -1,4 +1,4 @@
-## Basisprofil CipsePdt
+## Bauteiltypen-Klassifikation nach Cibse
 Klassifikation von  Bauteiltypen mit Product Data Templates
 
 Key | Value |

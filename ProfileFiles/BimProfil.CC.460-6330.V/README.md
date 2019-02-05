@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | Creative Commons Attribution-ShareAlike 4.0 International License |  
 LifeCyclePhase | Betreiben |  
-Publisher | []() |  
+Publisher | [Bergische Universität Wuppertal]() |  
 PublisherTeam | BUW |  
 Tags |  |  
 Version |  |  

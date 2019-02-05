@@ -50822,7 +50822,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5147" Location="IfcFan/USERDEFINED" Identification="430.10" Name="Ventilatoren" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5149" GlobalId="3midoBh1P7CATgKBhrSlOt" Name="430.10" Description="PropertySet Template for 'CAFMConnect.DE Ventilatoren'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcFan/USERDEFINED">
@@ -50887,7 +50887,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5166" Location="IfcHeatExchanger" Identification="430.20" Name="Wärmetauscher" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5168" GlobalId="1KqeO4lM17JuatbsDcKtFF" Name="430.20" Description="PropertySet Template for 'CAFMConnect.DE Wärmetauscher'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHeatExchanger">
@@ -50906,7 +50906,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5172" Location="IfcAirToAirHeatRecovery/USERDEFINED" Identification="430.21" Name="Wärmerückgewinnung WRG" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5174" GlobalId="1LyErAl2549uklN1UUv4mq" Name="430.21" Description="PropertySet Template for 'CAFMConnect.DE Wärmerückgewinnung WRG'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirToAirHeatRecovery/USERDEFINED">
@@ -50926,7 +50926,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5179" Location="IfcCoil/ELECTRICHEATINGCOIL" Identification="430.22" Name="Elektro-Lufterwärmer" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5181" GlobalId="2L1VATLGbBLfq9FFjEsSO9" Name="430.22" Description="PropertySet Template for 'CAFMConnect.DE Elektro-Lufterwärmer'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/ELECTRICHEATINGCOIL">
@@ -50946,7 +50946,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5186" Location="IfcCoil/WATERCOOLINGCOIL" Identification="430.23" Name="Luftkühler (Luft/Flüssigkeit)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5188" GlobalId="2gZaXeNrTB5R5FZS6ruEUx" Name="430.23" Description="PropertySet Template for 'CAFMConnect.DE Luftkühler (Luft/Flüssigkeit)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/WATERCOOLINGCOIL">
@@ -50966,7 +50966,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5193" Location="IfcEvaporator/USERDEFINED" Identification="430.24" Name="Verdampfer (Luft/Kältemittel)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5195" GlobalId="3eRRqIWWL5Wv_mD2pOhOLR" Name="430.24" Description="PropertySet Template for 'CAFMConnect.DE Verdampfer (Luft/Kältemittel)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcEvaporator/USERDEFINED">
@@ -50986,7 +50986,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5200" Location="IfcAirToAirHeatRecovery/FIXEDPLATECROSSFLOWEXCHANG" Identification="430.25" Name="Kreuzstrom-Wärmetauscher" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5202" GlobalId="21un2cjrX1eg6jp1dCCQda" Name="430.25" Description="PropertySet Template for 'CAFMConnect.DE Kreuzstrom-Wärmetauscher'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirToAirHeatRecovery/FIXEDPLATECROSSFLOWEXCHANG">
@@ -51006,7 +51006,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5207" Location="IfcAirToAirHeatRecovery/ROTARYWHEEL" Identification="430.26" Name="Rotations-Wärmeübertrager" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5209" GlobalId="0txSyBe_n16PO7LF3tK94e" Name="430.26" Description="PropertySet Template for 'CAFMConnect.DE Rotations-Wärmeübertrager'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirToAirHeatRecovery/ROTARYWHEEL">
@@ -51026,7 +51026,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5214" Location="IfcCoil/WATERHEATINGCOIL" Identification="430.27" Name="Lufterhitzer (Luft/Flüssigkeit)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5216" GlobalId="2wLB42w7jDFRYT7oTHhXaH" Name="430.27" Description="PropertySet Template for 'CAFMConnect.DE Lufterhitzer (Luft/Flüssigkeit)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/WATERHEATINGCOIL">
@@ -51046,7 +51046,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5221" Location="IfcFilter/AIRPARTICLEFILTER" Identification="430.30" Name="Luftfilter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5223" GlobalId="0bwIv9oj90$9NV5L$7WOwt" Name="430.30" Description="PropertySet Template for 'CAFMConnect.DE Luftfilter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcFilter/AIRPARTICLEFILTER">
@@ -51078,7 +51078,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5235" Location="IfcDistributionFlowElement/USERDEFINED" Identification="430.40" Name="Luftbe- und -entfeuchter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5237" GlobalId="39Iz5TNxz5n85cg2Y32jOd" Name="430.40" Description="PropertySet Template for 'CAFMConnect.DE Luftbe- und -entfeuchter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -51097,7 +51097,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5241" Location="IfcHumidifier/USERDEFINED" Identification="430.41" Name="Luftbefeuchter (Medium: Wasser)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5243" GlobalId="03bHao5oj4hR6iPaiKAD7C" Name="430.41" Description="PropertySet Template for 'CAFMConnect.DE Luftbefeuchter (Medium: Wasser)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHumidifier/USERDEFINED">
@@ -51117,7 +51117,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5248" Location="IfcDistributionFlowElement/USERDEFINED" Identification="430.42" Name="Tropfenabscheider / Gleichrichter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5250" GlobalId="2mlR8_Grb3IBPPKmlkkOjO" Name="430.42" Description="PropertySet Template for 'CAFMConnect.DE Tropfenabscheider / Gleichrichter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -51137,7 +51137,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5255" Location="IfcHumidifier/USERDEFINED" Identification="430.43" Name="Luftbefeuchter (Medium: Dampf; mit eigenem Dampfer" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5257" GlobalId="1GLkZxmm5CB8BWvrYeT6_S" Name="430.43" Description="PropertySet Template for 'CAFMConnect.DE Luftbefeuchter (Medium: Dampf; mit eigenem Dampfer'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHumidifier/USERDEFINED">
@@ -51157,7 +51157,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5262" Location="IfcHumidifier/USERDEFINED" Identification="430.44" Name="Luftbefeuchter (Medium: Dampf; ohne eigenen Dampfe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5264" GlobalId="39y75blz57kvq1lw9zyqwE" Name="430.44" Description="PropertySet Template for 'CAFMConnect.DE Luftbefeuchter (Medium: Dampf; ohne eigenen Dampfe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHumidifier/USERDEFINED">
@@ -51177,7 +51177,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5269" Location="IfcHumidifier/USERDEFINED" Identification="430.45" Name="Ultraschall-, Zerstäubungs- und Hybridbefeuchter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5271" GlobalId="34Z30$LZ54wOZDgc1YQeUc" Name="430.45" Description="PropertySet Template for 'CAFMConnect.DE Ultraschall-, Zerstäubungs- und Hybridbefeuchter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHumidifier/USERDEFINED">
@@ -51197,7 +51197,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5276" Location="IfcCoil/STEAMHEATINGCOIL" Identification="430.46" Name="Dampferzeuger" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5278" GlobalId="3ti_nibd53tvmpLvDzakgU" Name="430.46" Description="PropertySet Template for 'CAFMConnect.DE Dampferzeuger'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/STEAMHEATINGCOIL">
@@ -51217,7 +51217,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5283" Location="IfcUnitaryEquipment/DEHUMIDIFIER" Identification="430.47" Name="Entfeuchter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5285" GlobalId="0RU7y9km1BP8VJXKqgFrVD" Name="430.47" Description="PropertySet Template for 'CAFMConnect.DE Entfeuchter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcUnitaryEquipment/DEHUMIDIFIER">
@@ -51237,7 +51237,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5290" Location="IfcDistributionFlowElement/USERDEFINED" Identification="430.50" Name="Bauelemente des Luftleitungssystems" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5292" GlobalId="31X5UVYxv7lusXW4XON_2x" Name="430.50" Description="PropertySet Template for 'CAFMConnect.DE Bauelemente des Luftleitungssystems'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -51256,7 +51256,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5296" Location="IfcAirTerminal/GRILLE" Identification="430.51" Name="Wetterschutzgitter" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5298" GlobalId="0JEyTqhwn5pxRVhgGdhGnA" Name="430.51" Description="PropertySet Template for 'CAFMConnect.DE Wetterschutzgitter'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirTerminal/GRILLE">
@@ -51279,7 +51279,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5306" Location="IfcAirTerminal/GRILLE" Identification="430.52" Name="Gitter und Verteiler" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5308" GlobalId="02ZnJAu$53h93YHr_Ayv4K" Name="430.52" Description="PropertySet Template for 'CAFMConnect.DE Gitter und Verteiler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirTerminal/GRILLE">
@@ -51299,7 +51299,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5313" Location="IfcDamper/FIREDAMPER" Identification="430.53" Name="Brandschutzklappen (BSK)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5315" GlobalId="0kQaBjOEb1ABvjONxF6gjp" Name="430.53" Description="PropertySet Template for 'CAFMConnect.DE Brandschutzklappen (BSK)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDamper/FIREDAMPER">
@@ -51343,7 +51343,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5334" Location="IfcDamper/USERDEFINED" Identification="430.54" Name="Klappen (außer Brandschutzklappen)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5336" GlobalId="3HX5_QKyP3VgkS1oNvFy1O" Name="430.54" Description="PropertySet Template for 'CAFMConnect.DE Klappen (außer Brandschutzklappen)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDamper/USERDEFINED">
@@ -51363,7 +51363,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5341" Location="IfcDuctSegment/USERDEFINED" Identification="430.55" Name="Luftleitungen und Kammern" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5343" GlobalId="3Vox7M3YD6TRtO52xv8wgH" Name="430.55" Description="PropertySet Template for 'CAFMConnect.DE Luftleitungen und Kammern'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDuctSegment/USERDEFINED">
@@ -51402,7 +51402,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5357" Location="IfcAirTerminalBox/USERDEFINED" Identification="430.56" Name="Volumenstrom- und Mischregler" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5359" GlobalId="1jY27RMNzDu9OaL4yJyFXe" Name="430.56" Description="PropertySet Template for 'CAFMConnect.DE Volumenstrom- und Mischregler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcAirTerminalBox/USERDEFINED">
@@ -51422,7 +51422,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5364" Location="IfcDamper/USERDEFINED" Identification="430.57" Name="Absperr- und Abgleichelemente" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5366" GlobalId="3fKpVRMbX4dhn3PYGRTzwN" Name="430.57" Description="PropertySet Template for 'CAFMConnect.DE Absperr- und Abgleichelemente'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDamper/USERDEFINED">
@@ -51442,7 +51442,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5371" Location="IfcDistributionFlowElement/USERDEFINED" Identification="430.58" Name="Induktionsgeräte und vergleichbare Nachbehandlungs" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5373" GlobalId="1_m1S6ESD2DuxKTZOx1Aup" Name="430.58" Description="PropertySet Template for 'CAFMConnect.DE Induktionsgeräte und vergleichbare Nachbehandlungs'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -51462,7 +51462,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5378" Location="IfcElectricDistributionBoard/USERDEFINED" Identification="430.60" Name="Schaltschrank, Regelanlage, Leittechnik, Druckluft" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5380" GlobalId="02cElaXNT3He1cIEPI4iVf" Name="430.60" Description="PropertySet Template for 'CAFMConnect.DE Schaltschrank, Regelanlage, Leittechnik, Druckluft'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricDistributionBoard/USERDEFINED">
@@ -51481,7 +51481,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5384" Location="IfcDistributionFlowElement/USERDEFINED" Identification="430.70" Name="Antriebselemente" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5141" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5386" GlobalId="0B_bD3TPzBQe5cFt1a_0Vg" Name="430.70" Description="PropertySet Template for 'CAFMConnect.DE Antriebselemente'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -51500,7 +51500,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5390" Location="IfcElectricMotor/USERDEFINED" Identification="430.71" Name="Elektromotoren" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5384" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5392" GlobalId="22F5Zm66PCD9CO5sxvrM4Q" Name="430.71" Description="PropertySet Template for 'CAFMConnect.DE Elektromotoren'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricMotor/USERDEFINED">
@@ -51536,7 +51536,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5404" Location="IfcMotorConnection/BELTDRIVE" Identification="430.72" Name="Riementriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5384" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5406" GlobalId="0tMo2iX3vAcuoPNAJKaWKJ" Name="430.72" Description="PropertySet Template for 'CAFMConnect.DE Riementriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/BELTDRIVE">
@@ -51556,7 +51556,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5411" Location="IfcMotorConnection/COUPLING" Identification="430.73" Name="Antriebskupplungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5384" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5413" GlobalId="0tXklY6iT8$BYEaQgP3UFG" Name="430.73" Description="PropertySet Template for 'CAFMConnect.DE Antriebskupplungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/COUPLING">
@@ -51576,7 +51576,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5418" Location="IfcMotorConnection/USERDEFINED" Identification="430.74" Name="Kettentriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5384" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5420" GlobalId="29zv3$nAT7jQUqpu2xJCx1" Name="430.74" Description="PropertySet Template for 'CAFMConnect.DE Kettentriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/USERDEFINED">
@@ -51596,7 +51596,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i5425" Location="IfcMotorConnection/USERDEFINED" Identification="430.75" Name="Getriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5135" />
+      <IfcClassificationReference xsi:nil="true" ref="i5384" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i5427" GlobalId="0Mxdom1FP6eQe3EUQw_YR8" Name="430.75" Description="PropertySet Template for 'CAFMConnect.DE Getriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/USERDEFINED">
@@ -54694,12 +54694,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i6788" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i6799" Location="IfcDistributionChamberElement/FORMEDDUCT" Identification="446" Name="Blitzschutz- und Erdungsanlagen" Description="Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich">
+  <IfcClassificationReference id="i6799" Location="IfcProtectiveDevice/USERDEFINED" Identification="446" Name="Blitzschutz- und Erdungsanlagen" Description="Auffangeinrichtungen, Ableitungen, Erdungen, Potentialausgleich">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5978" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i6801" GlobalId="0if5kV2frDaP7b0AVgT1nx" Name="446" Description="PropertySet Template for 'CAFMConnect.DE Blitzschutz- und Erdungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionChamberElement/FORMEDDUCT">
+  <IfcPropertySetTemplate id="i6801" GlobalId="0if5kV2frDaP7b0AVgT1nx" Name="446" Description="PropertySet Template for 'CAFMConnect.DE Blitzschutz- und Erdungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcProtectiveDevice/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i6802" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6803" GlobalId="0EPAJeI997MBTQB1LF0YaA" Name="Überspannungsschutz" Description="Vorrichtung zum Schutz elektrischer Geräte u. Ä. vor Überspannungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" AccessState="readonly" />
@@ -54719,7 +54719,7 @@
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i6813" GlobalId="0IkVmotZ1E7Qfm97vPDxtj" Name="Fangeinrichtungen" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6814" GlobalId="1vEW4wpXLAAAr55lEXdMtp" Name="Spannungsfestigkeit" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
-      <IfcSimplePropertyTemplate id="i6815" GlobalId="2eKNzrZmj87PL3yDyjGOXC" Name="Anzahl Verbindungen des Schutzpotentialausgleiches" Description="Anzahl der Leitungsverbindungen des Schutzpotenzialausgeleichs je Blitzschutzsystem" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
+      <IfcSimplePropertyTemplate id="i6815" GlobalId="2eKNzrZmj87PL3yDyjGOXC" Name="Anzahl Verbindungen des Schutzpotentialausgleiches" Description="Anzahl der Leitungsverbindungen des Schutzpotenzialausgeleichs je Blitzschutzsystem." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6816" GlobalId="0e7rvd291DeuUB263kspRi" Name="Anzahl Verbindungen des zusätzlichen Potentialausgleiches" Description="Anzahl der Leitungsverbindungen des zusätzlichen Potenzialausgleichs je Blitzschutzsystem" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6817" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6818" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />

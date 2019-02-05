@@ -1,4 +1,4 @@
-## Basisprofil GEFMA924.30
+## Klassifikation von Lebenszyklusphasen nach GEFMA924.30.
 Klassifikation von Lebenszyklusphasen nach GEFMA924.30.
 
 Key | Value |

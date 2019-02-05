@@ -1,4 +1,4 @@
-## Basisprofil Omniclass
+## Klassifikation Omniclass
 Standardized basis for classifying information created and used by the North American architectural, engineering and construction (AEC) industry, throughout the full facility life cycle from conception to demolition or reuse
 
 Key | Value |

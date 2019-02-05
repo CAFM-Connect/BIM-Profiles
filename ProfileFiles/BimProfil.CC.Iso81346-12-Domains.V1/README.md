@@ -1,5 +1,5 @@
-## Basisprofil ISO 81346-12 - Structuring principles and reference designations
-Klassifikation von Systemen nach strukturierten Prinipien und Referenzen.
+## Klassifikation ISO 81346-12 - Structuring principles and reference designations
+Klassifikation von Systemen nach strukturierten Prinzipien und Referenzen.
 
 Key | Value |
 --|--|

@@ -1,4 +1,4 @@
-## Base classification cost planning in construction
+## Classification of cost groups according to DIN 276
 Klassifikation der Kostengruppen nach DIN 276.
 
 Key | Value |

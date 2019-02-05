@@ -1,4 +1,4 @@
-## Basisprofil GEFMA924.60
+## Klassifikation von Dokumententypen nach GEFMA924.60.
 Klassifikation von Dokumententypen nach GEFMA924.60.
 
 Key | Value |

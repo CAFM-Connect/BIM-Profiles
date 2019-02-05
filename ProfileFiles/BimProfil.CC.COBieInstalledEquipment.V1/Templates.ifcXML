@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
-    <name>BIM Profil Basisprofil COBieInstalledEquipment</name>
+    <name>BIM Profil COBie Bauteiltypen-Klassifikation</name>
     <time_stamp>2017-11-29T00:00:00</time_stamp>
     <author>-</author>
     <organization>National Institute of Building Sciences (US)</organization>
@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i41245" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Basisprofil COBieInstalledEquipment" Description="Klassifikation von Bauteiltypen nach dem National Institute of Building Sciences" Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i40960" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="COBie Bauteiltypen-Klassifikation" Description="Klassifikation von Bauteiltypen nach dem National Institute of Building Sciences" Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i41246" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i41245" />
+  <IfcRelDefinesByProperties id="i40961" GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40960" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0rlIEJelrC3BWoff3rC6aD" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i41247" Name="DictionaryReferenceTable">
+  <IfcTable id="i40962" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

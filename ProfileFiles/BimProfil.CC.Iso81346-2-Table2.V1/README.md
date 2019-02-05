@@ -1,4 +1,4 @@
-## Basisprofil ISO 81346-2-Table 2
+## Klassifikation ISO 81346-2-Table 2
 Klassifikation von Bauteiltypen nach ISO 81346-2-Table 2
 
 Key | Value |

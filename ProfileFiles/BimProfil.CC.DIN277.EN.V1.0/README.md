@@ -1,4 +1,4 @@
-## Base classification of space types
+## Classification of rooms and their types of use according to DIN 277
 Classification of rooms and their type of use.
 
 Key | Value |

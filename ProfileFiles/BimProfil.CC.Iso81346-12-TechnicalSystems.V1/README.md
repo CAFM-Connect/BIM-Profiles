@@ -1,4 +1,4 @@
-## Basisprofil Iso81346-12-TechnicalSystems
+## Klassifikation Iso81346-12-TechnicalSystems
 Klassifikation von Systemen nach strukturierten Prinipien und Referenzen.
 
 Key | Value |

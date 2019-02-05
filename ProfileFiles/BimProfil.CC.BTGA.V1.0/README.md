@@ -1,4 +1,4 @@
-## Basisprofil BTGA
+## Bauteiltypen-Klassifikation nach BTGA
 Klassifikation von technischer Gebäudeausstattungnach BTGA (Bundesindustrieverband Technische Gebäudeausrüstung e.V.).
 
 Key | Value |

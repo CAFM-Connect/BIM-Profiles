@@ -1,4 +1,4 @@
-## Basisprofil COBieInstalledEquipment
+## COBie Bauteiltypen-Klassifikation
 Klassifikation von Bauteiltypen nach dem National Institute of Building Sciences
 
 Key | Value |

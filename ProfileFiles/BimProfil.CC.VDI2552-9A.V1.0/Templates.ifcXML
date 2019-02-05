@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
-    <name>BIM Profil Basisprofil VDI2552-9A</name>
+    <name>BIM Profil Klassifikation VDI2552-9A</name>
     <time_stamp>2017-11-29T00:00:00</time_stamp>
     <author>2552-A</author>
     <organization>Verein Deutscher Ingenieure e.V.</organization>
@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i42140" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Basisprofil VDI2552-9A" Description="Klassifikation von Bauteiltypen (Entwurf VDI 2552-A)." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i42264" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Klassifikation VDI2552-9A" Description="Klassifikation von Bauteiltypen (Entwurf VDI 2552-A)." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="2552-A" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i42141" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42140" />
+  <IfcRelDefinesByProperties id="i42265" GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42264" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1N7JGdBQfAfBTp5J3E2wM8" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i42142" Name="DictionaryReferenceTable">
+  <IfcTable id="i42266" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

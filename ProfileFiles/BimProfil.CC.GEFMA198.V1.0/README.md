@@ -1,4 +1,4 @@
-## Basisprofil GEFMA198
+## Klassifikation der Dokumententypen nach GEFMA 198
 Klassifikation von Dokumententypen nach GEFMA 198. Die Rechte des GEFMA e.V. bleiben unberührt.
 
 Key | Value |

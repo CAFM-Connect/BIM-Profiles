@@ -1,4 +1,4 @@
-## Basisprofil DIN 277
+## Klassifikation der Raumnutzungsarten nach DIN 277
 Klassifikation von Räumen und ihren Nutzungsarten nach DIN 277.
 
 Key | Value |
