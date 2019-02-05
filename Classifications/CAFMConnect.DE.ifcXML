@@ -49212,7 +49212,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4500" Location="IfcBoiler/WATER" Identification="421.11" Name="Wasserkessel" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4502" GlobalId="3jo5UOVS1CAQ6YBvPJEnmm" Name="421.11" Description="PropertySet Template for 'CAFMConnect.DE Wasserkessel'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBoiler/WATER">
@@ -49266,7 +49266,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4528" Location="IfcBoiler/STEAM" Identification="421.12" Name="Dampfkessel" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4530" GlobalId="0CZ8tJshXCK8_Kg_EPnbo4" Name="421.12" Description="PropertySet Template for 'CAFMConnect.DE Dampfkessel'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBoiler/STEAM">
@@ -49313,7 +49313,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4549" Location="IfcDistributionFlowElement/USERDEFINED" Identification="421.13" Name="Wärmepumpen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4551" GlobalId="0Dh10nUfv3nAdjCVzoRJbu" Name="421.13" Description="PropertySet Template for 'CAFMConnect.DE Wärmepumpen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -49368,7 +49368,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4573" Location="IfcDistributionFlowElement/USERDEFINED" Identification="421.14" Name="Solarkollektoren" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4575" GlobalId="2WfC_C7Sv29AusKjZh7x_$" Name="421.14" Description="PropertySet Template for 'CAFMConnect.DE Solarkollektoren'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -49436,7 +49436,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4604" Location="IfcDistributionFlowElement/USERDEFINED" Identification="421.15" Name="Blockheizkraftwerke (BHKW) (wärmegeführt)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4606" GlobalId="3V6yMRoQH5JgngwS8IV2xY" Name="421.15" Description="PropertySet Template for 'CAFMConnect.DE Blockheizkraftwerke (BHKW) (wärmegeführt)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -49475,7 +49475,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4622" Location="IfcBoiler/USERDEFINED" Identification="421.16" Name="Brennstoffzellenheizgeräte" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4624" GlobalId="0BRxKwlf51NvgUsFkHoNll" Name="421.16" Description="PropertySet Template for 'CAFMConnect.DE Brennstoffzellenheizgeräte'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBoiler/USERDEFINED">
@@ -49526,7 +49526,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4644" Location="IfcCoil/ELECTRICHEATINGCOIL" Identification="421.17" Name="Elektroheizungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4646" GlobalId="2zLchM3xf1AgWr8XZ0Zh4B" Name="421.17" Description="PropertySet Template for 'CAFMConnect.DE Elektroheizungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/ELECTRICHEATINGCOIL">
@@ -49560,7 +49560,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4659" Location="IfcHeatExchanger/USERDEFINED" Identification="421.18" Name="Wärmeübertrager" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4661" GlobalId="2t_QPCa49B892TU4NEd7wa" Name="421.18" Description="PropertySet Template for 'CAFMConnect.DE Wärmeübertrager'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHeatExchanger/USERDEFINED">
@@ -49620,7 +49620,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4685" Location="IfcHeatExchanger/USERDEFINED" Identification="421.19" Name="Fernwärmeübergabestation" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4490" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4687" GlobalId="0ezyEgkY51nvSQsASozl7L" Name="421.19" Description="PropertySet Template for 'CAFMConnect.DE Fernwärmeübergabestation'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHeatExchanger/USERDEFINED">
@@ -49682,7 +49682,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4708" Location="IfcTank/EXPANSION" Identification="421.21" Name="Ausdehnungsgefäße" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4702" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4710" GlobalId="1maZF9qgPAehYkUSQEZzBn" Name="421.21" Description="PropertySet Template for 'CAFMConnect.DE Ausdehnungsgefäße'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcTank/EXPANSION">
@@ -49709,7 +49709,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4719" Location="IfcPump/USERDEFINED" Identification="421.22" Name="Druckerhöhungsanlage/ Druckhaltung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4702" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4721" GlobalId="0_BpybnTDBsBb6WPFrdKaw" Name="421.22" Description="PropertySet Template for 'CAFMConnect.DE Druckerhöhungsanlage/ Druckhaltung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcPump/USERDEFINED">
@@ -49762,7 +49762,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4734" Location="IfcDistributionFlowElement/USERDEFINED" Identification="421.23" Name="Minimal- und Maximaldruckbegrenzer" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4702" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4736" GlobalId="32b9QdGbr2Iuq7DZ3TZiy7" Name="421.23" Description="PropertySet Template for 'CAFMConnect.DE Minimal- und Maximaldruckbegrenzer'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -49784,7 +49784,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4743" Location="IfcFlowSegment/USERDEFINED" Identification="421.24" Name="Heizungsverteiler" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4702" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4745" GlobalId="0L1EpK2Yz2F996Yvu5MA0M" Name="421.24" Description="PropertySet Template for 'CAFMConnect.DE Heizungsverteiler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcFlowSegment/USERDEFINED">
@@ -49824,7 +49824,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4757" Location="IfcBurner/USERDEFINED" Identification="421.31" Name="Brenner" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4751" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4759" GlobalId="2jpNsvTeDAXOYfZk4ONdaA" Name="421.31" Description="PropertySet Template for 'CAFMConnect.DE Brenner'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBurner/USERDEFINED">
@@ -49879,7 +49879,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4783" Location="IfcCoil/USERDEFINED" Identification="421.36" Name="Direkte Strahlungsheizung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4751" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4785" GlobalId="1H7Lt$of5FihzvfTufq2bn" Name="421.36" Description="PropertySet Template for 'CAFMConnect.DE Direkte Strahlungsheizung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcCoil/USERDEFINED">
@@ -49944,7 +49944,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4809" Location="IfcPipeSegment/USERDEFINED" Identification="421.41" Name="Abgasleitungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4811" GlobalId="0izIf7uFf6tRuoe$3H$Ti$" Name="421.41" Description="PropertySet Template for 'CAFMConnect.DE Abgasleitungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcPipeSegment/USERDEFINED">
@@ -49989,7 +49989,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4831" Location="IfcDistributionFlowElement/USERDEFINED" Identification="421.42" Name="Schalldämpfer" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4833" GlobalId="1tnvVTilb1PvLwrXq2qMbC" Name="421.42" Description="PropertySet Template for 'CAFMConnect.DE Schalldämpfer'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionFlowElement/USERDEFINED">
@@ -50009,7 +50009,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4838" Location="IfcHeatExchanger/USERDEFINED" Identification="421.43" Name="Abgaswärmetauscher" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4840" GlobalId="3xI44B3OD14ho9BQgmeMC7" Name="421.43" Description="PropertySet Template for 'CAFMConnect.DE Abgaswärmetauscher'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcHeatExchanger/USERDEFINED">
@@ -50029,7 +50029,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4845" Location="IfcDamper/USERDEFINED" Identification="421.44" Name="Abgasklappen, Zugbegrenzer" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4847" GlobalId="1WoFOB$YjFHRg4uHih4Nyk" Name="421.44" Description="PropertySet Template for 'CAFMConnect.DE Abgasklappen, Zugbegrenzer'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDamper/USERDEFINED">
@@ -50050,7 +50050,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4853" Location="IfcFan/USERDEFINED" Identification="421.45" Name="Abgasventilatoren" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4855" GlobalId="1OYG0QLhPEiemIwqMSKC82" Name="421.45" Description="PropertySet Template for 'CAFMConnect.DE Abgasventilatoren'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcFan/USERDEFINED">
@@ -50121,7 +50121,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4880" Location="IfcChimney/USERDEFINED" Identification="421.46" Name="Schornsteine" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4882" GlobalId="0xql4NryjENg4r_vHiceV9" Name="421.46" Description="PropertySet Template for 'CAFMConnect.DE Schornsteine'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcChimney/USERDEFINED">
@@ -50152,7 +50152,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4893" Location="IfcWasteTerminal/USERDEFINED" Identification="421.47" Name="Entwässerungseinrichtungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4895" GlobalId="0PD6rjyIb4MPSG1YXJhX_K" Name="421.47" Description="PropertySet Template for 'CAFMConnect.DE Entwässerungseinrichtungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcWasteTerminal/USERDEFINED">
@@ -50172,7 +50172,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4900" Location="IfcFlowInstrument/USERDEFINED" Identification="421.48" Name="Abgasmesseinrichtungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4803" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4902" GlobalId="2FeefVdCf3vAngF$JE8heq" Name="421.48" Description="PropertySet Template for 'CAFMConnect.DE Abgasmesseinrichtungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcFlowInstrument/USERDEFINED">
@@ -50292,7 +50292,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4949" Location="IfcElectricMotor/USERDEFINED" Identification="421.71" Name="Elektromotoren" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4943" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4951" GlobalId="0c649_t0j6ZfBrxW243ZmL" Name="421.71" Description="PropertySet Template for 'CAFMConnect.DE Elektromotoren'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricMotor/USERDEFINED">
@@ -50328,7 +50328,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4963" Location="IfcMotorConnection/BELTDRIVE" Identification="421.72" Name="Riementriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4943" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4965" GlobalId="2psuu2jL12YhGIljnNEfvX" Name="421.72" Description="PropertySet Template for 'CAFMConnect.DE Riementriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/BELTDRIVE">
@@ -50348,7 +50348,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4970" Location="IfcMotorConnection/COUPLING" Identification="421.73" Name="Antriebskupplungen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4943" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4972" GlobalId="1Aa$yHcU57hPVgInvuZWvl" Name="421.73" Description="PropertySet Template for 'CAFMConnect.DE Antriebskupplungen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/COUPLING">
@@ -50368,7 +50368,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4977" Location="IfcMotorConnection/USERDEFINED" Identification="421.74" Name="Kettentriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4943" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4979" GlobalId="3E9qjJM417ZO0VWZgYTumO" Name="421.74" Description="PropertySet Template for 'CAFMConnect.DE Kettentriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/USERDEFINED">
@@ -50388,7 +50388,7 @@
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i4984" Location="IfcMotorConnection/USERDEFINED" Identification="421.75" Name="Getriebe" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4471" />
+      <IfcClassificationReference xsi:nil="true" ref="i4943" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="i4986" GlobalId="3b61XxHX502BNySpiNm1uK" Name="421.75" Description="PropertySet Template for 'CAFMConnect.DE Getriebe'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcMotorConnection/USERDEFINED">
