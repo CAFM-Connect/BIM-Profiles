@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i40980" GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="Fördertechnische Anlagen planen" Description="Beschreibung der Informationen, die zur Planung von fördertechnische Anlagen benötigt werden" Phase="Betreiben">
+  <IfcProjectLibrary id="i40979" GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="Fördertechnische Anlagen planen" Description="Beschreibung der Informationen, die zur Planung von fördertechnische Anlagen benötigt werden" Phase="Betreiben">
     <OwnerHistory CreationDate="1534464000000">
       <OwningUser>
         <ThePerson FamilyName="BUW" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i40981" GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40980" />
+  <IfcRelDefinesByProperties id="i40980" GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40979" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="2l_61Dx4TDkeQ2qYXaoH7O" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i40982" Name="DictionaryReferenceTable">
+  <IfcTable id="i40981" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

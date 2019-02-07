@@ -2877,10 +2877,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i3488</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/230b513b-a4d8-484e-b674-078b872769a6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/712da4a3-2d68-4083-b5f9-1c058b5d3d00</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>230b513b-a4d8-484e-b674-078b872769a6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0Z2r4xfDX8JhPq1uk79scc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>712da4a3-2d68-4083-b5f9-1c058b5d3d00</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nBQIZBMX0WxNv70MBNJq0</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -3397,10 +3397,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i3542</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/52ec60ac-d5f8-43e9-b6d8-cf22ce5034a7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/5c680747-814f-44f3-8dcc-1b5f8554c760</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>52ec60ac-d5f8-43e9-b6d8-cf22ce5034a7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1Ix62irVX3wRROpoBEK3Id</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5c680747-814f-44f3-8dcc-1b5f8554c760</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1SQ0T7WKz4yutC6r_5LCTW</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -45872,12 +45872,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3148" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3153" Location="IfcBuildingSystem" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
+  <IfcClassificationReference id="i3153" Location="IfcBuildingElementProxy/USERDEFINED" Identification="330" Name="Außenwände, -türen, -tore und -fenster" Description="Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3148" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3155" GlobalId="1cbJaB0Uf0f8QbEnIhzd8b" Name="330" Description="PropertySet Template for 'CAFMConnect.DE Außenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i3155" GlobalId="1cbJaB0Uf0f8QbEnIhzd8b" Name="330" Description="PropertySet Template for 'CAFMConnect.DE Außenwände, -türen, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3156" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -45957,12 +45957,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3169" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3182" Location="IfcBuildingSystem" Identification="334" Name="Außentüren, -tore und -fenster" Description="Fenster und Schaufenster, Türen und Tore einschließlich Fensterbänken, Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen">
+  <IfcClassificationReference id="i3182" Location="IfcBuildingElementProxy/USERDEFINED" Identification="334" Name="Außentüren, -tore und -fenster" Description="Fenster und Schaufenster, Türen und Tore einschließlich Fensterbänken, Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3153" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3184" GlobalId="01JZNvEy155hyIW2njH_ig" Name="334" Description="PropertySet Template for 'CAFMConnect.DE Außentüren, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i3184" GlobalId="01JZNvEy155hyIW2njH_ig" Name="334" Description="PropertySet Template for 'CAFMConnect.DE Außentüren, -tore und -fenster'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3185" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -46619,7 +46619,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i3480" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3488" GlobalId="0Z2r4xfDX8JhPq1uk79scc" Name="344.10" Description="PropertySet Template for 'CAFMConnect.DE Innentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i3488" GlobalId="1nBQIZBMX0WxNv70MBNJq0" Name="344.10" Description="PropertySet Template for 'CAFMConnect.DE Innentür'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3489" GlobalId="2cWZvwu0fEfhvTXia$PbSM" Name="Anschlag" Description="Gibt an, ob der Türanschlag links oder rechts ist." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel" AccessState="readonly">
         <Enumerators Name="Enumeration for Anschlag">
@@ -46708,7 +46708,7 @@
       <IfcSimplePropertyTemplate id="i3538" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i3539" GlobalId="0Z2r4xfDX8JhPq1uk79scc" Name="Reference PropertySetTemplate for 344.10 Innentür">
+  <IfcRelAssociatesClassification id="i3539" GlobalId="1nBQIZBMX0WxNv70MBNJq0" Name="Reference PropertySetTemplate for 344.10 Innentür">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i3488" />
     </RelatedObjects>
@@ -46721,7 +46721,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i3480" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3542" GlobalId="1Ix62irVX3wRROpoBEK3Id" Name="344.20" Description="PropertySet Template for 'CAFMConnect.DE Tor innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
+  <IfcPropertySetTemplate id="i3542" GlobalId="1SQ0T7WKz4yutC6r_5LCTW" Name="344.20" Description="PropertySet Template for 'CAFMConnect.DE Tor innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3543" GlobalId="0mb$wPzVL4Lw29xSsZI9gm" Name="Automatischer Antrieb" Description="Angabe, ob dieses Bauteil einen automatischen Antrieb (kräftebetätigt) zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN)." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean" AccessState="readonly">
         <Enumerators Name="Enumeration for Automatischer Antrieb">
@@ -46805,7 +46805,7 @@
       <IfcSimplePropertyTemplate id="i3586" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i3587" GlobalId="1Ix62irVX3wRROpoBEK3Id" Name="Reference PropertySetTemplate for 344.20 Tor innen">
+  <IfcRelAssociatesClassification id="i3587" GlobalId="1SQ0T7WKz4yutC6r_5LCTW" Name="Reference PropertySetTemplate for 344.20 Tor innen">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="i3542" />
     </RelatedObjects>
@@ -47013,12 +47013,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3652" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3658" Location="IfcBuildingSystem" Identification="351" Name="Deckenkonstruktionen" Description="Konstruktionen von Decken, Treppen, Rampen, Balkonen, Loggien einschließlich Über- und Unterstützen, füllenden Teilen wie  Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen">
+  <IfcClassificationReference id="i3658" Location="IfcBuildingElementProxy/USERDEFINED" Identification="351" Name="Deckenkonstruktionen" Description="Konstruktionen von Decken, Treppen, Rampen, Balkonen, Loggien einschließlich Über- und Unterstützen, füllenden Teilen wie  Hohlkörpern, Blindböden, Schüttungen, jedoch ohne Beläge und Bekleidungen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3652" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3660" GlobalId="0EbnVoOUzA$8iSUmigKBCZ" Name="351" Description="PropertySet Template for 'CAFMConnect.DE Deckenkonstruktionen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i3660" GlobalId="0EbnVoOUzA$8iSUmigKBCZ" Name="351" Description="PropertySet Template for 'CAFMConnect.DE Deckenkonstruktionen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3661" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -47206,12 +47206,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3721" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3726" Location="IfcBuildingSystem" Identification="369" Name="Dächer, sonstiges" Description="Geländer, Laufbohlen, Schutzgitter, Schneefänge, Dachleitern, Sonnenschutz">
+  <IfcClassificationReference id="i3726" Location="IfcBuildingElementProxy/USERDEFINED" Identification="369" Name="Dächer, sonstiges" Description="Geländer, Laufbohlen, Schutzgitter, Schneefänge, Dachleitern, Sonnenschutz">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3693" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3728" GlobalId="06lwk9JHX188LdWjoi_6zq" Name="369" Description="PropertySet Template for 'CAFMConnect.DE Dächer, sonstiges'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i3728" GlobalId="06lwk9JHX188LdWjoi_6zq" Name="369" Description="PropertySet Template for 'CAFMConnect.DE Dächer, sonstiges'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3729" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -47283,12 +47283,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3743" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3748" Location="IfcBuildingSystem" Identification="391" Name="Bauliche Brandschutzelemente" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung">
+  <IfcClassificationReference id="i3748" Location="IfcBuildingElementProxy/USERDEFINED" Identification="391" Name="Bauliche Brandschutzelemente" Description="Einrichten, Vorhalten, Betreiben, Räumen der übergeordneten Baustelleneinrichtung, z. B. Material- und Geräteschuppen, Lager-, Wasch-, Toiletten- und Aufenthaltsräume, Bauwagen, Misch- und Transportanlagen, Energie- und Bauwasseranschlüsse, Baustraßen, Lager- und Arbeitsplätze, Verkehrssicherungen, Abdeckungen, Bauschilder, Bau- und Schutzzäune, Baubeleuchtung, Schuttbeseitigung">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3743" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3750" GlobalId="3ItMvB2_DDeexit0U4_5w3" Name="391" Description="PropertySet Template for 'CAFMConnect.DE Bauliche Brandschutzelemente'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingSystem">
+  <IfcPropertySetTemplate id="i3750" GlobalId="3ItMvB2_DDeexit0U4_5w3" Name="391" Description="PropertySet Template for 'CAFMConnect.DE Bauliche Brandschutzelemente'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3751" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -47352,12 +47352,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3767" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3773" Location="IfcDistributionSystem" Identification="410" Name="Abwasser-, Wasser-, Gasanlagen" Description="Rohrleitungen, Wasserreiniger, Gasheizungen, Bewässerung">
+  <IfcClassificationReference id="i3773" Location="IfcBuildingElementProxy/USERDEFINED" Identification="410" Name="Abwasser-, Wasser-, Gasanlagen" Description="Rohrleitungen, Wasserreiniger, Gasheizungen, Bewässerung">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3767" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3775" GlobalId="3TerqGnBj3V8woXNJRtfkF" Name="410" Description="PropertySet Template for 'CAFMConnect.DE Abwasser-, Wasser-, Gasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i3775" GlobalId="3TerqGnBj3V8woXNJRtfkF" Name="410" Description="PropertySet Template for 'CAFMConnect.DE Abwasser-, Wasser-, Gasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3776" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i3777" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -47371,12 +47371,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i3773" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i3779" Location="IfcDistributionSystem" Identification="411" Name="Abwasseranlagen" Description="Abläufe, Abwasserleitungen, Abwassersammelanlagen, Abwasserbehandlungsanlagen, Hebeanlagen">
+  <IfcClassificationReference id="i3779" Location="IfcBuildingElementProxy/USERDEFINED" Identification="411" Name="Abwasseranlagen" Description="Abläufe, Abwasserleitungen, Abwassersammelanlagen, Abwasserbehandlungsanlagen, Hebeanlagen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3773" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i3781" GlobalId="0kz_6L3Tb78w8i7oRrC3Xv" Name="411" Description="PropertySet Template for 'CAFMConnect.DE Abwasseranlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i3781" GlobalId="0kz_6L3Tb78w8i7oRrC3Xv" Name="411" Description="PropertySet Template for 'CAFMConnect.DE Abwasseranlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3782" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i3783" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
@@ -48387,12 +48387,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4178" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4194" Location="IfcDistributionSystem" Identification="412.64" Name="Brunnenwasserversorgung" Description="">
+  <IfcClassificationReference id="i4194" Location="IfcBuildingElementProxy/USERDEFINED" Identification="412.64" Name="Brunnenwasserversorgung" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3927" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4196" GlobalId="1BqYm6UDf7EByxo6FvQ9ej" Name="412.64" Description="PropertySet Template for 'CAFMConnect.DE Brunnenwasserversorgung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4196" GlobalId="1BqYm6UDf7EByxo6FvQ9ej" Name="412.64" Description="PropertySet Template for 'CAFMConnect.DE Brunnenwasserversorgung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4197" GlobalId="0UPr2Uy29FUAIxBqqsJ$XP" Name="Anzahl Pumpen" Description="Gibt die Anzahl der Pumpen im System an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i4198" GlobalId="17iRBTZ2PFwBin8cyfSCxQ" Name="Größe Vorratsbehälter" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" AccessState="readonly" />
@@ -48519,12 +48519,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4228" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4239" Location="IfcDistributionSystem" Identification="413" Name="Gasanlagen" Description="Gasanlagen für Wirtschaftswärme: Gaslagerungs- und Erzeugungsanlagen, Übergabestationen, Druckregelanlagen und Gasleitungen, soweit nicht zu den Kostengruppen 420 oder 470 gehörend">
+  <IfcClassificationReference id="i4239" Location="IfcBuildingElementProxy/USERDEFINED" Identification="413" Name="Gasanlagen" Description="Gasanlagen für Wirtschaftswärme: Gaslagerungs- und Erzeugungsanlagen, Übergabestationen, Druckregelanlagen und Gasleitungen, soweit nicht zu den Kostengruppen 420 oder 470 gehörend">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3773" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4241" GlobalId="3SUnG9B4v08O4rdYaoDcAU" Name="413" Description="PropertySet Template for 'CAFMConnect.DE Gasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4241" GlobalId="3SUnG9B4v08O4rdYaoDcAU" Name="413" Description="PropertySet Template for 'CAFMConnect.DE Gasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4242" GlobalId="0nymet1Dn2YBxDrqiuUGsu" Name="Gasbevorratung" Description="Bevorratung mit Tank?" TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i4243" GlobalId="1yyv4uadb0aeboRb5Ql6rq" Name="Typ Gasanlage" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText" AccessState="readonly">
@@ -48657,12 +48657,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4286" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4302" Location="IfcDistributionSystem" Identification="419" Name="Abwasser-, Wasser-, Gasanlagen, sonstiges" Description="Installationsblöcke, Sanitärzellen">
+  <IfcClassificationReference id="i4302" Location="IfcBuildingElementProxy/USERDEFINED" Identification="419" Name="Abwasser-, Wasser-, Gasanlagen, sonstiges" Description="Installationsblöcke, Sanitärzellen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i3773" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4304" GlobalId="077UciSVT3ov3$jfsuUNz5" Name="419" Description="PropertySet Template for 'CAFMConnect.DE Abwasser-, Wasser-, Gasanlagen, sonstiges'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4304" GlobalId="077UciSVT3ov3$jfsuUNz5" Name="419" Description="PropertySet Template for 'CAFMConnect.DE Abwasser-, Wasser-, Gasanlagen, sonstiges'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4305" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i4306" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -49091,12 +49091,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4462" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4468" Location="IfcDistributionSystem" Identification="420.00" Name="Gemeinsame Bauteile Wärmeversorgungsanlagen" Description="">
+  <IfcClassificationReference id="i4468" Location="IfcBuildingElementProxy/USERDEFINED" Identification="420.00" Name="Gemeinsame Bauteile Wärmeversorgungsanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i4462" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4470" GlobalId="3yU3IUggb59wleJhLoEy7j" Name="420.00" Description="PropertySet Template for 'CAFMConnect.DE Gemeinsame Bauteile Wärmeversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4470" GlobalId="3yU3IUggb59wleJhLoEy7j" Name="420.00" Description="PropertySet Template for 'CAFMConnect.DE Gemeinsame Bauteile Wärmeversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4471" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
     </HasPropertyTemplates>
@@ -49803,12 +49803,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4755" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4763" Location="IfcDistributionSystem" Identification="421.30" Name="Feuerungsanlagen" Description="">
+  <IfcClassificationReference id="i4763" Location="IfcBuildingElementProxy/USERDEFINED" Identification="421.30" Name="Feuerungsanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i4483" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4765" GlobalId="3XSaq1zMD6zBSGZMwT0yiT" Name="421.30" Description="PropertySet Template for 'CAFMConnect.DE Feuerungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4765" GlobalId="3XSaq1zMD6zBSGZMwT0yiT" Name="421.30" Description="PropertySet Template for 'CAFMConnect.DE Feuerungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4766" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i4767" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -49923,12 +49923,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i4795" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4815" Location="IfcDistributionSystem" Identification="421.40" Name="Abgasanlagen" Description="">
+  <IfcClassificationReference id="i4815" Location="IfcBuildingElementProxy/USERDEFINED" Identification="421.40" Name="Abgasanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i4483" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i4817" GlobalId="3zo2bfK711$gNQIkM8yDST" Name="421.40" Description="PropertySet Template for 'CAFMConnect.DE Abgasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i4817" GlobalId="3zo2bfK711$gNQIkM8yDST" Name="421.40" Description="PropertySet Template for 'CAFMConnect.DE Abgasanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i4818" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i4819" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -53057,12 +53057,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i5990" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i5996" Location="IfcDistributionSystem" Identification="441" Name="Hoch- und Mittelspannungsanlagen" Description="Schaltanlagen, Transformatoren">
+  <IfcClassificationReference id="i5996" Location="IfcBuildingElementProxy/USERDEFINED" Identification="441" Name="Hoch- und Mittelspannungsanlagen" Description="Schaltanlagen, Transformatoren">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5990" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i5998" GlobalId="2$EZX2UBn5L9FHCvLRn0Eg" Name="441" Description="PropertySet Template for 'CAFMConnect.DE Hoch- und Mittelspannungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i5998" GlobalId="2$EZX2UBn5L9FHCvLRn0Eg" Name="441" Description="PropertySet Template for 'CAFMConnect.DE Hoch- und Mittelspannungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i5999" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6000" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -53166,12 +53166,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i6026" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i6045" Location="IfcDistributionSystem" Identification="442" Name="Eigenstromversorgungsanlagen" Description="Stromerzeugungsaggregate einschließlich Kühlung, Abgasanlagen und Brennstoffversorgung, zentrale Batterie- und unterbrechungsfreie Stromversorgungsanlagen, photovoltaische Anlagen">
+  <IfcClassificationReference id="i6045" Location="IfcBuildingElementProxy/USERDEFINED" Identification="442" Name="Eigenstromversorgungsanlagen" Description="Stromerzeugungsaggregate einschließlich Kühlung, Abgasanlagen und Brennstoffversorgung, zentrale Batterie- und unterbrechungsfreie Stromversorgungsanlagen, photovoltaische Anlagen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5990" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i6047" GlobalId="3kjI$l1FP2KxIKSQg0NfWs" Name="442" Description="PropertySet Template for 'CAFMConnect.DE Eigenstromversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i6047" GlobalId="3kjI$l1FP2KxIKSQg0NfWs" Name="442" Description="PropertySet Template for 'CAFMConnect.DE Eigenstromversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i6048" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6049" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -53731,12 +53731,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i6267" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i6273" Location="IfcDistributionSystem" Identification="443.20" Name="Blindstromkompensationsanlagen" Description="">
+  <IfcClassificationReference id="i6273" Location="IfcBuildingElementProxy/USERDEFINED" Identification="443.20" Name="Blindstromkompensationsanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i6242" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i6275" GlobalId="3Pk5hiDqX3aA1dcWE5AfXO" Name="443.20" Description="PropertySet Template for 'CAFMConnect.DE Blindstromkompensationsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i6275" GlobalId="3Pk5hiDqX3aA1dcWE5AfXO" Name="443.20" Description="PropertySet Template for 'CAFMConnect.DE Blindstromkompensationsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i6276" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i6277" GlobalId="2KygZbGwvCPeLxSNmNoimL" Name="Bauart" Description="Art und Weise wie das Bauteil gebaut ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
@@ -55146,12 +55146,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i6987" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i7000" Location="IfcDistributionSystem" Identification="455.20" Name="Antennenanlagen (auf Gebäuden)" Description="">
+  <IfcClassificationReference id="i7000" Location="IfcBuildingElementProxy/USERDEFINED" Identification="455.20" Name="Antennenanlagen (auf Gebäuden)" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i6957" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i7002" GlobalId="3PfxhLvEPEchCP6QLMezOW" Name="455.20" Description="PropertySet Template for 'CAFMConnect.DE Antennenanlagen (auf Gebäuden)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i7002" GlobalId="3PfxhLvEPEchCP6QLMezOW" Name="455.20" Description="PropertySet Template for 'CAFMConnect.DE Antennenanlagen (auf Gebäuden)'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i7003" GlobalId="2KygZbGwvCPeLxSNmNoimL" Name="Bauart" Description="Art und Weise wie das Bauteil gebaut ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i7004" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
@@ -56642,12 +56642,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i7679" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i7685" Location="IfcDistributionSystem" Identification="473.10" Name="Druckluftversorgungsanlagen" Description="">
+  <IfcClassificationReference id="i7685" Location="IfcBuildingElementProxy/USERDEFINED" Identification="473.10" Name="Druckluftversorgungsanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7679" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i7687" GlobalId="2XvoETyI51u95ZzpoNKe5C" Name="473.10" Description="PropertySet Template for 'CAFMConnect.DE Druckluftversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i7687" GlobalId="2XvoETyI51u95ZzpoNKe5C" Name="473.10" Description="PropertySet Template for 'CAFMConnect.DE Druckluftversorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i7688" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i7689" GlobalId="2S8EEjapX0SxmGL5yaBfVe" Name="Typ" Description="Typenbezeichnung des Systemherstellers." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
@@ -57356,12 +57356,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i7982" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i7992" Location="IfcDistributionSystem" Identification="478" Name="Entsorgungsanlagen" Description="Abfall- und Medienentsorgungsanlagen, Staubsauganlagen">
+  <IfcClassificationReference id="i7992" Location="IfcBuildingElementProxy/USERDEFINED" Identification="478" Name="Entsorgungsanlagen" Description="Abfall- und Medienentsorgungsanlagen, Staubsauganlagen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7550" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="i7994" GlobalId="1E9s5L1qLEt9yvQ5t9PHSQ" Name="478" Description="PropertySet Template for 'CAFMConnect.DE Entsorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDistributionSystem">
+  <IfcPropertySetTemplate id="i7994" GlobalId="1E9s5L1qLEt9yvQ5t9PHSQ" Name="478" Description="PropertySet Template for 'CAFMConnect.DE Entsorgungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i7995" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />
       <IfcSimplePropertyTemplate id="i7996" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" AccessState="readonly" />

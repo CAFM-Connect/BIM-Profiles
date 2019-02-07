@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i34850" GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="Betreiberverantwortung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine Bestandsdatenerfassung im Rahmen der Betreiberverantwortung." Phase="Bauen,Betreiben">
+  <IfcProjectLibrary id="i34849" GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="Betreiberverantwortung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine Bestandsdatenerfassung im Rahmen der Betreiberverantwortung." Phase="Bauen,Betreiben">
     <OwnerHistory CreationDate="1496880000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i34851" GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i34850" />
+  <IfcRelDefinesByProperties id="i34850" GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i34849" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0zygBfDnj7h9nmxmwFOuPM" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i34852" Name="DictionaryReferenceTable">
+  <IfcTable id="i34851" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
