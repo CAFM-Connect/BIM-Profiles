@@ -10,8 +10,8 @@
     <authorization>CAFM Ring e.V.</authorization>
     <documentation>https://github.com/CAFM-Connect/BIM-Profiles</documentation>
   </header>
-  <IfcProject id="i34403" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="COBieInstalledEquipment.EN" />
-  <IfcTable id="i34404" Name="DictionaryReferenceTable">
+  <IfcProject id="i34411" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="Classification file from IFC Navigator Germany" LongName="COBieInstalledEquipment.EN" />
+  <IfcTable id="i34412" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -25,7 +25,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34407</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34415</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/1efa1630-1a0f-46c0-850f-d0e6a5f2e12b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -35,7 +35,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34408</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34416</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/641b4e65-63cf-4b2d-aec8-47e5e7693684</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -45,7 +45,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34417</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/b6440c24-4503-4ef0-a680-b43a10b7c2a7</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -55,7 +55,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34410</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34418</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/dc3a4310-216b-462f-960b-ea84cfd703ca</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -65,7 +65,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34411</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34419</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/b53e536a-74dc-4ade-a454-f732f14bb338</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -75,7 +75,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34412</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34420</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/3e3d30c2-7888-424b-b13f-f927f9c34732</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -85,7 +85,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34413</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34421</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/6b90e91b-a31a-4851-8525-e126ce82052e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -95,7 +95,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34414</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34422</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/cc689c74-99d7-4c71-a2e0-bf6a1f8fa5df</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -105,7 +105,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34415</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34423</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/3ca8255f-da79-4346-a2a5-ce810c155397</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -115,7 +115,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34416</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34424</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/4c7cb86a-ad98-4725-84ca-7cb549745d34</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -125,7 +125,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34417</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34425</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/d8326b7d-738b-4ca6-b183-4912c43377ed</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -135,7 +135,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34418</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34426</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/4b3f0a78-c75b-45af-8bbf-85e4732dbb60</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -145,7 +145,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34419</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34427</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/a0a363ef-3453-4422-88a1-4541bdc142e2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -155,7 +155,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34420</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34428</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/35e837a0-1b2a-4978-8d7a-a893321de302</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -165,7 +165,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34421</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34429</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/b8b57c77-6a8d-44a5-a392-8a97b727e6f2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -175,7 +175,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i34422</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i34430</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/COBieInstalledEquipment.EN/c5d0c5e2-a22f-4951-970e-48533bfb6010</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>COBieInstalledEquipment.EN</IfcIdentifier-wrapper>
@@ -185,93 +185,93 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="i34405" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="COBieInstalledEquipment.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_Cobie_InstalledEquipment" />
-  <IfcRelAssociatesClassification id="i34406" GlobalId="0XjwtOPcr12APH4YuZW3AW">
+  <IfcClassification id="i34413" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="COBieInstalledEquipment.EN" Description="CAFMConnectCatalogueOfObjectTypes" Location="https://www.cafm-connect.org/ZE_Cobie_InstalledEquipment" />
+  <IfcRelAssociatesClassification id="i34414" GlobalId="0XjwtOPcr12APH4YuZW3AW">
     <RelatedObjects>
-      <IfcProject xsi:nil="true" ref="i34403" Name="" />
+      <IfcProject xsi:nil="true" ref="i34411" Name="" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i34407" Identification="AirConditioner" Name="AirConditioner" Description="">
+  <IfcClassificationReference id="i34415" Identification="AirConditioner" Name="AirConditioner" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34408" Identification="AirHandler" Name="AirHandler" Description="">
+  <IfcClassificationReference id="i34416" Identification="AirHandler" Name="AirHandler" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34409" Identification="Boiler" Name="Boiler" Description="">
+  <IfcClassificationReference id="i34417" Identification="Boiler" Name="Boiler" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34410" Identification="Burner" Name="Burner" Description="">
+  <IfcClassificationReference id="i34418" Identification="Burner" Name="Burner" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34411" Identification="Compressor" Name="Compressor" Description="">
+  <IfcClassificationReference id="i34419" Identification="Compressor" Name="Compressor" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34412" Identification="Condenser" Name="Condenser" Description="">
+  <IfcClassificationReference id="i34420" Identification="Condenser" Name="Condenser" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34413" Identification="Controller" Name="Controller" Description="">
+  <IfcClassificationReference id="i34421" Identification="Controller" Name="Controller" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34414" Identification="Door" Name="Door" Description="">
+  <IfcClassificationReference id="i34422" Identification="Door" Name="Door" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34415" Identification="Electrical" Name="Electrical" Description="">
+  <IfcClassificationReference id="i34423" Identification="Electrical" Name="Electrical" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34416" Identification="Evaporator" Name="Evaporator" Description="">
+  <IfcClassificationReference id="i34424" Identification="Evaporator" Name="Evaporator" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34417" Identification="Fan" Name="Fan" Description="">
+  <IfcClassificationReference id="i34425" Identification="Fan" Name="Fan" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34418" Identification="Furnace" Name="Furnace" Description="">
+  <IfcClassificationReference id="i34426" Identification="Furnace" Name="Furnace" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34419" Identification="General" Name="General" Description="">
+  <IfcClassificationReference id="i34427" Identification="General" Name="General" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34420" Identification="HotWaterHeater" Name="HotWaterHeater" Description="">
+  <IfcClassificationReference id="i34428" Identification="HotWaterHeater" Name="HotWaterHeater" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34421" Identification="Plumbing" Name="Plumbing" Description="">
+  <IfcClassificationReference id="i34429" Identification="Plumbing" Name="Plumbing" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i34422" Identification="ValvesStrainers" Name="ValvesStrainers" Description="">
+  <IfcClassificationReference id="i34430" Identification="ValvesStrainers" Name="ValvesStrainers" Description="">
     <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i34405" />
+      <IfcClassification xsi:nil="true" ref="i34413" />
     </ReferencedSource>
   </IfcClassificationReference>
 </ifcXML>

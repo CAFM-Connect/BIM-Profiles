@@ -11256,10 +11256,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1227</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//d86add86-9e56-4221-99a1-d852fcec46ae</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//40d75e8f-ad95-4487-8e9a-cb302d5b36af</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>d86add86-9e56-4221-99a1-d852fcec46ae</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3OQjs6dbP28PcXs5Byx4Qk</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>40d75e8f-ad95-4487-8e9a-cb302d5b36af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>10rrwFhPL4XuwQop0jMpQl</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -11336,35 +11336,55 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1235</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//4229f834-a3cb-44c8-9b06-c6c9da38b27a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//203d12e0-4bf1-4945-8528-80a1164aa6d6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>4229f834-a3cb-44c8-9b06-c6c9da38b27a</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>12AVWqeyj4o9i6nidQEB9w</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>203d12e0-4bf1-4945-8528-80a1164aa6d6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0WFHBWI$59HOKeWA4MIgRM</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
           <IfcIdentifier-wrapper>i1236</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//26a798ea-a9e5-403d-b682-3d72f600c2cb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//d86add86-9e56-4221-99a1-d852fcec46ae</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>26a798ea-a9e5-403d-b682-3d72f600c2cb</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0cfvZggUL0FRQ2FNBs0CBB</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d86add86-9e56-4221-99a1-d852fcec46ae</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OQjs6dbP28PcXs5Byx4Qk</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
           <IfcIdentifier-wrapper>i1237</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//40d75e8f-ad95-4487-8e9a-cb302d5b36af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//7d23e296-a7c9-4db7-9d98-d3a5e44c934e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>40d75e8f-ad95-4487-8e9a-cb302d5b36af</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>10rrwFhPL4XuwQop0jMpQl</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7d23e296-a7c9-4db7-9d98-d3a5e44c934e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1z8_AMfybDjvsOqwNaJ9DE</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
           <IfcIdentifier-wrapper>i1238</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//f8b7031c-c7ba-4779-8783-df962f02da27</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>f8b7031c-c7ba-4779-8783-df962f02da27</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ujmCSnxf7UOU3tvOl0jed</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1239</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//1837a859-badc-4549-8417-4df7b2d6e848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>1837a859-badc-4549-8417-4df7b2d6e848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0ODwXPkjn5IOGNJVUorkX8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1240</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//b598ec53-b861-4790-bdbb-e7502ce60303</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11374,7 +11394,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1239</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1241</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//c40705c7-0725-44dc-b318-dd85866912b6</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11384,7 +11404,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1240</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1242</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//9a7f3997-8555-4031-9f2f-ec68b01aae62</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11394,7 +11414,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1241</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1243</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//6c2df164-9c51-41fb-8a12-490d569b4bd4</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11404,7 +11424,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1242</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1244</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//e02c738e-749e-40e8-b71d-dea310125613</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11414,7 +11434,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1243</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1245</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//83225a5c-10db-4bcb-81d5-510f99c9a04e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11424,7 +11444,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1244</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1246</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//f500638f-634d-4c76-969a-6b3e7ba1d3d9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11434,17 +11454,57 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1245</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1247</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//203d12e0-4bf1-4945-8528-80a1164aa6d6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//26a798ea-a9e5-403d-b682-3d72f600c2cb</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>203d12e0-4bf1-4945-8528-80a1164aa6d6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0WFHBWI$59HOKeWA4MIgRM</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>26a798ea-a9e5-403d-b682-3d72f600c2cb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0cfvZggUL0FRQ2FNBs0CBB</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1246</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1248</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//bf2112c9-5630-4385-94bf-0810d435e01c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>bf2112c9-5630-4385-94bf-0810d435e01c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2$8HB9LZ13XPI$213KDU0S</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1249</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//bb676fd1-8108-4581-8096-7a3a13516e05</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>bb676fd1-8108-4581-8096-7a3a13516e05</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2xPs$HWGX5WO2MUZeJKMu5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1250</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//d233c4c1-6b29-438f-96a4-6a2436c7aa3a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>d233c4c1-6b29-438f-96a4-6a2436c7aa3a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ICyJ1Qob3ZvQaQYGsnwew</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1251</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//4229f834-a3cb-44c8-9b06-c6c9da38b27a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>4229f834-a3cb-44c8-9b06-c6c9da38b27a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>12AVWqeyj4o9i6nidQEB9w</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1252</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//f1e23e96-e525-4a6e-abb6-7ede43e73333</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -11454,7 +11514,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1247</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1253</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//f2bce941-b929-40f7-98b1-ca18828090b5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -12818,7 +12878,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i181" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i373" Identification="Direct" Name="Direct" Description="Direct reference to the base entity">
+  <IfcClassificationReference id="i373" Identification="DIRECT" Name="DIRECT" Description="Direct reference to the base entity">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i372" />
     </ReferencedSource>
@@ -13273,7 +13333,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i429" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i464" Identification="Direct" Name="Direct" Description="Direct reference to the base entity">
+  <IfcClassificationReference id="i464" Identification="DIRECT" Name="DIRECT" Description="Direct reference to the base entity">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i463" />
     </ReferencedSource>
@@ -17088,7 +17148,7 @@
       <IfcClassification xsi:nil="true" ref="i102" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1227" Identification="" Name="IfcPresentationAppearanceResource" Description="The schema IfcPresentationAppearanceResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for presenting the annotation occurrences of curve, text, filled area, symbol, and surfaces.">
+  <IfcClassificationReference id="i1227" Identification="" Name="IfcPresentationDefinitionResource" Description="The schema IfcPresentationDefinitionResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for defining the annotation occurrences of curve, text, filled area, symbol, and surfaces and the definitions of symbols and text literals for being presented.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
@@ -17128,67 +17188,97 @@
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1235" Identification="" Name="IfcMeasureResource" Description="The IfcMeasureResource schema specifies units and defined measure types that may be assigned to quantities.">
+  <IfcClassificationReference id="i1235" Identification="" Name="IfcMaterialResource" Description="The schema IfcMaterialResource contains the types and entities that are used to define materials (substances, of which products are made of). Materials are defined generically.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1236" Identification="" Name="IfcUtilityResource" Description="The resource schema IfcUtilityResource deals with the general concepts of Ownership and Change. It also includes a basic information construct: Tables. The classes of this schema are referenced throughout the whole IFC Object Model by all of its model layers. The IfcUtilityResource schema consequently contains model specifications for specifying the information content of a number of utility types.">
+  <IfcClassificationReference id="i1236" Identification="" Name="IfcPresentationAppearanceResource" Description="The schema IfcPresentationAppearanceResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for presenting the annotation occurrences of curve, text, filled area, symbol, and surfaces.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1237" Identification="" Name="IfcPresentationDefinitionResource" Description="The schema IfcPresentationDefinitionResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for defining the annotation occurrences of curve, text, filled area, symbol, and surfaces and the definitions of symbols and text literals for being presented.">
+  <IfcClassificationReference id="i1237" Identification="" Name="Nicht zugeordnet" Description="Nicht richtig zugeordnete Elemente.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1238" Identification="" Name="IfcPresentationOrganizationResource" Description="The schema IfcPresentationOrganizationResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for presenting the annotation occurrences of curve, text, filled area, symbol, and surfaces. The organization resource focusses on the provision of layer assignments and light objects.">
+  <IfcClassificationReference id="i1238" Identification="Nicht zugeordnete Elemente" Name="Nicht zugeordnete Elemente" Description="-">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1237" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1239" Identification="USERDEFINED" Name="USERDEFINED" Description="Direct reference to the base entity">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1238" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1240" Identification="" Name="IfcPresentationOrganizationResource" Description="The schema IfcPresentationOrganizationResource defines the resources used for geometric representations and presentations of styled items. The primary application of this resource is for presenting the annotation occurrences of curve, text, filled area, symbol, and surfaces. The organization resource focusses on the provision of layer assignments and light objects.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1239" Identification="" Name="IfcProfileResource" Description="The schema IfcProfileResource defines the two dimensional profiles or cross sections, used to define geometric shape representations. Profile definitions are applied to:&#xD;&#xA;- swept surfaces&#xD;&#xA;- swept area solids&#xD;&#xA;- sectioned spines">
+  <IfcClassificationReference id="i1241" Identification="" Name="IfcProfileResource" Description="The schema IfcProfileResource defines the two dimensional profiles or cross sections, used to define geometric shape representations. Profile definitions are applied to:&#xD;&#xA;- swept surfaces&#xD;&#xA;- swept area solids&#xD;&#xA;- sectioned spines">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1240" Identification="" Name="IfcPropertyResource" Description="The IfcPropertyResource defines a basic set of property types that can be associated with occurrence objects (subtypes of IfcObject) and type objects (subtypes of IfcTypeObject) through the IfcPropertySet (defined in the IfcKernel schema). These properties are used to assign property definitions that are semantically defined by a name string and are extensible in terms of their definitions.">
+  <IfcClassificationReference id="i1242" Identification="" Name="IfcPropertyResource" Description="The IfcPropertyResource defines a basic set of property types that can be associated with occurrence objects (subtypes of IfcObject) and type objects (subtypes of IfcTypeObject) through the IfcPropertySet (defined in the IfcKernel schema). These properties are used to assign property definitions that are semantically defined by a name string and are extensible in terms of their definitions.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1241" Identification="" Name="IfcQuantityResource" Description="IfcQuantityResource defines a set of basic quantities that can be associated with products through the IfcElementQuantity (defined in IfcProductExtension). The basic quantities are used to assign quantities, which have a particular meaning within a referenced method of measurement.">
+  <IfcClassificationReference id="i1243" Identification="" Name="IfcQuantityResource" Description="IfcQuantityResource defines a set of basic quantities that can be associated with products through the IfcElementQuantity (defined in IfcProductExtension). The basic quantities are used to assign quantities, which have a particular meaning within a referenced method of measurement.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1242" Identification="" Name="IfcRepresentationResource" Description="This schema defines the representation of shape and topology as important definitional properties for products defined within the IFC Object Model. The representations characterize certain properties of a product, and any product can be defined by zero, one, or many of those properties. The schema defines two ways to represent definitional properties of products:&#xD;&#xA;1. topological representation&#xD;&#xA;2. geometric shape representation&#xD;&#xA;&#xD;&#xA;The geometric shape representation allows for&#xD;&#xA;1. multiple shape representations for the same product definition shape of a product&#xD;&#xA;2. separate shape representations for components or parts of the product definition shape by using shape aspects">
+  <IfcClassificationReference id="i1244" Identification="" Name="IfcRepresentationResource" Description="This schema defines the representation of shape and topology as important definitional properties for products defined within the IFC Object Model. The representations characterize certain properties of a product, and any product can be defined by zero, one, or many of those properties. The schema defines two ways to represent definitional properties of products:&#xD;&#xA;1. topological representation&#xD;&#xA;2. geometric shape representation&#xD;&#xA;&#xD;&#xA;The geometric shape representation allows for&#xD;&#xA;1. multiple shape representations for the same product definition shape of a product&#xD;&#xA;2. separate shape representations for components or parts of the product definition shape by using shape aspects">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1243" Identification="" Name="IfcStructuralloadResource" Description="The IfcStructuralLoadResource holds the definitions of structural loads, results, boundary conditions, and connection conditions. These definitions specify the force, moment, stiffness, displacement and other factors.">
+  <IfcClassificationReference id="i1245" Identification="" Name="IfcStructuralloadResource" Description="The IfcStructuralLoadResource holds the definitions of structural loads, results, boundary conditions, and connection conditions. These definitions specify the force, moment, stiffness, displacement and other factors.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1244" Identification="" Name="IfcTopologyResource" Description="The schema IfcTopologyResource defines the resources used for topological representations. The primary application of this resource is its use in the Boundary representation of the shape or geometric form of a product model.">
+  <IfcClassificationReference id="i1246" Identification="" Name="IfcTopologyResource" Description="The schema IfcTopologyResource defines the resources used for topological representations. The primary application of this resource is its use in the Boundary representation of the shape or geometric form of a product model.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1245" Identification="" Name="IfcMaterialResource" Description="The schema IfcMaterialResource contains the types and entities that are used to define materials (substances, of which products are made of). Materials are defined generically.">
+  <IfcClassificationReference id="i1247" Identification="" Name="IfcUtilityResource" Description="The resource schema IfcUtilityResource deals with the general concepts of Ownership and Change. It also includes a basic information construct: Tables. The classes of this schema are referenced throughout the whole IFC Object Model by all of its model layers. The IfcUtilityResource schema consequently contains model specifications for specifying the information content of a number of utility types.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1246" Identification="5.1" Name="IfcActorResource" Description="The IfcActorResource schema within the IFC model enables representation of information concerning a person or an organization that will undertake work or hold responsibility. The IfcActorResource schema is developed as a separate resource schema containing identified actor related classes because it is a general idea that can be related to many other classes.">
+  <IfcClassificationReference id="i1248" Identification="" Name="IfxOutdoorAreaDomain" Description="The schema IfcTopologyResource defines the resources used for topological representations. The primary application of this resource is its use in the Boundary representation of the shape or geometric form of a product model.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1247" Identification="5.2" Name="IfcApprovalResource" Description="The IfcApprovalResource schema in the resource layer defines basic concepts for approvals to be assigned to any object or object type or property definition in the IFC model derived from IfcRoot. The assignment is done using IfcRelAssociatesApproval in the IfcControlExtension schema. Also, approvals can be assigned to specific resource level objects (documents, properties, persons/organizations or materials), using IfcResourceApprovalRelationship.">
+  <IfcClassificationReference id="i1249" Identification="IfxOutdoorElements" Name="IfxOutdoorElements" Description="Elements of the outdoor area of buildings.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1248" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1250" Identification="USERDEFINED" Name="USERDEFINED" Description="Direct reference to the base entity">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1249" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1251" Identification="" Name="IfcMeasureResource" Description="The IfcMeasureResource schema specifies units and defined measure types that may be assigned to quantities.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1226" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1252" Identification="5.1" Name="IfcActorResource" Description="The IfcActorResource schema within the IFC model enables representation of information concerning a person or an organization that will undertake work or hold responsibility. The IfcActorResource schema is developed as a separate resource schema containing identified actor related classes because it is a general idea that can be related to many other classes.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i1226" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1253" Identification="5.2" Name="IfcApprovalResource" Description="The IfcApprovalResource schema in the resource layer defines basic concepts for approvals to be assigned to any object or object type or property definition in the IFC model derived from IfcRoot. The assignment is done using IfcRelAssociatesApproval in the IfcControlExtension schema. Also, approvals can be assigned to specific resource level objects (documents, properties, persons/organizations or materials), using IfcResourceApprovalRelationship.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1226" />
     </ReferencedSource>
