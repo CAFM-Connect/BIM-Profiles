@@ -1,0 +1,29 @@
+#------------------------------------#
+#  Build the SchemaValidator.exe     #
+#------------------------------------#
+version: 1.0.{build}
+image: Visual Studio 2017
+configuration: Release
+platform: Any CPU
+assembly_info:
+  patch: true
+  file: '**\AssemblyInfo.*'
+  assembly_version: '{version}'
+  assembly_file_version: '{version}'
+  assembly_informational_version: '{version}'
+before_build:
+  - git clone https://github.com/buildingSMART/ProductData
+  - cd ProductData/Tools
+  - nuget restore
+build:
+  project: Tools/Tools.sln
+  verbosity: minimal
+artifacts:
+- path: Tools\SchemaValidator\bin\$(configuration)
+  name: SchemaValidator
+  
+#------------------------------------#
+#    Run the SchemaValidator.exe     #
+#------------------------------------#
+on_finish:
+  - ps: '& "C:\projects\productdata\ValidateSampleFiles.ps1"'
