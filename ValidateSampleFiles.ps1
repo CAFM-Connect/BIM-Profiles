@@ -1,6 +1,6 @@
 ﻿$BaseFolder = "C:\projects\bim-profiles"
 $ValidatorExe="$BaseFolder\ProductData\Tools\SchemaValidator\bin\Release\net47\SchemaValidator.exe"
-$ProfileFiles = Get-ChildItem -Path $BaseFolder  -Recurse -Include *.ifc,*.ifcXML -Exclude ProductData
+$ProfileFiles = Get-ChildItem -Path $BaseFolder  -Recurse -Include *.ifc,*.ifcXML | Where {$_.FullName -notlike "*\ProductData\*"}
 $ExitCode=0
 foreach ($file in $ProfileFiles | Sort-Object -Property FullName) 
 {
