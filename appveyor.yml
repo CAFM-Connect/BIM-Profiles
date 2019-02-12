@@ -16,14 +16,14 @@ before_build:
   - cd ProductData/Tools
   - nuget restore
 build:
-  project: Tools/Tools.sln
+  project: ProductData/Tools/Tools.sln
   verbosity: minimal
 artifacts:
-- path: Tools\SchemaValidator\bin\$(configuration)
+- path: ProductData\Tools\SchemaValidator\bin\$(configuration)
   name: SchemaValidator
   
 #------------------------------------#
 #    Run the SchemaValidator.exe     #
 #------------------------------------#
 on_finish:
-  - ps: '& "C:\projects\productdata\ValidateSampleFiles.ps1"'
+  - ps: '& "C:\projects\bim-profiles\ValidateSampleFiles.ps1"'
