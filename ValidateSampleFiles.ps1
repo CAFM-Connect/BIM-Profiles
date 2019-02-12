@@ -1,5 +1,5 @@
-﻿$BaseFolder = "C:\projects\productdata"
-$ValidatorExe="$BaseFolder\Tools\SchemaValidator\bin\Release\net47\SchemaValidator.exe"
+﻿$BaseFolder = "C:\projects\bim-profiles"
+$ValidatorExe="$BaseFolder\ProductData\Tools\SchemaValidator\bin\Release\net47\SchemaValidator.exe"
 $SampleFiles = Get-ChildItem -Path $BaseFolder  -Recurse -Include *.ifc,*.ifcXML
 $ExitCode=0
 foreach ($file in $SampleFiles | Sort-Object -Property FullName) 
