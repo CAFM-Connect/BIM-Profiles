@@ -1,8 +1,8 @@
 ﻿$BaseFolder = "C:\projects\bim-profiles"
 $ValidatorExe="$BaseFolder\ProductData\Tools\SchemaValidator\bin\Release\net47\SchemaValidator.exe"
-$SampleFiles = Get-ChildItem -Path $BaseFolder  -Recurse -Include *.ifc,*.ifcXML
+$ProfileFiles = Get-ChildItem -Path $BaseFolder  -Recurse -Include *.ifc,*.ifcXML -Exclude ProductData
 $ExitCode=0
-foreach ($file in $SampleFiles | Sort-Object -Property FullName) 
+foreach ($file in $ProfileFiles | Sort-Object -Property FullName) 
 {
    Write-Host "++++++++++++++++++++++++++++++++++++++"
    $filename = $file.FullName.Replace($BaseFolder,"")
