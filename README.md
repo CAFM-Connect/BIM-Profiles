@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lv6ptih8d46bkj49?svg=true)](https://ci.appveyor.com/project/klacol/bim-profiles)
+
 ## What are BIM Profiles?
 
 A BIM profile is a digital template for the information request of a BIM application, comparable to an structured form. For a successful exchange of information, the sender and recipient of the information must agree on a BIM profile for their purpose in advance.
