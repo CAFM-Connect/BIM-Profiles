@@ -9,7 +9,7 @@
     <authorization>https://www.beuth.de/de/fachpublikationen/rechte-lizenzen</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i40879" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Classification of cost groups according to DIN 276" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
+  <IfcProjectLibrary id="i40800" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Classification of cost groups according to DIN 276" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
     <OwnerHistory CreationDate="1496880000000">
       <OwningUser>
         <ThePerson FamilyName="DIN 276" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i40880" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40879" />
+  <IfcRelDefinesByProperties id="i40801" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40800" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i40881" Name="DictionaryReferenceTable">
+  <IfcTable id="i40802" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

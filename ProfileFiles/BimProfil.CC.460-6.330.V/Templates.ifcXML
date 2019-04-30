@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i40976" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Fördertechnische Anlagen inspizieren und warten" Description="Schöner Text zu Fördertechnische Anlagen inspizieren und warten." Phase="Betreiben">
+  <IfcProjectLibrary id="i40903" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Fördertechnische Anlagen inspizieren und warten" Description="Schöner Text zu Fördertechnische Anlagen inspizieren und warten.  Test." Phase="Betreiben">
     <OwnerHistory CreationDate="1534464000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i40977" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40976" />
+  <IfcRelDefinesByProperties id="i40904" GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i40903" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="3k2Mppx6L7mhXzfjgkSwtI" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i40978" Name="DictionaryReferenceTable">
+  <IfcTable id="i40905" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

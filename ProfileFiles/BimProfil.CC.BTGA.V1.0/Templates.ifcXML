@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i34842" GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="Bauteiltypen-Klassifikation nach BTGA" Description="Klassifikation von technischer Gebäudeausstattungnach BTGA (Bundesindustrieverband Technische Gebäudeausrüstung e.V.)." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i34748" GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="Bauteiltypen-Klassifikation nach BTGA" Description="Klassifikation von technischer Gebäudeausstattungnach BTGA (Bundesindustrieverband Technische Gebäudeausrüstung e.V.)." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="-" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i34843" GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i34842" />
+  <IfcRelDefinesByProperties id="i34749" GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i34748" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="29oNb1I9bDd9OuhhjqUlCG" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i34844" Name="DictionaryReferenceTable">
+  <IfcTable id="i34750" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
