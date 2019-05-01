@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | https://www.beuth.de/de/fachpublikationen/rechte-lizenzen |  
 LifeCyclePhase | Betreiben |  
-Publisher | [Beuth Verlag GmbH](http://www.cafmring.de) |  
+Publisher | [Beuth Verlag GmbH](https://www.beuth.de/de) |  
 PublisherTeam | DIN 276 |  
 Tags |  |  
 Version | 2017-07 |  

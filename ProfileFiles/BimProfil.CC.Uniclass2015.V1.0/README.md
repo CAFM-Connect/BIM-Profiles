@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | en |  
 License | https://toolkit.thenbs.com/legal/end-user-licence-agreement |  
 LifeCyclePhase | Planen, Bauen, Betreiben |  
-Publisher | [Royal Institute of British Arcitects (UK)](https://www.cafm-connect.org) |  
+Publisher | [Royal Institute of British Arcitects (UK)](https://toolkit.thenbs.com/articles/classification) |  
 PublisherTeam |  |  
 Tags |  |  
 Version | 1.0 |  

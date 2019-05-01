@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | - |  
 LifeCyclePhase | Planen, Bauen, Betreiben |  
-Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.cafm-connect.org) |  
+Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.gefma.de) |  
 PublisherTeam | 924.10 |  
 Tags |  |  
 Version | 1.0 |  
