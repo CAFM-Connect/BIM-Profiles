@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | - |  
 LifeCyclePhase | Planen, Bauen, Betreiben |  
-Publisher | [Bundesindustrieverband Technische Gebäudeausrüstung e.V.](http://www.cafmring.de) |  
+Publisher | [Bundesindustrieverband Technische Gebäudeausrüstung e.V.](https://www.cafm-connect.org) |  
 PublisherTeam | - |  
 Tags |  |  
 Version | 1.0 |  
