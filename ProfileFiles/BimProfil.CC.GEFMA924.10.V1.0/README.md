@@ -1,4 +1,4 @@
-## Basisprofil GEFMA924.10
+## Klassifikation von Bauwerkstypen nach GEFMA924.10
 Klassifikation von Bauwerkstypen nach GEFMA924.10. Die Rechte des GEFMA e.V. bleiben unberührt.
 
 Key | Value |
@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | - |  
 LifeCyclePhase | Planen, Bauen, Betreiben |  
-Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.cafmring.de/cafm-connect/) |  
+Publisher | [GEFMA Deutscher Verband für Facility Management e.V.](https://www.gefma.de) |  
 PublisherTeam | 924.10 |  
 Tags |  |  
 Version | 1.0 |  

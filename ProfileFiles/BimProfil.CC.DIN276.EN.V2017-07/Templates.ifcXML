@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
-    <name>BIM Profil Base classification cost planning in construction</name>
+    <name>BIM Profil Classification of cost groups according to DIN 276</name>
     <time_stamp>2017-06-08T00:00:00</time_stamp>
     <author>DIN 276</author>
     <organization>Beuth Verlag GmbH</organization>
@@ -9,7 +9,7 @@
     <authorization>https://www.beuth.de/de/fachpublikationen/rechte-lizenzen</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i34836" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Base classification cost planning in construction" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
+  <IfcProjectLibrary id="i42684" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Classification of cost groups according to DIN 276" Description="Klassifikation der Kostengruppen nach DIN 276." Phase="Betreiben">
     <OwnerHistory CreationDate="1496880000000">
       <OwningUser>
         <ThePerson FamilyName="DIN 276" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i34837" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i34836" />
+  <IfcRelDefinesByProperties id="i42685" GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42684" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="09$_AaSUb2w8fdiMixh$p_" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i34838" Name="DictionaryReferenceTable">
+  <IfcTable id="i42686" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

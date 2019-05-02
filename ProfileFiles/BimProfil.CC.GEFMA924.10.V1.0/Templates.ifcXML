@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
-    <name>BIM Profil Basisprofil GEFMA924.10</name>
+    <name>BIM Profil Klassifikation von Bauwerkstypen nach GEFMA924.10</name>
     <time_stamp>2017-11-29T00:00:00</time_stamp>
     <author>924.10</author>
     <organization>GEFMA Deutscher Verband für Facility Management e.V.</organization>
@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i42106" GlobalId="0f0mRoVPH0KwcqbOOPPlej" Name="Basisprofil GEFMA924.10" Description="Klassifikation von Bauwerkstypen nach GEFMA924.10. Die Rechte des GEFMA e.V. bleiben unberührt." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i63363" GlobalId="0f0mRoVPH0KwcqbOOPPlej" Name="Klassifikation von Bauwerkstypen nach GEFMA924.10" Description="Klassifikation von Bauwerkstypen nach GEFMA924.10. Die Rechte des GEFMA e.V. bleiben unberührt." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="924.10" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i42107" GlobalId="0f0mRoVPH0KwcqbOOPPlej" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i42106" />
+  <IfcRelDefinesByProperties id="i63364" GlobalId="0f0mRoVPH0KwcqbOOPPlej" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i63363" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0f0mRoVPH0KwcqbOOPPlej" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i42108" Name="DictionaryReferenceTable">
+  <IfcTable id="i63365" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
@@ -91,6 +91,1020 @@
           <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63368</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/541c4b7b-2ff5-46e9-b30b-d8201e721c46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>541c4b7b-2ff5-46e9-b30b-d8201e721c46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1K74jxB$L6wRCBs20USXn6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63369</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/5cfdc212-9b0b-44b9-9afb-fcf3ec53d00e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5cfdc212-9b0b-44b9-9afb-fcf3ec53d00e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1S$S8Icmj4kPhx$FFiKz0E</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63370</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/c5d4915d-8abb-47d5-a0e6-6e090bafa0bf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c5d4915d-8abb-47d5-a0e6-6e090bafa0bf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35r95TYhj7rQ3cRWaBhw2$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63371</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/89e165d2-f5eb-48f3-9e93-bad66347ea0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>89e165d2-f5eb-48f3-9e93-bad66347ea0c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>29uMNIzUj8yvwJkjPZH_eC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63372</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/002551bf-acbf-4c2c-b2ed-cbb14a906832</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>002551bf-acbf-4c2c-b2ed-cbb14a906832</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>009L6$hBzCBBBjox5Aa6Wo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63373</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/e65f41a2-e36c-4c80-82d1-3b50838c84e9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e65f41a2-e36c-4c80-82d1-3b50838c84e9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3cNq6YusnCW8BHEr23Z8Jf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63374</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/f8b02758-ae36-4cef-be98-17dc66a8566a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f8b02758-ae36-4cef-be98-17dc66a8566a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ui2TOhZPCxxwO5zncg5Pg</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63375</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/66ba0d34-2314-45be-a420-68b9523c3d58</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>66ba0d34-2314-45be-a420-68b9523c3d58</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1ckWqq8nH5lgGWQBbIF3rO</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63376</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/f5b709d8-572f-4bf6-a514-69eb11a49172</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f5b709d8-572f-4bf6-a514-69eb11a49172</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3rjmdOLozBzgKKQUiHf95o</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63377</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/76c10105-37e2-4f55-971e-145b0ebe6e0a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>76c10105-37e2-4f55-971e-145b0ebe6e0a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1smG45D_9FLPSU55iElcuA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63378</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/b50e8cbd-bf6b-4dff-9ef3-d189777c2360</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b50e8cbd-bf6b-4dff-9ef3-d189777c2360</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2r3eozlsjD$vxpqObtV2DW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63379</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/32167312-b141-4b03-b6ea-3da019db8682</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>32167312-b141-4b03-b6ea-3da019db8682</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0o5dCIiK5B0xRgFQ0PsuQ2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63380</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/71d4e9ce-4836-4da2-aafe-1cd6883e31d9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>71d4e9ce-4836-4da2-aafe-1cd6883e31d9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nrEdEI3PDegh_7DQ8FZ7P</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63381</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/71ecba2e-e784-4059-9e12-217bf05c892b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>71ecba2e-e784-4059-9e12-217bf05c892b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nxBekvuH0MPuI8NlmN8ah</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63382</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/f699f50a-e456-4f47-86d9-e397ca3ba810</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f699f50a-e456-4f47-86d9-e397ca3ba810</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3scVKAv5PFHuRPuvVAEwWG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63383</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/a0494e6e-d264-40a1-a9a6-cb624255436b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a0494e6e-d264-40a1-a9a6-cb624255436b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2WIKvkqcH0eQccos92LKDh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63384</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/dbbc56c3-d5d0-453d-bc7d-16c0d99e36f9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dbbc56c3-d5d0-453d-bc7d-16c0d99e36f9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Rl5R3rT15FRnz5i3PdZRv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63385</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/4dea8d22-1fc0-47af-9690-ae6d721fac36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4dea8d22-1fc0-47af-9690-ae6d721fac36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1DweqY7y17hvQGhcro7wms</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/ead56a60-7115-4f8c-b99f-33acae5b2379</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ead56a60-7115-4f8c-b99f-33acae5b2379</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3grMfWSHLFZBcVCwokMoDv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63387</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/ad539147-da5a-4182-92f6-98c28f498d2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ad539147-da5a-4182-92f6-98c28f498d2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2jKv57sbf1WfBscCAFIOqj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63388</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/1ee3185a-ddc0-4e9c-bbe9-3c848980e53a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1ee3185a-ddc0-4e9c-bbe9-3c848980e53a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0UunXQtS1EdBlfF8I9WEKw</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63389</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/6fa3b22d-c934-4bd5-9baf-0d1b797dce69</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6fa3b22d-c934-4bd5-9baf-0d1b797dce69</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1lex8joJHBrPkl3HjvVSvf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63390</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/9dbc6154-25ba-46ba-8095-1dba51446930</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9dbc6154-25ba-46ba-8095-1dba51446930</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Tl65K9Rf6ke2L7RfHH6am</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63391</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/29330807-f6a5-4e85-953e-924652a9a9c3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>29330807-f6a5-4e85-953e-924652a9a9c3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0fCmW7zgLEXPK_aaPIgQd3</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63392</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/1a89a05d-9a0c-4793-a65e-6c5febd3a327</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1a89a05d-9a0c-4793-a65e-6c5febd3a327</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0QYQ1TcWn7awPUR5$hqwCd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63393</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/d5bb06ee-0a37-4c61-8d80-df0c003c8634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d5bb06ee-0a37-4c61-8d80-df0c003c8634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3LkmRk2ZTCOOs0tmm0F8Oq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/4e62c011-e5f3-420c-b408-948c3935d811</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4e62c011-e5f3-420c-b408-948c3935d811</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1EOi0HvVD23BG8b8mvDTWH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63395</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/c77ecbae-136b-4e82-9898-aaea148a5f29</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c77ecbae-136b-4e82-9898-aaea148a5f29</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37Vikk4sjEWfYOgkeKYbyf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63396</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/fac876c1-e0bf-4918-9b56-41b639d0e060</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fac876c1-e0bf-4918-9b56-41b639d0e060</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wo7R1uBz969jMGROvqE1W</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63397</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/de7b51ae-7474-4e56-9709-9bb76b127766</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>de7b51ae-7474-4e56-9709-9bb76b127766</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3UUr6kT7HELfS9cxTh4dTc</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63398</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/e19d439f-e4e9-487e-b98c-7cc61a5c0692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e19d439f-e4e9-487e-b98c-7cc61a5c0692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3XdKEVvEb8VhcCVCOQN0QI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63399</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/d87ad9b3-ed3e-4a03-86a2-b3e8f61dd650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d87ad9b3-ed3e-4a03-86a2-b3e8f61dd650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OUjcpxJvA0uQYi_Zs7TPG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63400</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/59515663-c6a2-4ddf-9035-186a0e8e3839</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>59515663-c6a2-4ddf-9035-186a0e8e3839</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1PKLPZng9Dtv0r66eEZZWv</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63401</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/4b22301e-622d-47aa-9f65-62dcfa8674b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4b22301e-622d-47aa-9f65-62dcfa8674b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1B8Z0UOYr7gfzbOjpwXdIo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63402</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/522fd718-1bda-48e0-b54b-6ccb3a6b3932</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>522fd718-1bda-48e0-b54b-6ccb3a6b3932</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1IBzSO6zf8uBLBRCiwQpao</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63403</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/fac84983-5f1f-4fe4-aaf5-0bc04ac59c92</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fac84983-5f1f-4fe4-aaf5-0bc04ac59c92</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wo4c3NnzFvAhr2y1AnPoI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63404</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/7eaddfc1-be18-4dba-b899-7c9311da57f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7eaddfc1-be18-4dba-b899-7c9311da57f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1_hT$1lXXDkhYPV9CHsbVt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63405</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/3274ae45-4ca6-4b4d-a6ad-b7a0f252f90d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3274ae45-4ca6-4b4d-a6ad-b7a0f252f90d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0oTAv5JAPBJQQjjw3oKlaD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63406</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/d9ea6ea6-bff9-4a8b-848e-954833b598e5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d9ea6ea6-bff9-4a8b-848e-954833b598e5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Pwcwcl$bAYuIEbKWpjPZb</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63407</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/798d25de-14d8-492c-8f26-faa7308e8b41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>798d25de-14d8-492c-8f26-faa7308e8b41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1vZINU5DX9B8yc_gSmZej1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63408</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/16049047-38ff-48ed-9c7a-46626591261f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16049047-38ff-48ed-9c7a-46626591261f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0M1917EFz8xPnwHc9baIOV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63409</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/cd5840e8-f4ca-41f7-8449-f367e96379b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cd5840e8-f4ca-41f7-8449-f367e96379b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3DM43ezCf1zuH9ysVfOtct</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63410</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/9c4ca6af-9d2e-4bf8-9c96-a537da809624</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9c4ca6af-9d2e-4bf8-9c96-a537da809624</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2SJAQldIvB_9oMfJVQW9Oa</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63411</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/b0e3cfb2-5749-430e-a83d-d5a797e06fa6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b0e3cfb2-5749-430e-a83d-d5a797e06fa6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2muy_oLqb33gWzrQUNu6_c</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63412</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/afaeb448-609a-4c6e-878e-7c89cf582fe9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>afaeb448-609a-4c6e-878e-7c89cf582fe9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2lhhH8O9fCReUEV8dFM2$f</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63413</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/c1caef02-7a89-4c82-89f8-5e694bd8ef45</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c1caef02-7a89-4c82-89f8-5e694bd8ef45</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>31oky2UebCWeduNcbBsEz5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63414</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/2e866b1d-ab5e-402d-9c49-b8091afa2a0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2e866b1d-ab5e-402d-9c49-b8091afa2a0f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0kXciTgrv0BPn9k0aQ_YeF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63415</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/c8d0e1b2-5e25-446e-98b6-2211b893d3ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c8d0e1b2-5e25-446e-98b6-2211b893d3ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>38qE6oNYL4RfYs8X6uazFA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63416</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/956043b1-f624-4d13-a1ab-88c49b697056</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>956043b1-f624-4d13-a1ab-88c49b697056</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2LO4EnzYHD4w6hYCIRQN1M</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63417</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/443529bc-02a0-416a-9154-e433b7831ffa</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>443529bc-02a0-416a-9154-e433b7831ffa</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>14DIcy0g11Qf5Kv3EtWn$w</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63418</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/0e8f26ae-ebcb-41ac-ab43-c306de44208f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0e8f26ae-ebcb-41ac-ab43-c306de44208f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0EZoQkwyj1hAj3mmRUH22F</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63419</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/83cea54a-775a-4ab8-9232-8988a034c456</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>83cea54a-775a-4ab8-9232-8988a034c456</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23pgLATrfAk98oYOYWDCHM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63420</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/a6556c2f-c3d8-46a6-b118-74043e8c14a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a6556c2f-c3d8-46a6-b118-74043e8c14a4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2cLMmlmzX6fh4OT0G_Z1Ia</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63421</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/5e177c0e-a7b8-427c-b1b5-87b0d105705d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5e177c0e-a7b8-427c-b1b5-87b0d105705d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1U5tmEfxX2VB6rXx3H1N1T</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63422</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/00953c0e-90b6-4cc7-af43-928151558498</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00953c0e-90b6-4cc7-af43-928151558498</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00bJmEaBPCnwz3ae5HLOIO</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63423</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/e6de3e77-aad5-4c06-851f-9d821f7cc3ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e6de3e77-aad5-4c06-851f-9d821f7cc3ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ctZvtgjLC1eKVdO8VVCFi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63424</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/83c78e56-12b0-4f14-a492-b1d6c0e6dd8e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>83c78e56-12b0-4f14-a492-b1d6c0e6dd8e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>23nuvM4h1F5AIIiTR0vjsE</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63425</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/d9004ad7-f440-42ac-b783-954353697fd6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d9004ad7-f440-42ac-b783-954353697fd6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3P04hNz412hBU3bKDJQN$M</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63426</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/f96767b4-92a1-474f-83a6-e3f026f18894</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f96767b4-92a1-474f-83a6-e3f026f18894</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3vPsUqag57JuEcu$0cyOYK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63427</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/04adad72-5585-4762-b92b-6909537b2d8b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04adad72-5585-4762-b92b-6909537b2d8b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04hQroLOL7OhahQGbJUosB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63428</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/438dd205-3efd-468b-9b9e-fa64e0eb757c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>438dd205-3efd-468b-9b9e-fa64e0eb757c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>13ZT85Flr6YvkU_cJWwtLy</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63429</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/29bdbe6c-cfd5-4f86-8d22-c88f5857f9ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>29bdbe6c-cfd5-4f86-8d22-c88f5857f9ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0flRvipzLFXeqYo8zOL$dA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63430</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/37629217-2006-4f63-a409-991f254a84ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37629217-2006-4f63-a409-991f254a84ca</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0tOf8N80PFOwG9cHybIeJA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63431</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/16d361dd-026d-4002-b8cc-d79ca9ef6386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16d361dd-026d-4002-b8cc-d79ca9ef6386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Mqs7T0cr00hZCrvofxsE6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63432</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/ef83a4b3-3311-4723-bbfe-628eeb4d2720</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ef83a4b3-3311-4723-bbfe-628eeb4d2720</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3lWwIpCn578xl_OexhJISW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63433</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/b2e9fe37-bb68-41b7-a5c7-28e9b9a3332f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b2e9fe37-bb68-41b7-a5c7-28e9b9a3332f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2owVutksX1jwN7AEcvepCl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i63434</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.10.DE/9feeec2b-cda1-40c2-9f38-0d4d74cda3cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>GEFMA924.10.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9feeec2b-cda1-40c2-9f38-0d4d74cda3cd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2VxkmhpQ50mfyu3KrqpQFD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
     </Rows>
   </IfcTable>
+  <IfcClassification id="i63366" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Bauwerkstypen nach GEFMA 924.10" Description="CAFMConnectCatalogueOfBuildingTypes" />
+  <IfcRelAssociatesClassification id="i63367" GlobalId="0f0mRoVPH0KwcqbOOPPlej">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" Name="" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i63368" Identification="010" Name="Regelbauten" Description="Gebäude der Gebäudeklassen 1-5 nach Baurecht, außer Sonderbauten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63369" Identification="011" Name="Wohngebäude" Description="Einfamilienhäuser, Mehrfamilienhäuser (beachte: Wohnhochhäuser = 021.10; Heime = 031; einzelne Wohnräume = 711), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63368" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63370" Identification="012" Name="Regelbauten" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63368" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63371" Identification="020" Name="Sonderbauten" Description="im Sinne des Baurechts (siehe § 2 Abs. 4 MBO oder unter Begriff &quot;Sonderbau&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63372" Identification="021" Name="Hochhaus" Description="im Sinne des Baurechts (siehe § 2 Abs. 4 Nr. 1 MBO oder unter Begriff &quot;Hochhaus&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63373" Identification="021.10" Name="Wohnhochhäuser" Description="im Sinne des Baurechts (siehe § 2 Abs. 4 Nr. 1 MBO oder unter Begriff &quot;Hochhaus&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63372" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63374" Identification="021.20" Name="Bürohochhäuser" Description="im Sinne des Baurechts (siehe § 2 Abs. 4 Nr. 1 MBO oder unter Begriff &quot;Hochhaus&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63372" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63375" Identification="022" Name="Verkaufsstätte" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVkVO oder unter Begriff &quot;Verkaufsstätte&quot;), z. B. Läden und Geschäfte, Kaufhäuser, Shopping-Center, Outlet-Stores und dgl., unabhängig von der Größe, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einricht">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63376" Identification="022.10" Name="Verkaufsstätten ≤ 2.000 m²" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVkVO oder unter Begriff &quot;Verkaufsstätte&quot;), z. B. Läden und Geschäfte, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63375" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63377" Identification="022.20" Name="Verkaufsstätten &gt; 2.000 m²" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVkVO oder unter Begriff &quot;Verkaufsstätte&quot;), z. B. große Läden und Geschäfte, Kaufhäuser, Shopping-Center, Outlet-Stores und dgl., jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattun">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63375" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63378" Identification="023" Name="Versammlungsstätte" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVStättV oder unter Begriff &quot;Versammlungsstätte&quot;; mit oder ohne ständige Arbeitsplätze), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63379" Identification="023.10" Name="Versammlungsstätten ≤ 5.000 Besucherplätze" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVStättV oder unter Begriff &quot;Versammlungsstätte&quot;; mit oder ohne ständige Arbeitsplätze), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63378" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63380" Identification="023.20" Name="Versammlungsstätten &gt; 5.000 Besucherplätze" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MVStättV oder unter Begriff &quot;Versammlungsstätte&quot;; mit oder ohne ständige Arbeitsplätze), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63378" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63381" Identification="024" Name="Gast-/Beherbergungsstätte" Description="im Sinne des Baurechts (siehe § 2 Abs. 1 MBeVO oder unter Begriffen &quot;Gastraum&quot;, &quot;Beherbergungsraum&quot; und &quot;Beherbergungsstätte&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63382" Identification="025" Name="Krankenhaus" Description="im Sinne des Baurechts, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63383" Identification="026" Name="Schule &amp; Hochschule" Description="im Sinne des Baurechts (Turnhallen siehe 032.10), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63384" Identification="027" Name="Kindertagesstätte / Kindergarten" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63385" Identification="028" Name="Schwimmbad" Description="Hallenbäder, Freibäder, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63386" Identification="028.10" Name="Hallenbäder" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63385" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63387" Identification="028.20" Name="Freibäder" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63385" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63388" Identification="029" Name="Bankgebäude (Bankzentralen)" Description="soweit aufgrund der Größe oder der Baugenehmigung unter Sonderbauten fallend, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen; Schalter-/Kassenräume siehe Nr. 725">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63389" Identification="031" Name="Heim" Description="Kinderheime, Jugendheime, Altenheime, Altenwohnheime, Pflegeheime, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63390" Identification="032" Name="Sportstätte" Description="Turn- und Sporthallen, Stadien, Arenen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63391" Identification="032.10" Name="Turnhallen, Sporthallen" Description="auch Reithallen, Tennishallen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63390" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63392" Identification="032.20" Name="Sportstadien" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63390" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63393" Identification="032.21" Name="Sportstadien ≤ 5.000 Besucherplätze" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63390" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63394" Identification="032.22" Name="Sportstadien &gt; 5.000 Besucherplätze" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63390" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63395" Identification="033" Name="Messe- und Ausstellungsbau" Description="Messehallen, Ausstellungshallen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63396" Identification="034" Name="Bahnhof" Description="Bahnhofsgebäude, Bahnsteige, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63397" Identification="035" Name="Flughafen" Description="Flughafengebäude, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63398" Identification="036" Name="Industriebau" Description="Fabrikgebäude, Werkstattgebäude, Werkhallen, Lagerhallen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63399" Identification="036.10" Name="Werkstattgebäude" Description="jedoch ohne dessen einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63398" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63400" Identification="036.20" Name="Werkhallen" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen; siehe dazu auch Werkstätten Nr. 732">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63398" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63401" Identification="036.30" Name="Lagerhallen" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63398" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63402" Identification="037" Name="Laborgebäude" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63403" Identification="038" Name="Feuerwehrhaus/ Feuerwache" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen, z. B. Ausrüstungen und Geräte für die Feuerwehr = 612.80">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63404" Identification="039" Name="Bühne / Studio" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen; für Zuschauerräume &gt; 200 Besucherplätze: siehe zusätzlich Nr. 023 Versammlungsstätten">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63405" Identification="041" Name="Kirchenbau" Description="Kirchen, Kapellen, Glockentürme, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63406" Identification="042" Name="Justizvollzugsanstalt" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63407" Identification="043" Name="Tankstelle" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen, z. B. Tankstellenanlagen = 548.30, Benzinabscheider = 541.61, Verkaufsräume = 745, Werkstätten = 732, usw.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63408" Identification="044" Name="Abfallbeseitigungsanlage" Description="Anlagen zur Vorbehandlung, Aufbereitung oder Verwertung von Abfällen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63409" Identification="045" Name="Klärwerk / Kläranlage" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63410" Identification="046" Name="Gemeinschaftsunterkunft" Description="jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen; gelten nicht als Arbeitsstätten i.S. der ArbStättV">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63411" Identification="047" Name="Regallager" Description="mit einer Oberkante Lagerguthöhe von mehr als 7,50 m">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63412" Identification="049" Name="Sonstige Sonderbauten" Description="mit besonderen gesetzlichen und/oder behördlichen Anforderungen, z. B. aus Baugenehmigung, Brandschutzgutachten o. dgl., jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63371" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63413" Identification="050" Name="Garagen" Description="im Sinne des Baurechts (siehe unter Begriff &quot;Garage&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63414" Identification="051" Name="Kleingarage" Description="im Sinne des Baurechts (siehe § 1 Abs. 8 MGarVO: Nutzfläche ≤  100 m²), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63413" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63415" Identification="052" Name="Mittelgarage" Description="im Sinne des Baurechts (siehe § 1 Abs. 8 MGarVO: Nutzfläche &gt; 100 m² bis ≤  1.000 m²), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63413" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63416" Identification="052.10" Name="Offene Mittelgaragen" Description="im Sinne des Baurechts (siehe unter Begriff &quot;Garage, offene&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63415" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63417" Identification="052.20" Name="Geschlossene Mittelgaragen" Description="im Sinne des Baurechts (siehe unter Begriff &quot;Garage, geschlossene&quot;), jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63415" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63418" Identification="053" Name="Großgarage" Description="im Sinne des Baurechts (siehe § 1 Abs. 8 MGarVO: Nutzfläche &gt; 1.000 m²), z. B. Parkhäuser, Tiefgaragen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63413" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63419" Identification="053.10" Name="Offene Großgaragen" Description="im Sinne des Baurechts (siehe unter Begriff &quot;Garage, offene&quot;), z. B. Parkhäuser, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63418" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63420" Identification="053.20" Name="Geschlossene Großgaragen" Description="im Sinne des Baurechts (siehe unter Begriff &quot;Garage, geschlossene&quot;), z. B. Tiefgaragen, jedoch ohne deren einzelne Bauelemente, techn. Anlagen, Einrichtungen und Ausstattungen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63418" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63421" Identification="060" Name="Weitere Freianlagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63422" Identification="061" Name="Camping- und Wochenendplätze" Description="im Sinne des Baurechts">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63423" Identification="062" Name="Freizeit- und Vergnügungsparks" Description="im Sinne des Baurechts">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63424" Identification="063" Name="Fliegende Bauten" Description="soweit sie einer Ausführungsgenehmigung bedürfen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63421" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63425" Identification="070" Name="Verkehrsanlagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63426" Identification="071" Name="Straßen und Wege" Description="außerhalb von Baugrundstücken">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63427" Identification="072" Name="Anlagen des Schienenverkehrs" Description="Gleise und Bahnsteiganlagen (außer Bahnhöfe)">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63428" Identification="073" Name="Anlagen des Flugverkehrs" Description="Start- und Landebahnen, Rollbahnen, Vorfelder, Stellplätze">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63429" Identification="074" Name="Wasserstraßen" Description="Hafenanlagen, Kaianlagen, schiffbare Kanäle">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63430" Identification="075" Name="Brücken" Description="für Straßen, Wege, Schienen oder Kanäle">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63431" Identification="076" Name="Tunnel" Description="für Straßen, Wege, Schienen oder Kanäle">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63425" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63432" Identification="090" Name="Ingenieurbauwerke" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63366" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63433" Identification="091" Name="Windenergieanlagen-Bauwerk" Description="Turm und Gründung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i63434" Identification="092" Name="PV-Freiflächenanlage" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i63432" />
+    </ReferencedSource>
+  </IfcClassificationReference>
 </ifcXML>

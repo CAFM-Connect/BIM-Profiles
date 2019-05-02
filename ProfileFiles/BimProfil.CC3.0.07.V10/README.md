@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | Not yet decided |  
 LifeCyclePhase | Betreiben |  
-Publisher | [](https://www.realfm.de/) |  
+Publisher | [](https://www.realfm.de) |  
 PublisherTeam | AK-Implementierung CAFM-Ring |  
 Tags |  |  
 Version | 10 |  

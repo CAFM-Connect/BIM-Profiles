@@ -1,4 +1,4 @@
-## Basisprofil Iso81346-12-FunctionSystems
+## Klassifikation Iso81346-12-FunctionSystems
 Klassifikation von Systemen nach strukturierten Prinipien und Referenzen.
 
 Key | Value |

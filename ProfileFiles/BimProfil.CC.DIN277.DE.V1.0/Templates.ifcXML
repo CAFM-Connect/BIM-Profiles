@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
-    <name>BIM Profil Basisprofil DIN 277</name>
+    <name>BIM Profil Klassifikation der Raumnutzungsarten nach DIN 277</name>
     <time_stamp>2017-11-29T00:00:00</time_stamp>
     <author>277</author>
     <organization>Beuth Verlag GmbH</organization>
@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i41248" GlobalId="0bbYLqPf95CQsyY$034FGB" Name="Basisprofil DIN 277" Description="Klassifikation von Räumen und ihren Nutzungsarten nach DIN 277." Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i44079" GlobalId="0bbYLqPf95CQsyY$034FGB" Name="Klassifikation der Raumnutzungsarten nach DIN 277" Description="Klassifikation von Räumen und ihren Nutzungsarten nach DIN 277." Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="277" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i41249" GlobalId="0bbYLqPf95CQsyY$034FGB" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i41248" />
+  <IfcRelDefinesByProperties id="i44080" GlobalId="0bbYLqPf95CQsyY$034FGB" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i44079" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="0bbYLqPf95CQsyY$034FGB" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i41250" Name="DictionaryReferenceTable">
+  <IfcTable id="i44081" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

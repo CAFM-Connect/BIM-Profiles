@@ -1,4 +1,4 @@
-## Basisprofil ISO 81346-2-Table 4
+## Klassifikation ISO 81346-2-Table 4
 Klassifikation von Raumnutzungsarten nach ISO 81346-2-Table 4
 
 Key | Value |

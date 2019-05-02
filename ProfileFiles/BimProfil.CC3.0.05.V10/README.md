@@ -8,7 +8,7 @@ AreaOfApplication | Deutschland |
 Language | de |  
 License | Creative Commons Attribution-ShareAlike 4.0 International License |  
 LifeCyclePhase | Bauen,Betreiben |  
-Publisher | []() |  
+Publisher | [](https://www.cafm-connect.org) |  
 PublisherTeam | AK-Implementierung CAFM-Ring |  
 Tags |  |  
 Version | 10 |  
