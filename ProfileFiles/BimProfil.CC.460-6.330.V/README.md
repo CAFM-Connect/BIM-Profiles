@@ -1,5 +1,5 @@
 ## Fördertechnische Anlagen inspizieren und warten
-Schöner Text zu Fördertechnische Anlagen inspizieren und warten.  Test.
+Unterstützt die regelmäßige Wartung der fördertechnischen Anlagen.
 
 Key | Value |
 --|--|
