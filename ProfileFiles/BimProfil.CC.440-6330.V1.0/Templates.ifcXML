@@ -730,7 +730,7 @@
       <IfcSimplePropertyTemplate id="i97a501f5-8ebf-4ca1-adb5-31403fe1930a" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="ic9a22c3e-28c1-4d1e-93e9-1d8e482225d2" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i87b6268b-4d94-41aa-aaa5-0921f3fd702f" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDocumentSelect" />
+      <IfcSimplePropertyTemplate id="i87b6268b-4d94-41aa-aaa5-0921f3fd702f" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts" TemplateType="p_referencevalue" PrimaryMeasureType="IfcDocumentSelect" />
       <IfcSimplePropertyTemplate id="i96f404d1-aa68-4b46-ae3e-631d24696892" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>

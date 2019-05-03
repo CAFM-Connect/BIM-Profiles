@@ -9622,7 +9622,7 @@
         </Enumerators>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="ia9da9a95-a700-4889-a783-cf62572cd17c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i35254a74-74cf-492e-9ca1-87a8271b61ec" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDocumentSelect" />
+      <IfcSimplePropertyTemplate id="i35254a74-74cf-492e-9ca1-87a8271b61ec" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts" TemplateType="p_referencevalue" PrimaryMeasureType="IfcDocumentSelect" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i8da1f802-05d1-445b-95fc-3686357b1258_ipset8da1f802-05d1-445b-95fc-3686357b1258" GlobalId="2DeVW21T54MvNyDeOrUn9O">
