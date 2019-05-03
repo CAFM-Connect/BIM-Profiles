@@ -263,16 +263,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i7026f385-76e8-4567-9200-5a433fad8fc1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/3c0fa2b2-1b6f-4944-ae4e-2ae3080c5f2c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3c0fa2b2-1b6f-4944-ae4e-2ae3080c5f2c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0y3wAo6sz9HAvEAkC835yi</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/3c0fa2b2-1b6f-4944-ae4e-2ae3080c5f2c</IfcIdentifier-wrapper>
@@ -1228,7 +1218,7 @@
       <IfcSimplePropertyTemplate id="id8d3bba1-35c5-479c-8f15-529430f15e0c" GlobalId="3gwD40qXWHuO00025QrE$V" Name="mit Fensterbank innen" Description="Angabe, ob dieses Fenster mit einer inneren Fensterbank ausgestattet ist (JA) under nicht (NEIN)." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i00ba287a-d213-4043-a3ae-4b2f8fccd8a0" GlobalId="1rxCTb03z3_Q7SG4D__YfM" Name="Reinigungsintervall" Description="Anzahl der Reinigungsvorgang pro Jahr" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
         <PrimaryUnit>
-          <IfcSIUnit id="i136" UnitType="frequencyunit" Name="hertz" />
+          <IfcSIUnit id="unit_i00ba287a-d213-4043-a3ae-4b2f8fccd8a0" UnitType="frequencyunit" Name="hertz" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
     </HasPropertyTemplates>
@@ -1258,14 +1248,9 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset1543be97-3afa-4ce3-b23d-510825dc163b" GlobalId="0LGxwNElfCux8zKGWbt1Ox" Name="344.30" Description="PropertySet Template for 'CAFMConnect.DE Fenster innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcWindow/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i7026f385-76e8-4567-9200-5a433fad8fc1" GlobalId="0y3wAo6sz9HAvEAkC835yi" Name="Glasfläche" Description="Fläche der Glasoberfläche" TemplateType="p_singlevalue" PrimaryMeasureType="IfcAreaMeasure">
-        <PrimaryUnit>
-          <IfcSIUnit id="i196" UnitType="areaunit" Name="square_metre" />
-        </PrimaryUnit>
-      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c" GlobalId="0y3wAo6sz9HAvEAkC835yi" Name="Glasfläche" Description="Fläche der Glasoberfläche" TemplateType="p_singlevalue" PrimaryMeasureType="IfcAreaMeasure">
         <PrimaryUnit>
-          <IfcSIUnit id="i197" UnitType="areaunit" Name="square_metre" />
+          <IfcSIUnit id="unit_i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c" UnitType="areaunit" Name="square_metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="ia603a2ea-4d2f-446d-a569-91f6112c06be" GlobalId="2EAcFC3ufCh8cgQuXTnTlS" Name="Material (Fenster)" Description="Gibt das Material des Bauteils an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">

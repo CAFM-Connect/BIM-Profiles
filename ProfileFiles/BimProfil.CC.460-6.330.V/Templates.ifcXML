@@ -983,12 +983,12 @@
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie weit die Förderspanne des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
         <PrimaryUnit>
-          <IfcSIUnit id="i1193" UnitType="lengthunit" Name="metre" />
+          <IfcSIUnit id="unit_id1c061cf-4632-4cf7-a3ea-6a56696291e3" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i1e424855-c18a-4944-8749-5c587749521b" GlobalId="3rl0a0ZDnEOgumC9KNnOe9" Name="Tragkraft" Description="Gibt die Tragkraft  in kg an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
         <PrimaryUnit>
-          <IfcSIUnit id="i1194" UnitType="massunit" Prefix="kilo" Name="gram" />
+          <IfcSIUnit id="unit_i1e424855-c18a-4944-8749-5c587749521b" UnitType="massunit" Prefix="kilo" Name="gram" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i4129fed8-f902-4091-89e6-6b80a73d0603" GlobalId="2GFGquAYvF7xUxCz2zYoGr" Name="Tragkraft in Personen" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />

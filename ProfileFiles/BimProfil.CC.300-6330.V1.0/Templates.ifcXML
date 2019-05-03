@@ -763,76 +763,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/a0619528-bcf7-476c-9674-192866b55ec0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>a0619528-bcf7-476c-9674-192866b55ec0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2WOPKelFT7R9Pq6IXcjLx0</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_25a9dc60-4e82-4a33-9d52-c474c4969b81</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/25a9dc60-4e82-4a33-9d52-c474c4969b81</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>25a9dc60-4e82-4a33-9d52-c474c4969b81</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0bgTnWJe9ACvrIn7J4bfk1</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_369aed92-94a9-42fc-84b8-d395bfb9f812</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/369aed92-94a9-42fc-84b8-d395bfb9f812</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>369aed92-94a9-42fc-84b8-d395bfb9f812</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0scksIbAb2$8IuqvM$kVWI</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_0a43e25d-ceee-4969-bf10-e8ce9f74b2ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0a43e25d-ceee-4969-bf10-e8ce9f74b2ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0a43e25d-ceee-4969-bf10-e8ce9f74b2ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0AG_9Tpkv9QRyGwCwVTBBi</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_1f12efab-8dd5-4aa7-87aa-9f848dcb05fa</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/1f12efab-8dd5-4aa7-87aa-9f848dcb05fa</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1f12efab-8dd5-4aa7-87aa-9f848dcb05fa</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0V4k_hZTLAfuUgduIDomNw</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_7ae1012e-7be7-48c7-bea3-62f254ba22ae</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/7ae1012e-7be7-48c7-bea3-62f254ba22ae</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>7ae1012e-7be7-48c7-bea3-62f254ba22ae</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1wuG4kU_T8nxwZOl9KkYAk</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0738207a-523f-4afa-aff1-344c29a53192_66755576-8748-43c4-b9b8-ceaf0922f708</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/66755576-8748-43c4-b9b8-ceaf0922f708</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>66755576-8748-43c4-b9b8-ceaf0922f708</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1cTLLsXqX3nBcupgy98lS8</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i9eb81068-8ed4-4d5b-be6f-dd8b731e1f81</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/a0619528-bcf7-476c-9674-192866b55ec0</IfcIdentifier-wrapper>
@@ -2119,7 +2049,7 @@
       <IfcSimplePropertyTemplate id="ie30a2f5a-de3c-4241-8f87-fafdbaea5357" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="iacbbc953-4664-41ed-b575-e506756305ec" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
-          <IfcSIUnit id="i125" UnitType="timeunit" Name="second" />
+          <IfcSIUnit id="unit_iacbbc953-4664-41ed-b575-e506756305ec" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="ida1f6f0e-eccc-414f-a121-1f3730e82f6e" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
@@ -2162,7 +2092,7 @@
       <IfcSimplePropertyTemplate id="i6b95f9e7-ef43-4ec5-a9cd-0605d83a80b1" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i8704c775-50fc-4675-904e-c0114a9d8588" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
-          <IfcSIUnit id="i131" UnitType="timeunit" Name="second" />
+          <IfcSIUnit id="unit_i8704c775-50fc-4675-904e-c0114a9d8588" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i619d2181-478c-438b-855f-120dc58a2a1f" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
@@ -2222,18 +2152,6 @@
         </Enumerators>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="id3150bd2-a8a5-46b9-8782-dc049161c4d8" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Nutzung als Fluchttür" TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
-      <IfcSimplePropertyTemplate id="i0738207a-523f-4afa-aff1-344c29a53192" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Anforderungen an den Schutzgrad der Tür." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
-        <Enumerators Name="Enumeration for Schutzanforderung Tür">
-          <EnumerationValues>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_25a9dc60-4e82-4a33-9d52-c474c4969b81" pos="1">Brand-Rauchschutztür</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_369aed92-94a9-42fc-84b8-d395bfb9f812" pos="2">Brandschutztür</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_0a43e25d-ceee-4969-bf10-e8ce9f74b2ec" pos="3">ohne besondere Schutzanforderung</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_1f12efab-8dd5-4aa7-87aa-9f848dcb05fa" pos="4">Rauchschutztür</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_7ae1012e-7be7-48c7-bea3-62f254ba22ae" pos="5">Schallschutztür</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i0738207a-523f-4afa-aff1-344c29a53192_66755576-8748-43c4-b9b8-ceaf0922f708" pos="6">Strahlenschutztür</IfcLabel-wrapper>
-          </EnumerationValues>
-        </Enumerators>
-      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i9eb81068-8ed4-4d5b-be6f-dd8b731e1f81" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Anforderungen an den Schutzgrad der Tür." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Schutzanforderung Tür">
           <EnumerationValues>
@@ -2249,7 +2167,7 @@
       <IfcSimplePropertyTemplate id="ifac7925d-efad-43c1-a343-4b67d105b795" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i07316c53-96dd-4b50-a103-9ec4d5ba9e6b" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
-          <IfcSIUnit id="i186" UnitType="timeunit" Name="second" />
+          <IfcSIUnit id="unit_i07316c53-96dd-4b50-a103-9ec4d5ba9e6b" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i7ba161c4-82bf-40ca-8d38-3b57ed219f1c" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
@@ -2291,7 +2209,7 @@
       <IfcSimplePropertyTemplate id="ife6d1d64-0b8e-48cc-acd2-f77ddce113bb" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="ib3cd1772-4e3e-459f-ac58-c4094a4fd447" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
-          <IfcSIUnit id="i192" UnitType="timeunit" Name="second" />
+          <IfcSIUnit id="unit_ib3cd1772-4e3e-459f-ac58-c4094a4fd447" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i34586419-eda3-4bce-a7a9-a921e06a8579" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
