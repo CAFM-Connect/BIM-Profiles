@@ -912,7 +912,7 @@
       <IfcSimplePropertyTemplate id="i04908afa-4efe-478c-9bdb-f4cae5d42d81" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i107" GlobalId="3Of56Q26zFGARasOnQRfV_">
+  <IfcRelAssociatesClassification id="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe_ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe" GlobalId="3Of56Q26zFGARasOnQRfV_">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
     </RelatedObjects>
@@ -930,7 +930,7 @@
       <IfcSimplePropertyTemplate id="i450ac026-0c29-4c87-9b49-576af9de9436" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i110" GlobalId="3l1pFAbl1C3vV3opbivHQL">
+  <IfcRelAssociatesClassification id="ief0733ca-96f0-4c0f-97c3-cb396ce51695_ipsetef0733ca-96f0-4c0f-97c3-cb396ce51695" GlobalId="3l1pFAbl1C3vV3opbivHQL">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipsetef0733ca-96f0-4c0f-97c3-cb396ce51695" />
     </RelatedObjects>
@@ -995,7 +995,7 @@
       <IfcSimplePropertyTemplate id="id83289b5-b687-4fdc-94bd-620af0c87621" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i113" GlobalId="0Mi1HEeZz5MeGs09TDithZ">
+  <IfcRelAssociatesClassification id="i16b0144e-a23f-455a-8436-00974db37ae3_ipset16b0144e-a23f-455a-8436-00974db37ae3" GlobalId="0Mi1HEeZz5MeGs09TDithZ">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset16b0144e-a23f-455a-8436-00974db37ae3" />
     </RelatedObjects>
@@ -1026,7 +1026,7 @@
       <IfcSimplePropertyTemplate id="i6dc5c3b5-5e34-4b7d-836b-bdb0a13e8517" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i116" GlobalId="07SoGYVxT6yOH_JwmhTPDx">
+  <IfcRelAssociatesClassification id="i07732422-7fb7-46f1-847e-4fac2b75937b_ipset07732422-7fb7-46f1-847e-4fac2b75937b" GlobalId="07SoGYVxT6yOH_JwmhTPDx">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset07732422-7fb7-46f1-847e-4fac2b75937b" />
     </RelatedObjects>
@@ -1056,7 +1056,7 @@
       <IfcSimplePropertyTemplate id="ied7a24fc-f181-404e-b3b8-189f7e61fbd6" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i119" GlobalId="1lElf7ox51sAbD7$MD1$Tg">
+  <IfcRelAssociatesClassification id="i6f3afa47-cbb1-41d8-a94d-1ff58d07f76a_ipset6f3afa47-cbb1-41d8-a94d-1ff58d07f76a" GlobalId="1lElf7ox51sAbD7$MD1$Tg">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset6f3afa47-cbb1-41d8-a94d-1ff58d07f76a" />
     </RelatedObjects>
@@ -1078,7 +1078,7 @@
       <IfcSimplePropertyTemplate id="i059c54c8-9335-4e96-9a21-3e7e788f7e9d" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i122" GlobalId="0G9Y7rMgr40BMIkxEfDss7">
+  <IfcRelAssociatesClassification id="i102621f5-5aad-4400-b592-bbb3a9376d87_ipset102621f5-5aad-4400-b592-bbb3a9376d87" GlobalId="0G9Y7rMgr40BMIkxEfDss7">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset102621f5-5aad-4400-b592-bbb3a9376d87" />
     </RelatedObjects>
@@ -1112,7 +1112,7 @@
       <IfcSimplePropertyTemplate id="ifa719684-ec92-4cd1-aae2-8ff9db4b285f" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i125" GlobalId="1Jge6bgbv9zPasmDqkVClT">
+  <IfcRelAssociatesClassification id="i53aa81a5-aa5e-49f5-9936-c0dd2e7ccbdd_ipset53aa81a5-aa5e-49f5-9936-c0dd2e7ccbdd" GlobalId="1Jge6bgbv9zPasmDqkVClT">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset53aa81a5-aa5e-49f5-9936-c0dd2e7ccbdd" />
     </RelatedObjects>

@@ -1233,7 +1233,7 @@
       </IfcSimplePropertyTemplate>
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i110" GlobalId="1Id3wp2nfEnx4j1gmrLPTp">
+  <IfcRelAssociatesClassification id="i529c3eb3-0b1a-4ec7-b12d-06ac35559773_ipset529c3eb3-0b1a-4ec7-b12d-06ac35559773" GlobalId="1Id3wp2nfEnx4j1gmrLPTp">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset529c3eb3-0b1a-4ec7-b12d-06ac35559773" />
     </RelatedObjects>
@@ -1280,7 +1280,7 @@
       </IfcSimplePropertyTemplate>
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i115" GlobalId="0LGxwNElfCux8zKGWbt1Ox">
+  <IfcRelAssociatesClassification id="i1543be97-3afa-4ce3-b23d-510825dc163b_ipset1543be97-3afa-4ce3-b23d-510825dc163b" GlobalId="0LGxwNElfCux8zKGWbt1Ox">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset1543be97-3afa-4ce3-b23d-510825dc163b" />
     </RelatedObjects>

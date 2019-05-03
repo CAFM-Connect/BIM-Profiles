@@ -275,7 +275,7 @@
       <IfcSimplePropertyTemplate id="i21a02885-042b-494e-a915-64758223f12e" GlobalId="3PYiKdAcT57eLHW2wY0mQ_" Name="Anzahl Stromkreise 1-pol., 230 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i110" GlobalId="0Qkc3F0CH50hZoJoQyCAaL">
+  <IfcRelAssociatesClassification id="i1aba60cf-00c4-4502-b8f2-4f26bc30a915_ipset1aba60cf-00c4-4502-b8f2-4f26bc30a915" GlobalId="0Qkc3F0CH50hZoJoQyCAaL">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset1aba60cf-00c4-4502-b8f2-4f26bc30a915" />
     </RelatedObjects>

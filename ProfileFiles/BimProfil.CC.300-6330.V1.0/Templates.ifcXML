@@ -2134,7 +2134,7 @@
       <IfcSimplePropertyTemplate id="i31212251-dbc4-4848-a0f7-4913cb72aa9a" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i110" GlobalId="2DeVW21T54MvNyDeOrUn9O">
+  <IfcRelAssociatesClassification id="i8da1f802-05d1-445b-95fc-3686357b1258_ipset8da1f802-05d1-445b-95fc-3686357b1258" GlobalId="2DeVW21T54MvNyDeOrUn9O">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset8da1f802-05d1-445b-95fc-3686357b1258" />
     </RelatedObjects>
@@ -2177,7 +2177,7 @@
       <IfcSimplePropertyTemplate id="iafe6558d-10fe-4319-ad10-cc8f210319c6" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i113" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B">
+  <IfcRelAssociatesClassification id="i7d73b1e7-e817-4d0e-86fd-f2b9888da0cb_ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" />
     </RelatedObjects>
@@ -2263,7 +2263,7 @@
       <IfcSimplePropertyTemplate id="idc3f4b03-bc36-4762-8f98-2228a17292e1" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i118" GlobalId="1nBQIZBMX0WxNv70MBNJq0">
+  <IfcRelAssociatesClassification id="i712da4a3-2d68-4083-b5f9-1c058b5d3d00_ipset712da4a3-2d68-4083-b5f9-1c058b5d3d00" GlobalId="1nBQIZBMX0WxNv70MBNJq0">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset712da4a3-2d68-4083-b5f9-1c058b5d3d00" />
     </RelatedObjects>
@@ -2306,7 +2306,7 @@
       <IfcSimplePropertyTemplate id="i3d96ab59-46b8-499e-87b7-352bd67740cc" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
-  <IfcRelAssociatesClassification id="i121" GlobalId="1SQ0T7WKz4yutC6r_5LCTW">
+  <IfcRelAssociatesClassification id="i5c680747-814f-44f3-8dcc-1b5f8554c760_ipset5c680747-814f-44f3-8dcc-1b5f8554c760" GlobalId="1SQ0T7WKz4yutC6r_5LCTW">
     <RelatedObjects>
       <IfcPropertySetTemplate xsi:nil="true" ref="ipset5c680747-814f-44f3-8dcc-1b5f8554c760" />
     </RelatedObjects>
