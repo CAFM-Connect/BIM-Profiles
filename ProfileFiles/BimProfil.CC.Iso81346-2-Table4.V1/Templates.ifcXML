@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i44081" GlobalId="3roym1oaHFqxIAT4manppk" Name="Klassifikation ISO 81346-2-Table 4" Description="Klassifikation von Raumnutzungsarten nach ISO 81346-2-Table 4" Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i44088" GlobalId="3roym1oaHFqxIAT4manppk" Name="Klassifikation ISO 81346-2-Table 4" Description="Klassifikation von Raumnutzungsarten nach ISO 81346-2-Table 4" Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="ISO/TC 10/SC 10" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i44082" GlobalId="3roym1oaHFqxIAT4manppk" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i44081" />
+  <IfcRelDefinesByProperties id="i44089" GlobalId="3roym1oaHFqxIAT4manppk" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i44088" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="3roym1oaHFqxIAT4manppk" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i44083" Name="DictionaryReferenceTable">
+  <IfcTable id="i44090" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

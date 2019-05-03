@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i64986" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="OBW TGA-Planung" Description="ARC=&gt;TWP" Phase="Planen">
+  <IfcProjectLibrary id="i64993" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="OBW TGA-Planung" Description="ARC=&gt;TWP" Phase="Planen">
     <OwnerHistory CreationDate="1517702400000">
       <OwningUser>
         <ThePerson FamilyName="OBW Open BIM Workflow" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i64987" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i64986" />
+  <IfcRelDefinesByProperties id="i64994" GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i64993" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1VGlCTVMP2igmazPpYpLrl" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i64988" Name="DictionaryReferenceTable">
+  <IfcTable id="i64995" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
