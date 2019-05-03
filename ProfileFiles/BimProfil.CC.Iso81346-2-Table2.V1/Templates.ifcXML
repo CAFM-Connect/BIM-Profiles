@@ -9,7 +9,7 @@
     <authorization>-</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i44085" GlobalId="1mZXPXcTDEdfob0_KD95HQ" Name="Klassifikation ISO 81346-2-Table 2" Description="Klassifikation von Bauteiltypen nach ISO 81346-2-Table 2" Phase="Planen, Bauen, Betreiben">
+  <IfcProjectLibrary id="i44191" GlobalId="1mZXPXcTDEdfob0_KD95HQ" Name="Klassifikation ISO 81346-2-Table 2" Description="Klassifikation von Bauteiltypen nach ISO 81346-2-Table 2" Phase="Planen, Bauen, Betreiben">
     <OwnerHistory CreationDate="1511913600000">
       <OwningUser>
         <ThePerson FamilyName="ISO/TC 10/SC 10" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i44086" GlobalId="1mZXPXcTDEdfob0_KD95HQ" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i44085" />
+  <IfcRelDefinesByProperties id="i44192" GlobalId="1mZXPXcTDEdfob0_KD95HQ" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i44191" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="1mZXPXcTDEdfob0_KD95HQ" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i44087" Name="DictionaryReferenceTable">
+  <IfcTable id="i44193" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>

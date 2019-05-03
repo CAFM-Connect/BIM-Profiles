@@ -9,7 +9,7 @@
     <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
-  <IfcProjectLibrary id="i65205" GlobalId="2_1Ghy8rzBGBFLKP7TJF0H" Name="Unterhaltsreinigung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine Unterhaltsreinigung" Phase="Betreiben">
+  <IfcProjectLibrary id="i65311" GlobalId="2_1Ghy8rzBGBFLKP7TJF0H" Name="Unterhaltsreinigung" Description="BIM Profil mit Standards für die Informationsanforderungen für eine Unterhaltsreinigung" Phase="Betreiben">
     <OwnerHistory CreationDate="1496880000000">
       <OwningUser>
         <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
@@ -20,8 +20,8 @@
       </OwningApplication>
     </OwnerHistory>
   </IfcProjectLibrary>
-  <IfcRelDefinesByProperties id="i65206" GlobalId="2_1Ghy8rzBGBFLKP7TJF0H" Name="Defined by PSet_Library">
-    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i65205" />
+  <IfcRelDefinesByProperties id="i65312" GlobalId="2_1Ghy8rzBGBFLKP7TJF0H" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i65311" />
     <RelatingPropertyDefinition>
       <IfcPropertySet GlobalId="2_1Ghy8rzBGBFLKP7TJF0H" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
         <HasProperties>
@@ -79,7 +79,7 @@
       </IfcPropertySet>
     </RelatingPropertyDefinition>
   </IfcRelDefinesByProperties>
-  <IfcTable id="i65207" Name="DictionaryReferenceTable">
+  <IfcTable id="i65313" Name="DictionaryReferenceTable">
     <Rows>
       <IfcTableRow IsHeading="true">
         <RowCells>
