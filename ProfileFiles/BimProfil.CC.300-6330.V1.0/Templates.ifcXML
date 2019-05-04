@@ -2061,7 +2061,7 @@
       <IfcSimplePropertyTemplate id="i650f6dbd-d52b-4b41-951e-221a557fc2e1" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="id6144a22-e9dc-4aa4-8cbd-77a488f75772" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i6d817231-2e61-4f65-9c99-71522244c34b" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="i31212251-dbc4-4848-a0f7-4913cb72aa9a" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
+      <IfcSimplePropertyTemplate id="i31212251-dbc4-4848-a0f7-4913cb72aa9a" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i8da1f802-05d1-445b-95fc-3686357b1258_ipset8da1f802-05d1-445b-95fc-3686357b1258" GlobalId="2DeVW21T54MvNyDeOrUn9O">
@@ -2104,7 +2104,7 @@
       <IfcSimplePropertyTemplate id="i260e2912-aeb7-465c-872b-cb24b02ebed2" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i90af0c76-1071-4dff-ba3e-785c15e1111a" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i814136f9-1328-4f50-b289-7fe97948f45d" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="iafe6558d-10fe-4319-ad10-cc8f210319c6" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
+      <IfcSimplePropertyTemplate id="iafe6558d-10fe-4319-ad10-cc8f210319c6" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i7d73b1e7-e817-4d0e-86fd-f2b9888da0cb_ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B">
@@ -2178,7 +2178,7 @@
       <IfcSimplePropertyTemplate id="i12fc83fb-377b-428c-a0bb-8e39c72683ab" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i7ce62878-1a70-4f01-a597-beca3668541d" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i86c98e93-7f9c-485d-9ad4-d0c68721efbc" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="idc3f4b03-bc36-4762-8f98-2228a17292e1" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
+      <IfcSimplePropertyTemplate id="idc3f4b03-bc36-4762-8f98-2228a17292e1" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i712da4a3-2d68-4083-b5f9-1c058b5d3d00_ipset712da4a3-2d68-4083-b5f9-1c058b5d3d00" GlobalId="1nBQIZBMX0WxNv70MBNJq0">
@@ -2221,7 +2221,7 @@
       <IfcSimplePropertyTemplate id="i5947bbdf-caff-4eb8-9124-ee426faa1405" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i5778fde9-4251-43ef-97b7-d87b397fb653" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="id31d5c91-4937-4607-bd66-8599db948d22" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="i3d96ab59-46b8-499e-87b7-352bd67740cc" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure" />
+      <IfcSimplePropertyTemplate id="i3d96ab59-46b8-499e-87b7-352bd67740cc" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i5c680747-814f-44f3-8dcc-1b5f8554c760_ipset5c680747-814f-44f3-8dcc-1b5f8554c760" GlobalId="1SQ0T7WKz4yutC6r_5LCTW">
