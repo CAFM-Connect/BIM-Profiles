@@ -16,6 +16,7 @@
       <IfcTableRow IsHeading="true">
         <RowCells>
           <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
@@ -11605,7 +11606,7 @@
     </Rows>
   </IfcTable>
   <IfcClassification id="i1264" Edition="1.0" EditionDate="2017-01-01T00:00:00.0000000" Name="IFC4.DE" Location="https://www.cafm-connect.org/IFC4" />
-  <IfcRelAssociatesClassification id="i1265">
+  <IfcRelAssociatesClassification id="i1265" GlobalId="3W_wCy4R58hgkAO0WsiUkm">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1262" />
     </RelatedObjects>
