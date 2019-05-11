@@ -19925,6 +19925,16 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i345e2406-5dd0-46f5-8878-ad324cf1f138</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/345e2406-5dd0-46f5-8878-ad324cf1f138</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>345e2406-5dd0-46f5-8878-ad324cf1f138</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0qNYG6NT16zOXuhJ9CyV4u</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>iae2330d1-38a6-499f-b652-fd0388ec0b11</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/ae2330d1-38a6-499f-b652-fd0388ec0b11</IfcIdentifier-wrapper>
@@ -29714,7 +29724,7 @@
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ie9a255ac-5046-4353-9f60-5b13cfe174d2" Identification="" Name="Durchfluss" Description="Merkmal?">
+  <IfcClassificationReference id="ie9a255ac-5046-4353-9f60-5b13cfe174d2" Identification="" Name="Durchfluss" Description="">
     <ReferencedSource>
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
@@ -30044,7 +30054,7 @@
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i274acae7-3cda-421e-82d2-0119fca41b0f" Identification="" Name="Durchfluss" Description="Merkmal?">
+  <IfcClassificationReference id="i274acae7-3cda-421e-82d2-0119fca41b0f" Identification="" Name="Durchfluss" Description="">
     <ReferencedSource>
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
@@ -30889,7 +30899,7 @@
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ifca940fe-75fd-4280-8098-24ff6fb13f32" Identification="" Name="Durchfluss" Description="Merkmal?">
+  <IfcClassificationReference id="ifca940fe-75fd-4280-8098-24ff6fb13f32" Identification="" Name="Durchfluss" Description="">
     <ReferencedSource>
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>
@@ -36110,6 +36120,11 @@
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="iccf2d856-467b-4223-a30d-85144efcf442" Identification="" Name="Trockungsgeräte" Description="">
+    <ReferencedSource>
+      <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i345e2406-5dd0-46f5-8878-ad324cf1f138" Identification="" Name="Duschwanne" Description="An installation found in bathrooms, consisting of a stall that has a bathtub as the basin base with a bath shower atop it.">
     <ReferencedSource>
       <IfcClassification xsi:nil="true" ref="ia729a28b-96b3-44c6-a2fa-e8281822da7b" />
     </ReferencedSource>

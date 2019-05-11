@@ -712,7 +712,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="icf575eb8-366d-44d0-b17b-1c413886c1d6" GlobalId="1d$L5wNVz6feqm47ofzqPi" Name="Breite" Description="Breite des Bauteils." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="icf575eb8-366d-44d0-b17b-1c413886c1d6" GlobalId="1d$L5wNVz6feqm47ofzqPi" Name="Breite" Description="Breite des Bauteils." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_icf575eb8-366d-44d0-b17b-1c413886c1d6" UnitType="lengthunit" Prefix="milli" Name="metre" />
         </PrimaryUnit>

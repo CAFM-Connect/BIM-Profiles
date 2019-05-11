@@ -986,7 +986,7 @@
           <IfcSIUnit id="unit_id1c061cf-4632-4cf7-a3ea-6a56696291e3" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i1e424855-c18a-4944-8749-5c587749521b" GlobalId="3rl0a0ZDnEOgumC9KNnOe9" Name="Tragkraft" Description="Gibt die Tragkraft  in kg an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="i1e424855-c18a-4944-8749-5c587749521b" GlobalId="3rl0a0ZDnEOgumC9KNnOe9" Name="Tragkraft" Description="Gibt die Tragkraft  in kg an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcMassMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i1e424855-c18a-4944-8749-5c587749521b" UnitType="massunit" Prefix="kilo" Name="gram" />
         </PrimaryUnit>
@@ -1042,7 +1042,7 @@
   <IfcPropertySetTemplate id="ipset6f3afa47-cbb1-41d8-a94d-1ff58d07f76a" GlobalId="1lElf7ox51sAbD7$MD1$Tg" Name="462" Description="PropertySet Template for 'CAFMConnect.DE Fahrtreppen, Fahrsteige'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcTransportElement/ESCALATOR">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="iadeb7b13-ec8e-4656-a287-f89d46a0f754" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i42679bbf-f7f3-4f6c-a130-fa3be6e59dcf" GlobalId="30NEYsmKr0ahPaIq60Vjjf" Name="Anzahl Antriebe" Description="Gibt an wieviele Antriebe sich in dem System befinden." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
+      <IfcSimplePropertyTemplate id="i42679bbf-f7f3-4f6c-a130-fa3be6e59dcf" GlobalId="30NEYsmKr0ahPaIq60Vjjf" Name="Anzahl Antriebe" Description="Gibt an wieviele Antriebe sich in dem System befinden." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveInteger" />
       <IfcSimplePropertyTemplate id="ia3c726c4-10f5-4081-a476-3e13bafb3eb5" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i79676950-2882-4f57-bf76-05cf8e4a3499" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i23e8355a-7e9e-44ff-b490-de4c58a8fd9f" GlobalId="19hUkohLj4rez1qfU99g9$" Name="Bauart (Fahrtreppe, Fahrsteig)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
