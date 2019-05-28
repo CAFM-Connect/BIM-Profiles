@@ -213,6 +213,16 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>ia4cae45c-3113-4659-a09e-764145bafb6c_c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>302wZhux1Fp8Wk5SWV_kdd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i05391a56-aae7-46e4-879d-019fce08694d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/5f2587fb-3bb2-4c67-931e-fe13e2fb786b</IfcIdentifier-wrapper>
@@ -683,8 +693,14 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B" Name="334.20" Description="PropertySet Template for 'CAFMConnect.DE Tor außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="ia4cae45c-3113-4659-a09e-764145bafb6c" GlobalId="0mb$wPzVL4Lw29xSsZI9gm" Name="Automatischer Antrieb" Description="Angabe, ob dieses Bauteil einen automatischen Antrieb (kräftebetätigt) zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN)." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
-      <IfcSimplePropertyTemplate id="i05391a56-aae7-46e4-879d-019fce08694d" GlobalId="1V9OVxEx9CPvCU$XFY_tXh" Name="Art des Tors" Description="Gibt an was für ein Tor vorliegt" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
+      <IfcSimplePropertyTemplate id="ia4cae45c-3113-4659-a09e-764145bafb6c" GlobalId="0mb$wPzVL4Lw29xSsZI9gm" Name="Automatischer Antrieb" Description="Gibt an, ob dieses Bauteil einen automatischen Antrieb (kräftebetätigt) zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN)." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
+        <Enumerators Name="Enumeration for Automatischer Antrieb">
+          <EnumerationValues>
+            <IfcLabel-wrapper id="ia4cae45c-3113-4659-a09e-764145bafb6c_c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7" pos="1" />
+          </EnumerationValues>
+        </Enumerators>
+      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="i05391a56-aae7-46e4-879d-019fce08694d" GlobalId="1V9OVxEx9CPvCU$XFY_tXh" Name="Art des Tors" Description="Gibt an, was für ein Tor vorliegt" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Art des Tors">
           <EnumerationValues>
             <IfcLabel-wrapper id="i05391a56-aae7-46e4-879d-019fce08694d_badbceee-2c2e-43f9-ad11-da57331c5788" pos="1">Drehtor</IfcLabel-wrapper>
@@ -701,7 +717,7 @@
           <IfcSIUnit id="unit_icf575eb8-366d-44d0-b17b-1c413886c1d6" UnitType="lengthunit" Prefix="milli" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="Gibt die Feuerwiderstandsklasse des Bauteils an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (F-Klassen)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_49acb13c-88cc-4ce6-8c1a-4bdff7ae0ad7" pos="1">T 30-1</IfcLabel-wrapper>
@@ -711,9 +727,9 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i97a501f5-8ebf-4ca1-adb5-31403fe1930a" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="ic9a22c3e-28c1-4d1e-93e9-1d8e482225d2" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i97a501f5-8ebf-4ca1-adb5-31403fe1930a" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="ic9a22c3e-28c1-4d1e-93e9-1d8e482225d2" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Prüfergebnis" Description="Angabe des Prüfergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i87b6268b-4d94-41aa-aaa5-0921f3fd702f" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i87b6268b-4d94-41aa-aaa5-0921f3fd702f" UnitType="userdefined" />
@@ -791,16 +807,16 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset1aba60cf-00c4-4502-b8f2-4f26bc30a915" GlobalId="0Qkc3F0CH50hZoJoQyCAaL" Name="444.10" Description="PropertySet Template for 'CAFMConnect.DE Unter-/ Schaltverteiler'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcElectricDistributionBoard/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i2e72aee0-f34b-47ae-9872-45e2f8f72510" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="i73ad8ec8-bdd4-4952-a46d-50204f64573c" GlobalId="3ygrcqQVX2UOSiXy4jRVJv" Name="Anzahl Stromkreise 3-pol., 400 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
-      <IfcSimplePropertyTemplate id="i5052b89f-25bd-46c5-a25b-ddd6fe467cb7" GlobalId="0xP66uTsD0ngpDH8tbok2R" Name="Anzahl Stromkreise 4-pol., 400 V, Kombination FI / LS" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
+      <IfcSimplePropertyTemplate id="i2e72aee0-f34b-47ae-9872-45e2f8f72510" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="i73ad8ec8-bdd4-4952-a46d-50204f64573c" GlobalId="3ygrcqQVX2UOSiXy4jRVJv" Name="Anzahl Stromkreise 3-pol., 400 V" Description="Ein geschlossener, 3-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 400 Volt" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
+      <IfcSimplePropertyTemplate id="i5052b89f-25bd-46c5-a25b-ddd6fe467cb7" GlobalId="0xP66uTsD0ngpDH8tbok2R" Name="Anzahl Stromkreise 4-pol., 400 V, Kombination FI / LS" Description="Ein geschlossener, 4-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 400 Volt und Kombination FI / LS" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="i1740ea9b-b002-495d-8394-b4134805e553" GlobalId="2ZE6qsE195mxgQaUXu8_fS" Name="Anzahl Brandschutzschalter" Description="Anzahl Brandschutzschalter je Stromkreis, Fehlerlichtbogen-Schutzeinrichtung (AFDD)" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i24fcbcc9-f2d2-40cd-bc25-ec78e5a77345" GlobalId="2rMC$XRxP3ZgSAkP3SmBhY" Name="Anzahl Stromkreise 4-pol., 400 V, Fehlerstromschutzeinrichtung" Description="Anzahl der Schalter zum Schutz gegen Überstrom (Überlast und Kurzschluss) und gleichzeitig Schutz bei Fehlerströmen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="if6c530b6-bd57-496f-9066-e7cceee72e71" GlobalId="0EUNTOc_j3eBRShMVClWmW" Name="Anzahl Stromkreise 2-pol., 230 V, Fehlerstromschutzeinrichtung" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="i9040c402-4af2-4dde-85c6-7f3bb6d6c070" GlobalId="2$3oAuX0rEhBdmv1hAdVZz" Name="Anzahl Stromkreise 230 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="ia5cf922a-b0a0-4412-a0d5-c0e815c1428e" GlobalId="0cXFe2_5D3_OtjraLDLPkQ" Name="Anzahl Stromkreise 400 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="i75081912-3ee6-4142-acf6-a110b9ebd396" GlobalId="2us6B_qGLAO9aAyU49cXwV" Name="Anzahl Stromkreise 2-pol., 230 V, Kombination FI / LS" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="i21a02885-042b-494e-a915-64758223f12e" GlobalId="3PYiKdAcT57eLHW2wY0mQ_" Name="Anzahl Stromkreise 1-pol., 230 V" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="if6c530b6-bd57-496f-9066-e7cceee72e71" GlobalId="0EUNTOc_j3eBRShMVClWmW" Name="Anzahl Stromkreise 2-pol., 230 V, Fehlerstromschutzeinrichtung" Description="Ein geschlossener, 2-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt und Fehlerschutzeinrichtung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="i9040c402-4af2-4dde-85c6-7f3bb6d6c070" GlobalId="2$3oAuX0rEhBdmv1hAdVZz" Name="Anzahl Stromkreise 230 V" Description="Ein geschlossener, mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="ia5cf922a-b0a0-4412-a0d5-c0e815c1428e" GlobalId="0cXFe2_5D3_OtjraLDLPkQ" Name="Anzahl Stromkreise 400 V" Description="Ein geschlossener, mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 400 Volt" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="i75081912-3ee6-4142-acf6-a110b9ebd396" GlobalId="2us6B_qGLAO9aAyU49cXwV" Name="Anzahl Stromkreise 2-pol., 230 V, Kombination FI / LS" Description="Ein geschlossener, 2-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt und Kombination FI / LS" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="i21a02885-042b-494e-a915-64758223f12e" GlobalId="3PYiKdAcT57eLHW2wY0mQ_" Name="Anzahl Stromkreise 1-pol., 230 V" Description="Ein geschlossener, 1-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i062e7a37-bdfe-4d65-b805-905fb8397bcb" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>

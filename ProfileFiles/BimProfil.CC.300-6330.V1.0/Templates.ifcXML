@@ -163,22 +163,22 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i7f725e70-6592-4717-837c-7ef9f8b9b12f_b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2vEkn1Z49DiRUp60QBTr6C</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i7f725e70-6592-4717-837c-7ef9f8b9b12f_d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>3Mcen3E_HE5h9uVHYJOoM6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i7f725e70-6592-4717-837c-7ef9f8b9b12f_b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2vEkn1Z49DiRUp60QBTr6C</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -213,6 +213,26 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37mQRIlWL3OgV68jYiBvyI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3qUYbuoUT8eBEDwxBcQyTK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_60d6f188-acd6-4644-a07b-fdbb7717b94c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/60d6f188-acd6-4644-a07b-fdbb7717b94c</IfcIdentifier-wrapper>
@@ -239,6 +259,16 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>49378d5e-5e15-4e68-83a7-9f7fdbe3a232</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>19DurUNXLEQ8Eddt$Ruw8o</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SNmNpLtrBNRSoQET0_XNr</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -683,22 +713,22 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i900775cf-45da-43a8-bdc8-c0f352b98ea8_b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2vEkn1Z49DiRUp60QBTr6C</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i900775cf-45da-43a8-bdc8-c0f352b98ea8_d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>d69a8c43-3be4-4e16-b278-7d1893632586</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>3Mcen3E_HE5h9uVHYJOoM6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i900775cf-45da-43a8-bdc8-c0f352b98ea8_b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b93aec41-8c42-4db1-b7b3-18068b77518c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2vEkn1Z49DiRUp60QBTr6C</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -733,6 +763,26 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i08bf6346-421f-4a18-a039-bdd8eb3bd453_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37mQRIlWL3OgV68jYiBvyI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i08bf6346-421f-4a18-a039-bdd8eb3bd453_f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3qUYbuoUT8eBEDwxBcQyTK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i08bf6346-421f-4a18-a039-bdd8eb3bd453_60d6f188-acd6-4644-a07b-fdbb7717b94c</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/60d6f188-acd6-4644-a07b-fdbb7717b94c</IfcIdentifier-wrapper>
@@ -759,6 +809,16 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>49378d5e-5e15-4e68-83a7-9f7fdbe3a232</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>19DurUNXLEQ8Eddt$Ruw8o</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id3150bd2-a8a5-46b9-8782-dc049161c4d8_dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SNmNpLtrBNRSoQET0_XNr</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -989,6 +1049,26 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>ccfd7977-003e-45da-a591-4ade94db8374</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>3C$Nbt03v5sgMHIjwKsuDq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i326eba73-8bdb-4842-8821-31c650b82214_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>37mQRIlWL3OgV68jYiBvyI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i326eba73-8bdb-4842-8821-31c650b82214_f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f47a2978-c9e7-48a0-b38d-ebb2e66bc754</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3qUYbuoUT8eBEDwxBcQyTK</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -2018,22 +2098,30 @@
         <Enumerators Name="Enumeration for Feststellanlage">
           <EnumerationValues>
             <IfcLabel-wrapper id="i7f725e70-6592-4717-837c-7ef9f8b9b12f_376bac4c-12a5-4651-b67a-5073eaaf3fbf" pos="1">elektrisch</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i7f725e70-6592-4717-837c-7ef9f8b9b12f_b93aec41-8c42-4db1-b7b3-18068b77518c" pos="2">manuell</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i7f725e70-6592-4717-837c-7ef9f8b9b12f_d69a8c43-3be4-4e16-b278-7d1893632586" pos="3">nein</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i7f725e70-6592-4717-837c-7ef9f8b9b12f_d69a8c43-3be4-4e16-b278-7d1893632586" pos="2">keine</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i7f725e70-6592-4717-837c-7ef9f8b9b12f_b93aec41-8c42-4db1-b7b3-18068b77518c" pos="3">manuell</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="Gibt die Feuerwiderstandklasse der Abschlusses an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (T-Klassen)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_e075b7d3-69b7-4abd-8d7a-f185b88a7785" pos="1">T 30-1</IfcLabel-wrapper>
             <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_ccfd7977-003e-45da-a591-4ade94db8374" pos="2">T 30-2</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="3">T 90-1</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="4">T 90-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12" pos="3">T 60-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_f47a2978-c9e7-48a0-b38d-ebb2e66bc754" pos="4">T 60-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="5">T 90-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i96ff47d5-5463-4a61-a1bf-9d5cb6ad4451_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="6">T 90-2</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Nutzung als Fluchttür" TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
+      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
+        <Enumerators Name="Enumeration for Fluchttür">
+          <EnumerationValues>
+            <IfcLabel-wrapper id="i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5" pos="1" />
+          </EnumerationValues>
+        </Enumerators>
+      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i5de3e6c1-de68-4f74-8d15-25f8b982c2d8" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Anforderungen an den Schutzgrad der Tür." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Schutzanforderung Tür">
           <EnumerationValues>
@@ -2046,26 +2134,26 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ie30a2f5a-de3c-4241-8f87-fafdbaea5357" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="iacbbc953-4664-41ed-b575-e506756305ec" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
+      <IfcSimplePropertyTemplate id="ie30a2f5a-de3c-4241-8f87-fafdbaea5357" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Störungspriorität" Description="Priorität des Objektes für die Gebäudenutzung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="iacbbc953-4664-41ed-b575-e506756305ec" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_iacbbc953-4664-41ed-b575-e506756305ec" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ida1f6f0e-eccc-414f-a121-1f3730e82f6e" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="ibfe48537-440c-467c-a873-7095a5ebda28" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="ia9da9a95-a700-4889-a783-cf62572cd17c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i62534571-2191-438b-ab49-ea87f3277d79" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="i889ac8cc-7af2-4f5d-b43f-6d3ce2b73837" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="ida1f6f0e-eccc-414f-a121-1f3730e82f6e" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ibfe48537-440c-467c-a873-7095a5ebda28" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Prüfergebnis" Description="Angabe des Prüfergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="ia9da9a95-a700-4889-a783-cf62572cd17c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i62534571-2191-438b-ab49-ea87f3277d79" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i889ac8cc-7af2-4f5d-b43f-6d3ce2b73837" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Inspektion." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i35254a74-74cf-492e-9ca1-87a8271b61ec" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i35254a74-74cf-492e-9ca1-87a8271b61ec" UnitType="userdefined" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i650f6dbd-d52b-4b41-951e-221a557fc2e1" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="id6144a22-e9dc-4aa4-8cbd-77a488f75772" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i6d817231-2e61-4f65-9c99-71522244c34b" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="i31212251-dbc4-4848-a0f7-4913cb72aa9a" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
+      <IfcSimplePropertyTemplate id="i650f6dbd-d52b-4b41-951e-221a557fc2e1" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="id6144a22-e9dc-4aa4-8cbd-77a488f75772" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüferqualifikation" Description="Anforderungen an die Personalqualifikation." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i6d817231-2e61-4f65-9c99-71522244c34b" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i31212251-dbc4-4848-a0f7-4913cb72aa9a" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der verantwortlichen Person." TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i8da1f802-05d1-445b-95fc-3686357b1258_ipset8da1f802-05d1-445b-95fc-3686357b1258" GlobalId="2DeVW21T54MvNyDeOrUn9O">
@@ -2083,7 +2171,7 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B" Name="334.20" Description="PropertySet Template for 'CAFMConnect.DE Tor außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="Gibt die Feuerwiderstandsklasse des Bauteils an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (F-Klassen)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_49acb13c-88cc-4ce6-8c1a-4bdff7ae0ad7" pos="1">T 30-1</IfcLabel-wrapper>
@@ -2093,26 +2181,26 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i6b95f9e7-ef43-4ec5-a9cd-0605d83a80b1" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i8704c775-50fc-4675-904e-c0114a9d8588" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
+      <IfcSimplePropertyTemplate id="i6b95f9e7-ef43-4ec5-a9cd-0605d83a80b1" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Störungspriorität" Description="Priorität des Objektes für die Gebäudenutzung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i8704c775-50fc-4675-904e-c0114a9d8588" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i8704c775-50fc-4675-904e-c0114a9d8588" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i619d2181-478c-438b-855f-120dc58a2a1f" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="ic9a22c3e-28c1-4d1e-93e9-1d8e482225d2" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i06c3c4b9-e4ba-4849-9076-0879a1d37cdb" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="iec3a3772-74f3-4c81-b0ca-638184e9b933" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i619d2181-478c-438b-855f-120dc58a2a1f" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ic9a22c3e-28c1-4d1e-93e9-1d8e482225d2" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Prüfergebnis" Description="Angabe des Prüfergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i06c3c4b9-e4ba-4849-9076-0879a1d37cdb" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="iec3a3772-74f3-4c81-b0ca-638184e9b933" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Inspektion." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i87b6268b-4d94-41aa-aaa5-0921f3fd702f" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i87b6268b-4d94-41aa-aaa5-0921f3fd702f" UnitType="userdefined" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i260e2912-aeb7-465c-872b-cb24b02ebed2" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="i90af0c76-1071-4dff-ba3e-785c15e1111a" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i814136f9-1328-4f50-b289-7fe97948f45d" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="iafe6558d-10fe-4319-ad10-cc8f210319c6" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
+      <IfcSimplePropertyTemplate id="i260e2912-aeb7-465c-872b-cb24b02ebed2" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i90af0c76-1071-4dff-ba3e-785c15e1111a" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüferqualifikation" Description="Anforderungen an die Personalqualifikation." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i814136f9-1328-4f50-b289-7fe97948f45d" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="iafe6558d-10fe-4319-ad10-cc8f210319c6" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der verantwortlichen Person." TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i7d73b1e7-e817-4d0e-86fd-f2b9888da0cb_ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B">
@@ -2144,22 +2232,30 @@
         <Enumerators Name="Enumeration for Feststellanlage">
           <EnumerationValues>
             <IfcLabel-wrapper id="i900775cf-45da-43a8-bdc8-c0f352b98ea8_376bac4c-12a5-4651-b67a-5073eaaf3fbf" pos="1">elektrisch</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i900775cf-45da-43a8-bdc8-c0f352b98ea8_b93aec41-8c42-4db1-b7b3-18068b77518c" pos="2">manuell</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i900775cf-45da-43a8-bdc8-c0f352b98ea8_d69a8c43-3be4-4e16-b278-7d1893632586" pos="3">nein</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i900775cf-45da-43a8-bdc8-c0f352b98ea8_d69a8c43-3be4-4e16-b278-7d1893632586" pos="2">keine</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i900775cf-45da-43a8-bdc8-c0f352b98ea8_b93aec41-8c42-4db1-b7b3-18068b77518c" pos="3">manuell</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i08bf6346-421f-4a18-a039-bdd8eb3bd453" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i08bf6346-421f-4a18-a039-bdd8eb3bd453" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="Gibt die Feuerwiderstandklasse der Abschlusses an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (T-Klassen)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_e075b7d3-69b7-4abd-8d7a-f185b88a7785" pos="1">T 30-1</IfcLabel-wrapper>
             <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_ccfd7977-003e-45da-a591-4ade94db8374" pos="2">T 30-2</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="3">T 90-1</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="4">T 90-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12" pos="3">T 60-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_f47a2978-c9e7-48a0-b38d-ebb2e66bc754" pos="4">T 60-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="5">T 90-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i08bf6346-421f-4a18-a039-bdd8eb3bd453_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="6">T 90-2</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="id3150bd2-a8a5-46b9-8782-dc049161c4d8" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Nutzung als Fluchttür" TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
+      <IfcSimplePropertyTemplate id="id3150bd2-a8a5-46b9-8782-dc049161c4d8" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
+        <Enumerators Name="Enumeration for Fluchttür">
+          <EnumerationValues>
+            <IfcLabel-wrapper id="id3150bd2-a8a5-46b9-8782-dc049161c4d8_dc5f05f3-577d-4b5d-b732-68e740fa15f5" pos="1" />
+          </EnumerationValues>
+        </Enumerators>
+      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i9eb81068-8ed4-4d5b-be6f-dd8b731e1f81" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Anforderungen an den Schutzgrad der Tür." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Schutzanforderung Tür">
           <EnumerationValues>
@@ -2172,25 +2268,25 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ifac7925d-efad-43c1-a343-4b67d105b795" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i07316c53-96dd-4b50-a103-9ec4d5ba9e6b" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
+      <IfcSimplePropertyTemplate id="ifac7925d-efad-43c1-a343-4b67d105b795" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Störungspriorität" Description="Priorität des Objektes für die Gebäudenutzung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i07316c53-96dd-4b50-a103-9ec4d5ba9e6b" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i07316c53-96dd-4b50-a103-9ec4d5ba9e6b" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i7ba161c4-82bf-40ca-8d38-3b57ed219f1c" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="ia50ea96a-771d-43c2-b9f1-19fa5333d7ca" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i8aae2d3f-7e78-49a5-b620-b04a98fc2392" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="ifa552fec-6bf8-4db8-afc6-e5b182308550" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i7ba161c4-82bf-40ca-8d38-3b57ed219f1c" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Prüfergebnis" Description="Angabe des Prüfergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="ia50ea96a-771d-43c2-b9f1-19fa5333d7ca" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i8aae2d3f-7e78-49a5-b620-b04a98fc2392" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="ifa552fec-6bf8-4db8-afc6-e5b182308550" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Inspektion." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i94374569-76a8-4328-b31e-463ca98b0c35" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i94374569-76a8-4328-b31e-463ca98b0c35" UnitType="userdefined" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i12fc83fb-377b-428c-a0bb-8e39c72683ab" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="i7ce62878-1a70-4f01-a597-beca3668541d" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i86c98e93-7f9c-485d-9ad4-d0c68721efbc" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="idc3f4b03-bc36-4762-8f98-2228a17292e1" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
+      <IfcSimplePropertyTemplate id="i12fc83fb-377b-428c-a0bb-8e39c72683ab" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i7ce62878-1a70-4f01-a597-beca3668541d" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüferqualifikation" Description="Anforderungen an die Personalqualifikation." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i86c98e93-7f9c-485d-9ad4-d0c68721efbc" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="idc3f4b03-bc36-4762-8f98-2228a17292e1" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der verantwortlichen Person." TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i712da4a3-2d68-4083-b5f9-1c058b5d3d00_ipset712da4a3-2d68-4083-b5f9-1c058b5d3d00" GlobalId="1nBQIZBMX0WxNv70MBNJq0">
@@ -2208,36 +2304,38 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset5c680747-814f-44f3-8dcc-1b5f8554c760" GlobalId="1SQ0T7WKz4yutC6r_5LCTW" Name="344.20" Description="PropertySet Template for 'CAFMConnect.DE Tor innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i326eba73-8bdb-4842-8821-31c650b82214" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i326eba73-8bdb-4842-8821-31c650b82214" GlobalId="2xf958RPLA4hXB2nsA1jnB" Name="Feuerwiderstandsklasse (T-Klassen)" Description="Gibt die Feuerwiderstandklasse der Abschlusses an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (T-Klassen)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_e075b7d3-69b7-4abd-8d7a-f185b88a7785" pos="1">T 30-1</IfcLabel-wrapper>
             <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_ccfd7977-003e-45da-a591-4ade94db8374" pos="2">T 30-2</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="3">T 90-1</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="4">T 90-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_c7c1a6d2-be05-4362-a7c6-22d8ac2f9f12" pos="3">T 60-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_f47a2978-c9e7-48a0-b38d-ebb2e66bc754" pos="4">T 60-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_60d6f188-acd6-4644-a07b-fdbb7717b94c" pos="5">T 90-1</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i326eba73-8bdb-4842-8821-31c650b82214_f8a7c9c4-7ae6-48e8-b9b1-4b2b0c13d65b" pos="6">T 90-2</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ife6d1d64-0b8e-48cc-acd2-f77ddce113bb" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Kategorisierung" Description="Priorität des Objektes für die Gebäudenutzung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="ib3cd1772-4e3e-459f-ac58-c4094a4fd447" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
+      <IfcSimplePropertyTemplate id="ife6d1d64-0b8e-48cc-acd2-f77ddce113bb" GlobalId="3__Qv7dHH1WfjshtDSwWC$" Name="Störungspriorität" Description="Priorität des Objektes für die Gebäudenutzung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="ib3cd1772-4e3e-459f-ac58-c4094a4fd447" GlobalId="1EFRnq$4D8thsX0iUZG7iu" Name="Inspektionintervall" Description="Zeitspanne zwischen zwei Inspektionen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcTimeMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_ib3cd1772-4e3e-459f-ac58-c4094a4fd447" UnitType="timeunit" Name="second" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i34586419-eda3-4bce-a7a9-a921e06a8579" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstungen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="if1a9ff98-5793-4324-97af-d53ba2250e99" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Ergebnis" Description="Angabe des Prüferergebnisses" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i9b6a3ec1-5399-4083-baf0-0fb8f7833bd9" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="i38090865-797d-4e26-a67f-b12dde62803b" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="iecc14d3b-9c90-49a0-96a7-ddcd0994eaaa" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Prüfung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i34586419-eda3-4bce-a7a9-a921e06a8579" GlobalId="1e6Di4SOr48A7iuRloVrM7" Name="Schutzanforderungen" Description="Anforderungen an Schutzausrüstung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="if1a9ff98-5793-4324-97af-d53ba2250e99" GlobalId="2QcIaaNtHEXPRRXhwlrVTj" Name="Prüfergebnis" Description="Angabe des Prüfergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i9b6a3ec1-5399-4083-baf0-0fb8f7833bd9" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i38090865-797d-4e26-a67f-b12dde62803b" GlobalId="1nLM0HEzTA3AHEtFOGjCYH" Name="Inspektionsdatum" Description="Datum der Prüfung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="iecc14d3b-9c90-49a0-96a7-ddcd0994eaaa" GlobalId="15h2n9cVH6SRztsyOwe8Q7" Name="Nächste Inspektion" Description="Datum der nächsten Inspektion." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
       <IfcSimplePropertyTemplate id="i000aaccd-5e7d-451e-a5f2-25b8ce16241d" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i000aaccd-5e7d-451e-a5f2-25b8ce16241d" UnitType="userdefined" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i5947bbdf-caff-4eb8-9124-ee426faa1405" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
-      <IfcSimplePropertyTemplate id="i5778fde9-4251-43ef-97b7-d87b397fb653" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüfebene" Description="Anforderungen an die Personqualifikation" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="id31d5c91-4937-4607-bd66-8599db948d22" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
-      <IfcSimplePropertyTemplate id="i3d96ab59-46b8-499e-87b7-352bd67740cc" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der Verantwortlichen Person" TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
+      <IfcSimplePropertyTemplate id="i5947bbdf-caff-4eb8-9124-ee426faa1405" GlobalId="0$fyz0P6v9xfzafx3oOvOr" Name="Inbetriebnahmedatum" Description="Datum der Inbetriebnahme." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="i5778fde9-4251-43ef-97b7-d87b397fb653" GlobalId="2v84lLSsDAKvnOUF9NOPgO" Name="Prüferqualifikation" Description="Anforderungen an die Personalqualifikation." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="id31d5c91-4937-4607-bd66-8599db948d22" GlobalId="0qGEV_jxHC4A$bULD8q3CY" Name="Vertragspartner" Description="Verantwortliches Unternehmen." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i3d96ab59-46b8-499e-87b7-352bd67740cc" GlobalId="3g$O7S28v2peH4ZQR07o3i" Name="Verantwortliche Person" Description="Angabe der verantwortlichen Person." TemplateType="p_referencevalue" PrimaryMeasureType="IfcPerson" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i5c680747-814f-44f3-8dcc-1b5f8554c760_ipset5c680747-814f-44f3-8dcc-1b5f8554c760" GlobalId="1SQ0T7WKz4yutC6r_5LCTW">

@@ -9607,12 +9607,12 @@
       <IfcSimplePropertyTemplate id="i53baac1d-963b-4575-8e90-d383c99d6afc" GlobalId="2cWZvwu0fEfhvTXia$PbSM" Name="Anschlag" Description="Gibt an, ob der Türanschlag links oder rechts ist." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Anschlag">
           <EnumerationValues>
-            <IfcLabel-wrapper id="i53baac1d-963b-4575-8e90-d383c99d6afc_3291485a-96cf-4c5d-bf51-2b9f91f3822e" pos="1">Din L</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i53baac1d-963b-4575-8e90-d383c99d6afc_eaa54673-3bd0-4f95-8ef0-9697debaf6f3" pos="2">Din R</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i53baac1d-963b-4575-8e90-d383c99d6afc_3291485a-96cf-4c5d-bf51-2b9f91f3822e" pos="1">DIN L</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i53baac1d-963b-4575-8e90-d383c99d6afc_eaa54673-3bd0-4f95-8ef0-9697debaf6f3" pos="2">DIN R</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="Anzahl der Türflügel." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="Anzahl der zu öffnenden, beweglichen Teile eines Tür-/Fensterelementes" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcReal">
         <Enumerators Name="Enumeration for Anzahl Flügel">
           <EnumerationValues>
             <IfcLabel-wrapper id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0_87262770-9583-4208-8cb6-036c6f8a76cb" pos="1">2-flügelig</IfcLabel-wrapper>
@@ -9621,7 +9621,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ia9da9a95-a700-4889-a783-cf62572cd17c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ist- Zustands" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ia9da9a95-a700-4889-a783-cf62572cd17c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i35254a74-74cf-492e-9ca1-87a8271b61ec" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i35254a74-74cf-492e-9ca1-87a8271b61ec" UnitType="userdefined" />

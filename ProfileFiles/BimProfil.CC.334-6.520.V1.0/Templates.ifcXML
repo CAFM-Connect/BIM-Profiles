@@ -1216,7 +1216,7 @@
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i192fffc6-873b-4a33-973f-5d3a26a18717" GlobalId="3ZmSC0qXWHuO00025QrE$V" Name="mit Fensterbank außen" Description="Angabe, ob dieses Fenster mit einer äußeren Fensterbank ausgestattet ist (JA) under nicht (NEIN)." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="id8d3bba1-35c5-479c-8f15-529430f15e0c" GlobalId="3gwD40qXWHuO00025QrE$V" Name="mit Fensterbank innen" Description="Angabe, ob dieses Fenster mit einer inneren Fensterbank ausgestattet ist (JA) under nicht (NEIN)." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
-      <IfcSimplePropertyTemplate id="i00ba287a-d213-4043-a3ae-4b2f8fccd8a0" GlobalId="1rxCTb03z3_Q7SG4D__YfM" Name="Reinigungsintervall" Description="Anzahl der Reinigungsvorgang pro Jahr" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="i00ba287a-d213-4043-a3ae-4b2f8fccd8a0" GlobalId="1rxCTb03z3_Q7SG4D__YfM" Name="Reinigungen pro Jahr" Description="Anzahl der Reinigungsvorgang pro Jahr." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i00ba287a-d213-4043-a3ae-4b2f8fccd8a0" UnitType="frequencyunit" Name="hertz" />
         </PrimaryUnit>
