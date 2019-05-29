@@ -700,7 +700,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i05391a56-aae7-46e4-879d-019fce08694d" GlobalId="1V9OVxEx9CPvCU$XFY_tXh" Name="Art des Tors" Description="Gibt an, was für ein Tor vorliegt" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
+      <IfcSimplePropertyTemplate id="i05391a56-aae7-46e4-879d-019fce08694d" GlobalId="1V9OVxEx9CPvCU$XFY_tXh" Name="Art des Tors" Description="Gibt die Bauart des Tors an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Art des Tors">
           <EnumerationValues>
             <IfcLabel-wrapper id="i05391a56-aae7-46e4-879d-019fce08694d_badbceee-2c2e-43f9-ad11-da57331c5788" pos="1">Drehtor</IfcLabel-wrapper>
@@ -712,7 +712,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="icf575eb8-366d-44d0-b17b-1c413886c1d6" GlobalId="1d$L5wNVz6feqm47ofzqPi" Name="Breite" Description="Breite des Bauteils." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
+      <IfcSimplePropertyTemplate id="icf575eb8-366d-44d0-b17b-1c413886c1d6" GlobalId="1d$L5wNVz6feqm47ofzqPi" Name="Breite" Description="Gibt die Breite des Bauteils." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_icf575eb8-366d-44d0-b17b-1c413886c1d6" UnitType="lengthunit" Prefix="milli" Name="metre" />
         </PrimaryUnit>

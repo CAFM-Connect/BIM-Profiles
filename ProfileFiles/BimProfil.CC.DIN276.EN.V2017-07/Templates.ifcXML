@@ -2912,12 +2912,12 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfCostTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i8ee3ad62-286e-46de-90c7-f145709692e8" Identification="100" Name="Site" Description="">
+  <IfcClassificationReference id="i8ee3ad62-286e-46de-90c7-f145709692e8" Identification="100" Name="Site" Description="Cost items for land">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfCostTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="if841449e-477e-4802-b8fd-c81c4388884d" Identification="110" Name="Site value" Description="">
+  <IfcClassificationReference id="if841449e-477e-4802-b8fd-c81c4388884d" Identification="110" Name="Site value" Description="Costs for the value of the land plot">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i8ee3ad62-286e-46de-90c7-f145709692e8" />
     </ReferencedSource>
@@ -2932,17 +2932,17 @@
       <IfcClassificationReference xsi:nil="true" ref="idf8ef1b0-2af6-49d5-86a7-7aef08360a23" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i5a01f9e3-4ff5-478f-9c79-ef80731cc8bb" Identification="130" Name="Disencumbrance" Description="">
+  <IfcClassificationReference id="i5a01f9e3-4ff5-478f-9c79-ef80731cc8bb" Identification="130" Name="Disencumbrance" Description="Costs to be incurred in order to release a property from encumbrances">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i8ee3ad62-286e-46de-90c7-f145709692e8" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="idc871b20-b34b-4a5d-aad8-5bf7f50c8180" Identification="131" Name="Compensation" Description="">
+  <IfcClassificationReference id="idc871b20-b34b-4a5d-aad8-5bf7f50c8180" Identification="131" Name="Compensation" Description="Severance payments and compensation for existing rights of use, e.g. rental and lease agreements">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5a01f9e3-4ff5-478f-9c79-ef80731cc8bb" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i66b8ec7f-82f6-4348-aaa5-5302cd7a2871" Identification="132" Name="Redemption for real rights" Description="">
+  <IfcClassificationReference id="i66b8ec7f-82f6-4348-aaa5-5302cd7a2871" Identification="132" Name="Redemption for real rights" Description="Replacement of burdens and restrictions, e.g. rights of way">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5a01f9e3-4ff5-478f-9c79-ef80731cc8bb" />
     </ReferencedSource>
@@ -2982,7 +2982,7 @@
       <IfcClassificationReference xsi:nil="true" ref="ia6a703e4-1625-430e-9626-f799a1d11d38" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ic38c186e-23d4-4810-a8b2-a3d89b77c3c3" Identification="219" Name="Clearance, other items" Description="">
+  <IfcClassificationReference id="ic38c186e-23d4-4810-a8b2-a3d89b77c3c3" Identification="219" Name="Clearance, other items" Description="Other costs incurred in preparing the site">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ia6a703e4-1625-430e-9626-f799a1d11d38" />
     </ReferencedSource>

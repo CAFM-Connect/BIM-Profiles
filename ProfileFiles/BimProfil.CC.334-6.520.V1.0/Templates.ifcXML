@@ -1204,7 +1204,7 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset529c3eb3-0b1a-4ec7-b12d-06ac35559773" GlobalId="1Id3wp2nfEnx4j1gmrLPTp" Name="334.30" Description="PropertySet Template for 'CAFMConnect.DE Fenster außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcWindow/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i11d1e6e9-7eb2-4c56-9b50-1a0a8f27ac2e" GlobalId="2EAcFC3ufCh8cgQuXTnTlS" Name="Material (Fenster)" Description="Gibt das Material des Bauteils an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
+      <IfcSimplePropertyTemplate id="i11d1e6e9-7eb2-4c56-9b50-1a0a8f27ac2e" GlobalId="2EAcFC3ufCh8cgQuXTnTlS" Name="Material (Fenster)" Description="Gibt das Material des Bauteils an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Material (Fenster)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i11d1e6e9-7eb2-4c56-9b50-1a0a8f27ac2e_a0a3fc95-f5df-4720-84d7-a86861fd9186" pos="1">Aluminium</IfcLabel-wrapper>
@@ -1248,12 +1248,12 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset1543be97-3afa-4ce3-b23d-510825dc163b" GlobalId="0LGxwNElfCux8zKGWbt1Ox" Name="344.30" Description="PropertySet Template for 'CAFMConnect.DE Fenster innen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcWindow/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c" GlobalId="0y3wAo6sz9HAvEAkC835yi" Name="Glasfläche" Description="Fläche der Glasoberfläche" TemplateType="p_singlevalue" PrimaryMeasureType="IfcAreaMeasure">
+      <IfcSimplePropertyTemplate id="i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c" GlobalId="0y3wAo6sz9HAvEAkC835yi" Name="Glasfläche" Description="Gibt die Fläche der Glasoberfläche an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcAreaMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i4533d0bd-9c5f-4ae4-a006-a048fb7ad15c" UnitType="areaunit" Name="square_metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ia603a2ea-4d2f-446d-a569-91f6112c06be" GlobalId="2EAcFC3ufCh8cgQuXTnTlS" Name="Material (Fenster)" Description="Gibt das Material des Bauteils an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
+      <IfcSimplePropertyTemplate id="ia603a2ea-4d2f-446d-a569-91f6112c06be" GlobalId="2EAcFC3ufCh8cgQuXTnTlS" Name="Material (Fenster)" Description="Gibt das Material des Bauteils an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Material (Fenster)">
           <EnumerationValues>
             <IfcLabel-wrapper id="ia603a2ea-4d2f-446d-a569-91f6112c06be_a0a3fc95-f5df-4720-84d7-a86861fd9186" pos="1">Aluminium</IfcLabel-wrapper>

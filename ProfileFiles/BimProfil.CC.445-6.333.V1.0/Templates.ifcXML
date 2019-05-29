@@ -91,6 +91,108 @@
           <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Of56Q26zFGARasOnQRfV_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1EQtkagI94BQuO1fX0NnKf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eyYAIUIf6HOV34OntxULS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ipseta8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eyYAIUIf6HOV34OntxULS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib1ae9161-5c52-4443-b8ba-f8309cbabcd0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/ZVEI/692cd9e9-1a26-4260-8f93-3dd31546edf3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ZVEI</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>692cd9e9-1a26-4260-8f93-3dd31546edf3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1fBDdf6YP2O8_JFTCLHktp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ic313bf8f-3acf-4eba-8bce-63a178e5a386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/ZVEI/715351ca-1c59-48d6-8597-2a966006ce81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ZVEI</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>715351ca-1c59-48d6-8597-2a966006ce81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nKr7A75b8reMNAfPW1iw1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
     </Rows>
   </IfcTable>
+  <IfcClassification id="CAFMConnectCatalogueOfObjectTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i104" GlobalId="1fScyt72b7pBdWwq6yLyjQ">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" Name="" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" Location="IfcBuildingElementProxy/USERDEFINED" Identification="400" Name="BAUWERK - TECHNISCHE ANLAGEN" Description="Kosten aller im Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen technischen Anlagen oder Anlagenteile Die einzelnen technischen Anlagen enthalten die zugehörigen Gestelle, Befestigungen, Armaturen, Wärme- und Kältedämmung, Schall- und Brandschutzvorkehrungen, Abdeckungen, Verkleidungen, Anstriche, Kennzeichnungen sowie die anlagenspezifischen Mess-, Steuer- und Regelanlagen. Die Kosten für das Erstellen und Schließen von Schlitzen und Durchführungen werden in der Regel in der KG 300 erfasst.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4e6b7ba4-a922-442d-ae18-0698405f1529" Location="IfcBuildingElementProxy/USERDEFINED" Identification="440" Name="Starkstromanlagen" Description="Einschließlich der Brandschutzdurchführungen, soweit nicht in anderen Kostengruppen erfasst">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ia8f22292-792a-4645-87c3-118c77ede55c" Location="IfcLightFixture/USERDEFINED" Identification="445" Name="Beleuchtungsanlagen" Description="Ortsfeste Leuchten, Sicherheitsbeleuchtung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i4e6b7ba4-a922-442d-ae18-0698405f1529" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="ipseta8f22292-792a-4645-87c3-118c77ede55c" GlobalId="2eyYAIUIf6HOV34OntxULS" Name="445" Description="PropertySet Template for 'CAFMConnect.DE Beleuchtungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcLightFixture/USERDEFINED">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="ib1ae9161-5c52-4443-b8ba-f8309cbabcd0" GlobalId="1fBDdf6YP2O8_JFTCLHktp" Name="Sockel" Description="Fassung für das Leuchtmittel" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ic313bf8f-3acf-4eba-8bce-63a178e5a386" GlobalId="1nKr7A75b8reMNAfPW1iw1" Name="Lampen-Nennleistung" Description="Annähernde Wattzahl (Leistung), die zur Bezeichnung oder Kennzeichnung der Lampe verwendet wird" TemplateType="p_singlevalue" PrimaryMeasureType="IfcPowerMeasure">
+        <PrimaryUnit>
+          <IfcSIUnit id="unit_ic313bf8f-3acf-4eba-8bce-63a178e5a386" UnitType="powerunit" Name="watt" />
+        </PrimaryUnit>
+      </IfcSimplePropertyTemplate>
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="ia8f22292-792a-4645-87c3-118c77ede55c_ipseta8f22292-792a-4645-87c3-118c77ede55c" GlobalId="2eyYAIUIf6HOV34OntxULS">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="ipseta8f22292-792a-4645-87c3-118c77ede55c" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="ia8f22292-792a-4645-87c3-118c77ede55c" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
 </ifcXML>

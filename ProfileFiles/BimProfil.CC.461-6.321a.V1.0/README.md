@@ -1,5 +1,5 @@
 ## Fördertechnische Anlagen prüfen
-
+Dieses BIM Profil beschreibt die Standardinformationen die zur Veranlassung und Abwicklung von wiederkehrenden gesetzlichen Prüfungen von fördertechnischen Anlagen (wie z.B. Aufzugsanlagen) benötigt werden.
 
 Key | Value |
 --|--|

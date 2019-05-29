@@ -1,0 +1,7 @@
+/ValidateSampleFilesLocal.ps1
+/Classifications/*.log
+/Classifications/*.1
+/Classifications/*.2
+/ProfileFiles/BimProfil.CC.300-6330.V1.0/*.log
+*.1
+*.log

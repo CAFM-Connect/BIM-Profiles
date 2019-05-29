@@ -950,8 +950,8 @@
       <IfcSimplePropertyTemplate id="ia872c21f-4eda-4f7e-b7d3-1338a1316e9c" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="icb083bec-738f-4e6a-8cc7-f576b52a3e84" GlobalId="2D_Z7xcjPDdOI6InSVi9Mq" Name="Anzahl Haltestellen" Description="Anzahl von Haltestellen einer Aufzugsanlage" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="id8359839-34f0-4e39-af14-bc506526f671" GlobalId="15FiIuf292A8Z_5IFKGAJk" Name="Anzahl Zugangsstellen" Description="Zugangsstellen/Türen zu einer Aufzugsanlage" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
-      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art der Anlage" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
-        <Enumerators Name="Enumeration for Art der Anlage">
+      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art des Aufzug" Description="Gibt die  Art des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+        <Enumerators Name="Enumeration for Art des Aufzug">
           <EnumerationValues>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_4098a36d-8a3a-4f35-ba3c-e01c30ac9555" pos="1">Feuerwehraufzug</IfcLabel-wrapper>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_728ebd18-3051-4b1a-99a5-89fb08198962" pos="2">Güteraufzug</IfcLabel-wrapper>
@@ -966,7 +966,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i2476e3ff-6d3f-423b-b704-932962f80235" GlobalId="1VLTKVvl16Rx4kNbCzVMkV" Name="Errichtungsnorm" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i2476e3ff-6d3f-423b-b704-932962f80235" GlobalId="1VLTKVvl16Rx4kNbCzVMkV" Name="Errichtungsnorm" Description="Gibt die Errichtungsnorm des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Errichtungsnorm">
           <EnumerationValues>
             <IfcLabel-wrapper id="i2476e3ff-6d3f-423b-b704-932962f80235_67adba91-6d12-4560-997f-502ea3dab39c" pos="1">EN81-1</IfcLabel-wrapper>
@@ -981,17 +981,17 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie weit die Förderspanne des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie hoch die Förderhöhe des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
         <PrimaryUnit>
           <IfcSIUnit id="unit_id1c061cf-4632-4cf7-a3ea-6a56696291e3" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i1e424855-c18a-4944-8749-5c587749521b" GlobalId="3rl0a0ZDnEOgumC9KNnOe9" Name="Tragkraft" Description="Gibt die Tragkraft  in kg an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcMassMeasure">
+      <IfcSimplePropertyTemplate id="i1e424855-c18a-4944-8749-5c587749521b" GlobalId="3rl0a0ZDnEOgumC9KNnOe9" Name="Tragkraft" Description="Gibt die Tragkraft des Aufzugs in kg an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcMassMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i1e424855-c18a-4944-8749-5c587749521b" UnitType="massunit" Prefix="kilo" Name="gram" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i4129fed8-f902-4091-89e6-6b80a73d0603" GlobalId="2GFGquAYvF7xUxCz2zYoGr" Name="Tragkraft in Personen" Description="" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
+      <IfcSimplePropertyTemplate id="i4129fed8-f902-4091-89e6-6b80a73d0603" GlobalId="2GFGquAYvF7xUxCz2zYoGr" Name="Tragkraft in Personen" Description="Gibt die Tragkraft des Aufzugs in Personenanzahl an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="id83289b5-b687-4fdc-94bd-620af0c87621" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
@@ -1012,7 +1012,7 @@
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="id2e27f50-328f-4a3e-998b-860013da74ca" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i48cc6a0b-bbfa-4b90-94c8-c7a410176985" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i33d16557-bb34-4f13-ac00-bfb19108aeb3" GlobalId="3v14o6vOv58uWpeJ2QHFe0" Name="Art des Notrufsystems" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i33d16557-bb34-4f13-ac00-bfb19108aeb3" GlobalId="3v14o6vOv58uWpeJ2QHFe0" Name="Art des Notrufsystems" Description="Gibt die Art des Notrufsystems an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Art des Notrufsystems">
           <EnumerationValues>
             <IfcLabel-wrapper id="i33d16557-bb34-4f13-ac00-bfb19108aeb3_69ffbf76-289e-4300-bc28-0c8096e6fb0c" pos="1">Hupe</IfcLabel-wrapper>
@@ -1045,7 +1045,7 @@
       <IfcSimplePropertyTemplate id="i42679bbf-f7f3-4f6c-a130-fa3be6e59dcf" GlobalId="30NEYsmKr0ahPaIq60Vjjf" Name="Anzahl Antriebe" Description="Gibt an, wieviele Antriebe sich in dem System befinden." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveInteger" />
       <IfcSimplePropertyTemplate id="ia3c726c4-10f5-4081-a476-3e13bafb3eb5" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i79676950-2882-4f57-bf76-05cf8e4a3499" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="i23e8355a-7e9e-44ff-b490-de4c58a8fd9f" GlobalId="19hUkohLj4rez1qfU99g9$" Name="Bauart (Fahrtreppe, Fahrsteig)" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i23e8355a-7e9e-44ff-b490-de4c58a8fd9f" GlobalId="19hUkohLj4rez1qfU99g9$" Name="Bauart (Fahrtreppe, Fahrsteig)" Description="Gibt an, um welche Bauart es sich handelt." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Bauart (Fahrtreppe, Fahrsteig)">
           <EnumerationValues>
             <IfcLabel-wrapper id="i23e8355a-7e9e-44ff-b490-de4c58a8fd9f_fca1621d-b69c-4a36-b81a-73a48a3235c5" pos="1">Fahrsteig</IfcLabel-wrapper>
@@ -1072,7 +1072,7 @@
   <IfcPropertySetTemplate id="ipset102621f5-5aad-4400-b592-bbb3a9376d87" GlobalId="0G9Y7rMgr40BMIkxEfDss7" Name="463" Description="PropertySet Template for 'CAFMConnect.DE Befahranlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcTransportElement/LIFTINGGEAR">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i61bc38cd-6387-45b7-98bb-f0563b0b2044" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="idfcf6f53-e2e5-438e-a13e-e05c90e17f65" GlobalId="2KygZbGwvCPeLxSNmNoimL" Name="Bauart" Description="Art und Weise wie das Bauteil gebaut ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="idfcf6f53-e2e5-438e-a13e-e05c90e17f65" GlobalId="2KygZbGwvCPeLxSNmNoimL" Name="Bauart" Description="Gibt die Art und Weise des Bauteil an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i999e6c86-64e2-499f-87b5-258e84ddc414" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i27a6af92-ad51-43ef-824c-0cdc5c09405d" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i059c54c8-9335-4e96-9a21-3e7e788f7e9d" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
@@ -1096,7 +1096,7 @@
       <IfcSimplePropertyTemplate id="i1e06f36a-aa55-456c-be5e-7c3d64c1d215" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="if11b0e2d-d8f3-493a-ad4e-82cb975e16cf" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i236d08d2-04a0-46ac-b3d0-1f5734260b63" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
-      <IfcSimplePropertyTemplate id="iff953b48-335e-45ba-ad40-151f8defdde0" GlobalId="3h7DHvuZz2AhcninZK9X1g" Name="Anlagentyp" Description="" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="iff953b48-335e-45ba-ad40-151f8defdde0" GlobalId="3h7DHvuZz2AhcninZK9X1g" Name="Anlagentyp" Description="Gibt den Anlagentyp der Transportanlage an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Anlagentyp">
           <EnumerationValues>
             <IfcLabel-wrapper id="iff953b48-335e-45ba-ad40-151f8defdde0_735c7550-9365-4e1f-a94c-324dece11814" pos="1">Aktentransportanlage</IfcLabel-wrapper>

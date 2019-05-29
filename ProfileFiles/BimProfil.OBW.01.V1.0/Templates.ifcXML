@@ -9612,7 +9612,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="Anzahl der zu öffnenden, beweglichen Teile eines Tür-/Fensterelementes" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0" GlobalId="0ctwDbCbvCTxKEyvl_RJTm" Name="Anzahl Flügel" Description="Gibt die Anzahl der zu öffnenden, beweglichen Teile eines Tür-/Fensterelementes" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcReal">
         <Enumerators Name="Enumeration for Anzahl Flügel">
           <EnumerationValues>
             <IfcLabel-wrapper id="idc227ad1-43fa-4e25-b8e0-dba91f3181e0_87262770-9583-4208-8cb6-036c6f8a76cb" pos="1">2-flügelig</IfcLabel-wrapper>
