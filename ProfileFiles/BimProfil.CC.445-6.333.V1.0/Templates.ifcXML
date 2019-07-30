@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+  <header>
+    <name>BIM Profil Leuchtmittelwechsel</name>
+    <time_stamp>2018-08-17T00:00:00</time_stamp>
+    <author>AK-Implementierung CAFM-Ring</author>
+    <organization>CAFM-Connect</organization>
+    <originating_system>https://www.cafm-connect.org</originating_system>
+    <authorization>Creative Commons Attribution-ShareAlike 4.0 International License</authorization>
+  </header>
+  <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
+  <IfcProjectLibrary id="i100" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Leuchtmittelwechsel" Description="Leuchtmittelwechsel durchführen inkl. Ersatzbeschaffung, Austausch und Entsorgung" Phase="Betreiben">
+    <OwnerHistory CreationDate="1534464000000">
+      <OwningUser>
+        <ThePerson FamilyName="AK-Implementierung CAFM-Ring" />
+        <TheOrganization Name="CAFM-Connect" />
+      </OwningUser>
+      <OwningApplication Version="" ApplicationFullName="" ApplicationIdentifier="">
+        <ApplicationDeveloper Name="" />
+      </OwningApplication>
+    </OwnerHistory>
+  </IfcProjectLibrary>
+  <IfcRelDefinesByProperties id="i101" GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="Defined by PSet_Library">
+    <RelatedObjects xsi:type="IfcProjectLibrary" xsi:nil="true" ref="i100" />
+    <RelatingPropertyDefinition>
+      <IfcPropertySet GlobalId="1fScyt72b7pBdWwq6yLyjQ" Name="PSet_Library" Description="A PSet, that contains the metadata of the profile according to the specification (https://github.com/CAFM-Connect/BIM-Profiles/issues/9)">
+        <HasProperties>
+          <IfcPropertySingleValue Name="Identifier" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>CC.445-6.333</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Language" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>de</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Version" Description="Version number of the profile in the format of semantic versioning">
+            <NominalValue>
+              <IfcLabel-wrapper>1.0</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="AreaOfApplication" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>Deutschland</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="DeveloperDocs" Description="">
+            <NominalValue>
+              <IfcLabel-wrapper>https://github.com/cafm-connect</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="License" Description="Reference to the license agreement for the usage of the profile">
+            <NominalValue>
+              <IfcLabel-wrapper>Creative Commons Attribution-ShareAlike 4.0 International License</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="PublicationDate" Description="">
+            <NominalValue>
+              <IfcDate-wrapper>17.08.2018 00:00:00</IfcDate-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="Sort" Description="A number, that defines a sorting order for the profile in displays">
+            <NominalValue>
+              <IfcLabel-wrapper></IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+          <IfcPropertySingleValue Name="IsExchangeRequirement" Description="A nuWhen this property is true, it indicates, that this BIM Profile contains one or more digital Information Exchange Reqirements (IER). If this property is false, the profile file contains a digital classification (e.g. an object type library, OTL)">
+            <NominalValue>
+              <IfcLabel-wrapper>True</IfcLabel-wrapper>
+            </NominalValue>
+          </IfcPropertySingleValue>
+        </HasProperties>
+      </IfcPropertySet>
+    </RelatingPropertyDefinition>
+  </IfcRelDefinesByProperties>
+  <IfcTable id="i102" Name="DictionaryReferenceTable">
+    <Rows>
+      <IfcTableRow IsHeading="true">
+        <RowCells>
+          <IfcIdentifier-wrapper>IfcFileId</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClass</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>DictionaryUri</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Of56Q26zFGARasOnQRfV_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d8a4519a-086f-4f40-a6e4-d98c5a6e97fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Of56Q26zFGARasOnQRfV_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i0500505f-824f-4324-beac-e4386aea8745</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Ifc/78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1u_fA0qUmHuO00025QrE$V</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1EQtkagI94BQuO1fX0NnKf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ipset4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4e6b7ba4-a922-442d-ae18-0698405f1529</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1EQtkagI94BQuO1fX0NnKf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ibec7c1d0-d9ee-4181-970d-bcfbf35dc170</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Ifc/78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1u_fA0qUmHuO00025QrE$V</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eyYAIUIf6HOV34OntxULS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ipseta8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a8f22292-792a-4645-87c3-118c77ede55c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eyYAIUIf6HOV34OntxULS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id1d18ad0-9b29-4593-a89f-8b243a2ff4b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/4a155f18-8c4d-46f1-8862-c39a789d04f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4a155f18-8c4d-46f1-8862-c39a789d04f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1A5LyOZ4r6yOXYmvfudGJr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib1ae9161-5c52-4443-b8ba-f8309cbabcd0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/ZVEI/692cd9e9-1a26-4260-8f93-3dd31546edf3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ZVEI</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>692cd9e9-1a26-4260-8f93-3dd31546edf3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1fBDdf6YP2O8_JFTCLHktp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ic313bf8f-3acf-4eba-8bce-63a178e5a386</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/ZVEI/715351ca-1c59-48d6-8597-2a966006ce81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ZVEI</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>715351ca-1c59-48d6-8597-2a966006ce81</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nKr7A75b8reMNAfPW1iw1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4dc88ae3-281a-4358-a54e-455fc57cd5e9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Ifc/78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1u_fA0qUmHuO00025QrE$V</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0_xqoadrLATO5wlg38mhZF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ipset3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcPropertySetTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0_xqoadrLATO5wlg38mhZF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id3ed2727-4e29-4ec3-9e40-5550dc9ae4d4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/4a155f18-8c4d-46f1-8862-c39a789d04f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4a155f18-8c4d-46f1-8862-c39a789d04f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1A5LyOZ4r6yOXYmvfudGJr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i560084ee-9f3c-4223-9ece-4d69ae5ad1af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/25827037-fc7e-48f9-9da5-5a83f3601e36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>25827037-fc7e-48f9-9da5-5a83f3601e36</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0bWd0t$7v8_PsbMeFpO1us</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i9c00a380-53f9-42ab-8512-047a29c68b1d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/Ifc/78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>Ifc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>78fa9280-d1ec-11e1-8000-00215ad4efdf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1u_fA0qUmHuO00025QrE$V</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+    </Rows>
+  </IfcTable>
+  <IfcClassification id="CAFMConnectCatalogueOfObjectTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
+  <IfcRelAssociatesClassification id="i104" GlobalId="1fScyt72b7pBdWwq6yLyjQ">
+    <RelatedObjects>
+      <IfcProject xsi:nil="true" ref="i1" Name="" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" Location="IfcBuildingElementProxy/USERDEFINED" Identification="400" Name="BAUWERK - TECHNISCHE ANLAGEN" Description="Kosten aller im Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen technischen Anlagen oder Anlagenteile Die einzelnen technischen Anlagen enthalten die zugehörigen Gestelle, Befestigungen, Armaturen, Wärme- und Kältedämmung, Schall- und Brandschutzvorkehrungen, Abdeckungen, Verkleidungen, Anstriche, Kennzeichnungen sowie die anlagenspezifischen Mess-, Steuer- und Regelanlagen. Die Kosten für das Erstellen und Schließen von Schlitzen und Durchführungen werden in der Regel in der KG 300 erfasst.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe" GlobalId="3Of56Q26zFGARasOnQRfV_" Name="400" Description="PropertySet Template for 'CAFMConnect.DE BAUWERK - TECHNISCHE ANLAGEN'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="i0500505f-824f-4324-beac-e4386aea8745" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcIdentifier" />
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe_ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe" GlobalId="3Of56Q26zFGARasOnQRfV_">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="ipsetd8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i4e6b7ba4-a922-442d-ae18-0698405f1529" Location="IfcBuildingElementProxy/USERDEFINED" Identification="440" Name="Starkstromanlagen" Description="Einschließlich der Brandschutzdurchführungen, soweit nicht in anderen Kostengruppen erfasst">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="ipset4e6b7ba4-a922-442d-ae18-0698405f1529" GlobalId="1EQtkagI94BQuO1fX0NnKf" Name="440" Description="PropertySet Template for 'CAFMConnect.DE Starkstromanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="ibec7c1d0-d9ee-4181-970d-bcfbf35dc170" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcIdentifier" />
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="i4e6b7ba4-a922-442d-ae18-0698405f1529_ipset4e6b7ba4-a922-442d-ae18-0698405f1529" GlobalId="1EQtkagI94BQuO1fX0NnKf">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="ipset4e6b7ba4-a922-442d-ae18-0698405f1529" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i4e6b7ba4-a922-442d-ae18-0698405f1529" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="ia8f22292-792a-4645-87c3-118c77ede55c" Location="IfcLightFixture/USERDEFINED" Identification="445" Name="Beleuchtungsanlagen" Description="Ortsfeste Leuchten, Sicherheitsbeleuchtung">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="i4e6b7ba4-a922-442d-ae18-0698405f1529" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="ipseta8f22292-792a-4645-87c3-118c77ede55c" GlobalId="2eyYAIUIf6HOV34OntxULS" Name="445" Description="PropertySet Template for 'CAFMConnect.DE Beleuchtungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcLightFixture/USERDEFINED">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="id1d18ad0-9b29-4593-a89f-8b243a2ff4b3" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="ib1ae9161-5c52-4443-b8ba-f8309cbabcd0" GlobalId="1fBDdf6YP2O8_JFTCLHktp" Name="Sockel" Description="Fassung für das Leuchtmittel" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ic313bf8f-3acf-4eba-8bce-63a178e5a386" GlobalId="1nKr7A75b8reMNAfPW1iw1" Name="Lampen-Nennleistung" Description="Annähernde Wattzahl (Leistung), die zur Bezeichnung oder Kennzeichnung der Lampe verwendet wird" TemplateType="p_singlevalue" PrimaryMeasureType="IfcPowerMeasure">
+        <PrimaryUnit>
+          <IfcSIUnit id="unit_ic313bf8f-3acf-4eba-8bce-63a178e5a386" UnitType="powerunit" Name="watt" />
+        </PrimaryUnit>
+      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="i4dc88ae3-281a-4358-a54e-455fc57cd5e9" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcIdentifier" />
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="ia8f22292-792a-4645-87c3-118c77ede55c_ipseta8f22292-792a-4645-87c3-118c77ede55c" GlobalId="2eyYAIUIf6HOV34OntxULS">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="ipseta8f22292-792a-4645-87c3-118c77ede55c" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="ia8f22292-792a-4645-87c3-118c77ede55c" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="i3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf" Location="IfcLightFixture/SECURITYLIGHTING" Identification="445.20" Name="Sicherheitsbeleuchtung" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="ia8f22292-792a-4645-87c3-118c77ede55c" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcPropertySetTemplate id="ipset3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf" GlobalId="0_xqoadrLATO5wlg38mhZF" Name="445.20" Description="PropertySet Template for 'CAFMConnect.DE Sicherheitsbeleuchtung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcLightFixture/SECURITYLIGHTING">
+    <HasPropertyTemplates>
+      <IfcSimplePropertyTemplate id="id3ed2727-4e29-4ec3-9e40-5550dc9ae4d4" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i560084ee-9f3c-4223-9ece-4d69ae5ad1af" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
+      <IfcSimplePropertyTemplate id="i9c00a380-53f9-42ab-8512-047a29c68b1d" GlobalId="1u_fA0qUmHuO00025QrE$V" Name="Globale Artikelnummer" Description="(GTIN) ist ein von GS1 (www.gs1.org) entwickelter Identifikator für Handelsartikel." TemplateType="p_singlevalue" PrimaryMeasureType="IfcIdentifier" />
+    </HasPropertyTemplates>
+  </IfcPropertySetTemplate>
+  <IfcRelAssociatesClassification id="i3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf_ipset3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf" GlobalId="0_xqoadrLATO5wlg38mhZF">
+    <RelatedObjects>
+      <IfcPropertySetTemplate xsi:nil="true" ref="ipset3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf" />
+    </RelatedObjects>
+    <RelatingClassification>
+      <IfcClassificationReference xsi:nil="true" ref="i3eef4ca4-9f55-4a75-817a-bea0c8c2b8cf" />
+    </RelatingClassification>
+  </IfcRelAssociatesClassification>
+</ifcXML>
