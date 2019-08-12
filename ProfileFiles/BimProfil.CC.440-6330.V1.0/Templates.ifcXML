@@ -213,16 +213,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>ia4cae45c-3113-4659-a09e-764145bafb6c_c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>302wZhux1Fp8Wk5SWV_kdd</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i05391a56-aae7-46e4-879d-019fce08694d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/5f2587fb-3bb2-4c67-931e-fe13e2fb786b</IfcIdentifier-wrapper>
@@ -343,16 +333,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i8737b445-14be-443d-91b3-c6847a83ba4a_19ef2fab-bea3-4cfe-b19c-9d202a8c5526</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/19ef2fab-bea3-4cfe-b19c-9d202a8c5526</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>19ef2fab-bea3-4cfe-b19c-9d202a8c5526</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0Pxo_hlgDC$h6SdI0gZ5Kc</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i97a501f5-8ebf-4ca1-adb5-31403fe1930a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/25827037-fc7e-48f9-9da5-5a83f3601e36</IfcIdentifier-wrapper>
@@ -399,6 +379,16 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>5c2395f3-2e0e-4b20-803a-ba156614ad41</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1S8vNpBWvB880wkXLc5Ar1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia1a8009a-c476-4656-a727-a90be267506c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YgSf2FaT2v8O6sI1wNjVe</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -463,6 +453,16 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i4fc6af9d-0d1f-4c83-8888-847497d67318</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YgSf2FaT2v8O6sI1wNjVe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i3e7f7f95-9c68-424e-aeac-2fef323d80e0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/3e7f7f95-9c68-424e-aeac-2fef323d80e0</IfcIdentifier-wrapper>
@@ -489,6 +489,16 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>5c2395f3-2e0e-4b20-803a-ba156614ad41</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1S8vNpBWvB880wkXLc5Ar1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i8a7fe034-d424-447b-adc1-620fdb6d0a3e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YgSf2FaT2v8O6sI1wNjVe</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -621,6 +631,16 @@
           <IfcIdentifier-wrapper>1S8vNpBWvB880wkXLc5Ar1</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iccb5322f-64d1-447a-b3cf-5bc0efcebe4b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>62a9ca42-3e47-42e4-8606-d9207a5ed7e8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YgSf2FaT2v8O6sI1wNjVe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
     </Rows>
   </IfcTable>
   <IfcClassification id="CAFMConnectCatalogueOfObjectTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Bauteiltypen nach DIN 276+x" Description="CAFMConnectCatalogueOfObjectTypes" />
@@ -693,13 +713,7 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B" Name="334.20" Description="PropertySet Template for 'CAFMConnect.DE Tor außen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcDoor/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="ia4cae45c-3113-4659-a09e-764145bafb6c" GlobalId="0mb$wPzVL4Lw29xSsZI9gm" Name="Automatischer Antrieb" Description="Gibt an, ob dieses Bauteil einen automatischen Antrieb (kräftebetätigt) zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN)." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
-        <Enumerators Name="Enumeration for Automatischer Antrieb">
-          <EnumerationValues>
-            <IfcLabel-wrapper id="ia4cae45c-3113-4659-a09e-764145bafb6c_c00ba8eb-e3b0-4fcc-882e-15c81ffae9e7" pos="1" />
-          </EnumerationValues>
-        </Enumerators>
-      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="ia4cae45c-3113-4659-a09e-764145bafb6c" GlobalId="0mb$wPzVL4Lw29xSsZI9gm" Name="Automatischer Antrieb" Description="Gibt an, ob dieses Bauteil einen automatischen Antrieb (kräftebetätigt) zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN)." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="i05391a56-aae7-46e4-879d-019fce08694d" GlobalId="1V9OVxEx9CPvCU$XFY_tXh" Name="Art des Tors" Description="Gibt die Bauart des Tors an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
         <Enumerators Name="Enumeration for Art des Tors">
           <EnumerationValues>
@@ -717,13 +731,12 @@
           <IfcSIUnit id="unit_icf575eb8-366d-44d0-b17b-1c413886c1d6" UnitType="lengthunit" Prefix="milli" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="Gibt die Feuerwiderstandsklasse des Bauteils an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+      <IfcSimplePropertyTemplate id="i8737b445-14be-443d-91b3-c6847a83ba4a" GlobalId="1ZVQ8vIvb1Zg36BEze1I_w" Name="Feuerwiderstandsklasse (F-Klassen)" Description="Gibt die Brandschutzklasse des Bauteils nach DIN 4102-1 an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Feuerwiderstandsklasse (F-Klassen)">
           <EnumerationValues>
-            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_49acb13c-88cc-4ce6-8c1a-4bdff7ae0ad7" pos="1">T 30-1</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_30c4680e-8e15-4ff3-bb00-a55f43cfa1a9" pos="2">T 30-2</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_f9aa942b-8da2-4f32-9aaf-03b570aea5c6" pos="3">T 90-1</IfcLabel-wrapper>
-            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_19ef2fab-bea3-4cfe-b19c-9d202a8c5526" pos="4">T 90-2</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_49acb13c-88cc-4ce6-8c1a-4bdff7ae0ad7" pos="1">F 30</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_30c4680e-8e15-4ff3-bb00-a55f43cfa1a9" pos="2">F 60</IfcLabel-wrapper>
+            <IfcLabel-wrapper id="i8737b445-14be-443d-91b3-c6847a83ba4a_f9aa942b-8da2-4f32-9aaf-03b570aea5c6" pos="3">F 90</IfcLabel-wrapper>
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
@@ -732,6 +745,7 @@
       <IfcSimplePropertyTemplate id="i71464175-b5df-432a-be9c-13827a3b497c" GlobalId="3f1NFhZY1FzB92xFK9vrSc" Name="Ergebnisbeschreibung" Description="Beschreibung des Ergebnisses." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i87b6268b-4d94-41aa-aaa5-0921f3fd702f" GlobalId="0lEm4NnRfCGAuwLII3iLTf" Name="Ablage Inspektionsbericht" Description="Dokumentation des Begehungsberichts." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="i96f404d1-aa68-4b46-ae3e-631d24696892" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="ia1a8009a-c476-4656-a727-a90be267506c" GlobalId="1YgSf2FaT2v8O6sI1wNjVe" Name="Technisches Abnahmedatum" Description="Datum der technischen Abnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i7d73b1e7-e817-4d0e-86fd-f2b9888da0cb_ipset7d73b1e7-e817-4d0e-86fd-f2b9888da0cb" GlobalId="1zSx7dw1TD3eRzyhc8ZQ3B">
@@ -768,6 +782,7 @@
   <IfcPropertySetTemplate id="ipset4e6b7ba4-a922-442d-ae18-0698405f1529" GlobalId="1EQtkagI94BQuO1fX0NnKf" Name="440" Description="PropertySet Template for 'CAFMConnect.DE Starkstromanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i029c689e-efcb-4d48-a309-ba346600a8ca" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i4fc6af9d-0d1f-4c83-8888-847497d67318" GlobalId="1YgSf2FaT2v8O6sI1wNjVe" Name="Technisches Abnahmedatum" Description="Datum der technischen Abnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i4e6b7ba4-a922-442d-ae18-0698405f1529_ipset4e6b7ba4-a922-442d-ae18-0698405f1529" GlobalId="1EQtkagI94BQuO1fX0NnKf">
@@ -786,6 +801,7 @@
   <IfcPropertySetTemplate id="ipset3e7f7f95-9c68-424e-aeac-2fef323d80e0" GlobalId="0_Vt_Ld6X2JgwiB_yoFO3W" Name="444" Description="PropertySet Template for 'CAFMConnect.DE Niederspannungsinstallationsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i491a5096-57e7-4256-b079-56db7556ba59" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i8a7fe034-d424-447b-adc1-620fdb6d0a3e" GlobalId="1YgSf2FaT2v8O6sI1wNjVe" Name="Technisches Abnahmedatum" Description="Datum der technischen Abnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i3e7f7f95-9c68-424e-aeac-2fef323d80e0_ipset3e7f7f95-9c68-424e-aeac-2fef323d80e0" GlobalId="0_Vt_Ld6X2JgwiB_yoFO3W">
@@ -814,6 +830,7 @@
       <IfcSimplePropertyTemplate id="i75081912-3ee6-4142-acf6-a110b9ebd396" GlobalId="2us6B_qGLAO9aAyU49cXwV" Name="Anzahl Stromkreise 2-pol., 230 V, Kombination FI / LS" Description="Ein geschlossener, 2-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt und Kombination FI / LS" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i21a02885-042b-494e-a915-64758223f12e" GlobalId="3PYiKdAcT57eLHW2wY0mQ_" Name="Anzahl Stromkreise 1-pol., 230 V" Description="Ein geschlossener, 1-poliger mit einer Stromquelle verbundener Kreis von elektrischen Leitern, in dem Strom fließt mit der Spannung 230 Volt" TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="i062e7a37-bdfe-4d65-b805-905fb8397bcb" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="iccb5322f-64d1-447a-b3cf-5bc0efcebe4b" GlobalId="1YgSf2FaT2v8O6sI1wNjVe" Name="Technisches Abnahmedatum" Description="Datum der technischen Abnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i1aba60cf-00c4-4502-b8f2-4f26bc30a915_ipset1aba60cf-00c4-4502-b8f2-4f26bc30a915" GlobalId="0Qkc3F0CH50hZoJoQyCAaL">
