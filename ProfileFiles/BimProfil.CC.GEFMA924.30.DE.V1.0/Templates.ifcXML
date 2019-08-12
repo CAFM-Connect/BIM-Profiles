@@ -1383,16 +1383,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>ibe8faba0-1dc4-467a-bae6-bc1e25a8e6cf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.30.DE/be8faba0-1dc4-467a-bae6-bc1e25a8e6cf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>GEFMA924.30.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>be8faba0-1dc4-467a-bae6-bc1e25a8e6cf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2_ZwkW7SH6Uhhcl1ubgERF</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>ic17611bd-ac43-40b8-820e-e801b0afecc5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/GEFMA924.30.DE/c17611bd-ac43-40b8-820e-e801b0afecc5</IfcIdentifier-wrapper>
@@ -5545,11 +5535,6 @@
   <IfcClassificationReference id="ib46fdef8-95a4-4cc0-abf9-5a429c9ad479" Identification="1.600" Name="Betriebskonzepte entwickeln" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ia255111a-4a30-45e7-b1f6-b58354d23101" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ibe8faba0-1dc4-467a-bae6-bc1e25a8e6cf" Identification="10.000" Name="Neues Phase" Description="">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfLifeCyclePhases" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ic17611bd-ac43-40b8-820e-e801b0afecc5" Identification="2.000" Name="PLANUNGSPHASE" Description="">

@@ -13414,7 +13414,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i464" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i466" Identification="" Name="IfxOutdoorAreaDomain" Description="The IfxOutdoorAreaDomain defines the resources used in the Outdoor Areas around buildings that are part of the building .">
+  <IfcClassificationReference id="i466" Identification="" Name="IfxOutdoorAreaDomain" Description="The IfxOutdoorAreaDomain defines the resources used in the Outdoor Areas around buildings that are part of the building.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i464" />
     </ReferencedSource>

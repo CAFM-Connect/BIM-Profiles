@@ -13414,7 +13414,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1625" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1627" Identification="" Name="Außenbereich" Description="-">
+  <IfcClassificationReference id="i1627" Identification="" Name="Außenbereich" Description="Die IfxOutdoorAreaDomain definiert die Ressourcen, die in den Außenbereichen um Gebäude herum verwendet werden, die Teil des Gebäudes sind.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1625" />
     </ReferencedSource>

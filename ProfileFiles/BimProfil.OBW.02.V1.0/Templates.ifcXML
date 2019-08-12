@@ -1039,17 +1039,17 @@
   </IfcClassificationReference>
   <IfcPropertySetTemplate id="ipset45d4419c-8f5c-4c0d-9075-219db032fa39" GlobalId="15r46SZrnC3P1r8PsmClev" Name="333" Description="PropertySet Template for 'CAFMConnect.DE Außenstützen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcColumn/USERDEFINED">
     <HasPropertyTemplates>
-      <IfcSimplePropertyTemplate id="ie61ddd14-1002-4eda-a208-0842285fc7a7" GlobalId="01DcC0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
+      <IfcSimplePropertyTemplate id="ie61ddd14-1002-4eda-a208-0842285fc7a7" GlobalId="01DcC0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung" Description="Die Neigungslänge des Bügels." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_ie61ddd14-1002-4eda-a208-0842285fc7a7" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i198b35d5-4594-4388-822f-d61801488120" GlobalId="08NN40qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in X-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
+      <IfcSimplePropertyTemplate id="i198b35d5-4594-4388-822f-d61801488120" GlobalId="08NN40qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in X-Richtung" Description="Die Neigungslänge des Ankerbandes in X-Richtung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_i198b35d5-4594-4388-822f-d61801488120" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="if64bdd29-e330-46e4-be6b-fb4611e003ca" GlobalId="0KuSc0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in Y-Richtung" Description="ÜBERSETZUNG FEHLT!" TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
+      <IfcSimplePropertyTemplate id="if64bdd29-e330-46e4-be6b-fb4611e003ca" GlobalId="0KuSc0qW0HuO00025QrE$V" Name="Abstand Ringbewehrung in Y-Richtung" Description="Die Neigungslänge des Ankerbandes in Y-Richtung." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_if64bdd29-e330-46e4-be6b-fb4611e003ca" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
