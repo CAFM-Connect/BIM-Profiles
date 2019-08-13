@@ -273,16 +273,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3SNmNpLtrBNRSoQET0_XNr</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i5de3e6c1-de68-4f74-8d15-25f8b982c2d8</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/a0619528-bcf7-476c-9674-192866b55ec0</IfcIdentifier-wrapper>
@@ -829,16 +819,6 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>49378d5e-5e15-4e68-83a7-9f7fdbe3a232</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>19DurUNXLEQ8Eddt$Ruw8o</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>id3150bd2-a8a5-46b9-8782-dc049161c4d8_dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3SNmNpLtrBNRSoQET0_XNr</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -2146,13 +2126,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
-        <Enumerators Name="Enumeration for Fluchttür">
-          <EnumerationValues>
-            <IfcLabel-wrapper id="i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5" pos="1" />
-          </EnumerationValues>
-        </Enumerators>
-      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="i5de3e6c1-de68-4f74-8d15-25f8b982c2d8" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Gibt die Anforderungen an den Schutzgrad der Tür an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Schutzanforderung Tür">
           <EnumerationValues>
@@ -2273,13 +2247,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="id3150bd2-a8a5-46b9-8782-dc049161c4d8" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
-        <Enumerators Name="Enumeration for Fluchttür">
-          <EnumerationValues>
-            <IfcLabel-wrapper id="id3150bd2-a8a5-46b9-8782-dc049161c4d8_dc5f05f3-577d-4b5d-b732-68e740fa15f5" pos="1" />
-          </EnumerationValues>
-        </Enumerators>
-      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="id3150bd2-a8a5-46b9-8782-dc049161c4d8" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="i9eb81068-8ed4-4d5b-be6f-dd8b731e1f81" GlobalId="2WOPKelFT7R9Pq6IXcjLx0" Name="Schutzanforderung Tür" Description="Gibt die Anforderungen an den Schutzgrad der Tür an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
         <Enumerators Name="Enumeration for Schutzanforderung Tür">
           <EnumerationValues>

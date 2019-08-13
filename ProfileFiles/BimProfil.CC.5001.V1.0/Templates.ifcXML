@@ -333,16 +333,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>dc5f05f3-577d-4b5d-b732-68e740fa15f5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3SNmNpLtrBNRSoQET0_XNr</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i7ed1c51d-1308-4e82-bb5e-0017e0efe569</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/4a155f18-8c4d-46f1-8862-c39a789d04f5</IfcIdentifier-wrapper>
@@ -26825,13 +26815,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcBoolean">
-        <Enumerators Name="Enumeration for Fluchttür">
-          <EnumerationValues>
-            <IfcLabel-wrapper id="i52cf05f8-b433-4497-9d0a-451967e9a495_dc5f05f3-577d-4b5d-b732-68e740fa15f5" pos="1" />
-          </EnumerationValues>
-        </Enumerators>
-      </IfcSimplePropertyTemplate>
+      <IfcSimplePropertyTemplate id="i52cf05f8-b433-4497-9d0a-451967e9a495" GlobalId="19DurUNXLEQ8Eddt$Ruw8o" Name="Fluchttür" Description="Gibt an, ob die Tür als Fluchtür genutzt wird." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="i7ed1c51d-1308-4e82-bb5e-0017e0efe569" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i96b117c5-bef0-4a5f-93cc-a7aa0985eeca" GlobalId="3mpCpm7S58xuXMDsGLtPez" Name="Notausgangsverschluss" Description="Gibt an, ob der Notausgang verschlossen ist oder nicht." TemplateType="p_singlevalue" PrimaryMeasureType="IfcBoolean" />
       <IfcSimplePropertyTemplate id="i694bd46b-bb42-4bdd-baed-b164a9c3d7ac" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
