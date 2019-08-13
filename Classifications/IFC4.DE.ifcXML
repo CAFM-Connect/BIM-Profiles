@@ -12604,7 +12604,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1465" Identification="COMPLEX" Name="komplex" Description="Nicht benutzt - auf Aufwärtskompatibilität achten!">
+  <IfcClassificationReference id="i1465" Identification="COMPLEX_" Name="komplex" Description="Nicht benutzt - auf Aufwärtskompatibilität achten!">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
