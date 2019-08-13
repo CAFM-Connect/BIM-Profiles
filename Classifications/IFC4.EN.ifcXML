@@ -12589,7 +12589,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i181" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i301" Identification="COMPLEX" Name="COMPLEX" Description="Not used - kept for upward compatibility.">
+  <IfcClassificationReference id="i301" Identification="COMPLEX_" Name="COMPLEX_" Description="Not used - kept for upward compatibility.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i300" />
     </ReferencedSource>
