@@ -13,4 +13,4 @@ Publisher | [Verein Deutscher Ingenieure e.V.](https://www.vdi.de/2552) |
 PublisherTeam | Team 2552, Blatt 9 |  
 Tags |  |  
 Version | 0.9 |  
-PublicationDate | 2019-06-13 |  
+PublicationDate | 2019-08-13 |  

@@ -2,7 +2,7 @@
 <ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Klassifikation von Bauteiltypen im Hochbau</name>
-    <time_stamp>2019-06-13T15:44:02</time_stamp>
+    <time_stamp>2019-08-13T00:00:00</time_stamp>
     <author>Team 2552, Blatt 9</author>
     <organization>Verein Deutscher Ingenieure e.V.</organization>
     <originating_system>https://www.cafm-connect.org</originating_system>
@@ -10,7 +10,7 @@
   </header>
   <IfcProject id="i1" GlobalId="3W_wCy4R58hgkAO0WsiUkm" Name="" />
   <IfcProjectLibrary id="i100" GlobalId="0XXXfWBFj8ZwDCXv326ZkB" Name="Klassifikation von Bauteiltypen im Hochbau" Description="Klassifikationssystem gemäß der Richtlinie VDI 2552, Blatt 9: Building Information Modeling&#xD;&#xA;Klassifikationssysteme" Phase="">
-    <OwnerHistory CreationDate="1560440642000">
+    <OwnerHistory CreationDate="1565654400000">
       <OwningUser>
         <ThePerson FamilyName="Team 2552, Blatt 9" />
         <TheOrganization Name="Verein Deutscher Ingenieure e.V." />
@@ -57,7 +57,7 @@
           </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="PublicationDate" Description="">
             <NominalValue>
-              <IfcDate-wrapper>13.06.2019 15:44:02</IfcDate-wrapper>
+              <IfcDate-wrapper>13.08.2019 00:00:00</IfcDate-wrapper>
             </NominalValue>
           </IfcPropertySingleValue>
           <IfcPropertySingleValue Name="Tags" Description="A commaseparated list of attached tags for further filtering purposes">
