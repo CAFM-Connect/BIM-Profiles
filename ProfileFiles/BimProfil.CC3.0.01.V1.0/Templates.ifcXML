@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Inbetriebnahmemanagement</name>
     <time_stamp>2017-06-08T00:00:00</time_stamp>
@@ -2843,26 +2843,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0G5qW9r9T4jhobOqHF1wQo</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ida1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/da1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>da1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3Q66Zojf52nxVbIBWco6wO</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i4282e559-e970-444b-97c3-6d0360a3ea35</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4282e559-e970-444b-97c3-6d0360a3ea35</IfcIdentifier-wrapper>
@@ -3703,6 +3683,26 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>10174809-d497-44b6-bca5-63444f07a6b2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0G5qW9r9T4jhobOqHF1wQo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ida1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/da1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>da1868f2-b691-42c7-b7e5-48b826c86e98</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Q66Zojf52nxVbIBWco6wO</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i600a3725-f2ac-47a5-b8a0-ca150a5a485a</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/600a3725-f2ac-47a5-b8a0-ca150a5a485a</IfcIdentifier-wrapper>
@@ -3809,86 +3809,6 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>115f0f29-5bec-4896-b377-747676fd45fa</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0HNmyfM_n8bhDtT7Ps$KNw</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ia2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>a2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2YuELHfXn7sP4RkzDkG8EB</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1DA90ZyxDFS9vzpl3Mw9Ge</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>if924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>f924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3v9BSscaf4A9JpaDc8ZCnd</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ie7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/e7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>e7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3doNum8bf1owqzyemNT2rT</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ifbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/fbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>fbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3xw5ekZ_f6V8sShV4npUfM</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2Phu7cfqf1c8NivrRCy6Tb</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2Ji3GE7ivBVheJ4dUu9B8C</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1akJKbovjFoxbMpXek8GuL</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4053,36 +3973,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2JIWhYaPDEef12oiaKDdpe</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1os_PprAr5QfUHL5dre1s_</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/ad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>ad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2jG4vjhCXAqxM2JzYXAyiE</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i55c0573a-4619-4888-a4b2-2a41971ba897</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/55c0573a-4619-4888-a4b2-2a41971ba897</IfcIdentifier-wrapper>
@@ -4099,16 +3989,6 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0cd09b47-df00-4759-b8b3-9ae4ca4ee1bf</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0Cq9j7tm17MRYpckJAJk6$</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ie0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/e0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>e0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3WTdz9L8z09vOEPGUdKZFW</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4193,16 +4073,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>16aXtOhkj4eu4U2o$nesTZ</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i84385824-7c08-450f-9ada-ee2f243e841b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/84385824-7c08-450f-9ada-ee2f243e841b</IfcIdentifier-wrapper>
@@ -4229,16 +4099,6 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>761c1244-eb78-4ff8-8b02-75f7bba008e5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1s7194wtXF_8i2TVUxe0Zb</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>21m84B2TP7Ve6q6RMyJTOq</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4463,16 +4323,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>ia845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>a845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2eHRTFdyb4BfRpzzOsCCkF</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i714cc565-24af-43fe-a300-dba65eea310e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/714cc565-24af-43fe-a300-dba65eea310e</IfcIdentifier-wrapper>
@@ -4639,6 +4489,316 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>7e463a14-b338-42ec-8c3c-67b20f9c544f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1_HZeKipX2x8myPx8Fd5HF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>icd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/cd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3DJ996Fc9C4BhMrL0vu_Cu</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1A3OefRSbBwx0Jr5i_t0Zi</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2rUfh7pkD1PhDYvsAfzrq_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0uLyU5V79Cf95GfbVEdbxL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1aIiB2Xt53zRIHxH3iJJhV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2PjR$sU899gOphRaPAerri</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/ac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2iGIB1GHfCpBn6F04IE$7l</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Fsdp5EOzBLeFzBg70uGxT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2EigtQz155Uh32av6C1OZ6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ic3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>33o4x92cjFYeaLwjn4xddW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>if8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3u9Wnn5hbFfOIZVT8rZF$Y</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0DG4L0dxzCTBJikstKTEso</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04tcfUVbr7mBDJkUy52IJM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1WET9OI6HFJetnjoJv5daD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>11fd4fVP17auRcOeemRgRt</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0DO3aPRzL7DvvQP4woo3T7</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a2e0e551-a61c-47d9-911b-bbd36e40838b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2YuELHfXn7sP4RkzDkG8EB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4d289023-f3b3-4f70-9e7d-cef0d6e89428</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1DA90ZyxDFS9vzpl3Mw9Ge</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>if924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f924b736-9a4a-4428-94f3-90d9888ccc67</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3v9BSscaf4A9JpaDc8ZCnd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/e7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e7c97e30-225a-41cb-ad3d-f28c17742d5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3doNum8bf1owqzyemNT2rT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ifbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/fbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fbe85a2e-8fea-467c-8d9c-adf131cdea56</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3xw5ekZ_f6V8sShV4npUfM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>99af81e6-a74a-4198-85ec-e756ccf06765</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Phu7cfqf1c8NivrRCy6Tb</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>93b0340e-1ece-4b7e-ba13-1277b824b20c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2Ji3GE7ivBVheJ4dUu9B8C</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>64b93525-cb9b-4fcb-b956-ce1a2e210e15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1akJKbovjFoxbMpXek8GuL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>934a0ae2-9193-4ea2-9042-cac914367ce8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2JIWhYaPDEef12oiaKDdpe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>72dbe673-d4ad-456a-9791-5459f5a01dbe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1os_PprAr5QfUHL5dre1s_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/ad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ad404e6d-acc8-4ad3-b582-4fd8a12bcb0e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2jG4vjhCXAqxM2JzYXAyiE</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/e0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e0767f49-548f-4027-960e-6507a75233e0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3WTdz9L8z09vOEPGUdKZFW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>46921dd8-aeeb-44a3-811e-0b2ff1a36763</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16aXtOhkj4eu4U2o$nesTZ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>81c0810b-09d6-477e-81b4-19b5bc4dd634</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>21m84B2TP7Ve6q6RMyJTOq</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/a845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a845b74f-9fc9-442e-96f3-f7d63630cb8f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2eHRTFdyb4BfRpzzOsCCkF</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4843,116 +5003,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>icd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/cd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>cd4c9246-3e62-4c10-bad6-d55039e3e338</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3DJ996Fc9C4BhMrL0vu_Cu</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>4a0d8a29-6dc9-4beb-b013-d45b3edc08ec</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1A3OefRSbBwx0Jr5i_t0Zi</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ib57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>b57a9ac7-cee3-4166-b362-e762a9f75d3e</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2rUfh7pkD1PhDYvsAfzrq_</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3857c785-7c72-4ca4-9150-a657ce9e5ed5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0uLyU5V79Cf95GfbVEdbxL</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>644ac2c2-8771-43f5-b491-ed10ec4d3adf</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1aIiB2Xt53zRIHxH3iJJhV</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>99b5bff6-7882-49a9-8ceb-6e464aa35d6c</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2PjR$sU899gOphRaPAerri</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>iac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/ac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>ac4122c1-411a-4ccc-bc46-3c01123bf1ef</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2iGIB1GHfCpBn6F04IE$7l</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>4fda7cc5-398f-4b56-83fd-2ea1c0e10edd</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1Fsdp5EOzBLeFzBg70uGxT</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>8eb2adda-f411-457a-b0c2-93918c0588c6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2EigtQz155Uh32av6C1OZ6</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ic3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>c3c84ec9-0a6b-4f8a-8915-eadc44ee79e0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>33o4x92cjFYeaLwjn4xddW</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>if8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>f8260c71-16b9-4fa5-84a3-7dd2358cffe2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3u9Wnn5hbFfOIZVT8rZF$Y</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>if58b296d-5cc4-4f69-a505-6131e4a1d6e5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/f58b296d-5cc4-4f69-a505-6131e4a1d6e5</IfcIdentifier-wrapper>
@@ -4989,56 +5039,6 @@
           <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>556aa391-a199-4281-955f-4fb7eb55e1e0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1LQgEHePb2WPLVJxVhLU7W</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0d404540-9fbf-4c74-b4ec-bb6dd474edb2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0DG4L0dxzCTBJikstKTEso</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>04de6a5e-7e5d-47c0-b353-b9ef050924d6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>04tcfUVbr7mBDJkUy52IJM</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>6039d258-4864-4f4e-8df1-b724f916790d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1WET9OI6HFJetnjoJv5daD</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>41a67129-7d90-4793-86e6-628a306ea6f7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>11fd4fVP17auRcOeemRgRt</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0d603919-6fd5-4737-9e5a-644eb2c83747</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0DO3aPRzL7DvvQP4woo3T7</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -6117,19 +6117,19 @@
       <IfcClassificationReference xsi:nil="true" ref="id8a4519a-086f-4f40-a6e4-d98c5a6e97fe" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ifc78349e-aaa9-4527-abe8-4eb5723bc1ed" Location="IfcBuildingElementProxy/USERDEFINED" Identification="420.10" Name="Gemeinsame Bauteile Wärmeversorgungsanlagen" Description="">
+  <IfcClassificationReference id="ifc78349e-aaa9-4527-abe8-4eb5723bc1ed" Location="IfcBuildingElementProxy/USERDEFINED" Identification="420.00" Name="Gemeinsame Bauteile Wärmeversorgungsanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ib28771ed-7c01-4a47-8b66-dda540d67745" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i565a4374-7cc6-4d16-897f-6409b7671255" Location="IfcPipeSegment/USERDEFINED" Identification="420.10.01" Name="Rohre in Heizungsanlagen" Description="">
+  <IfcClassificationReference id="i565a4374-7cc6-4d16-897f-6409b7671255" Location="IfcPipeSegment/USERDEFINED" Identification="420.00.01" Name="Rohre in Heizungsanlagen" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="ib28771ed-7c01-4a47-8b66-dda540d67745" />
+      <IfcClassificationReference xsi:nil="true" ref="ifc78349e-aaa9-4527-abe8-4eb5723bc1ed" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="iee9c9c2c-7a09-496d-bb4d-359d6b0ed4dd" Location="IfcPipeFitting/USERDEFINED" Identification="420.10.02" Name="Formstücke" Description="">
+  <IfcClassificationReference id="iee9c9c2c-7a09-496d-bb4d-359d6b0ed4dd" Location="IfcPipeFitting/USERDEFINED" Identification="420.00.02" Name="Formstücke" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="ib28771ed-7c01-4a47-8b66-dda540d67745" />
+      <IfcClassificationReference xsi:nil="true" ref="ifc78349e-aaa9-4527-abe8-4eb5723bc1ed" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ic7a3713c-ce47-48bf-94af-5c482c69e403" Location="IfcBuildingElementProxy/USERDEFINED" Identification="421" Name="Wärmeerzeugungsanlagen" Description="Brennstoffversorgung, Wärmeübergabestationen, Wärmeerzeugung auf der Grundlage von Brennstoffen oder unerschöpflichen Energiequellen einschließlich Schornsteinanschlüsse, zentrale Wassererwärmungsanlagen">
@@ -6977,16 +6977,6 @@
       <IfcClassificationReference xsi:nil="true" ref="i9522b51a-03ce-4aef-b2f4-c85887849506" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="18" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="18" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i4282e559-e970-444b-97c3-6d0360a3ea35" Location="IfcAlarm/USERDEFINED" Identification="456.20" Name="CO-Warnanlagen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i9522b51a-03ce-4aef-b2f4-c85887849506" />
@@ -7407,6 +7397,16 @@
       <IfcClassificationReference xsi:nil="true" ref="id66820da-3536-4771-a9ad-ccb917b28174" />
     </ReferencedSource>
   </IfcClassificationReference>
+  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
   <IfcClassificationReference id="i600a3725-f2ac-47a5-b8a0-ca150a5a485a" Location="IfcProxy/USERDEFINED" Identification="500" Name="AUSSENANLAGEN" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
@@ -7460,46 +7460,6 @@
   <IfcClassificationReference id="i115f0f29-5bec-4896-b377-747676fd45fa" Location="IfcProxy/USERDEFINED" Identification="525" Name="Sportplatzflächen" Description="Sportrasenflächen, Kunststoffflächen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ia9bdef55-0fcb-446e-afc8-97264b1fbeb2" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ia2e0e551-a61c-47d9-911b-bbd36e40838b" Location="18" Identification="525.10" Name="Sportrasenfläche" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i4d289023-f3b3-4f70-9e7d-cef0d6e89428" Location="18" Identification="525.20" Name="Kunststoffrasenfläche" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="if924b736-9a4a-4428-94f3-90d9888ccc67" Location="18" Identification="525.30" Name="Tennenfläche" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ie7c97e30-225a-41cb-ad3d-f28c17742d5d" Location="18" Identification="525.40" Name="Kunststofffläche" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ifbe85a2e-8fea-467c-8d9c-adf131cdea56" Location="18" Identification="525.50" Name="Sandfläche" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i99af81e6-a74a-4198-85ec-e756ccf06765" Location="18" Identification="525.61" Name="Spielfeld Fußball" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i93b0340e-1ece-4b7e-ba13-1277b824b20c" Location="18" Identification="525.62" Name="Spielfeld Hockey" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i64b93525-cb9b-4fcb-b956-ce1a2e210e15" Location="18" Identification="525.63" Name="Spielfeld Tennis" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i1597d1c9-2c89-4a90-adf6-264a9d81c65f" Location="IfcProxy/USERDEFINED" Identification="526" Name="Spielplatzflächen" Description="">
@@ -7582,21 +7542,6 @@
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i934a0ae2-9193-4ea2-9042-cac914367ce8" Location="18" Identification="532.34" Name="Ballfangzaun" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i72dbe673-d4ad-456a-9791-5459f5a01dbe" Location="18" Identification="532.35" Name="Bande" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e" Location="18" Identification="532.36" Name="Barriere" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i55c0573a-4619-4888-a4b2-2a41971ba897" Location="IfcWall/USERDEFINED" Identification="533" Name="Mauern, Wände" Description="Stütz-, Schwergewichtsmauern">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
@@ -7605,11 +7550,6 @@
   <IfcClassificationReference id="i0cd09b47-df00-4759-b8b3-9ae4ca4ee1bf" Location="IfcProxy/USERDEFINED" Identification="534" Name="Rampen, Treppen, Tribünen" Description="Kinderwagen- und Behindertenrampen, Block- und Stellstufen, Zuschauertribünen von Sportplätzen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ie0767f49-548f-4027-960e-6507a75233e0" Location="18" Identification="534.10" Name="Tribüne" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i0cd09b47-df00-4759-b8b3-9ae4ca4ee1bf" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ibaf6a60b-c1dc-4ba2-b7cb-384080202d9f" Location="IfcRoof/USERDEFINED" Identification="535" Name="Überdachungen" Description="Wetterschutz, Unterstände; Pergolen">
@@ -7652,11 +7592,6 @@
       <IfcClassificationReference xsi:nil="true" ref="i940affb8-7ece-4b44-ae96-d7f7fd397bdf" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i46921dd8-aeeb-44a3-811e-0b2ff1a36763" Location="18" Identification="537.60" Name="Ablauf" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i940affb8-7ece-4b44-ae96-d7f7fd397bdf" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i84385824-7c08-450f-9ada-ee2f243e841b" Location="IfcProxy/USERDEFINED" Identification="538" Name="Wasserbauliche Anlagen" Description="Brunnen, Wasserbecken">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
@@ -7670,11 +7605,6 @@
   <IfcClassificationReference id="i761c1244-eb78-4ff8-8b02-75f7bba008e5" Location="IfcProxy/USERDEFINED" Identification="538.40" Name="Brunnen" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i84385824-7c08-450f-9ada-ee2f243e841b" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="18" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i761c1244-eb78-4ff8-8b02-75f7bba008e5" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i157190fc-18c4-4172-a773-278a37620a08" Location="IfcProxy/USERDEFINED" Identification="538.41" Name="Zierbrunnen" Description="">
@@ -7787,11 +7717,6 @@
       <IfcClassificationReference xsi:nil="true" ref="i22c49508-76b6-49f6-a228-57da2b3f91ff" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ia845b74f-9fc9-442e-96f3-f7d63630cb8f" Location="18" Identification="546.54" Name="Flutlichtmast" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i22c49508-76b6-49f6-a228-57da2b3f91ff" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i714cc565-24af-43fe-a300-dba65eea310e" Location="IfcProxy/USERDEFINED" Identification="547" Name="Fernmelde- und informationstechnische Anlagen" Description="Leitungsnetze, Beschallungs-, Zeitdienst- und Verkehrssignalanlagen, elektronische Anzeigetafeln, Objektsicherungsanlagen, Parkleitsysteme">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i729e97e0-7402-417a-b67b-fdcf4b1f6af9" />
@@ -7877,106 +7802,6 @@
       <IfcClassificationReference xsi:nil="true" ref="id59a90da-cbd6-4d90-aefe-66e6d19b3189" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i6d23ae4f-8768-409d-98f6-9b515f24af55" Location="18" Identification="552.30" Name="Fußballtor, festeingebaut" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i7d2ebbd0-08d8-4574-b32e-f918940d3601" Location="18" Identification="552.31" Name="Fußballtor, mobil" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="id79eb54b-2f33-4be7-befc-62402ca37a97" Location="18" Identification="552.32" Name="Handballtor, festeingebaut" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i2d37e984-17e2-4baf-8d7e-901884944c22" Location="18" Identification="552.33" Name="Handballtor, mobil" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="idaf8dae1-9617-44f4-96e5-b6c7a88d3a21" Location="18" Identification="552.34" Name="Hockeytor, festeingebaut" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i02aaa82e-7d0e-4ef7-bd3a-8a9e7d161546" Location="18" Identification="552.35" Name="Hockeytor, mobil" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i923b2a30-ff5e-4970-b4e2-311d2ab1eab6" Location="18" Identification="552.36" Name="Basketball Korbständer" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i24ca49e8-e520-4697-bc14-deb44303f546" Location="18" Identification="552.37" Name="Kopfballpendel" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ieadb4dc4-f9d9-4c64-b418-2325c764730e" Location="18" Identification="552.38" Name="Leichtathletikgerät" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i92e7e6cb-224c-40c4-bce0-69668060cfea" Location="18" Identification="552.39" Name="Sprunganlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ifd48b258-2eb6-41e8-998c-838159b29128" Location="18" Identification="552.40" Name="Sprunggrube" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i5e2ea39d-2248-4667-b4fd-379d0bb77b7f" Location="18" Identification="552.41" Name="Wurfanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="if66588ba-885e-4063-bf94-55c022a438a8" Location="18" Identification="552.42" Name="Wurfkreis" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i82a86398-3093-4f8b-ad69-cf0af4c53a9f" Location="18" Identification="552.43" Name="Laufbahn" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ibc548361-dab2-4b72-b468-35c9a65c10cf" Location="18" Identification="552.44" Name="Wassergraben" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="ic42ef303-edfc-42f9-a75d-00fc3144985e" Location="18" Identification="552.45" Name="Tennisanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i819c4bc4-0270-414d-a245-17f13a8d399a" Location="18" Identification="552.46" Name="Volleyballanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i1f1d5908-2367-4b2c-ab19-272d0bc89e37" Location="18" Identification="552.47" Name="Badmintonanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i0d27ff68-bd87-49a4-8cb3-8ee8188c2926" Location="18" Identification="552.48" Name="Beachsportanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i9bef0a4d-c620-4f9f-97bb-13e9c7c018d8" Location="18" Identification="552.49" Name="Faustballanlage" Description="Sven Axt, topomatik">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="icd4c9246-3e62-4c10-bad6-d55039e3e338" Location="IfcProxy/USERDEFINED" Identification="559" Name="Einbauten in Außenanlagen, sonstiges" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="id59a90da-cbd6-4d90-aefe-66e6d19b3189" />
@@ -8032,26 +7857,6 @@
       <IfcClassificationReference xsi:nil="true" ref="ic3c84ec9-0a6b-4f8a-8915-eadc44ee79e0" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="18" Identification="574.11" Name="Kronen" Description="Baumkronen">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="18" Identification="574.12" Name="Stämme" Description="Baumstämme">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="18" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
-    </ReferencedSource>
-  </IfcClassificationReference>
-  <IfcClassificationReference id="i556aa391-a199-4281-955f-4fb7eb55e1e0" Location="18" Identification="574.16" Name="Nistkästen" Description="Nistkästen in Bäumen und Sträuchern">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i0d404540-9fbf-4c74-b4ec-bb6dd474edb2" Location="IfcProxy/USERDEFINED" Identification="574.20" Name="Büsche, Sträucher" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ic3c84ec9-0a6b-4f8a-8915-eadc44ee79e0" />
@@ -8075,6 +7880,201 @@
   <IfcClassificationReference id="i0d603919-6fd5-4737-9e5a-644eb2c83747" Location="IfcProxy/USERDEFINED" Identification="590" Name="Sonstige Außenanlagen" Description="Außenanlagen und übergreifende Maßnahmen im Zusammenhang mit den Außenanlagen, die nicht einzelnen Kostengruppen der Außenanlagen zugeordnet werden können">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i600a3725-f2ac-47a5-b8a0-ca150a5a485a" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ia2e0e551-a61c-47d9-911b-bbd36e40838b" Location="" Identification="525.10" Name="Sportrasenfläche" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4d289023-f3b3-4f70-9e7d-cef0d6e89428" Location="" Identification="525.20" Name="Kunststoffrasenfläche" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if924b736-9a4a-4428-94f3-90d9888ccc67" Location="" Identification="525.30" Name="Tennenfläche" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie7c97e30-225a-41cb-ad3d-f28c17742d5d" Location="" Identification="525.40" Name="Kunststofffläche" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ifbe85a2e-8fea-467c-8d9c-adf131cdea56" Location="" Identification="525.50" Name="Sandfläche" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i99af81e6-a74a-4198-85ec-e756ccf06765" Location="" Identification="525.61" Name="Spielfeld Fußball" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i93b0340e-1ece-4b7e-ba13-1277b824b20c" Location="" Identification="525.62" Name="Spielfeld Hockey" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i64b93525-cb9b-4fcb-b956-ce1a2e210e15" Location="" Identification="525.63" Name="Spielfeld Tennis" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i934a0ae2-9193-4ea2-9042-cac914367ce8" Location="" Identification="532.34" Name="Ballfangzaun" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i72dbe673-d4ad-456a-9791-5459f5a01dbe" Location="" Identification="532.35" Name="Bande" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e" Location="" Identification="532.36" Name="Barriere" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie0767f49-548f-4027-960e-6507a75233e0" Location="" Identification="534.10" Name="Tribüne" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i46921dd8-aeeb-44a3-811e-0b2ff1a36763" Location="" Identification="537.60" Name="Ablauf" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ia845b74f-9fc9-442e-96f3-f7d63630cb8f" Location="" Identification="546.54" Name="Flutlichtmast" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i6d23ae4f-8768-409d-98f6-9b515f24af55" Location="" Identification="552.30" Name="Fußballtor, festeingebaut" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i7d2ebbd0-08d8-4574-b32e-f918940d3601" Location="" Identification="552.31" Name="Fußballtor, mobil" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="id79eb54b-2f33-4be7-befc-62402ca37a97" Location="" Identification="552.32" Name="Handballtor, festeingebaut" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i2d37e984-17e2-4baf-8d7e-901884944c22" Location="" Identification="552.33" Name="Handballtor, mobil" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="idaf8dae1-9617-44f4-96e5-b6c7a88d3a21" Location="" Identification="552.34" Name="Hockeytor, festeingebaut" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i02aaa82e-7d0e-4ef7-bd3a-8a9e7d161546" Location="" Identification="552.35" Name="Hockeytor, mobil" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i923b2a30-ff5e-4970-b4e2-311d2ab1eab6" Location="" Identification="552.36" Name="Basketball Korbständer" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i24ca49e8-e520-4697-bc14-deb44303f546" Location="" Identification="552.37" Name="Kopfballpendel" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ieadb4dc4-f9d9-4c64-b418-2325c764730e" Location="" Identification="552.38" Name="Leichtathletikgerät" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i92e7e6cb-224c-40c4-bce0-69668060cfea" Location="" Identification="552.39" Name="Sprunganlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ifd48b258-2eb6-41e8-998c-838159b29128" Location="" Identification="552.40" Name="Sprunggrube" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i5e2ea39d-2248-4667-b4fd-379d0bb77b7f" Location="" Identification="552.41" Name="Wurfanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if66588ba-885e-4063-bf94-55c022a438a8" Location="" Identification="552.42" Name="Wurfkreis" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i82a86398-3093-4f8b-ad69-cf0af4c53a9f" Location="" Identification="552.43" Name="Laufbahn" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ibc548361-dab2-4b72-b468-35c9a65c10cf" Location="" Identification="552.44" Name="Wassergraben" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ic42ef303-edfc-42f9-a75d-00fc3144985e" Location="" Identification="552.45" Name="Tennisanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i819c4bc4-0270-414d-a245-17f13a8d399a" Location="" Identification="552.46" Name="Volleyballanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1f1d5908-2367-4b2c-ab19-272d0bc89e37" Location="" Identification="552.47" Name="Badmintonanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i0d27ff68-bd87-49a4-8cb3-8ee8188c2926" Location="" Identification="552.48" Name="Beachsportanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9bef0a4d-c620-4f9f-97bb-13e9c7c018d8" Location="" Identification="552.49" Name="Faustballanlage" Description="Sven Axt, topomatik">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="" Identification="574.11" Name="Kronen" Description="Baumkronen">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="" Identification="574.12" Name="Stämme" Description="Baumstämme">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i556aa391-a199-4281-955f-4fb7eb55e1e0" Location="" Identification="574.16" Name="Nistkästen" Description="Nistkästen in Bäumen und Sträuchern">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ibc6eb1d3-1713-483a-893b-3f92e4ecac28" Location="IfcBuildingElementProxy/USERDEFINED" Identification="600" Name="AUSSTATTUNG" Description=" Kosten für alle beweglichen oder ohne besondere Maßnahmen zu befestigenden Sachen, die zur Ingebrauchnahme, zur allgemeinen Benutzung oder zur künstlerischen Gestaltung des Bauwerks und der Außenanlagen erforderlich sind (siehe Anmerkungen zu den KG 370 und 470">
