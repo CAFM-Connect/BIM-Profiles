@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final http://www.buildingsmart-tech.org/ifcXML/IFC4/final/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Betreiberpflichten</name>
     <time_stamp>2019-07-25T00:00:00</time_stamp>
@@ -11913,16 +11913,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i694506b9-f33f-49ad-aa3c-b95ff5791181</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/805984e5-960a-455c-8c32-406b9e2b4d78</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>805984e5-960a-455c-8c32-406b9e2b4d78</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>20MOJbbWf5N8moG6kUAqru</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i36ba4c8e-51ed-4057-85c5-88e27fb424a0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/5c2395f3-2e0e-4b20-803a-ba156614ad41</IfcIdentifier-wrapper>
@@ -11979,6 +11969,16 @@
           <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>94f2a8e5-43ae-4c66-857b-717c17cacc15</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>2KygZbGwvCPeLxSNmNoimL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i694506b9-f33f-49ad-aa3c-b95ff5791181</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/805984e5-960a-455c-8c32-406b9e2b4d78</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>805984e5-960a-455c-8c32-406b9e2b4d78</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>20MOJbbWf5N8moG6kUAqru</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -26732,7 +26732,7 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="ibabcec2f-f64a-4810-8b99-4295cdf05852" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen">
+  <IfcClassificationReference id="ibabcec2f-f64a-4810-8b99-4295cdf05852" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </ReferencedSource>
@@ -30119,11 +30119,6 @@
   <IfcPropertySetTemplate id="ipsetbf3a3842-78bc-4554-93d1-33955bc403aa" GlobalId="2$EZX2UBn5L9FHCvLRn0Eg" Name="441" Description="PropertySet Template for 'CAFMConnect.DE Hoch- und Mittelspannungsanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i36321aa4-1718-4d68-b091-bab316dcc257" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="i694506b9-f33f-49ad-aa3c-b95ff5791181" GlobalId="20MOJbbWf5N8moG6kUAqru" Name="Leistung" Description="Gibt die Leistung des Geräts an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPowerMeasure">
-        <PrimaryUnit>
-          <IfcSIUnit id="unit_i694506b9-f33f-49ad-aa3c-b95ff5791181" UnitType="powerunit" Prefix="kilo" Name="watt" />
-        </PrimaryUnit>
-      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i36ba4c8e-51ed-4057-85c5-88e27fb424a0" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="ia9c2f949-9756-4584-be2a-87f1ff91e845" GlobalId="1YgSf2FaT2v8O6sI1wNjVe" Name="Technisches Abnahmedatum" Description="Datum der technischen Abnahme" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
@@ -30145,6 +30140,11 @@
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i407457c1-6b26-4d3d-908b-b41139031208" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i62c5279b-a7d4-45ae-baeb-ae376bcd8fd9" GlobalId="2KygZbGwvCPeLxSNmNoimL" Name="Bauart" Description="Gibt die Art und Weise des Bauteil an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
+      <IfcSimplePropertyTemplate id="i694506b9-f33f-49ad-aa3c-b95ff5791181" GlobalId="20MOJbbWf5N8moG6kUAqru" Name="Leistung" Description="Gibt die Leistung des Geräts an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPowerMeasure">
+        <PrimaryUnit>
+          <IfcSIUnit id="unit_i694506b9-f33f-49ad-aa3c-b95ff5791181" UnitType="powerunit" Prefix="kilo" Name="watt" />
+        </PrimaryUnit>
+      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="if82c8097-7de5-4ed2-a916-3cd7edd789a7" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="iffbe4d4d-233d-4859-b0ea-27af4a98dacc" GlobalId="22EsGWr$D55v$IZ7mFEWux" Name="Anzahl Zähler" Description="Gibt an, wieviele Stromzähler sich in dem System befinden." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="i5f3985e2-79b5-4cc5-810f-b3b1e5bf63a0" GlobalId="2ZRjuQSiD61RK8mzUjjIxD" Name="Leistungsschalter" Description="Anzahl an Schutzschaltern, die für das Schalten von hohen Strömen ausgelegt sind." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
