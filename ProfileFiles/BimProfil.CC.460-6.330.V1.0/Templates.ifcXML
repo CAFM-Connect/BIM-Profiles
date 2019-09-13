@@ -163,6 +163,16 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>ia47b11cf-4779-41f5-9174-5ed75581bea0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/333958ce-32ee-4869-b481-3499da3e5f5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CafmConnect</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>333958ce-32ee-4869-b481-3499da3e5f5d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0pELZECkv8QRI1D9dQFbzT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i450ac026-0c29-4c87-9b49-576af9de9436</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CafmConnect/5c2395f3-2e0e-4b20-803a-ba156614ad41</IfcIdentifier-wrapper>
@@ -949,6 +959,7 @@
   <IfcPropertySetTemplate id="ipsetef0733ca-96f0-4c0f-97c3-cb396ce51695" GlobalId="3l1pFAbl1C3vV3opbivHQL" Name="460" Description="PropertySet Template for 'CAFMConnect.DE Förderanlagen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcTransportElement/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i3f7b3585-ff87-4982-8444-7234373e5ec8" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="ia47b11cf-4779-41f5-9174-5ed75581bea0" GlobalId="0pELZECkv8QRI1D9dQFbzT" Name="Hersteller-Typ" Description="Gibt die Typbezeichnung des Herstellers an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i450ac026-0c29-4c87-9b49-576af9de9436" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>

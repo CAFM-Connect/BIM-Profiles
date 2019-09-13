@@ -6313,12 +6313,992 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>ib503d164-46f8-49c4-83a8-36a4393f9c2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i51d65277-f5e3-4d1f-9d0f-abb0ce804b46</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b503d164-46f8-49c4-83a8-36a4393f9c2d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/51d65277-f5e3-4d1f-9d0f-abb0ce804b46</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>b503d164-46f8-49c4-83a8-36a4393f9c2d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2r0z5aHlX9n8EeDgGvFvmj</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>51d65277-f5e3-4d1f-9d0f-abb0ce804b46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Hrb9tzUDD7vqFgx3EW4j6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ibcf48c61-5ccc-4889-8d5f-c4101bfe9728</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/bcf48c61-5ccc-4889-8d5f-c4101bfe9728</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>bcf48c61-5ccc-4889-8d5f-c4101bfe9728</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2yz8nXNCn8YOrVn10R$fSe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i724a22de-6ab5-44fe-b1cd-39057d2d6bba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/724a22de-6ab5-44fe-b1cd-39057d2d6bba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>724a22de-6ab5-44fe-b1cd-39057d2d6bba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1oIYBUQhL4$h7DEGLzBMkw</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4af25554-95b6-4588-a013-23baf2c2d443</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/4af25554-95b6-4588-a013-23baf2c2d443</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4af25554-95b6-4588-a013-23baf2c2d443</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1AybLKbRP5YA0J8xhomjH3</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iaa649740-8c43-4383-af64-bf8fcb056ec3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/aa649740-8c43-4383-af64-bf8fcb056ec3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>aa649740-8c43-4383-af64-bf8fcb056ec3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2gP9T0Z4D3Wwzalu$B1Mx3</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1050f11b-d587-43c6-8024-0eea63c270b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/1050f11b-d587-43c6-8024-0eea63c270b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1050f11b-d587-43c6-8024-0eea63c270b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0GKF4RrOT3ne0a3kfZmd2t</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i03b21fc1-8c72-482d-b493-b81d6a73d7a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/03b21fc1-8c72-482d-b493-b81d6a73d7a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>03b21fc1-8c72-482d-b493-b81d6a73d7a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>03iX$1Z798BRIJk1rgSzUe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i056f5c43-5132-4c4d-9f66-b3e51587efd3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/056f5c43-5132-4c4d-9f66-b3e51587efd3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>056f5c43-5132-4c4d-9f66-b3e51587efd3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>05Rrn3KJ9CJPzci_KLX_$J</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ifa430c67-7149-4669-95ec-098b2c6e2cc8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/fa430c67-7149-4669-95ec-098b2c6e2cc8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fa430c67-7149-4669-95ec-098b2c6e2cc8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3wGmndSKb6QPNi2OiiRYp8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3718f708-be99-4f48-ad2c-98d378099e3d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/3718f708-be99-4f48-ad2c-98d378099e3d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3718f708-be99-4f48-ad2c-98d378099e3d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0t6FS8lfbFIAqicDDu2Puz</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>idc3be1ab-a7d5-4bca-882d-5644c9c489b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/dc3be1ab-a7d5-4bca-882d-5644c9c489b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>dc3be1ab-a7d5-4bca-882d-5644c9c489b1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SE_6hfzLBoeWjLaJ9n8cn</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i16ab5084-c090-4ac6-83ca-352293db8312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/16ab5084-c090-4ac6-83ca-352293db8312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>16ab5084-c090-4ac6-83ca-352293db8312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Mgr24m91AneFADIAJsuCI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4945c12b-6128-4ec4-aefb-6b635af24848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/4945c12b-6128-4ec4-aefb-6b635af24848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4945c12b-6128-4ec4-aefb-6b635af24848</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>19HS4hOIXEnAxxQsDQyaX8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i79de0122-1771-4c22-b5a0-3f45967466a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/79de0122-1771-4c22-b5a0-3f45967466a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>79de0122-1771-4c22-b5a0-3f45967466a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1vtW4Y5t5C8hMWFqMMT6Qf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i906ebefa-fd2e-4a98-92f9-8bfc1f9cbe73</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/906ebefa-fd2e-4a98-92f9-8bfc1f9cbe73</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>906ebefa-fd2e-4a98-92f9-8bfc1f9cbe73</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2GRhxw$IvAc9BvY$mVdBvp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>if9eaa19a-0720-4568-a546-2a24a336e312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/f9eaa19a-0720-4568-a546-2a24a336e312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f9eaa19a-0720-4568-a546-2a24a336e312</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3vwg6Q1o15QAL6AYIZDkCI</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i709f2238-6864-4939-8ed0-b45f8cbf2243</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/709f2238-6864-4939-8ed0-b45f8cbf2243</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>709f2238-6864-4939-8ed0-b45f8cbf2243</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1mdo8uQ6H9EOxGj5_Clo93</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i69069926-2b8c-4361-8547-777929da08f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/69069926-2b8c-4361-8547-777929da08f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>69069926-2b8c-4361-8547-777929da08f2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1f1facAun3OOL7TtafsWZo</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie87e0fc6-ff1a-4b0e-b7b1-41a591f275f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/e87e0fc6-ff1a-4b0e-b7b1-41a591f275f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e87e0fc6-ff1a-4b0e-b7b1-41a591f275f0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3eVW$6$nfB3hUnGQMHydNm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iaea5464c-4aa9-4a6e-9f7f-54eb37d520db</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/aea5464c-4aa9-4a6e-9f7f-54eb37d520db</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>aea5464c-4aa9-4a6e-9f7f-54eb37d520db</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2kfKPCIgbARfz$LEitrI3R</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i049db249-f791-4c61-bf28-c9c8c9949d46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/049db249-f791-4c61-bf28-c9c8c9949d46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>049db249-f791-4c61-bf28-c9c8c9949d46</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04dR99zv5CORyeoSZ9b9r6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i19d4534b-d228-4ee1-8d6c-56c0e9d3a8da</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/19d4534b-d228-4ee1-8d6c-56c0e9d3a8da</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>19d4534b-d228-4ee1-8d6c-56c0e9d3a8da</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Pr5DBqYXEuOriLi3fqwZQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i259e8331-dd86-4866-8451-0ea133e31187</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/259e8331-dd86-4866-8451-0ea133e31187</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>259e8331-dd86-4866-8451-0ea133e31187</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0bdeCntOP8PeHH3g4pun67</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i5f883d5a-3dbb-46d4-8870-f7c072edef0a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/5f883d5a-3dbb-46d4-8870-f7c072edef0a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5f883d5a-3dbb-46d4-8870-f7c072edef0a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1VY3rQFRj6r8Xmzy1oxUyA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1c837e54-42ac-4d8e-94eb-e10c268e50c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/1c837e54-42ac-4d8e-94eb-e10c268e50c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1c837e54-42ac-4d8e-94eb-e10c268e50c6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0SWtvKGgnDZfJhuGmcZb36</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib79b1051-4785-4bb1-8e04-970d44f97a15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b79b1051-4785-4bb1-8e04-970d44f97a15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b79b1051-4785-4bb1-8e04-970d44f97a15</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2tcn1HHuLBiOu4bmr4_NeL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i7176898f-2490-4ea2-893a-c311d155332b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/7176898f-2490-4ea2-893a-c311d155332b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7176898f-2490-4ea2-893a-c311d155332b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1nTecF991Eeeawmn7HLJCh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie2767548-d551-40b9-b0f2-f07282dd5913</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/e2767548-d551-40b9-b0f2-f07282dd5913</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e2767548-d551-40b9-b0f2-f07282dd5913</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3YTdL8rL50kR3oy7A2tLaJ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i42cbc966-051d-466c-a894-fdef11154e5c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/42cbc966-051d-466c-a894-fdef11154e5c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>42cbc966-051d-466c-a894-fdef11154e5c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>12oybc1Hr6RAYK$UyH5KvS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>icfda7c1b-34e4-4654-bace-23540a08c5cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/cfda7c1b-34e4-4654-bace-23540a08c5cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cfda7c1b-34e4-4654-bace-23540a08c5cf</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3FsdmRDEH6LBhE8rGA2CNF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i29bc1e31-b6e8-473d-bfac-c2f3c8afa7f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/29bc1e31-b6e8-473d-bfac-c2f3c8afa7f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>29bc1e31-b6e8-473d-bfac-c2f3c8afa7f5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0fl1unjkX7FR_imlF8hwVr</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i79f9354d-aaa6-4e4f-aab1-d1233e274348</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/79f9354d-aaa6-4e4f-aab1-d1233e274348</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>79f9354d-aaa6-4e4f-aab1-d1233e274348</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1v_JLDggPEJwgnqIC_9qD8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i52f9c4b2-ca6b-4f20-98c4-9591dec1670f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/52f9c4b2-ca6b-4f20-98c4-9591dec1670f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>52f9c4b2-ca6b-4f20-98c4-9591dec1670f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1I_SIoocjF89Z4bP7UmMSF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ide3cfbc9-0899-4546-9d3e-704f57627e43</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/de3cfbc9-0899-4546-9d3e-704f57627e43</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>de3cfbc9-0899-4546-9d3e-704f57627e43</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3UFFl929b5Hfq_S4zNOdv3</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i0f433daf-9a95-4dbc-9cd0-ec7f340a22f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/0f433daf-9a95-4dbc-9cd0-ec7f340a22f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0f433daf-9a95-4dbc-9cd0-ec7f340a22f3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0FGpslcfLDl9pGx7yq2YBp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>icad124b1-a30d-44de-a23d-8bde00178e37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/cad124b1-a30d-44de-a23d-8bde00178e37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>cad124b1-a30d-44de-a23d-8bde00178e37</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3AqIInemr4tg8zYzu05uut</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i326bc66c-61a8-450e-9643-4600b50cc02a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/326bc66c-61a8-450e-9643-4600b50cc02a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>326bc66c-61a8-450e-9643-4600b50cc02a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0oQyPiOQX53fP3HW2r3C0g</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i8913852a-e39b-493a-a3ec-2c6700140d02</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/8913852a-e39b-493a-a3ec-2c6700140d02</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8913852a-e39b-493a-a3ec-2c6700140d02</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>294uKguvj9EgFiB6S050q2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i2d95e749-c704-4170-9e4d-69a7fc7a416f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/2d95e749-c704-4170-9e4d-69a7fc7a416f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2d95e749-c704-4170-9e4d-69a7fc7a416f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0jbUT9nmH1S9vDQQVyUa5l</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i6efa9806-9dfe-4314-b605-4d790e26427b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/6efa9806-9dfe-4314-b605-4d790e26427b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6efa9806-9dfe-4314-b605-4d790e26427b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1k_fW6dVv35BO5JNaE9a9x</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i6fe1346a-f559-4fcf-8772-6bc9dab6d80f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/6fe1346a-f559-4fcf-8772-6bc9dab6d80f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6fe1346a-f559-4fcf-8772-6bc9dab6d80f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1luJHgzLbFpuToQydQjjWF</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i7b183933-d6b9-41e9-a44d-b50fa63710a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/7b183933-d6b9-41e9-a44d-b50fa63710a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7b183933-d6b9-41e9-a44d-b50fa63710a9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1x63aprhb1wQHDjG_cDn2f</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i64869471-34aa-4149-bee2-1d9a1470d58e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/64869471-34aa-4149-bee2-1d9a1470d58e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>64869471-34aa-4149-bee2-1d9a1470d58e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1aXfHnDAf1IRxY7PeKSDME</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>id89b931d-e977-4d9c-b922-eba34456c876</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/d89b931d-e977-4d9c-b922-eba34456c876</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>d89b931d-e977-4d9c-b922-eba34456c876</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3OcvCTwNTDdBaYwwD4LiXs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1281ab85-33ab-4e58-a6ae-672fd9b99b87</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/1281ab85-33ab-4e58-a6ae-672fd9b99b87</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1281ab85-33ab-4e58-a6ae-672fd9b99b87</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0IWQk5CwjEMAQkPo$PkPk7</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1fe3c026-eeb3-4fcf-b16f-df2e1f32ee9d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/1fe3c026-eeb3-4fcf-b16f-df2e1f32ee9d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1fe3c026-eeb3-4fcf-b16f-df2e1f32ee9d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Vuy0cxhDFpx5ltouVCkwT</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i95f8ae1f-a3aa-42a3-b06a-bd60e9c12d16</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/95f8ae1f-a3aa-42a3-b06a-bd60e9c12d16</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>95f8ae1f-a3aa-42a3-b06a-bd60e9c12d16</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2L_AuVewf2ex1glM3fmIqM</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia47bdf62-d62d-4b17-b596-b13e997478eb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/a47bdf62-d62d-4b17-b596-b13e997478eb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a47bdf62-d62d-4b17-b596-b13e997478eb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2aUzzYrYrB5xMMiJwPT7Zh</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iab104fac-959a-4066-92de-27703e7a266a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/ab104fac-959a-4066-92de-27703e7a266a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ab104fac-959a-4066-92de-27703e7a266a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2h44_ibPf0PfBU9t0_UYPg</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib18927dd-c438-4bdf-a9d9-12432103f560</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b18927dd-c438-4bdf-a9d9-12432103f560</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b18927dd-c438-4bdf-a9d9-12432103f560</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2nYIVTn3XBtwdP4aCX0$LW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i6c0aa83d-1763-41a5-b655-d36c2de4e80a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/6c0aa83d-1763-41a5-b655-d36c2de4e80a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6c0aa83d-1763-41a5-b655-d36c2de4e80a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1i2gWz5sD1fRPLqsmjvEWA</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4a229a56-9170-4ff3-b674-90e5b7fd4298</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/4a229a56-9170-4ff3-b674-90e5b7fd4298</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4a229a56-9170-4ff3-b674-90e5b7fd4298</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1A8ffMaN1FyxPqaEMt$KAO</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>if6010ff1-f4b9-4841-af37-8410811b0886</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/f6010ff1-f4b9-4841-af37-8410811b0886</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f6010ff1-f4b9-4841-af37-8410811b0886</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3s0G$nzBb8GQytX1216mY6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i8a1e8b4b-96e7-42ca-b759-17cca217ac7c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/8a1e8b4b-96e7-42ca-b759-17cca217ac7c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8a1e8b4b-96e7-42ca-b759-17cca217ac7c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2A7ejBbkT2ohTP5yoY5wny</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i993859a2-0f14-4042-932c-a9c21c15dfc2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/993859a2-0f14-4042-932c-a9c21c15dfc2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>993859a2-0f14-4042-932c-a9c21c15dfc2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2PE5cY3nH0GfCigS8S5T$2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3bc666d8-d7a5-4cf2-8c67-4d5ae48c6028</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/3bc666d8-d7a5-4cf2-8c67-4d5ae48c6028</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3bc666d8-d7a5-4cf2-8c67-4d5ae48c6028</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0xncROrwLCyendJLhaZ60e</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i6f31539f-87f9-44aa-9e31-f57ced437ac8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/6f31539f-87f9-44aa-9e31-f57ced437ac8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6f31539f-87f9-44aa-9e31-f57ced437ac8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1lCLEVX$b4gfunzNpjGth8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ic537bf59-1939-44fa-8675-d80d72fea275</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/c537bf59-1939-44fa-8675-d80d72fea275</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c537bf59-1939-44fa-8675-d80d72fea275</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>35DxzP6Jb4_ePrs0ro$g9r</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i64b92b96-f178-4cf2-b1fc-244d46009530</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/64b92b96-f178-4cf2-b1fc-244d46009530</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>64b92b96-f178-4cf2-b1fc-244d46009530</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1akIkMyNXCyh7y94r609Km</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4cdcd0fe-2793-4930-b910-10d903e09e26</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/4cdcd0fe-2793-4930-b910-10d903e09e26</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4cdcd0fe-2793-4930-b910-10d903e09e26</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1CtD3_9vD9CBaG4Da3u9uc</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ida1c7bc6-116d-48c7-a2cb-0abf124ca2ff</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/da1c7bc6-116d-48c7-a2cb-0abf124ca2ff</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>da1c7bc6-116d-48c7-a2cb-0abf124ca2ff</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3Q77l64Mr8nwBB2hyIJAB$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i046d1535-e9df-4235-9216-6e1a74609586</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/046d1535-e9df-4235-9216-6e1a74609586</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>046d1535-e9df-4235-9216-6e1a74609586</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>04RHKrwTz2DP8MRXfqO9M6</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i013b29bf-a1c9-45b8-86f9-7ce07e2e69e4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/013b29bf-a1c9-45b8-86f9-7ce07e2e69e4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>013b29bf-a1c9-45b8-86f9-7ce07e2e69e4</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>01Eoc$eSb5k8RvVE1_Bcda</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ia50b28d0-0ab3-4a93-a864-46c72c582f19</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/a50b28d0-0ab3-4a93-a864-46c72c582f19</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>a50b28d0-0ab3-4a93-a864-46c72c582f19</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2b2oZG2hDAawXaHiSiM2yP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iea4b9b19-b65d-4680-b062-e34cb82ffaf6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/ea4b9b19-b65d-4680-b062-e34cb82ffaf6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ea4b9b19-b65d-4680-b062-e34cb82ffaf6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3gIviPjbr6WB1YuqouB$hs</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i51f40d11-15cd-432f-9c47-f916f4071939</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/51f40d11-15cd-432f-9c47-f916f4071939</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>51f40d11-15cd-432f-9c47-f916f4071939</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Hz0qH5Sr3Bvn7_HRq1nav</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i8daac928-b0b9-4cbb-915b-4d9afa08cffc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/8daac928-b0b9-4cbb-915b-4d9afa08cffc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>8daac928-b0b9-4cbb-915b-4d9afa08cffc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2DgiaeiBbCkv5RJPhw2C$y</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i17f49d47-15da-4046-b6a2-81e2aaaf9668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/17f49d47-15da-4046-b6a2-81e2aaaf9668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>17f49d47-15da-4046-b6a2-81e2aaaf9668</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0Nz9r75Tf0HhQYWUAghvPe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i677d3424-a93c-43c7-ab3d-7cb147611917</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/677d3424-a93c-43c7-ab3d-7cb147611917</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>677d3424-a93c-43c7-ab3d-7cb147611917</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1dVJGagJn3nwizVB57OHaN</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i5ebc55bc-9321-4c5f-a447-3c43f511c3af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/5ebc55bc-9321-4c5f-a447-3c43f511c3af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5ebc55bc-9321-4c5f-a447-3c43f511c3af</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1Ul5Myao5CNwH7F4Fr4SEl</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iec79cc37-a96a-45c3-868f-7a1aa24a84e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/ec79cc37-a96a-45c3-868f-7a1aa24a84e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ec79cc37-a96a-45c3-868f-7a1aa24a84e7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3iUSmtgMf5muQFUXgYIeJd</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ibb8ed4dc-a4d4-4c54-9f97-8a74f58c7729</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/bb8ed4dc-a4d4-4c54-9f97-8a74f58c7729</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>bb8ed4dc-a4d4-4c54-9f97-8a74f58c7729</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2xZjJSfDHCL9_NYdJrZ7Sf</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ica3da944-557b-4a85-ad85-7c3d38b7ced9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/ca3da944-557b-4a85-ad85-7c3d38b7ced9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>ca3da944-557b-4a85-ad85-7c3d38b7ced9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3AFQb4LNjAXQs5V3qujyxP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4842044d-3f3e-4ed9-b225-0fa2ee9d59d3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/4842044d-3f3e-4ed9-b225-0fa2ee9d59d3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4842044d-3f3e-4ed9-b225-0fa2ee9d59d3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>18GWHDFpvEsR8b3wBkdLdJ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib2cc6d67-b710-4fc5-baeb-355f3023007d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b2cc6d67-b710-4fc5-baeb-355f3023007d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b2cc6d67-b710-4fc5-baeb-355f3023007d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2op6rdjn1FnRhhDLym8m1z</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i15700b66-4311-40ed-b0c5-447c1b978650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/15700b66-4311-40ed-b0c5-447c1b978650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>15700b66-4311-40ed-b0c5-447c1b978650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0LS0jcGn50xR35H7mRbuPG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie94d29cc-5b12-45a8-92a8-f1b14de50b41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/e94d29cc-5b12-45a8-92a8-f1b14de50b41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e94d29cc-5b12-45a8-92a8-f1b14de50b41</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3fJIdCMn95g9AeyR5DvGj1</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i00289fb3-c7cf-4413-9600-53249a720459</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/00289fb3-c7cf-4413-9600-53249a720459</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00289fb3-c7cf-4413-9600-53249a720459</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>00A9_pnyz44vO0KoIQSWHP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3dc8ebff-fc8f-4674-a748-1be8c7b46096</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/3dc8ebff-fc8f-4674-a748-1be8c7b46096</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3dc8ebff-fc8f-4674-a748-1be8c7b46096</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0zoEl$$8z6TAT86_Z7j62M</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i5f49fd84-04df-4c81-bded-0cd6c41a05b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/5f49fd84-04df-4c81-bded-0cd6c41a05b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5f49fd84-04df-4c81-bded-0cd6c41a05b3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1VIVs41DzCWRtj3DR46WMp</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3044d384-89f5-48be-904d-7415af74309a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/3044d384-89f5-48be-904d-7415af74309a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3044d384-89f5-48be-904d-7415af74309a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0mHDE4YVL8lf1DT1MlT32Q</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i930b64da-c637-45e1-a214-77d1103070e6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/930b64da-c637-45e1-a214-77d1103070e6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>930b64da-c637-45e1-a214-77d1103070e6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2J2sJQnZT5uQ8KTz4GC73c</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i270cbd2a-7864-4974-9a92-b25f746d85a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/270cbd2a-7864-4974-9a92-b25f746d85a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>270cbd2a-7864-4974-9a92-b25f746d85a8</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0d3BqgU6H9T9gIibzqROMe</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i9e4185ba-ee9d-4246-a0d4-38fbf157854e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/9e4185ba-ee9d-4246-a0d4-38fbf157854e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>9e4185ba-ee9d-4246-a0d4-38fbf157854e</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2UGOMwxfr2Hg3KEFlnLuLE</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i30b4e8b5-c087-4447-9c71-707a1e6da276</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/30b4e8b5-c087-4447-9c71-707a1e6da276</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>30b4e8b5-c087-4447-9c71-707a1e6da276</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0mjEYrm8T4HvnnS7eURQ9s</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib98a347c-f73b-4950-8277-b006b444a4df</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b98a347c-f73b-4950-8277-b006b444a4df</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b98a347c-f73b-4950-8277-b006b444a4df</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2vYZHyzpj9K89ti0QqHAJV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i7f7a2410-306b-4b84-b021-d0238c354247</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/7f7a2410-306b-4b84-b021-d0238c354247</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>7f7a2410-306b-4b84-b021-d0238c354247</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1$UYGGC6jBXB0Xq2ECDK97</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>if1b38622-5737-406a-b286-484fe2743fdd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/f1b38622-5737-406a-b286-484fe2743fdd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f1b38622-5737-406a-b286-484fe2743fdd</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3niuOYLpT0QhA6I4$YT3$T</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i66addb10-f6ba-4051-a26c-b8033002d933</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/66addb10-f6ba-4051-a26c-b8033002d933</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>66addb10-f6ba-4051-a26c-b8033002d933</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1chTiGzhf0KQ9ik0Cm0jap</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i83194c15-d3b0-4311-8c3f-437a3142a191</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/83194c15-d3b0-4311-8c3f-437a3142a191</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>83194c15-d3b0-4311-8c3f-437a3142a191</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>236KmLqx134Om$GtenGg6H</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>iafe72d9c-666a-44a3-ac95-005ca0bcbf14</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/afe72d9c-666a-44a3-ac95-005ca0bcbf14</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>afe72d9c-666a-44a3-ac95-005ca0bcbf14</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2lvosSPcf4ewoL05oWlByK</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ifc0b6028-afb4-4dd4-876f-8c7ccfe1b1ba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/fc0b6028-afb4-4dd4-876f-8c7ccfe1b1ba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>fc0b6028-afb4-4dd4-876f-8c7ccfe1b1ba</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3y2s0ehxHDr8TlZ7pFuR6w</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ie39576f2-cdb1-427d-a126-eeae53d0865a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/e39576f2-cdb1-427d-a126-eeae53d0865a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>e39576f2-cdb1-427d-a126-eeae53d0865a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3ZbNRopR52VQ4cxgvJq8PQ</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i3e761b86-b038-4d6c-a809-b86dbff32a4b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/3e761b86-b038-4d6c-a809-b86dbff32a4b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3e761b86-b038-4d6c-a809-b86dbff32a4b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0_TXk6i3XDRAW9k6s$yofB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i891a4734-e782-40f5-b8e9-6e40e3421b8c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/891a4734-e782-40f5-b8e9-6e40e3421b8c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>891a4734-e782-40f5-b8e9-6e40e3421b8c</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>296aSqvu90zRZfRa3ZGXkC</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i5c871951-44bb-43b3-94db-32a4a30dd682</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/5c871951-44bb-43b3-94db-32a4a30dd682</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>5c871951-44bb-43b3-94db-32a4a30dd682</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1SXnbHHBj3ivJRCgIZ3TQ2</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ib8b59faa-f551-4cf6-947b-890e9d056f17</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/b8b59faa-f551-4cf6-947b-890e9d056f17</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b8b59faa-f551-4cf6-947b-890e9d056f17</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2ujP_gzL5CzfHxYGwT1MyN</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i60f2932d-ab86-4702-b42a-2301e7b8611b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/60f2932d-ab86-4702-b42a-2301e7b8611b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>60f2932d-ab86-4702-b42a-2301e7b8611b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1WyfCjguP70hGg8m7dk64R</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i974daf0f-127e-4079-8441-a559f9cae3b9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/VDI2552-9A.DE/974daf0f-127e-4079-8441-a559f9cae3b9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>VDI2552-9A.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>974daf0f-127e-4079-8441-a559f9cae3b9</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2NJQyF4dv0UOH1fLdvokEv</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -16882,7 +17862,497 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ib503d164-46f8-49c4-83a8-36a4393f9c2d" Identification="" Name="" Description="">
+  <IfcClassificationReference id="i51d65277-f5e3-4d1f-9d0f-abb0ce804b46" Identification="" Name="Planetrührer" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ibcf48c61-5ccc-4889-8d5f-c4101bfe9728" Identification="" Name="Knetmaschine" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i724a22de-6ab5-44fe-b1cd-39057d2d6bba" Identification="" Name="Küchenmaschinen" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4af25554-95b6-4588-a013-23baf2c2d443" Identification="" Name="Rüsselmixer" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iaa649740-8c43-4383-af64-bf8fcb056ec3" Identification="" Name="Gemüseschneidemaschine" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1050f11b-d587-43c6-8024-0eea63c270b7" Identification="" Name="Gemüseschälmaschine" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i03b21fc1-8c72-482d-b493-b81d6a73d7a8" Identification="" Name="Vorsatzgeräte" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i056f5c43-5132-4c4d-9f66-b3e51587efd3" Identification="" Name="Aufschneidemaschinen" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ifa430c67-7149-4669-95ec-098b2c6e2cc8" Identification="" Name="Gemüsewaschmachine" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i3718f708-be99-4f48-ad2c-98d378099e3d" Identification="" Name="Gemüseschleudermaschine" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="idc3be1ab-a7d5-4bca-882d-5644c9c489b1" Identification="" Name="Dosenöffner" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i16ab5084-c090-4ac6-83ca-352293db8312" Identification="" Name="Bandsägemaschinen" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4945c12b-6128-4ec4-aefb-6b635af24848" Identification="" Name="Portioniermaschinen" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i79de0122-1771-4c22-b5a0-3f45967466a9" Identification="" Name="Kutter" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i906ebefa-fd2e-4a98-92f9-8bfc1f9cbe73" Identification="" Name="Mixer" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if9eaa19a-0720-4568-a546-2a24a336e312" Identification="" Name="Fleischwolf" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i709f2238-6864-4939-8ed0-b45f8cbf2243" Identification="" Name="Kaffeemühle" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i69069926-2b8c-4361-8547-777929da08f2" Identification="" Name="Saftpressen" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie87e0fc6-ff1a-4b0e-b7b1-41a591f275f0" Identification="" Name="Entsafter" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iaea5464c-4aa9-4a6e-9f7f-54eb37d520db" Identification="" Name="Vakuumiergeräte" Description="A specialized appliance used in commercial kitchens such as a mixer.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i049db249-f791-4c61-bf28-c9c8c9949d46" Identification="" Name="Kochzonen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i19d4534b-d228-4ee1-8d6c-56c0e9d3a8da" Identification="" Name="Mikrowellenkombinationsgeräte" Description="An electrical appliance that has the primary function of cooking food using microwaves.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i259e8331-dd86-4866-8451-0ea133e31187" Identification="" Name="Fritteusen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i5f883d5a-3dbb-46d4-8870-f7c072edef0a" Identification="" Name="Bratplatten" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1c837e54-42ac-4d8e-94eb-e10c268e50c6" Identification="" Name="Grillplatte" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ib79b1051-4785-4bb1-8e04-970d44f97a15" Identification="" Name="Strahlungsgrillgeräte" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i7176898f-2490-4ea2-893a-c311d155332b" Identification="" Name="Kontaktgrill" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie2767548-d551-40b9-b0f2-f07282dd5913" Identification="" Name="Gargeräte" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i42cbc966-051d-466c-a894-fdef11154e5c" Identification="" Name="Heißluftdämpfer" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="icfda7c1b-34e4-4654-bace-23540a08c5cf" Identification="" Name="Nudelkocher" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i29bc1e31-b6e8-473d-bfac-c2f3c8afa7f5" Identification="" Name="Bain Marie" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i79f9354d-aaa6-4e4f-aab1-d1233e274348" Identification="" Name="Kochkessel" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i52f9c4b2-ca6b-4f20-98c4-9591dec1670f" Identification="" Name="Garautomaten" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ide3cfbc9-0899-4546-9d3e-704f57627e43" Identification="" Name="Ladenbacköfen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i0f433daf-9a95-4dbc-9cd0-ec7f340a22f3" Identification="" Name="Etagenbacköfen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="icad124b1-a30d-44de-a23d-8bde00178e37" Identification="" Name="Räucheröfen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i326bc66c-61a8-450e-9643-4600b50cc02a" Identification="" Name="Heißluftöfen" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i8913852a-e39b-493a-a3ec-2c6700140d02" Identification="" Name="Vakuumgarer" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i2d95e749-c704-4170-9e4d-69a7fc7a416f" Identification="" Name="Bratgerät" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i6efa9806-9dfe-4314-b605-4d790e26427b" Identification="" Name="Pasteurisierer" Description="An electrical appliance that has the primary function of cooking food (including oven, hob, grill).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i6fe1346a-f559-4fcf-8772-6bc9dab6d80f" Identification="" Name="Heißgetränkebereiter" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i7b183933-d6b9-41e9-a44d-b50fa63710a9" Identification="" Name="Vollautomaten (Getränkebereiter)" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i64869471-34aa-4149-bee2-1d9a1470d58e" Identification="" Name="Filtermaschinen" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="id89b931d-e977-4d9c-b922-eba34456c876" Identification="" Name="Siebträgermaschinen" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1281ab85-33ab-4e58-a6ae-672fd9b99b87" Identification="" Name="Kühlmöbel" Description="An electrical appliance that has the primary function of storing food at low temperature but above the freezing point of water.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i1fe3c026-eeb3-4fcf-b16f-df2e1f32ee9d" Identification="" Name="Schnellkühler" Description="An electrical appliance that has the primary function of storing food at low temperature but above the freezing point of water.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i95f8ae1f-a3aa-42a3-b06a-bd60e9c12d16" Identification="" Name="Kühlzellen und Tiefkühlzellen" Description="An electrical appliance that has the primary function of storing food at low temperature but above the freezing point of water.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ia47bdf62-d62d-4b17-b596-b13e997478eb" Identification="" Name="Eismaschinen" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iab104fac-959a-4066-92de-27703e7a266a" Identification="" Name="Speiseeismaschinen" Description="A device intended for consumer usage that is powered by electricity. May be fixed in place or may be able to be moved from one space to another. Requires an electrical supply that may be supplied either by an electrical circuit or provided from a local battery source.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ib18927dd-c438-4bdf-a9d9-12432103f560" Identification="" Name="Getränkezapfanlagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i6c0aa83d-1763-41a5-b655-d36c2de4e80a" Identification="" Name="Tische" Description="Furniture with a countertop for multiple people.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4a229a56-9170-4ff3-b674-90e5b7fd4298" Identification="" Name="Schränke" Description="A cupboard with shelves or drawers for storing or displaying articles.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if6010ff1-f4b9-4841-af37-8410811b0886" Identification="" Name="Regal" Description="Furniture for storing books or other items.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i8a1e8b4b-96e7-42ca-b759-17cca217ac7c" Identification="" Name="Fahrbare Geräte" Description="A generalization of all transport related objects that move people, animals or goods within a building or building complex. The occurrence of a transport element, that (if given), is expressed by the IfcTransportElementType. EXAMPLE  include elevator (lift), escalator, moving walkway, etc.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i993859a2-0f14-4042-932c-a9c21c15dfc2" Identification="" Name="Speisenverteilungssystem" Description="A conveyor system is a piece of mechanical handling equipment that moves materials from one location to another. Conveyors are especially useful in applications involving the transportation of heavy or bulky materials.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i3bc666d8-d7a5-4cf2-8c67-4d5ae48c6028" Identification="" Name="Speisenausgaben (modular)" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i6f31539f-87f9-44aa-9e31-f57ced437ac8" Identification="" Name="Speisenausgaben (individueller Anlagenbau)" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ic537bf59-1939-44fa-8675-d80d72fea275" Identification="" Name="Regeneriergeräte, Induktion" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i64b92b96-f178-4cf2-b1fc-244d46009530" Identification="" Name="Regeneriergeräte, Kontaktwärme" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4cdcd0fe-2793-4930-b910-10d903e09e26" Identification="" Name="Regeneriergeräte (Heißluft)" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ida1c7bc6-116d-48c7-a2cb-0abf124ca2ff" Identification="" Name="Stapelgeräte" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i046d1535-e9df-4235-9216-6e1a74609586" Identification="" Name="Stapelgeräte, beheizt" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i013b29bf-a1c9-45b8-86f9-7ce07e2e69e4" Identification="" Name="Stapelgeräte, gekühlt" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ia50b28d0-0ab3-4a93-a864-46c72c582f19" Identification="" Name="Warmhaltegeräte" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iea4b9b19-b65d-4680-b062-e34cb82ffaf6" Identification="" Name="Warmhaltebecken" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i51f40d11-15cd-432f-9c47-f916f4071939" Identification="" Name="Warmhaltevitrinen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i8daac928-b0b9-4cbb-915b-4d9afa08cffc" Identification="" Name="Warmhalteplatten" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i17f49d47-15da-4046-b6a2-81e2aaaf9668" Identification="" Name="Speiseausgabewagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i677d3424-a93c-43c7-ab3d-7cb147611917" Identification="" Name="Speisetransportwagen, Bankettwagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i5ebc55bc-9321-4c5f-a447-3c43f511c3af" Identification="" Name="Selbstbedienungsautomaten" Description="An appliance that stores and vends goods including food, drink and goods of various types.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iec79cc37-a96a-45c3-868f-7a1aa24a84e7" Identification="" Name="Gewerbliche Spülmaschinen" Description="An appliance that has the primary function of washing dishes.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ibb8ed4dc-a4d4-4c54-9f97-8a74f58c7729" Identification="" Name="Wagen- und Trolleywaschanlagen" Description="An appliance that has the primary function of washing dishes.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ica3da944-557b-4a85-ad85-7c3d38b7ced9" Identification="" Name="Putzmaschinen für Bestecke und Metallgeschirr" Description="An appliance that has the primary function of washing dishes.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4842044d-3f3e-4ed9-b225-0fa2ee9d59d3" Identification="" Name="Be- und Entlüftungssysteme" Description="A terminal terminating or origination point for the transfer of air between distribution system(s) and one or more spaces. It can also be used for the transfer of air between adjacent spaces.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ib2cc6d67-b710-4fc5-baeb-355f3023007d" Identification="" Name="Küchenlüftungsdecken und -hauben" Description="A terminal terminating or origination point for the transfer of air between distribution system(s) and one or more spaces. It can also be used for the transfer of air between adjacent spaces.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i15700b66-4311-40ed-b0c5-447c1b978650" Identification="" Name="Abluftbehandlungsanlagen" Description="A terminal terminating or origination point for the transfer of air between distribution system(s) and one or more spaces. It can also be used for the transfer of air between adjacent spaces.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie94d29cc-5b12-45a8-92a8-f1b14de50b41" Identification="" Name="Feuerlöschanlagen, stationär" Description="A suppression terminal has the purpose of delivering a fluid (gas or liquid) that will suppress a fire. Provides for all forms of sprinkler, spreader and other form of terminal that is connected to a pipework system and intended to act in the role of suppressing a fire.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i00289fb3-c7cf-4413-9600-53249a720459" Identification="" Name="EDV Systeme" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i3dc8ebff-fc8f-4674-a748-1be8c7b46096" Identification="" Name="Wasseraufbereitungssystems" Description="The water treatment is the targeted change of the water quality. Removal of substances from the water (e.g. cleaning, softening, desalination) as well as addition of substances and adjustment of water parameters (e.g. dosage, pH value, conductivity).">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i5f49fd84-04df-4c81-bded-0cd6c41a05b3" Identification="" Name="Seifen- / und Desinfektionsmittelspender" Description="Equipment that is used to maintain high standards in cleanliness and hygiene.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i3044d384-89f5-48be-904d-7415af74309a" Identification="" Name="Zentraldosierungssysteme für Chemie" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i930b64da-c637-45e1-a214-77d1103070e6" Identification="" Name="Armaturen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i270cbd2a-7864-4974-9a92-b25f746d85a8" Identification="" Name="Wasserarmaturen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i9e4185ba-ee9d-4246-a0d4-38fbf157854e" Identification="" Name="Geschirrbrausen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i30b4e8b5-c087-4447-9c71-707a1e6da276" Identification="" Name="Schlauchaufrollsysteme" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ib98a347c-f73b-4950-8277-b006b444a4df" Identification="" Name="Thekenarmaturen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i7f7a2410-306b-4b84-b021-d0238c354247" Identification="" Name="Trinkbrunnen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="if1b38622-5737-406a-b286-484fe2743fdd" Identification="" Name="Brandschutzsysteme" Description="Comprises the totality of all structural, constructive, material, design and functional planning measures, means and methods by which the spread and spread of fire are reduced to a minimum or prevented completely or temporarily, the rescue of persons and the safe operation of the fire brigade are guaranteed and the degree of destruction and damage to buildings, installations and equipment is kept as low as possible.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i66addb10-f6ba-4051-a26c-b8033002d933" Identification="" Name="Fußbodenentwässerung" Description="Pipe fitting, set into the floor, that collects waste water and discharges it to a separate trap.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i83194c15-d3b0-4311-8c3f-437a3142a191" Identification="" Name="Fußbodeneinläufe" Description="Pipe fitting, set into the floor, that collects waste water and discharges it to a separate trap.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="iafe72d9c-666a-44a3-ac95-005ca0bcbf14" Identification="" Name="Fußbodeneinlaufrinnen" Description="Pipe fitting, set into the floor, that collects waste water and discharges it to a separate trap.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ifc0b6028-afb4-4dd4-876f-8c7ccfe1b1ba" Identification="" Name="Fördersysteme" Description="A conveyor system is a piece of mechanical handling equipment that moves materials from one location to another. Conveyors are especially useful in applications involving the transportation of heavy or bulky materials.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ie39576f2-cdb1-427d-a126-eeae53d0865a" Identification="" Name="Tabletttransportbänder" Description="A conveyor system is a piece of mechanical handling equipment that moves materials from one location to another. Conveyors are especially useful in applications involving the transportation of heavy or bulky materials.">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i3e761b86-b038-4d6c-a809-b86dbff32a4b" Identification="" Name="Vertikalförderturm" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i891a4734-e782-40f5-b8e9-6e40e3421b8c" Identification="" Name="Entsorgungssysteme" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i5c871951-44bb-43b3-94db-32a4a30dd682" Identification="" Name="Speiseresteanlagen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="ib8b59faa-f551-4cf6-947b-890e9d056f17" Identification="" Name="Nassmüllboxen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i60f2932d-ab86-4702-b42a-2301e7b8611b" Identification="" Name="Verpackungsmaschinen" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i974daf0f-127e-4079-8441-a559f9cae3b9" Identification="" Name="Etikettierer" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </ReferencedSource>

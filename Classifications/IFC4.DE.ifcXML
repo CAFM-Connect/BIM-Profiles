@@ -1187,26 +1187,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1381</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//ac42909e-7059-4e1b-b930-f0d28515fd11</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>ac42909e-7059-4e1b-b930-f0d28515fd11</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2iGf2US5bE6xamyDA55VqH</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1382</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//a27f09a2-0559-4656-a350-e21bb3b73348</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>a27f09a2-0559-4656-a350-e21bb3b73348</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2YVmcY1Lb6LgDGuXkpjpD8</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1383</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//0beffdac-3dfe-46a0-80d0-731b2144c4db</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>0beffdac-3dfe-46a0-80d0-731b2144c4db</IfcIdentifier-wrapper>
@@ -1215,7 +1195,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1384</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1382</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//2d148719-93b3-4303-8121-c1848d98341b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -1225,12 +1205,32 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1385</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1383</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//1703c28a-d650-4401-85fb-559fd3e6cc95</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>1703c28a-d650-4401-85fb-559fd3e6cc95</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0N0yAArb140ONxLP$JvioL</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1384</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//4d9f58d3-ec99-425d-a5ad-c20b25265730</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>4d9f58d3-ec99-425d-a5ad-c20b25265730</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1DdrZJx9b2NQMjmWib9bSm</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1385</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//33f862c8-f0d3-46f5-8d43-e0d6788f303f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>33f862c8-f0d3-46f5-8d43-e0d6788f303f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0p_6B8yDD6zOr3uDPuZp0$</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -1247,26 +1247,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1387</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//4d9f58d3-ec99-425d-a5ad-c20b25265730</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>4d9f58d3-ec99-425d-a5ad-c20b25265730</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1DdrZJx9b2NQMjmWib9bSm</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1388</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//33f862c8-f0d3-46f5-8d43-e0d6788f303f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>33f862c8-f0d3-46f5-8d43-e0d6788f303f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0p_6B8yDD6zOr3uDPuZp0$</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1389</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//c915a04a-52f8-42d8-b5c4-d23b1436e4be</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>c915a04a-52f8-42d8-b5c4-d23b1436e4be</IfcIdentifier-wrapper>
@@ -1275,17 +1255,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1390</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//365f646e-f7d2-45d2-86bb-4ecceab984a3</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>365f646e-f7d2-45d2-86bb-4ecceab984a3</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0sNsHkzz95qeQxJipgkOIZ</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1391</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1388</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//066189c1-0741-42c6-ae0b-73886d51db2f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -1295,7 +1265,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1392</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1389</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//297deb45-1ee0-4d65-88e0-e91c39cf98bc</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -1305,7 +1275,17 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1393</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1390</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//a27f09a2-0559-4656-a350-e21bb3b73348</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>a27f09a2-0559-4656-a350-e21bb3b73348</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2YVmcY1Lb6LgDGuXkpjpD8</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1391</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//4e546024-d534-42ab-8d63-0f917e002c8d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -1315,12 +1295,32 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1392</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//ac42909e-7059-4e1b-b930-f0d28515fd11</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>ac42909e-7059-4e1b-b930-f0d28515fd11</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2iGf2US5bE6xamyDA55VqH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1393</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//f1d0b2b8-9d40-4b1e-8d7b-dd37e104eb2f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>f1d0b2b8-9d40-4b1e-8d7b-dd37e104eb2f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>3nqBAudK1B7erxtJVX1Eil</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1394</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//365f646e-f7d2-45d2-86bb-4ecceab984a3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>365f646e-f7d2-45d2-86bb-4ecceab984a3</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0sNsHkzz95qeQxJipgkOIZ</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -2447,20 +2447,20 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1507</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//f6cb49b0-1f2e-42eb-b529-292a06e35c70</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//501aeaa3-f9bb-4421-85bb-a2e1fd758e21</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>f6cb49b0-1f2e-42eb-b529-292a06e35c70</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3soqcm7ov2wxKfAIe6urnm</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>501aeaa3-f9bb-4421-85bb-a2e1fd758e21</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1G6kgZ_Rj48OMxek7zTOuX</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
           <IfcIdentifier-wrapper>i1508</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//501aeaa3-f9bb-4421-85bb-a2e1fd758e21</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//f6cb49b0-1f2e-42eb-b529-292a06e35c70</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>501aeaa3-f9bb-4421-85bb-a2e1fd758e21</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1G6kgZ_Rj48OMxek7zTOuX</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>f6cb49b0-1f2e-42eb-b529-292a06e35c70</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3soqcm7ov2wxKfAIe6urnm</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -2537,16 +2537,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1516</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//550825ac-5640-4abf-ae0d-dc9d39d0b430</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>550825ac-5640-4abf-ae0d-dc9d39d0b430</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1L22MiLa1AlwuDt9qvqBGm</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1517</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//57922ea8-df0e-4a57-abf3-4c77ecd2f2b3</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>57922ea8-df0e-4a57-abf3-4c77ecd2f2b3</IfcIdentifier-wrapper>
@@ -2555,7 +2545,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1518</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1517</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//08c56226-a9a7-4f6e-a09c-be1f28c04c7d</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -2565,12 +2555,22 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1519</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1518</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//551eaad8-5ae2-45ca-8502-b4798710451f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>551eaad8-5ae2-45ca-8502-b4798710451f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1L7ghOMk95oeK2j7c744KV</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1519</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//550825ac-5640-4abf-ae0d-dc9d39d0b430</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>550825ac-5640-4abf-ae0d-dc9d39d0b430</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1L22MiLa1AlwuDt9qvqBGm</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -3817,16 +3817,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1644</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//dccb87d7-f11e-4fb8-b3a0-7a7919fe7ad1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>dccb87d7-f11e-4fb8-b3a0-7a7919fe7ad1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3SouVNyHvFkBEWUdaP$dhH</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1645</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//ec71cebc-8a06-4bf2-ae85-c1bdbdcf12d5</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>ec71cebc-8a06-4bf2-ae85-c1bdbdcf12d5</IfcIdentifier-wrapper>
@@ -3835,17 +3825,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1646</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//5cf5059f-f117-48c0-b022-7003c0d2e9b7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>5cf5059f-f117-48c0-b022-7003c0d2e9b7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1SzGMVyHT8mB0YS0F0qkct</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1647</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1645</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//96be0772-5d6e-4b4c-acf9-6e0c421495d0</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3855,7 +3835,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1648</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1646</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//fad9fef9-7ea7-4361-9677-2db334119564</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3865,7 +3845,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1649</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1647</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//d579159a-4d1e-4dd9-9541-25d582eef8b9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3875,7 +3855,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1648</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//2ae0183d-f7b8-4473-9cdc-8450ff87a160</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3885,7 +3865,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1651</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1649</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//d2854c36-127a-4d41-98fb-262a87db8bc2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3895,7 +3875,17 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1652</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1650</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//5cf5059f-f117-48c0-b022-7003c0d2e9b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>5cf5059f-f117-48c0-b022-7003c0d2e9b7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1SzGMVyHT8mB0YS0F0qkct</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1651</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//a6b3b85b-b23b-43ff-b43c-3fac77ea5c3b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -3905,12 +3895,22 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1653</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1652</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//18b9170c-5181-43bc-9c49-fcabd97eb1ff</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>18b9170c-5181-43bc-9c49-fcabd97eb1ff</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0OkHSCKO53l9n9$AlPVh7$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1653</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//dccb87d7-f11e-4fb8-b3a0-7a7919fe7ad1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>dccb87d7-f11e-4fb8-b3a0-7a7919fe7ad1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3SouVNyHvFkBEWUdaP$dhH</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -10607,6 +10607,16 @@
         <RowCells>
           <IfcIdentifier-wrapper>i2323</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//974e0915-dfc5-42be-98bd-5d1494d5ac2a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>974e0915-dfc5-42be-98bd-5d1494d5ac2a</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2NJWaLtyL2lfYzNHIKrQmg</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i2324</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//01b415b2-3af1-4d10-8c72-c943ae6ec989</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>01b415b2-3af1-4d10-8c72-c943ae6ec989</IfcIdentifier-wrapper>
@@ -10615,7 +10625,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i2324</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i2325</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//3bae69a1-ced5-4bf6-8db8-8990a395d1f4</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -10625,22 +10635,12 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i2325</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i2326</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//4c257d40-df41-4f9c-aa90-bcf0b322b4e2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>4c257d40-df41-4f9c-aa90-bcf0b322b4e2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>1C9Nr0tq5FdAgGlF2p8hJY</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i2326</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//974e0915-dfc5-42be-98bd-5d1494d5ac2a</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>974e0915-dfc5-42be-98bd-5d1494d5ac2a</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2NJWaLtyL2lfYzNHIKrQmg</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -10727,16 +10727,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i2335</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//0627af51-5fcd-43cd-8828-07f961a8a70d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>0627af51-5fcd-43cd-8828-07f961a8a70d</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>069wzHNyr3pOWe1$bXgASD</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i2336</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//0c505ac5-016a-4829-a8e0-9e8016f0c868</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>0c505ac5-016a-4829-a8e0-9e8016f0c868</IfcIdentifier-wrapper>
@@ -10745,22 +10735,32 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i2336</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//0627af51-5fcd-43cd-8828-07f961a8a70d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>0627af51-5fcd-43cd-8828-07f961a8a70d</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>069wzHNyr3pOWe1$bXgASD</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i2337</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//6f1642ec-fc34-4a6a-8b15-e4d90d37aa2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//121e6153-e8a0-491b-a236-5821f70e8b38</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>6f1642ec-fc34-4a6a-8b15-e4d90d37aa2b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1l5aBi$3HAQeiLvDaDDweh</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>121e6153-e8a0-491b-a236-5821f70e8b38</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0I7c5JwA196w8sM27t3eiu</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
           <IfcIdentifier-wrapper>i2338</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//121e6153-e8a0-491b-a236-5821f70e8b38</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//6f1642ec-fc34-4a6a-8b15-e4d90d37aa2b</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>121e6153-e8a0-491b-a236-5821f70e8b38</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0I7c5JwA196w8sM27t3eiu</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>6f1642ec-fc34-4a6a-8b15-e4d90d37aa2b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1l5aBi$3HAQeiLvDaDDweh</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -11619,17 +11619,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1265" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1268" Identification="IfcProduct" Name="Produkt (allgemein)" Description="Das IfcProduct ist eine abstrakte Repräsentation eines beliebigen Objekts, das sich auf einen geometrischen oder räumlichen Kontext bezieht. Ein IfcProdukt tritt an einer bestimmten Stelle im Raum auf, wenn ihm eine geometrische Darstellung zugeordnet ist. Es kann relativ zu anderen Produkten platziert werden, aber letztendlich relativ zum Projektkoordinatensystem. Das ObjectPlacement-Attribut legt das Koordinatensystem fest, in dem alle Punkte und Richtungen, die von den geometrischen Darstellungselementen unter Darstellung verwendet werden, begründet sind. Die Darstellung wird durch eine IfcProductDefinitionShape bereitgestellt, die entweder eine geometrische Formdarstellung oder eine Topologiedarstellung (mit oder ohne zugrundeliegende Geometrie der topologischen Elemente) ist.&#xA;Zu den Produkten gehören hergestellte, gelieferte oder hergestellte Objekte (Elemente genannt), die in ein AEC/FM-Projekt integriert werden. Dies gilt auch für Objekte, die indirekt durch andere Produkte erzeugt werden, da Räume durch Begrenzungselemente definiert werden. Die Produkte können für den Dauereinsatz oder für den temporären Einsatz bestimmt sein, ein Beispiel hierfür ist die Schalung. Produkte werden durch ihre Eigenschaften und Darstellungen definiert.&#xA;Neben physischen Produkten (abgedeckt durch den Subtyp IfcElement) und räumlichen Items (abgedeckt durch den Subtyp IfcSpatialElement) umfasst das IfcProduct auch nicht-physische Items, die sich auf einen geometrischen oder räumlichen Kontext beziehen, wie z.B. Grid, Port, Annotation, strukturelle Aktionen, etc.&#xA;Jede Instanz von IfcProduct definiert ein bestimmtes Vorkommen eines Produkts, die allgemeine Typinformation, die sich auf viele ähnliche (oder identische) Vorkommen von IfcProduct bezieht, wird durch das IfcTypeProduct (und seine Subtypen) behandelt, das einem oder mehreren Vorkommen von IfcProduct durch die objektivierte Beziehung IfcRelDefinesByType zugeordnet ist. Das IfcTypeProduct kann neben gemeinsamen Eigenschaften auch eine gemeinsame geometrische Darstellung für alle Vorkommen bieten.">
+  <IfcClassificationReference id="i1268" Identification="IfcProduct" Name="Produkt (allgemein)" Description="Das IfcProdukt ist eine abstrakte Darstellung eines beliebigen Objekts, das einen geometrischen oder räumlichen Inhalt weiter charakterisiert. Wenn einem IfcProdukt geometrische Informationen angefügt sind, tritt es an der vorgegebenen Stelle im Raum auf. Es kann relativ zu anderen Produkten, aber letztlich relativ zum Projektkoordinatensystem platziert werden. Das &quot;ObjectPlacement&quot; Attribut legt das Koordinatensystem fest, in dem alle von den geometrischen Darstellungselementen unter Darstellung verwendeten Punkte und Richtungen liegen. Die Darstellung erfolgt durch ein &quot;IfcProductDefinitionShape&quot;, das entweder eine geometrische Formdarstellung oder eine Topologiedarstellung (mit oder ohne darunterliegende Geometrie der topologischen Elemente) ist.&#xA;&#xA;Zum IfcProdukt gehören hergestellte, gelieferte oder hergestellte Objekte (sog. Elemente) zur Einbindung in ein Bau-, Planungs oder FM-Projekt. Dazu gehören auch Objekte, die indirekt von anderen IfcProdukts erzeugt wurden, da Räume durch Begrenzungselemente definiert werden. Die erzeugten Instanzen können für den Dauereinsatz oder für den temporären Einsatz bestimmt sein, ein Beispiel dafür ist die Schalung. Die Instanzen werden durch ihre Eigenschaften und Darstellungen definiert.&#xA;&#xA;Das IfcProdukt umfasst neben physischen Produkten (abgedeckt durch den Subtyp IfcElement) und räumlichen Elementen (abgedeckt durch den Subtyp IfcSpatialElement) auch nicht-physische Elemente die sich auf einen geometrischen oder räumlichen Kontext beziehen. Dieses können Gitter, Schnittstellen, Anmerkungen, Strukturelle, usw. sein.&#xA;&#xA;Jede Instanz von IfcProduct definiert ein bestimmtes Vorkommen eines Produkts. Die allgemeine Typinformation, die sich auf viele ähnliche (oder identische) Vorkommen von IfcProduct bezieht, wird vom IfcTypeProduct (und seinen Subtypen) behandelt, welches einem oder mehreren Vorkommen von IfcProduct unter Verwendung der objektivierten Beziehung IfcRelDefinesByType zugeordnet wird. Das IfcTypeProduct kann neben gemeinsamen Eigenschaften auch eine gemeinsame geometrische Darstellung für alle Instanzen liefern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1267" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1269" Identification="IfcProxy" Name="beliebiges Objekt" Description="IfcProxy ist als eine Art Container zum Abbilden von Objekten gedacht, die durch assoziierte Eigenschaften definiert sind, die eine geometrische Repräsentation und Platzierung im Raum haben können oder auch nicht. Ein Proxy kann eine semantische Bedeutung haben, die durch das Attribut Name definiert ist, und Eigenschaftsdefinitionen, die durch die Eigenschaftszuweisungsbeziehung verbunden sind, wobei diese Definition außerhalb der Definitionen liegen kann, die durch die aktuelle Version von IFC gegeben sind.">
+  <IfcClassificationReference id="i1269" Identification="IfcProxy" Name="beliebiges Objekt" Description="Der IfcProxy ist als eine Art Container für Objekte gedacht, die durch zugehörige Eigenschaften definiert sind, die eine geometrische Darstellung und Platzierung im Raum haben. Ein Proxy kann eine semantische Bedeutung haben, die durch das Attribut &quot;Name&quot; definiert ist und weitere Eigenschaften, die nicht unbedingt in der aktuellen IFC Spezifikation definiert sein müssen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1267" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1270" Identification="IfcTypeProduct" Name="Produkt (allgemein) - Typ" Description="IfcTypeProduct definiert eine Typdefinition eines Produkts, ohne bereits in eine Projektstruktur eingefügt zu sein (ohne Platzierung) und ohne in den geometrischen Repräsentationskontext des Projekts eingebunden zu sein. Sie dient der Definition einer Produktspezifikation, d.h. der spezifischen Produktinformation, die allen Vorkommen dieser Produktart gemeinsam ist.&#xA;Ein IfcTypeProduct kann eine Liste von Eigenschaften und optional eine Reihe von Produktdarstellungen enthalten. Die Werte dieser Eigenschaften und die Abbildungskarten sind allen Vorkommen dieses Produkttyps gemeinsam. Die Typ-Ereignis-Beziehung wird über die objektivierte Beziehung IfcRelDefinesByType realisiert.">
+  <IfcClassificationReference id="i1270" Identification="IfcTypeProduct" Name="Produkt (allgemein) - Typ" Description="IfcTypeProduct definiert eine Definition eines Produkts, die nicht in eine Projektstruktur und in eine geometrische Darstellung eingebunden sein muss. Sie wird verwendet, um eine Produktspezifikation zu definieren, d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Produkttyps gemeinsam haben.&#xA;Ein IfcTypeProdukt kann eine Liste von Eigenschaften und einen optionalen Satz von Produktdarstellungen enthalten. Die Werte dieser Eigenschaften und die Darstellungen sind allen Vorkommen dieses Produkttyps gemeinsam. Die Verknüpfung mit Typen wird über das Objekt „IfcRelDefinesByType“ realisiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1267" />
     </ReferencedSource>
@@ -11994,7 +11994,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1340" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1343" Identification="IfcBeam" Name="Balken - Unterzug" Description="Ein horizontales oder nahezu horizontales Bauteil, das in der Lage ist, die Belastung in erster Linie durch Biegesteifigkeit auszuhalten. Sie repräsentiert ein solches Mitglied aus architektonischer Sicht. Eine Lastaufnahme ist nicht erforderlich.">
+  <IfcClassificationReference id="i1343" Identification="IfcBeam" Name="Balken - Unterzug" Description="Ein horizontales oder nahezu horizontales Bauteil, welches in der Lage ist, Belastungen in erster Linie durch Biegesteifigkeit auszuhalten. Das Element wird aus einer architektonischen Sichtweise repräsentiert, deswegen können einwirkende Kräfte vernachlässigt werden.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12039,17 +12039,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1343" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1352" Identification="IfcColumnStandardCase" Name="Stütze - Pfeiler - Standard" Description="Eine Spalte mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1352" Identification="IfcColumnStandardCase" Name="Stütze - Pfeiler - Standard" Description="Die Standardstütze IfcColumnStandardCase definiert eine Stütze mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1353" Identification="IfcColumnType" Name="Stütze- - Pfeilertyp" Description="Ein vertikales Strukturbauteil, das häufig mit einem strukturellen Gitterschnittpunkt ausgerichtet ist. Es stellt ein vertikales oder fast vertikales Bauteil dar, das durch Kompression das Gewicht der obigen Struktur auf andere darunterliegende Strukturelemente überträgt. Sie repräsentiert ein solches Mitglied aus architektonischer Sicht. Eine Lastaufnahme ist nicht erforderlich.  Definition nach ISO 6707-1 Strukturbauteil von schlanker, meist vertikaler Form, das auf seine Basis die Kräfte überträgt, die auf ihn einwirken, vor allem in der Kompression.">
+  <IfcClassificationReference id="i1353" Identification="IfcColumnType" Name="Stütze- - Pfeiler - Typ" Description="Der Elementtyp IfcColumnType definiert gemeinsame Informationen für das Auftreten von Stützen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    allgemeine Profildefinitionen&#xA;    gängige Formdarstellungen&#xA;&#xA;Sie wird verwendet, um eine Stützenspezifikation oder einen Stützenstil (d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Stützentyps gemeinsam sind) zu definieren. Stützentypen können ausgetauscht werden, ohne bereits Vorkommen zugeordnet zu sein.&#xA;Vorkommen des IfcColumnType innerhalb von Gebäudemodellen werden durch Instanzen von IfcColumnStandardCase repräsentiert, wenn der IfcColumnType ein einziges zugehöriges IfcMaterialProfileSet hat; andernfalls werden sie durch Instanzen von IfcColumn repräsentiert. Vorkommen des IfcColumnType innerhalb von Strukturanalysemodellen werden durch Instanzen von IfcStructuralCurveMember oder dessen Subtypen repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1354" Identification="IfcCovering" Name="Bekleidung - Belag" Description="Ein Element, das einen Teil eines anderen Elements abdeckt und vollständig von diesem anderen Element abhängig ist. Das IfcCovering definiert das Auftreten eines Deckungstyps, der (falls angegeben) durch den IfcCoveringType ausgedrückt wird. Definition nach ISO ISO 6707-1: Endbeschichtungen und -behandlungen von Oberflächen und deren Überschneidungen.">
+  <IfcClassificationReference id="i1354" Identification="IfcCovering" Name="Bekleidung - Belag" Description="Ein Element, das einen Teil eines anderen Elements abdeckt und vollständig von diesem anderen Element abhängig ist. In älteren IFC Versionen setzt IfcCovering das Element IfcCoveringType vorraus. Definition nach ISO ISO 6707-1: &quot;1: final coverings and treatments of surfaces and their intersections.&quot;.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12114,12 +12114,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1354" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1367" Identification="IfcCoveringType" Name="Bekleidung - Belagtyp" Description="Das IfcCovering definiert das Vorkommen eines Deckungstyps, der (falls angegeben) durch den IfcCoveringType ausgedrückt wird, Definition nach ISO ISO 6707-1: Endabdeckungen und Behandlungen von Oberflächen und deren Schnittmengen.">
+  <IfcClassificationReference id="i1367" Identification="IfcCoveringType" Name="Bekleidung - Belag - Typ" Description="Ein Element, das einen Teil eines anderen Elements abdeckt und vollständig von diesem anderen Element abhängig ist. In älteren IFC Versionen setzt IfcCovering das Element IfcCoveringType vorraus. Definition nach ISO ISO 6707-1: &quot;1: final coverings and treatments of surfaces and their intersections.&quot;.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1368" Identification="IfcCurtainWall" Name="Vorhangfassade" Description="Eine Außenwand eines Gebäudes, bei der es sich um eine Baugruppe von Bauteilen handelt, die von der Kante des Fußbodens bzw. der Dachkonstruktion abgehängt wird und nicht auf einem Fußboden aufliegt. Nach ISO 6707-1: Nicht tragende Wand, die an der Außenseite eines Gebäudes angebracht ist und dieses umschließt.">
+  <IfcClassificationReference id="i1368" Identification="IfcCurtainWall" Name="Vorhangfassade" Description="Eine Vorhangfassade ist eine Äußersten Bauteile eines Gebäudes, die aus Komponenten besteht, die an der Kante des Fußbodens bzw. der Dachkonstruktion aufgehängt werden und nicht auf einem Fußboden aufliegen. Die Vorhangfassade wird als Baugruppe dargestellt und als Subtyp von IfcBuildingElement implementiert, das eine IfcRelAggregates-Beziehung verwendet.&#xA;&#xA;HINWEIS Definition nach ISO 6707-1: (Übersetzung) Nicht tragende Wand, die auf der Außenseite eines Gebäudes angeordnet ist und dieses umschließt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12134,12 +12134,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1368" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1371" Identification="IfcCurtainWallType" Name="Vorhangfassadentyp" Description="Eine Außenwand eines Gebäudes, bei der es sich um eine Baugruppe von Bauteilen handelt, die von der Kante des Fußbodens bzw. der Dachkonstruktion abgehängt wird und nicht auf einem Fußboden aufliegt, gemäß ISO 6707-1: nichttragende Wand, die außen an einem Gebäude angebracht ist und es umschließt.">
+  <IfcClassificationReference id="i1371" Identification="IfcCurtainWallType" Name="Vorhangfassade - Typ" Description="Der Bauelementtyp IfcCurtainWallType definiert gemeinsam genutzte Informationen für Vorkommen von Vorhangfassaden. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;&#xA;Es wird verwendet, um eine Vorhangfassadenspezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcCurtainWallType kann innerhalb von IfcProject oder IfcProjectLibrary mit IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcCurtainWallType werden durch Instanzen von IfcCurtainWall repräsentiert. Lesen Sie die Dokumentation unter IfcCurtainWall für unterstützte Eigenschaftssets, Materialien und Zusammensetzung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1372" Identification="IfcDoor" Name="Tür" Description="Die Tür ist ein Bauelement, das vorwiegend für den kontrollierten Zugang von Personen und Gütern genutzt wird.">
+  <IfcClassificationReference id="i1372" Identification="IfcDoor" Name="Tür" Description="Die Tür ist ein Bauelement, das vorwiegend für den kontrollierten Zugang von Personen und Gütern eingesetzt wird. Sie umfasst Konstruktionen mit Klapp-, Schwenk-, Schiebe-, Dreh- und Faltvorrichtungen. Eine Tür besteht aus einer Verkleidung und einem oder mehreren Paneelen.&#xA;&#xA;HINWEIS Definition nach ISO 6707-1: (übersetzt) Konstruktion zum Schließen einer Öffnung, die in erster Linie für den Zugang mit Klapp-, Schwenk- oder Schiebebetrieb vorgesehen ist.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12149,7 +12149,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1372" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1374" Identification="TRAPDOOR" Name="Klappe" Description="Eine Spezialtür, die horizontal in einer Deckenöffnung liegt. Wird oft für den Zugang zum Keller oder Dachboden verwendet.">
+  <IfcClassificationReference id="i1374" Identification="TRAPDOOR" Name="Falltür" Description="Eine Spezialtür, die horizontal in einer Deckenöffnung liegt. Wird oft für den Zugang zum Keller oder Dachboden verwendet.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1372" />
     </ReferencedSource>
@@ -12169,107 +12169,107 @@
       <IfcClassificationReference xsi:nil="true" ref="i1372" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1378" Identification="IfcDoorStandardCase" Name="Tür - Standard" Description="Eine Tür mit bestimmten Einschränkungen für die Bereitstellung von Betriebsarten, Öffnungsrichtungen, Rahmen- und Verkleidungsparametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1378" Identification="IfcDoorStandardCase" Name="Tür - Standard" Description="Die Standardtür IfcDoorStandardCase definiert eine Tür mit bestimmten Einschränkungen für die Bereitstellung von Betriebsarten, Öffnungsrichtungen, Rahmen- und Verkleidungsparametern und mit bestimmten Einschränkungen für die geometrische Darstellung. Das IfcDoorStandardCase verarbeitet alle Fälle von Türen:&#xA;&#xA;    werden in eine Öffnung, dargestellt durch IfcOpeningElement, mit Hilfe der IfcRelFillsElement-Beziehung eingefügt&#xA;    eine lokale Platzierung relativ zu dieser Öffnung haben und die y-Achse der Platzierung in Öffnungsrichtung zeigt.&#xA;    haben eine Profilgeometrie, dargestellt durch IfcShapeRepresentation.RepresentationIdentifier=&quot;Profile&quot; als geschlossene Kurve, für die der Türparameter gilt. Das Profil stellt ein Rechteck innerhalb der xz-Ebene der lokalen Platzierung dar.&#xA;    einen Bezug zu einem IfcDoorType haben, um die Öffnungsrichtung und die Betätigungsart (Schwenken, Schieben, Falten, etc.) der Tür zu definieren. Das Attribut OperationType soll angegeben werden und nicht UNDEFINIERT sein, und das Attribut ParameterTakesPrecedence soll &quot;TRUE&quot; sein.&#xA;    eine IfcDoorLiningProperties und eine IfcDoorPanelProperties-Instanz im Set der HasPropertySets bei IfcDoorType enthalten.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1379" Identification="IfcDoorType" Name="Türtyp" Description="Die Tür ist ein Bauelement, das vorwiegend für den kontrollierten Zugang von Personen und Gütern genutzt wird.">
+  <IfcClassificationReference id="i1379" Identification="IfcDoorType" Name="Tür - Typ" Description=" Der Elementtyp IfcDoorType definiert gemeinsame Informationen für das Auftreten von Türen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    allgemeine Betriebsartendefinitionen&#xA;    gängige Formdarstellungen&#xA;&#xA;Ein Türtyp definiert den jeweiligen Parameter der Verkleidung und eines (oder mehrerer) Paneele über die IfcDoorLiningProperties und die IfcDoorPanelProperties als vordefinierte Eigenschaftssets, die nur für Türen gelten.&#xA;&#xA;Es wird verwendet, um eine Türspezifikation oder einen Türstil zu definieren (d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Türtyps gemeinsam sind). Türtypen können ausgetauscht werden, ohne dass sie bereits Vorkommnissen zugeordnet sind.&#xA;&#xA;    HINWEIS Die Produktdarstellungen sind als Repräsentationskarten definiert (auf der Ebene des Supertyps IfcTypeProduct, der von einer Elementinstanz über das IfcShapeRepresentation.Item als IfcMappedItem zugewiesen wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1380" Identification="IfcMember" Name="Stab - Stabträger" Description="Die Ausrichtung des Bauteils (horizontal, vertikal oder geneigt) ist für seine Definition nicht relevant (im Gegensatz zu IfcBeam und IfcColumn) Ein lineares Strukturelement aus architektonischer oder struktureller Sicht und ist zu verwenden, wenn es nicht spezifischer als IfcBeam oder IfcColumn ausgedrückt werden kann.">
+  <IfcClassificationReference id="i1380" Identification="IfcMember" Name="Stab - Stabträger" Description="Ein Bauteil, das dazu bestimmt ist, Lasten zwischen oder über Stützpunkten zu tragen. Eine Tragfähigkeit ist nicht erforderlich. Die Ausrichtung des Stabes (horizontal, vertikal oder geneigt) ist für seine Definition nicht relevant (im Gegensatz zu IfcBeam und IfcColumn). Ein lineares Strukturelement aus architektonischer oder struktureller Sicht ist zu verwenden, wenn es nicht spezifischer als IfcBeam oder IfcColumn ausgedrückt werden kann.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1381" Identification="STRUT" Name="Abstützung" Description="Ein lineares Element, das häufig innerhalb eines Trägers oder einer Traverse verwendet wird.">
+  <IfcClassificationReference id="i1381" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefiniertes lineares Element.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1382" Identification="MEMBER" Name="Bauteil" Description="Ein lineares Element innerhalb eines Trägers oder einer Traverse ohne weitere Bedeutung.">
+  <IfcClassificationReference id="i1382" Identification="COLLAR" Name="Kehlbalken" Description="Ein lineares Element (in der Regel horizontal eingesetzt) innerhalb einer Dachkonstruktion zur Verbindung von Sparren und Pfosten.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1383" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefiniertes lineares Element.">
+  <IfcClassificationReference id="i1383" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefiniertes lineares Element.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1384" Identification="COLLAR" Name="Kranz" Description="Ein lineares Element (in der Regel horizontal eingesetzt) innerhalb einer Dachkonstruktion zur Verbindung von Sparren und Pfosten.">
+  <IfcClassificationReference id="i1384" Identification="PURLIN" Name="Pfette" Description="Ein lineares Element innerhalb einer Dachkonstruktion (in der Regel horizontal eingesetzt) zur Unterstützung von Sparren.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1385" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefiniertes lineares Element.">
+  <IfcClassificationReference id="i1385" Identification="MULLION" Name="Pfosten" Description="Ein lineares Element innerhalb eines Vorhangfassadensystems zur Verbindung von zwei (oder mehr) Paneelen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1386" Identification="POST" Name="Pfahl" Description="Ein lineares Element (normalerweise vertikal verwendet) innerhalb einer Dachkonstruktion zur Unterstützung von Pfetten.">
+  <IfcClassificationReference id="i1386" Identification="POST" Name="Pfosten" Description="Ein lineares Element (normalerweise vertikal verwendet) innerhalb einer Dachkonstruktion zur Unterstützung von Pfetten.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1387" Identification="PURLIN" Name="Pfette" Description="Ein lineares Element innerhalb einer Dachkonstruktion (in der Regel horizontal eingesetzt) zur Unterstützung von Sparren.">
+  <IfcClassificationReference id="i1387" Identification="PLATE" Name="Riegel" Description="Ein lineares, durchgehendes, horizontales Element in einem Wandrahmen, wie z.B. ein Kopfstück oder eine Sohle.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1388" Identification="MULLION" Name="Pfosten" Description="Ein lineares Element innerhalb eines Vorhangfassadensystems zur Verbindung von zwei (oder mehr) Paneelen.">
+  <IfcClassificationReference id="i1388" Identification="CHORD" Name="Sehne" Description="Oberer oder unterer Längsträger eines Fachwerkes, horizontal oder schräg eingesetzt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1389" Identification="PLATE" Name="Platte" Description="Ein lineares, durchgehendes, horizontales Element in der Wandumrahmung, wie z.B. ein Kopfstück oder eine Sohle.">
+  <IfcClassificationReference id="i1389" Identification="RAFTER" Name="Sparren" Description="Ein lineares Element, das zur Abstützung von Dachplatten oder Dacheindeckungen verwendet werden kann, meist mit Gefälle.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1390" Identification="STRINGER" Name="Rasterstab" Description="Ein lineares Element, das zur Unterstützung von Treppen- oder Rampenflügen verwendet wird, üblicherweise mit Gefälle.">
+  <IfcClassificationReference id="i1390" Identification="MEMBER" Name="Stabelement" Description="Ein lineares Element innerhalb eines Trägers oder einer Traverse ohne weitere Bedeutung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1391" Identification="CHORD" Name="Sehne" Description="Oberer oder unterer Längsträger eines Fachwerkes, horizontal oder schräg eingesetzt.">
+  <IfcClassificationReference id="i1391" Identification="STUD" Name="Ständer" Description="Senkrechtes Element in der Wandverkleidung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1392" Identification="RAFTER" Name="Sparren" Description="Ein lineares Element, das zur Abstützung von Dachplatten oder Dacheindeckungen verwendet werden kann, meist mit Gefälle.">
+  <IfcClassificationReference id="i1392" Identification="STRUT" Name="Steife" Description="Ein lineares Element, das häufig innerhalb eines Fachwerkträgers oder Binders verwendet wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1393" Identification="STUD" Name="Ständer" Description="Senkrechtes Element in der Wandverkleidung.">
+  <IfcClassificationReference id="i1393" Identification="BRACE" Name="Strebe" Description="Ein lineares Element (meist schräg), das häufig für die Aussteifung eines Fachwerkträgers oder einer Binders verwendet wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1394" Identification="BRACE" Name="Strebe" Description="Ein lineares Element (meist schräg), das häufig für die Verankerung eines Trägers oder einer Traverse verwendet wird.">
+  <IfcClassificationReference id="i1394" Identification="STRINGER" Name="Wange" Description="Ein lineares Element, das zur Unterstützung von Treppen- oder Rampenläufen verwendet wird, üblicherweise mit Gefälle.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1380" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1395" Identification="IfcBeamStandardCase" Name="Balken - Unterzug - Standard" Description="Ein Balken mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1395" Identification="IfcBeamStandardCase" Name="Balken - Unterzug - Standard" Description="Ein Balken mit bestimmten Einschränkungen beim Material, Parametern und in der geometrischen Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1396" Identification="IfcMemberStandardCase" Name="Stab - Stabträger - Standard" Description="Ein Bauteil mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1396" Identification="IfcMemberStandardCase" Name="Stab - Stabträger - Standard" Description="Das Standard-Träger IfcMemberStandardCase definiert ein Element mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1397" Identification="IfcMemberType" Name="Stab - Stabträgertyp" Description="Die Ausrichtung des Bauteils (horizontal, vertikal oder geneigt) ist für seine Definition nicht relevant (im Gegensatz zu IfcBeam und IfcColumn) Ein lineares Strukturelement aus architektonischer oder struktureller Sicht und ist zu verwenden, wenn es nicht spezifischer als IfcBeam oder IfcColumn ausgedrückt werden kann.">
+  <IfcClassificationReference id="i1397" Identification="IfcMemberType" Name="Stab - Stabträger - Typ" Description="Der Elementtyp IfcMemberType definiert gemeinsam genutzte Informationen für das Auftreten von Trägern (Stäbe). Stäbe sind überwiegend lineare Bauelemente, die oft Teil eines Tragwerksystems sind. Die Ausrichtung des Stabes (horizontal, vertikal oder schräg) ist für seine Definition nicht relevant (im Gegensatz zu Balken und Säulen). Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    allgemeine Profildefinitionen&#xA;    gängige Formdarstellungen&#xA;&#xA;Sie wird verwendet, um eine Member-Spezifikation oder einen Member-Stil zu definieren (d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Member-Typs gemeinsam sind). Mitgliedertypen können ausgetauscht werden, ohne dass sie bereits Vorkommnissen zugeordnet sind.&#xA;&#xA;Vorkommen des IfcMemberType innerhalb von Gebäudemodellen werden durch Instanzen von IfcMemberStandardCase repräsentiert, wenn der IfcMemberType ein einziges zugehöriges IfcMaterialProfileSet hat; andernfalls werden sie durch Instanzen von IfcMember repräsentiert. Vorkommen des IfcMemberType innerhalb von Strukturanalysemodellen werden durch Instanzen von IfcStructuralCurveMember oder dessen Subtypen repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1398" Identification="IfcPlate" Name="Platte - Paneel" Description="Die Lage der Platte (horizontal, vertikal oder schräg) ist für ihre Definition nicht relevant (im Gegensatz zu IfcWall und IfcSlab (als Bodenplatte)).">
+  <IfcClassificationReference id="i1398" Identification="IfcPlate" Name="Platte - Paneel" Description="Ein ebenes und oft flaches Teil mit konstanter Dicke. Eine Platte kann Lasten zwischen oder über die Auflagepunkte hinaus tragen oder versteifen. Die Lage der Platte (horizontal, vertikal oder geneigt) ist für ihre Definition nicht relevant (im Gegensatz zu IfcWall und IfcSlab (als Bodenplatte)).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12294,17 +12294,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1398" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1403" Identification="IfcPlateStandardCase" Name="Platte - Paneel - Standard" Description="Eine Platte mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1403" Identification="IfcPlateStandardCase" Name="Platte - Paneel - Standard" Description="Eine Platte mit bestimmten Einschränkungen für die Beschreibung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1404" Identification="IfcPlateType" Name="Platte - Paneeltyp" Description="Die Lage der Platte (horizontal, vertikal oder schräg) ist für ihre Definition nicht relevant (im Gegensatz zu IfcWall und IfcSlab (als Bodenplatte)).">
+  <IfcClassificationReference id="i1404" Identification="IfcPlateType" Name="Platte - Paneel - Typ" Description="Der Elementtyp IfcPlateType definiert gemeinsame Informationen für das Auftreten von Platten. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    gängige Materiallagendefinitionen&#xA;    gängige Formdarstellungen&#xA;&#xA;HINWEIS Es ist unzulässig, Formdarstellungen als Darstellungskarten für Vorkommen von IfcPlateStandardCase zu verwenden.&#xA;&#xA;Sie dient der Definition einer Plattenspezifikation (d.h. der spezifischen Produktinformation, die allen Vorkommen dieses Produkttyps gemeinsam ist). Plattentypen können ausgetauscht werden, ohne dass sie bereits einem Vorkommen zugeordnet sind.&#xA;&#xA;HINWEIS Die Produktdarstellungen sind als Repräsentationskarten definiert (auf der Ebene des Supertyps IfcTypeProduct, der von einer Elementinstanz über das IfcShapeRepresentation.Item als IfcMappedItem zugewiesen wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1405" Identification="IfcRailing" Name="Geländer" Description="Ein Bauteil, dass an menschliche Bewegungsräume und an einigen Raumgrenzen angrenzt, wo es anstelle von Wänden oder als Ergänzung zu Wänden verwendet wird, um Menschen zu helfen, entweder als optionale physische Unterstützung oder um Verletzungen durch Stürze zu verhindern.">
+  <IfcClassificationReference id="i1405" Identification="IfcRailing" Name="Geländer" Description="Eine Rahmenkonstruktion, die an genutzen Räumen  und an den Raumgrenzen angrenzt, wo sie anstelle oder als Ergänzung zu Wänden verwendet wird um Menschen zu schützen, entweder als optionale physische Unterstützung oder um Verletzungen durch Stürze zu verhindern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12334,12 +12334,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1405" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1411" Identification="IfcRailingType" Name="Geländertyp" Description="Eine Rahmenkonstruktion, die an die Räume der menschlichen Zirkulation und an einigen Raumgrenzen angrenzt, wo sie anstelle von Wänden oder als Ergänzung zu Wänden verwendet wird, um Menschen zu helfen, entweder als optionale physische Unterstützung oder um Verletzungen durch Stürze zu verhindern.">
+  <IfcClassificationReference id="i1411" Identification="IfcRailingType" Name="Geländer - Typ" Description="Der Bauelementtyp IfcRailingType definiert gemeinsam genutzte Informationen für das Auftreten von Geländern. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;&#xA;Es wird verwendet, um eine Geländertyp-Spezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcRailingType kann innerhalb von IfcProject oder IfcProjectLibrary mit IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcRailingType werden durch Instanzen von IfcRailing repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1412" Identification="IfcRamp" Name="Rampe" Description="Ein vertikaler Durchgang, der eine Verbindung zwischen einem Stockwerk und einem anderen Stockwerk in einer anderen Höhe herstellt, z.B. mit einem Podest als Zwischenbodenplatte, wobei eine Rampe normalerweise keine Stufen aufweist.">
+  <IfcClassificationReference id="i1412" Identification="IfcRamp" Name="Rampe" Description="Ein vertikaler Durchgang, der eine Verbindung zwischen Stockwerken mit verschiedenen Höhen schafft. Oft mit einem Podest als Zwischenbodenplatte, wobei eine Rampe normalerweise keine Stufen aufweist.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12384,7 +12384,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1412" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1421" Identification="IfcRampFlight" Name="Rampenlauf" Description="Eine Rampe besteht aus einem einzelnen Schrägsegment oder mehreren Schrägsegmenten, die durch ein horizontales Segment verbunden sind, das als Landung bezeichnet wird, wobei ein Rampenflug das einzelne Schrägsegment und ein Teil der Rampenkonstruktion ist.">
+  <IfcClassificationReference id="i1421" Identification="IfcRampFlight" Name="Rampenlauf" Description="Eine Rampe besteht aus einem einzigen geneigten Segment oder mehreren geneigten Segmenten, die durch ein horizontales Segment verbunden sind, das als Zwischenpodest bezeichnet wird. Der Rampenlauf ist ein eigenes Schrägelement und Teil der Rampenkonstruktion. Bei einfachen Rampen ist der Rampenlauf und die Rampe identisch.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12409,22 +12409,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1421" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1426" Identification="IfcRampFlightType" Name="Rampenlauftyp" Description="Eine Rampe besteht aus einem einzelnen Schrägsegment oder mehreren Schrägsegmenten, die durch ein horizontales Segment verbunden sind, das als Landung bezeichnet wird, wobei ein Rampenflug das einzelne Schrägsegment und ein Teil der Rampenkonstruktion ist.">
+  <IfcClassificationReference id="i1426" Identification="IfcRampFlightType" Name="Rampenlauf - Typ" Description="Eine Rampe besteht aus einem einzigen geneigten Segment oder mehreren geneigten Segmenten, die durch ein horizontales Segment verbunden sind, das als Zwischenpodest bezeichnet wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1427" Identification="IfcBeamType" Name="Balken- - Unterzugtyp" Description="Ein horizontales oder nahezu horizontales Bauteil, das in der Lage ist, die Belastung in erster Linie durch Biegesteifigkeit auszuhalten. Sie repräsentiert ein solches Mitglied aus architektonischer Sicht. Eine Lastaufnahme ist nicht erforderlich.">
+  <IfcClassificationReference id="i1427" Identification="IfcBeamType" Name="Balken- Unterzug - Typ" Description="Der Elementtyp IfcBeamType definiert gemeinsame Informationen für das Auftreten von Unterzügen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    allgemeine Profildefinitionen&#xA;    gängige Formdarstellungen&#xA;&#xA;Es wird verwendet, um eine Unterzugsspezifikation oder einen Unterzugsstil zu definieren (d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Unterzugstyps gemeinsam sind). Unterzugsarten können ausgetauscht werden, ohne dass sie bereits Vorkommnissen zugeordnet sind.&#xA;&#xA;Vorkommen des IfcBeamType innerhalb von Gebäudemodellen werden durch Instanzen von IfcBeamStandardCase repräsentiert, wenn der IfcBeamType ein einziges zugehöriges IfcMaterialProfileSet hat; andernfalls werden sie durch Instanzen von IfcBeam repräsentiert. Vorkommen des IfcBeamType innerhalb von Strukturanalysemodellen werden durch Instanzen von IfcStructuralCurveMember oder dessen Subtypen repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1428" Identification="IfcRampType" Name="Rampentyp" Description="Ein vertikaler Durchgang, der eine Verbindung zwischen einem Stockwerk und einem anderen Stockwerk in einer anderen Höhe herstellt, z.B. mit einem Podest als Zwischenbodenplatte, wobei eine Rampe normalerweise keine Stufen aufweist.">
+  <IfcClassificationReference id="i1428" Identification="IfcRampType" Name="Rampen - Typ" Description="Ein vertikaler Durchgang, der eine Verbindung zwischen Stockwerken mit verschiedenen Höhen schafft. Oft mit einem Podest als Zwischenbodenplatte, wobei eine Rampe normalerweise keine Stufen aufweist.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1429" Identification="IfcRoof" Name="Dach" Description="Eine Verkleidung des oberen Teils eines Gebäudes, die das Gebäude vor Witterungseinflüssen schützt. HINWEIS Definition nach ISO 6707-1: Konstruktion, die das Gebäude von oben umschließt.">
+  <IfcClassificationReference id="i1429" Identification="IfcRoof" Name="Dach" Description="Eine Verkleidung des oberen Teils eines Gebäudes, die das Gebäude vor Witterungseinflüssen schützt. HINWEIS: Definition nach ISO 6707-1: &quot;construction enclosing the building from above&quot;.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12504,12 +12504,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1429" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1445" Identification="IfcRoofType" Name="Dachtyp" Description="HINWEIS: Definition nach ISO 6707-1, die das Gebäude von oben umschließt.">
+  <IfcClassificationReference id="i1445" Identification="IfcRoofType" Name="Dach - Typ" Description="Eine Verkleidung des oberen Teils eines Gebäudes, die das Gebäude vor Witterungseinflüssen schützt. HINWEIS: Definition nach ISO 6707-1: &quot;construction enclosing the building from above&quot;.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1446" Identification="IfcShadingDevice" Name="Sonnenschutz/Blendschutz" Description="Die Beschattungselemente können Teil der Fassade (Sonnenschutz) sein oder innerhalb des Gebäudes (Blendschutz) montiert werden, sie können fixiert oder in Betrieb genommen werden, aber auch andere Bauelemente, wie vorstehende Platten oder Balkone, können als Beschattungselemente fungieren, die jedoch einen anderen Hauptzweck haben und als IfcSlab oder durch andere Untertypen von IfcBuildingElement definiert sind.">
+  <IfcClassificationReference id="i1446" Identification="IfcShadingDevice" Name="Sonnenschutz festeingebaut" Description="Speziell gebaute Einbauten zum Schutz vor Sonnenlicht, vor natürlichem Licht oder zum Sichtschutz. Beschattungseinrichtungen können Teil der Fassade sein oder innerhalb des Gebäudes montiert werden, sie können starr oder bedienbar sein. HINWEIS Auch andere Bauelemente wie vorstehende Decken oder Balkone können als Beschattungselemente dienen. Diese Elemente haben jedoch einen anderen Hauptzweck und werden als IfcSlab oder durch andere Subtypen von IfcBuildingElement definiert. Die Besonderheit als Beschattungsgerät ergibt sich aus der Zuweisung des Eigenschaftssatzes Pset_ElementShading an diese Bauelemente.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12529,7 +12529,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1446" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1450" Identification="AWNING" Name="Markise" Description="Ein dachartiger Schutz aus Segeltuch oder anderem Material, das sich über eine Türöffnung, von der Oberseite eines Fensters, über ein Deck oder Ähnliches erstreckt, um Schutz zu bieten, wie auch vor der Sonne.">
+  <IfcClassificationReference id="i1450" Identification="AWNING" Name="Markise" Description="Ein dachartiger Schutz aus Segeltuch oder anderem Material, der sich über eine Türöffnung, von der Oberseite eines Fensters, über ein Deck oder Ähnliches erstreckt, um Schutz zu bieten, beispielsweise vor Sonneneinstrahlung. ">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1446" />
     </ReferencedSource>
@@ -12539,22 +12539,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1446" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1452" Identification="IfcShadingDeviceType" Name="Sonnenschutztyp festeingebaut" Description="Die Beschattungselemente können Teil der Fassade sein oder innerhalb des Gebäudes montiert werden, sie können fixiert oder in Betrieb genommen werden, aber auch andere Bauelemente, wie vorstehende Platten oder Balkone, können als Beschattungselemente fungieren, die jedoch einen anderen Hauptzweck haben und als IfcSlab oder durch andere Untertypen von IfcBuildingElement definiert sind.">
+  <IfcClassificationReference id="i1452" Identification="IfcShadingDeviceType" Name="Sonnenschutz- Typ - festeingebaut" Description="Der Bauelementtyp IfcShadingDeviceType definiert gemeinsam genutzte Informationen für das Auftreten von Verschattungselementen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;&#xA;Es wird verwendet, um eine Beschattungselementspezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcShadingDeviceType kann innerhalb von IfcProject oder IfcProjectLibrary mit IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcShadingDeviceType werden durch Instanzen von IfcShadingDevice repräsentiert. Informationen zu unterstützten Eigenschaftssets, Materialien und Zusammensetzung finden Sie in der Dokumentation unter IfcShadingDevice.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1453" Identification="IfcSlab" Name="Decke - Dachfläche - Bodenplatte" Description="HINWEIS  Definition nach ISO 6707-1: Dickes, flaches oder geformtes Bauteil, in der Regel größer als 300 mm², das zur Bildung einer Überdachung oder eines Vorsprungs aus einem Gebäude verwendet wird, wobei nur der Kern oder der konstruktive Teil dieser Konstruktion als Platte betrachtet wird.">
+  <IfcClassificationReference id="i1453" Identification="IfcSlab" Name="Decke - Dachfläche - Bodenplatte" Description="Eine Komponente der Konstruktion, die normalerweise einen Raum vertikal abschließt. Bildet das erste Bauteil der unteren Konstruktion (Boden) oder das letzte der oberen Konstruktion (Deckenplatte) eines Raums eines Gebäudes. HINWEIS Definition nach ISO 6707-1: (deutsche Übersetzung) dickes, flaches oder geformtes Bauteil, in der Regel größer als 300 mm², zur Bildung einer Verkleidung oder zum Auskragen aus einem Gebäude. Nur der Kern oder konstruktive Teil dieser Konstruktion wird als Platte betrachtet. Der obere Abschluss (Bodenbelag, Bedachung) und der untere Abschluss (Decke, abgehängte Decke) gelten als Beläge.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1454" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Decke (benutzerdefiniert)">
+  <IfcClassificationReference id="i1454" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="benutzerdefiniert">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1455" Identification="FLOOR" Name="Boden" Description="Die Platte wird zur Darstellung einer Deckenplatte verwendet.">
+  <IfcClassificationReference id="i1455" Identification="FLOOR" Name="Boden" Description="Die Platte wird zur Darstellung einer Geschossdeckenplatte verwendet.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
@@ -12564,12 +12564,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1457" Identification="BASESLAB" Name="Fundamentplatte" Description="Die Platte wird verwendet, um eine Bodenplatte gegenüber des Bodens abzubilden (und damit Teil des Fundaments zu sein). Eine andere Bezeichnung wäre „mat foundation&quot; (Mattenfundament).">
+  <IfcClassificationReference id="i1457" Identification="BASESLAB" Name="Fundamentplatte" Description="Die Platte wird verwendet, um eine erdberührte Bodenplatte  abzubilden (und ist damit Teil der Gründung). Eine andere Bezeichnung wäre Bodenplatte.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1458" Identification="NOTDEFINED" Name="Nicht definiert" Description="Keine Spezifikationen vorhanden">
+  <IfcClassificationReference id="i1458" Identification="NOTDEFINED" Name="Nicht definiert" Description="nicht definiert">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
@@ -12579,12 +12579,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1453" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1460" Identification="IfcSlabElementedCase" Name="Decke - Dachfläche - Bodenplatte elementiert" Description="Eine Bramme mit bestimmten Einschränkungen für die Bereitstellung ihrer Komponenten; behandelt alle Fälle von Brammen, die in Teile zerlegt werden, wobei die Komponenten dem IfcSlabElementedCase unter Verwendung der IfcRelAggregates-Beziehung zugeordnet werden, die durch die umgekehrte Beziehung IsDecomposedBy zugänglich ist; unter Anwendung der Einschränkung, dass die Teile innerhalb der Zerlegung vom Typ IfcBeam, IfcMember, IfcPlate sein müssen.">
+  <IfcClassificationReference id="i1460" Identification="IfcSlabElementedCase" Name="Decke - Dachfläche - Bodenplatte - elementiert" Description="Eine Platte mit bestimmten Einschränkungen für die Bereitstellung ihrer Einzelteile. Behandelt alle Fälle von Platten, die in Teile zerlegt werden, deren Komponenten dem IfcSlabElementedCase über die IfcRelAggregates-Beziehung zugeordnet sind, auf die über die inverse Beziehung IsDecomposedBy zugegriffen werden kann. Dabei gilt die Einschränkung, dass die Teile innerhalb der Zerlegung vom Typ IfcBeam, IfcMember, IfcPlate, IfcBuildingElementPart oder IfcBuildingElementProxy sein müssen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1461" Identification="IfcBuildingElementProxy" Name="Universal-Bauteiltyp" Description="Eine Proxy-Definition, die die gleiche Funktionalität wie Subtypen von IfcBuildingElement bietet, jedoch ohne eine vordefinierte Bedeutung des speziellen Typs des Bauelements zu haben. Proxies können auch als räumliche Platzhalter oder Vorkehrungen verwendet werden, die später durch spezielle Typen von Elementen ersetzt werden können.">
+  <IfcClassificationReference id="i1461" Identification="IfcBuildingElementProxy" Name="Bauteil - Bauelement - beliebig" Description="Eine Proxy-Definition, die die gleiche Funktionalität wie Subtypen von IfcBuildingElement bietet, jedoch ohne ein spezielles Bauteil zu repräsentieren. Proxies können als Platzhalter verwendet werden, die später durch das richtige Element ersetzt werden können.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12594,7 +12594,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1463" Identification="PROVISIONFORSPACE" Name="Bereitstellung von Raum" Description="Der Proxy bezeichnet die Bereitstellung von Speicherplatz (der zugewiesene Raum als Rückstellung für mechanische Ausrüstung oder Mobilar).">
+  <IfcClassificationReference id="i1463" Identification="PROVISIONFORSPACE" Name="Bereitstellung von Raum" Description="Der Proxy bezeichnet die Bereitstellung von Raum (der zugewiesene Raum als Rückstellung für mechanische Ausrüstung oder Mobilar).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
@@ -12619,22 +12619,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1468" Identification="PROVISIONFORVOID" Name="vorgesehener Durchbruch" Description="Der Proxy bezeichnet die Bereitstellung von Leerstellen (eine vorgeschlagene Öffnung gilt noch nicht als nichtig).">
+  <IfcClassificationReference id="i1468" Identification="PROVISIONFORVOID" Name="vorgesehener Durchbruch" Description="Der Proxy bezeichnet die Bereitstellung von Fehlstellen (eine vorgeschlagene Öffnung gilt noch nicht als Fehlstelle).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1461" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1469" Identification="IfcSlabStandardCase" Name="Decke - Dachfläche - Bodenplatte - Standard" Description="Eine Platte mit bestimmten Einschränkungen für die Bereitstellung von Materialverbrauch, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1469" Identification="IfcSlabStandardCase" Name="Decke - Dachfläche - Bodenplatte - Standard" Description="Eine Platte mit bestimmten Einschränkungen für Material, Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1470" Identification="IfcSlabType" Name="Decke - Dachfläche - Bodenplattentyp" Description="HINWEIS  Definition nach ISO 6707-1: Dickes, flaches oder geformtes Bauteil, in der Regel größer als 300 mm², das zur Bildung einer Überdachung oder eines Vorsprungs aus einem Gebäude verwendet wird, wobei nur der Kern oder der konstruktive Teil dieser Konstruktion als Platte betrachtet wird.">
+  <IfcClassificationReference id="i1470" Identification="IfcSlabType" Name="Decke - Dachfläche - Bodenplatte  - Typ" Description="Eine Komponente der Konstruktion, die normalerweise einen Raum vertikal abschließt. Bildet das erste Bauteil der unteren Konstruktion (Boden) oder das letzte der oberen Konstruktion (Deckenplatte) eines Raums eines Gebäudes. HINWEIS Definition nach ISO 6707-1: (deutsche Übersetzung) dickes, flaches oder geformtes Bauteil, in der Regel größer als 300 mm², zur Bildung einer Verkleidung oder zum Auskragen aus einem Gebäude. Nur der Kern oder konstruktive Teil dieser Konstruktion wird als Platte betrachtet. Der obere Abschluss (Bodenbelag, Bedachung) und der untere Abschluss (Decke, abgehängte Decke) gelten als Beläge.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1471" Identification="IfcStair" Name="Treppe" Description="Ein vertikaler Durchgang, der es den Bewohnern ermöglicht, von einem Stockwerk zu einem anderen Stockwerk in einer anderen Höhe zu gehen (Schritt), wobei es sich auch um eine Landung als Zwischenbodenplatte handeln kann (Definition gemäß ISO 6707-1: Konstruktion mit einer Abfolge von horizontalen Stufen (Stufen oder Podesten), die es ermöglichen, zu Fuß auf andere Ebenen zu gelangen).">
+  <IfcClassificationReference id="i1471" Identification="IfcStair" Name="Treppe" Description="Ein vertikaler Übergang, der es den Bewohnern ermöglicht, von einem Stockwerk zu einem anderen Stockwerk in einem anderen Höhenlevel zu gehen (Schritt), wobei es sich auch um ein Podest als Zwischenbodenplatte handeln kann (Definition gemäß ISO 6707-1: (übersetzung) Konstruktion mit einer Abfolge von horizontalen Stufen (Stufen oder Podesten), die es ermöglichen, zu Fuß auf andere Ebenen zu gelangen).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12644,42 +12644,42 @@
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1473" Identification="THREE_QUARTER_WINDING_STAIR" Name="dreifach gewendelt" Description="Eine Treppe, bestehend aus einem Treppenlauf mit drei Viertelwicklern, die eine 90°-Drehung machen. Die Treppe dreht sich um 270°. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1473" Identification="THREE_QUARTER_WINDING_STAIR" Name="dreifach gewendelt" Description="Eine Treppe, bestehend aus einem Treppenlauf mit drei Viertelwendeln, die eine 90°-Drehung machen. Die Treppe dreht sich um 270°. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1474" Identification="THREE_QUARTER_TURN_STAIR" Name="dreifach gewinkelt" Description="Eine Treppe, die eine 270°-Drehung macht, bestehend aus vier geraden Treppen, die durch drei Viertelraumpodeste verbunden sind. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1474" Identification="THREE_QUARTER_TURN_STAIR" Name="dreifach gewinkelt" Description="Eine Treppe, die eine 270°-Drehung macht, bestehend aus vier geraden Treppenläufen, die durch drei Viertelpodeste verbunden sind. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1475" Identification="QUARTER_WINDING_STAIR" Name="einfach gewendelt" Description="Eine Treppe, die aus einem Treppenlauf mit einem Viertelwickler besteht, der eine 90°-Drehung macht. Die Richtung der Kurve wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1475" Identification="QUARTER_WINDING_STAIR" Name="einfach gewendelt" Description="Eine Treppe, die aus einem Treppenlauf mit einem Viertelwendel besteht, der eine 90°-Drehung macht. Die Richtung der Kurve wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1476" Identification="QUARTER_TURN_STAIR" Name="einfach gewinkelt" Description="Eine Treppe, die eine 90°-Drehung macht, bestehend aus zwei geraden Treppenläufen, die durch ein Viertelraumpodest verbunden sind. Die Richtung der Kurve wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1476" Identification="QUARTER_TURN_STAIR" Name="einfach gewinkelt" Description="Eine Treppe, die eine 90°-Drehung macht, bestehend aus zwei geraden Treppenläufen, die durch ein Viertelpodest verbunden sind. Die Richtung der Kurve wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1477" Identification="HALF_TURN_STAIR" Name="gegenläufig" Description="Eine Treppe, die eine 180°-Drehung macht, bestehend aus zwei geraden Treppen, die durch ein Halbraumpodest verbunden sind. Die Ausrichtung der Kurve wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1477" Identification="HALF_TURN_STAIR" Name="gegenläufig" Description="Eine Treppe, die eine 180°-Drehung macht, bestehend aus zwei geraden Treppenläufen, die durch ein Podest verbunden sind. Die Ausrichtung der Kurve wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1478" Identification="STRAIGHT_RUN_STAIR" Name="gerade verlaufend" Description="Eine Treppe, die sich von einer Ebene zur anderen erstreckt, ohne Wendungen oder Wickler. Die Treppe besteht aus einer einläufigen Treppe.">
+  <IfcClassificationReference id="i1478" Identification="STRAIGHT_RUN_STAIR" Name="gerade verlaufend" Description="Eine Treppe, die sich von einer Ebene zur anderen erstreckt, ohne Kurven oder Wendeln. Die Treppe besteht aus einer einläufigen Treppe.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1479" Identification="HALF_WINDING_STAIR" Name="halbgewendelt" Description="Eine Treppe, die aus einem Treppenlauf mit einem Halbwickler besteht, der eine 180°-Drehung macht. Die Ausrichtung der Kurve wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1479" Identification="HALF_WINDING_STAIR" Name="halbgewendelt" Description="Eine Treppe, die aus einem Treppenlauf mit einem Halbwendel besteht, der eine 180°-Drehung macht. Die Ausrichtung der Kurve wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1480" Identification="CURVED_RUN_STAIR" Name="kurvig verlaufend" Description="Eine Treppe, die sich von einer Ebene zur anderen erstreckt, ohne Wendungen oder Wickler. Die Treppe besteht aus einem geschwungenen Treppenlauf.">
+  <IfcClassificationReference id="i1480" Identification="CURVED_RUN_STAIR" Name="kurvig verlaufend" Description="Eine Treppe, die sich von einer Ebene zur anderen erstreckt, ohne Kurven oder Wendeln. Die Treppe besteht aus einem geschwungenen Treppenlauf.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
@@ -12689,22 +12689,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1482" Identification="SPIRAL_STAIR" Name="Wendeltreppe" Description="Eine Treppe, die mit Wicklern um einen kreisförmigen Spindelstein herum gebaut wurde, oft ohne Podeste. Je nach äußerer Begrenzung kann es sich dabei um eine runde, elliptische oder rechteckige Wendeltreppe handeln. Die Ausrichtung der Wendeltreppe wird d">
+  <IfcClassificationReference id="i1482" Identification="SPIRAL_STAIR" Name="Wendeltreppe" Description="Eine Treppe, die mit Wendeln um eine kreisförmige Spindel herum gebaut wurde, oft ohne Podeste. Je nach äußerer Begrenzung kann es sich dabei um eine runde, elliptische oder rechteckige Wendeltreppe handeln. Die Ausrichtung der Wendeltreppe wird durch die">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1483" Identification="TWO_QUARTER_WINDING_STAIR" Name="zweifach gewendelt" Description="Eine Treppe, bestehend aus einem Stockwerk mit zwei Viertelwicklern, die eine 90°-Drehung machen. Die Treppe dreht sich um 180°. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1483" Identification="TWO_QUARTER_WINDING_STAIR" Name="zweifach gewendelt" Description="Eine Treppe, bestehend aus einem Stockwerk mit zwei Viertelwendeln, die eine 90°-Drehung machen. Die Treppe dreht sich um 180°. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1484" Identification="TWO_QUARTER_TURN_STAIR" Name="zweifach gewinkelt" Description="Eine Treppe, die eine 180°-Drehung macht, bestehend aus drei geraden Treppen, die durch zwei Viertelraumpodeste miteinander verbunden sind. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1484" Identification="TWO_QUARTER_TURN_STAIR" Name="zweifach gewinkelt" Description="Eine Treppe, die eine 180°-Drehung macht, bestehend aus drei geraden Treppenläufen, die durch zwei Viertelpodeste miteinander verbunden sind. Die Richtung der Kurven wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1485" Identification="TWO_STRAIGHT_RUN_STAIR" Name="zweiteilig, gerade verlaufend" Description="Eine gerade Treppe, bestehend aus zwei Treppen ohne Kurven, aber mit einem Podest.">
+  <IfcClassificationReference id="i1485" Identification="TWO_STRAIGHT_RUN_STAIR" Name="zweiteilig, gerade verlaufend" Description="Eine gerade Treppe, bestehend aus zwei geraden Läufen ohne Kurven, aber mit einem Podest.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
@@ -12714,7 +12714,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1487" Identification="DOUBLE_RETURN_STAIR" Name="Zweiwege-Doppeltreppe" Description="Eine Treppe mit einem geraden Lauf zu einer breiten Viertelraumlandung und zwei Seitenflügen von dieser Landung in entgegengesetzte Richtungen. Die Treppe dreht sich um 90°. Die Fahrtrichtung wird durch die Lauflinie bestimmt.">
+  <IfcClassificationReference id="i1487" Identification="DOUBLE_RETURN_STAIR" Name="Zweiwege-Doppeltreppe" Description="Eine Treppe mit einem geraden Lauf zu einem breiten Viertelpodest und zwei Seitenläufen von diesem Podest in entgegengesetzte Richtungen. Die Treppe dreht sich um 90°. Die Verkehrsrichtung wird durch die Lauflinie bestimmt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1471" />
     </ReferencedSource>
@@ -12759,17 +12759,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1488" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1496" Identification="IfcStairFlightType" Name="Treppenlauftyp" Description="Eine Baugruppe aus Bauteilen in einem einzigen Lauf von Treppenstufen (nicht durch ein Podest unterbrochen), wobei die Treppenstufen und eventuell vorhandene Wangen in den Treppenlauf einbezogen werden.">
+  <IfcClassificationReference id="i1496" Identification="IfcStairFlightType" Name="Treppenlauf - Typ" Description="Der Bauelementtyp IfcStairFlightType definiert gemeinsam genutzte Informationen für das Auftreten von Treppenläufen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;&#xA;Es wird verwendet, um eine Treppenlauftyp-Spezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcStairFlightType kann innerhalb von IfcProject oder IfcProjectLibrary mittels IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcStairFlightType werden durch Instanzen von IfcStairFlight repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1497" Identification="IfcStairType" Name="Treppentyp" Description="Ein vertikaler Durchgang, der es den Bewohnern ermöglicht, von einem Stockwerk zu einem anderen Stockwerk in einer anderen Höhe zu gehen (Schritt), wobei es sich auch um eine Landung als Zwischenbodenplatte handeln kann (Definition gemäß ISO 6707-1: Konstruktion mit einer Abfolge von horizontalen Stufen (Stufen oder Podesten), die es ermöglichen, zu Fuß auf andere Ebenen zu gelangen).">
+  <IfcClassificationReference id="i1497" Identification="IfcStairType" Name="Treppentyp" Description="Der Bauelementtyp IfcStairType definiert gemeinsam genutzte Informationen für das Auftreten von Treppen. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;&#xA;Es wird verwendet, um eine Treppentypspezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcStairType kann innerhalb von IfcProject oder IfcProjectLibrary mit IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcStairType werden durch Instanzen von IfcStair repräsentiert. Informationen zu unterstützten Eigenschaftssets, Materialien und Zusammensetzung finden Sie in der Dokumentation von IfcStair.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1498" Identification="IfcWall" Name="Wand" Description="Vertikale Konstruktion, die Räume begrenzt oder untergliedert, in der Regel vertikale oder fast vertikale, ebene Elemente, die häufig für die Aufnahme von Strukturlasten ausgelegt sind, jedoch nicht unbedingt tragend sein müssen, HINWEIS: Definition nach ISO 6707-1: Vertikale Konstruktion, die in der Regel aus Mauerwerk oder Beton besteht, die eine Bauleistung begrenzt oder untergliedert und eine tragende oder haltende Funktion erfüllt.">
+  <IfcClassificationReference id="i1498" Identification="IfcWall" Name="Wand" Description="Vertikale Konstruktion, die Räume begrenzt oder untergliedert, in der Regel vertikale oder fast vertikale, ebene Elemente, die häufig für die Aufnahme von Strukturlasten ausgelegt sind, jedoch nicht unbedingt tragend sein müssen, HINWEIS: Definition nach ISO 6707-1: (übersetzt in deutsche) Vertikale Konstruktion, die in der Regel aus Mauerwerk oder Beton besteht, die eine Bauleistung begrenzt oder untergliedert und eine tragende oder haltende Funktion erfüllt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12789,12 +12789,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1502" Identification="ELEMENTEDWALL" Name="Elementwand" Description="Eine Ständerwand, die mit einem Profil gerahmt und mit Verkleidungen, Wandtafeln oder Putz verkleidet ist.">
+  <IfcClassificationReference id="i1502" Identification="ELEMENTEDWALL" Name="Elementwand" Description="-">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1503" Identification="PLUMBINGWALL" Name="Installationswand" Description="Ein Pfeiler oder eine Umzäunung oder Ummantelung, die normalerweise zur Umzäunung von Sanitäranlagen in Sanitärräumen verwendet wird. Solche Wände reichen oft nicht bis zur Decke.">
+  <IfcClassificationReference id="i1503" Identification="PLUMBINGWALL" Name="Installationswand" Description="Ein Schacht oder eine Einhausung oder Ummantelung, die normalerweise zur Umschließung von Installationsbauteilen in Sanitärräumen verwendet wird. Solche Wände reichen oft nicht bis zur Decke.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
@@ -12809,17 +12809,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1506" Identification="POLYGONAL" Name="polygonal" Description="Eine polygonale Wand, die vertikal extrudiert wird, wobei die Wanddicke entlang des Wandweges variiert.">
+  <IfcClassificationReference id="i1506" Identification="POLYGONAL" Name="polygonal" Description="Eine polygonale Wand, die vertikal extrudiert wird, wobei die Wanddicke entlang des Wandpfades variiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1507" Identification="SHEAR" Name="Schubwand" Description="Solche Scherwände werden oft mit einem nicht rechteckigen Querschnitt entlang des Wandweges ausgeführt. Auch als Stützmauern oder Haltemauern bezeichnet, werden sie zum Schutz vor den dahinter liegenden Bodenschichten eingesetzt.">
+  <IfcClassificationReference id="i1507" Identification="STANDARD" Name="Standard" Description="IfcWallStandardCase definiert eine Wand mit bestimmten Einschränkungen für die Bereitstellung von Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung. IfcWallStandardCase verarbeitet alle Fälle von Wänden, die vertikal e">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1508" Identification="STANDARD" Name="Standard" Description="Das IfcWallStandardCase definiert eine Wand mit bestimmten Einschränkungen für die Bereitstellung von Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung. Das IfcWallStandardCase verarbeitet alle Fälle von Wänden, die vertikal e">
+  <IfcClassificationReference id="i1508" Identification="SHEAR" Name="Stützwand" Description="Eine Wand, die entworfen wird, um Scherkräften zu widerstehen. Solche Scherwände werden oft mit einem nicht rechteckigen Querschnitt entlang des Wandweges ausgeführt. Auch als Stützmauern oder Haltemauern bezeichnet, werden sie zum Schutz vor den dahinter">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1498" />
     </ReferencedSource>
@@ -12834,22 +12834,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1511" Identification="IfcWallStandardCase" Name="Wand - Standard" Description="Eine Wand mit bestimmten Einschränkungen für die Bereitstellung von Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung; behandelt alle Fälle von Wänden, die vertikal extrudiert werden: entlang der positiven z-Achse des Wandobjektkoordinatensystems und entlang der positiven z-Achse des globalen (Welt-)Koordinatensystems und hat eine einzige Dicke entlang des Pfades für jede Wandschicht.">
+  <IfcClassificationReference id="i1511" Identification="IfcWallStandardCase" Name="Wand - Standard" Description="Eine Wand mit bestimmten Einschränkungen für die Bereitstellung von Parametern und mit bestimmten Einschränkungen für die geometrische Darstellung; behandelt alle Fälle von Wänden, die vertikal extrudiert werden: entlang der positiven z-Achse des Wandobjektkoordinatensystems und entlang der positiven z-Achse des globalen (Welt-)Koordinatensystems. Es hat eine einzige Dicke entlang des Pfades für jede Wandschicht.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1512" Identification="IfcWallType" Name="Wandtyp" Description="Vertikale Konstruktion, die Räume begrenzt oder untergliedert, in der Regel vertikale oder fast vertikale, ebene Elemente, die häufig für die Aufnahme von Strukturlasten ausgelegt sind, jedoch nicht unbedingt tragend sein müssen, HINWEIS: Definition nach ISO 6707-1: Vertikale Konstruktion, die in der Regel aus Mauerwerk oder Beton besteht, die eine Bauleistung begrenzt oder untergliedert und eine tragende oder haltende Funktion erfüllt.">
+  <IfcClassificationReference id="i1512" Identification="IfcWallType" Name="Wand - Typ" Description="Vertikale Konstruktion, die Räume begrenzt oder untergliedert, in der Regel vertikale oder fast vertikale, ebene Elemente, die häufig für die Aufnahme von Strukturlasten ausgelegt sind, jedoch nicht unbedingt tragend sein müssen, HINWEIS: Definition nach ISO 6707-1: (übersetzt in deutsche) Vertikale Konstruktion, die in der Regel aus Mauerwerk oder Beton besteht, die eine Bauleistung begrenzt oder untergliedert und eine tragende oder haltende Funktion erfüllt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1513" Identification="IfcBuildingElementProxyType" Name="Bauteil - Bauelement - beliebig - Typ" Description="Eine Proxy-Definition, die die gleiche Funktionalität wie Subtypen von IfcBuildingElement bietet, jedoch ohne eine vordefinierte Bedeutung des speziellen Typs des Bauelements zu haben. Proxies können auch als räumliche Platzhalter oder Vorkehrungen verwendet werden, die später durch spezielle Typen von Elementen ersetzt werden können.">
+  <IfcClassificationReference id="i1513" Identification="IfcBuildingElementProxyType" Name="Bauteil - Bauelement - beliebig - Typ" Description="Eine Proxy-Definition, die die gleiche Funktionalität wie Subtypen von IfcBuildingElement bietet, jedoch ohne ein spezielles Bauteil zu repräsentieren. Proxies können als Platzhalter verwendet werden, die später durch das richtige Element ersetzt werden können.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1514" Identification="IfcWindow" Name="Fenster" Description="Ein Bauelement, das vorwiegend für die Bereitstellung von natürlichem Licht und frischer Luft verwendet wird, einschließlich vertikaler Öffnung, aber auch horizontaler Öffnung, wie z.B. Lichtkuppeln oder Lichtkuppeln, einschließlich Konstruktionen mit schwenkbaren, schwenkbaren, verschiebbaren oder drehbaren Paneelen und feststehenden Paneelen, wobei ein Fenster aus einer Verkleidung und einem oder mehreren Paneelen besteht.">
+  <IfcClassificationReference id="i1514" Identification="IfcWindow" Name="Fenster" Description="Ein Bauelement, das vorwiegend für die Bereitstellung von natürlichem Licht und frischer Luft verwendet wird, einschließlich vertikaler Öffnungen, aber auch horizontaler Öffnungen, wie z.B. Lichtkuppeln oder Lichtkuppeln, einschließlich Konstruktionen mit schwenkbaren, schwenkbaren, verschiebbaren oder drehbaren Paneelen und feststehenden Paneelen, wobei ein Fenster aus einer Verkleidung und einem oder mehreren Paneelen besteht.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12859,32 +12859,32 @@
       <IfcClassificationReference xsi:nil="true" ref="i1514" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1516" Identification="SKYLIGHT" Name="Dachfenster" Description="Ein Fenster innerhalb eines schrägen Bauteils, in der Regel in einer Dachplatte.">
+  <IfcClassificationReference id="i1516" Identification="WINDOW" Name="Fenster" Description="Ein Standardfenster befindet sich in der Regel innerhalb einer Wandöffnung, als Fensterelement in einer Vorhangfassade oder ist ein „freistehendes&quot; Fenster.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1514" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1517" Identification="WINDOW" Name="Fenster" Description="Ein Standardfenster befindet sich in der Regel innerhalb einer Wandöffnung, als Fensterpaneel in einer Vorhangfassade oder ist ein „freistehendes&quot; Fenster.">
+  <IfcClassificationReference id="i1517" Identification="LIGHTDOME" Name="Lichtkuppel" Description="Ein spezielles Fenster, das horizontal in einer Dachplattenöffnung liegt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1514" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1518" Identification="LIGHTDOME" Name="Lichtkuppel" Description="Ein spezielles Fenster, das horizontal in einer Dachplattenöffnung liegt.">
+  <IfcClassificationReference id="i1518" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefiniertes Fensterelement.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1514" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1519" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefiniertes Fensterelement.">
+  <IfcClassificationReference id="i1519" Identification="SKYLIGHT" Name="Oberlicht" Description="Ein Fenster innerhalb eines schrägen Bauteils, in der Regel in einer Dachplatte.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1514" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1520" Identification="IfcWindowStandardCase" Name="Fenster - Standard" Description="Ein Fenster mit bestimmten Einschränkungen für die Bereitstellung von Betriebsarten, Öffnungsrichtungen, Rahmen- und Verkleidungsparametern, Konstruktionstypen und mit bestimmten Einschränkungen für die geometrische Darstellung.">
+  <IfcClassificationReference id="i1520" Identification="IfcWindowStandardCase" Name="Fenster - Standard" Description="Ein Fenster mit bestimmten Einschränkungen für die Beschreibung seiner Funktionen, Öffnungsrichtungen, Rahmen- und Verkleidungsparametern, Konstruktionstypen und mit bestimmten Einschränkungen für die geometrische Darstellung.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1521" Identification="IfcWindowType" Name="Fenstertyp" Description="Ein Bauelement, das vorwiegend für die Bereitstellung von natürlichem Licht und frischer Luft verwendet wird, einschließlich vertikaler Öffnung, aber auch horizontaler Öffnung, wie z.B. Lichtkuppeln oder Lichtkuppeln, einschließlich Konstruktionen mit schwenkbaren, schwenkbaren, verschiebbaren oder drehbaren Paneelen und feststehenden Paneelen, wobei ein Fenster aus einer Verkleidung und einem oder mehreren Paneelen besteht.">
+  <IfcClassificationReference id="i1521" Identification="IfcWindowType" Name="Fenster - Typ" Description="Der Elementtyp IfcWindowType definiert gemeinsame Informationen für das Auftreten von Fenstern. Die Menge der gemeinsam genutzten Informationen kann Folgendes umfassen:&#xA;&#xA;    gemeinsame Eigenschaften innerhalb von Shared Property Sets&#xA;    allgemeine Werkstoffinformationen&#xA;    gemeinsame Unterteilung der Paneele&#xA;    gängige Bedienungsarten der Panels&#xA;    gängige Formdarstellungen&#xA;&#xA;Ein Fenstertyp definiert den jeweiligen Parameter der Auskleidung und eines (oder mehrerer) Panels über die IfcWindowLiningProperties und die IfcWindowPanelProperties als vordefinierte Property-Sets, die nur für Fenster gelten.&#xA;&#xA;Es wird verwendet, um eine Fensterspezifikation oder einen Fensterstil zu definieren (d.h. die spezifischen Produktinformationen, die allen Vorkommen dieses Fenstertyps gemeinsam sind). Fenstertypen können ausgetauscht werden, ohne dass sie bereits Vorkommen zugeordnet sind.&#xA;&#xA;Vorkommen des IfcWindowType innerhalb von Gebäudemodellen werden durch Instanzen von IfcWindow oder IfcWindowStandardCase dargestellt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12899,7 +12899,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1522" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1524" Identification="IfcChimney" Name="Schornstein" Description="Typischerweise vertikale oder fast vertikale Teile der Konstruktion eines Gebäudes und eines Teils der Bausubstanz, oft aus Fertigteilbeton oder Ortbeton, heute seltener aus Ziegelsteinen.  Definition nach ISO 6707-1: Konstruktion mit einem oder mehreren Schornsteinen.">
+  <IfcClassificationReference id="i1524" Identification="IfcChimney" Name="Schornstein" Description="Typischerweise vertikale oder fast vertikale Teile der Konstruktion eines Gebäudes und Teil der Bausubstanz, oft aus Fertigteilbeton oder Ortbeton, heute seltener aus Ziegelsteinen.  Definition nach ISO 6707-1: (übersetzt) Konstruktion mit einem oder mehreren Schornsteinen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -12914,12 +12914,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1524" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1527" Identification="IfcChimneyType" Name="Schornsteintyp" Description="Typischerweise vertikale oder fast vertikale Teile der Konstruktion eines Gebäudes und eines Teils der Bausubstanz, oft aus Fertigteilbeton oder Ortbeton, heute seltener aus Ziegelsteinen.  Definition nach ISO 6707-1: Konstruktion mit einem oder mehreren Schornsteinen.">
+  <IfcClassificationReference id="i1527" Identification="IfcChimneyType" Name="Schornstein - Typ" Description="Der Bauelementtyp IfcChimneyType definiert gemeinsam genutzte Informationen für das Auftreten von mehreren Schornsteinen. Die Menge der gemeinsam definierten Informationen kann Folgendes umfassen:&#xA;    gemeinsame Eigenschaften mit gemeinsam genutzten Eigenschaftsgruppen&#xA;    gemeinsame Darstellungen&#xA;    gängige Materialien&#xA;    gemeinsame Zusammensetzung der Elemente&#xA;Es wird verwendet, um eine Schornsteintypspezifikation zu definieren, die die spezifischen Produktinformationen angibt, die allen Vorkommen dieses Produkttyps gemeinsam sind. Der IfcChimneyType kann innerhalb von IfcProject oder IfcProjectLibrary mit IfcRelDeclares deklariert und mit oder ohne Vorkommen des Typs ausgetauscht werden. Vorkommen von IfcChimneyType werden durch Instanzen von IfcChimney repräsentiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1528" Identification="IfcColumn" Name="Stütze - Pfeiler" Description="Ein vertikales Bauteil, das häufig mit einem Gitterschnittpunkt verbunden ist, stellt ein vertikales oder fast vertikales Bauteil dar, das durch Kompression das Gewicht der Struktur nach oben auf andere Bauteile nach unten überträgt, und stellt ein solches Bauteil aus architektonischer Sicht dar, ohne dass es tragfähig sein muss.  Definition gemäß ISO 6707-1, ein schlankes, in der Regel vertikales Bauteil, das die Kräfte, vor allem in Druckrichtung, auf seine Basis überträgt.">
+  <IfcClassificationReference id="i1528" Identification="IfcColumn" Name="Stütze - Pfeiler" Description="Ein vertikales Bauteil, das häufig mit einem Gitterschnittpunkt verbunden ist. Eine Stütze stellt ein vertikales oder fast vertikales Bauteil dar, das durch Kompression das Gewicht der Struktur nach oben auf andere Bauteile nach unten überträgt. Es stellt ein solches Bauteil aus architektonischer Sicht dar, ohne dass es tragfähig sein muss.  Definition gemäß ISO 6707-1: (übersetzt) ein schlankes, in der Regel vertikales Bauteil, das die Kräfte, vor allem in Druckrichtung, auf seine Basis überträgt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1342" />
     </ReferencedSource>
@@ -13039,7 +13039,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1550" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1552" Identification="GLUE" Name="Klebstoff" Description="Eine Verbindung, bei der Elemente mit Klebstoff miteinander verbunden werden.">
+  <IfcClassificationReference id="i1552" Identification="GLUE" Name="Klebstoff" Description="Eine Verbindung, bei der mit Klebstoff Elemente miteinander verbunden werden.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1550" />
     </ReferencedSource>
@@ -13239,7 +13239,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1589" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1592" Identification="MANHOLE" Name="Einstiegsschacht" Description="Revisionsschacht/Leitungsschacht mit abnehmbarem Deckel für die Kontrolle von Rohrleitungen durch eine Person, z.B. Einstiegsluke, Mannloch">
+  <IfcClassificationReference id="i1592" Identification="MANHOLE" Name="Einstiegsschacht" Description="Revisionsschacht/Leitungsschacht mit abnehmbarem Deckel für die Kontrolle von Rohrleitungen durch eine Person.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1589" />
     </ReferencedSource>
@@ -13319,7 +13319,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1588" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1608" Identification="IfcFlowSegment" Name="Leitungsabschnitt (allgemein)" Description="Das Verteilungsfluss-Element IfcFlowSegment definiert das Auftreten eines Abschnittes eines Strömungsverteilungssystems.&#xA;&#xA;IfcFlowSegment definiert ein bestimmtes Auftreten eines Abschnittes, der in den räumlichen Kontext eines Projektes eingefügt wird.">
+  <IfcClassificationReference id="i1608" Identification="IfcFlowSegment" Name="Leitungsabschnitt(allgemein)" Description="Das Verteilungsfluss-Element IfcFlowSegment definiert das Auftreten eines Abschnittes eines Strömungsverteilungssystems.&#xA;&#xA;IfcFlowSegment definiert ein bestimmtes Auftreten eines Abschnittes, der in den räumlichen Kontext eines Projektes eingefügt wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1588" />
     </ReferencedSource>
@@ -13459,17 +13459,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1636" Identification="ELECTRICACTUATOR" Name="elektrischer Aktor" Description="Eine Vorrichtung, die ein Steuerelement elektrisch betätigt.">
+  <IfcClassificationReference id="i1636" Identification="ELECTRICACTUATOR" Name="elektrischer Steller" Description="Gerät zur elektrischen Ansteuerung von Verbrauchern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1637" Identification="HANDOPERATEDACTUATOR" Name="handbetriebener Aktor" Description="Ein Gerät, das manuell ein Bedienelement betätigt.">
+  <IfcClassificationReference id="i1637" Identification="HANDOPERATEDACTUATOR" Name="handbetriebener Steller" Description="Händisch zu bedienendes Gerät zur Ansteuerung eines Verbrauchers .">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1638" Identification="HYDRAULICACTUATOR" Name="hydraulischer Aktor" Description="Eine Vorrichtung, die ein Steuerelement elektrisch betätigt.">
+  <IfcClassificationReference id="i1638" Identification="HYDRAULICACTUATOR" Name="hydraulischer Steller" Description="Gerät zur hydraulischen Ansteuerung von Verbrauchern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
@@ -13479,12 +13479,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1640" Identification="PNEUMATICACTUATOR" Name="pneumatischer Aktor" Description="Eine Vorrichtung, die ein Steuerelement pneumatisch betätigt.">
+  <IfcClassificationReference id="i1640" Identification="PNEUMATICACTUATOR" Name="pyneumatischer Steller" Description="Gerät zur pyneuatischen Ansteuerung von Verbrauchern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1641" Identification="THERMOSTATICACTUATOR" Name="thermostatischer Aktor" Description="Ein Gerät, das ein Stellglied thermostatisch betätigt.">
+  <IfcClassificationReference id="i1641" Identification="THERMOSTATICACTUATOR" Name="thermostatischer Steller" Description="Gerät zur thermischen Ansteuerung von Verbrauchern.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1634" />
     </ReferencedSource>
@@ -13499,52 +13499,52 @@
       <IfcClassificationReference xsi:nil="true" ref="i1633" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1644" Identification="MIMICPANEL" Name="Abbildtafel" Description="Ein Steuerelement, bei dem Informationen, die an anderer Stelle verfügbar sind, wiederholt oder&quot;nachgeahmt&quot; werden.">
+  <IfcClassificationReference id="i1644" Identification="ALARMPANEL" Name="Alarm- und/oder Störmeldeanzeige" Description="Gerät oder Oberfläche zur Darstellung von Alarm- und/oder Störmeldungen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1645" Identification="ALARMPANEL" Name="Alarmtafel" Description="Ein Bedienelement, an dem Alarme gemeldet werden.">
+  <IfcClassificationReference id="i1645" Identification="CONTROLPANEL" Name="Bedien- und Anzeigeeinheit" Description="Gerät oder Oberfläche zur Bedienung oder Anzeige von Werten.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1646" Identification="INDICATORPANEL" Name="Anzeigetafel" Description="Ein Bedienelement, an dem Betriebszustand, Zustand, Sicherheitszustand oder andere erforderliche Parameter der Anlage angezeigt werden.">
+  <IfcClassificationReference id="i1646" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1647" Identification="CONTROLPANEL" Name="Bedientafel" Description="Ein Bedienelement, an dem sich Geräte befinden, die den Betrieb eines Grundstücks, Gebäudes oder Gebäudeteils steuern oder überwachen.">
+  <IfcClassificationReference id="i1647" Identification="GASDETECTIONPANEL" Name="Gaskonzentrationsanzeigeeinheit" Description="Gerät oder Oberfläche zur Anzeige von einer Gaskonzentration.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1648" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefinierter Typ.">
+  <IfcClassificationReference id="i1648" Identification="HUMIDISTAT" Name="Hygrostat" Description="Gerät zur Regulierung der Feuchtigkeit">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1649" Identification="GASDETECTIONPANEL" Name="Gaserkennungstafel" Description="Ein Steuerelement, an dem die Gaserkennung gemeldet wird.">
+  <IfcClassificationReference id="i1649" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1650" Identification="HUMIDISTAT" Name="Hygrostat" Description="Ein Steuerelement, das die Feuchte eines Systems oder Raumes erfasst und regelt, so dass die Feuchte in der Nähe eines gewünschten Sollwertes gehalten wird.">
+  <IfcClassificationReference id="i1650" Identification="INDICATORPANEL" Name="Statusanzeigeeinheit" Description="Gerät oder Oberfläche zur Anzeige von Statusmeldungen, Betriebsmeldungen, Sicherheitsmeldungen odere anderen erforderlichen Parametern (z.B. Sollwerte).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1651" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefinierter Typ.">
+  <IfcClassificationReference id="i1651" Identification="THERMOSTAT" Name="Thermostat" Description="Gerät zur Regulierung der Temperatur">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1652" Identification="THERMOSTAT" Name="Thermostat" Description="Ein Regelelement, das die Temperatur eines Elements, Systems oder Raumes erfasst und regelt, so dass die Temperatur in der Nähe eines gewünschten Sollwertes gehalten wird.">
+  <IfcClassificationReference id="i1652" Identification="WEATHERSTATION" Name="Wetterstation" Description="Messeinheit für die Erfassung von klimatischen Werten, wie Temperatur, Feuchte, Windstärke, Windrichtigung, Regenmenge, Strahlung, Luftqualität, usw.)">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1653" Identification="WEATHERSTATION" Name="Wetterstation" Description="Ein Steuerelement, das mehrere Klimaeigenschaften wie Temperatur, Luftfeuchtigkeit, Druck, Wind und Regen erfasst.">
+  <IfcClassificationReference id="i1653" Identification="MIMICPANEL" Name="Wiederholungsanzeige" Description="Gerät oder Oberfläche zur wiederholenden Anzeige von verschiedenen Werten, wobei nicht alle Werte gleichzeitig angezeigt werden.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1643" />
     </ReferencedSource>
@@ -13564,7 +13564,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1633" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1657" Identification="BELL" Name="Akustiksignal" Description="Ein akustischer Alarmsignal">
+  <IfcClassificationReference id="i1657" Identification="BELL" Name="Akustiksignal" Description="Ein akustischer Alarm.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1656" />
     </ReferencedSource>
@@ -13574,17 +13574,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i1656" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1659" Identification="BREAKGLASSBUTTON" Name="Handfeuermelder, mit Glasscheibe" Description="Ein Mechanismus zur Alarmauslösung, bei dem ein Schutzglas zerbrochen werden muss, um einen Knopfdruck zu aktivieren.">
+  <IfcClassificationReference id="i1659" Identification="BREAKGLASSBUTTON" Name="Handfeuermelder mit Glasscheibe" Description="Handfeuermelder, bei dem zur Betätigung des Druckknopfs eine Glasscheibe zerbrochen werden muss.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1656" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1660" Identification="MANUALPULLBOX" Name="Handfeuermelder, mit Zug" Description="Ein Mechanismus zur Alarmauslösung, bei dem die Auslösung durch Ziehen bewirkt wird.">
+  <IfcClassificationReference id="i1660" Identification="MANUALPULLBOX" Name="Handfeuermelder mit Zugvorrichtung" Description="Handfeuermelder, bei dem zur Auslösung des Alarms eine Zugvorrichtung betätigt werden muss.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1656" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1661" Identification="LIGHT" Name="Leuchte" Description="Ein visueller Alarm.">
+  <IfcClassificationReference id="i1661" Identification="LIGHT" Name="Meldeleuchte" Description="Leuchte zur Anzeige von Alarmen, Warnungen oder Meldungen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1656" />
     </ReferencedSource>
@@ -13659,7 +13659,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1633" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1676" Identification="AMMETER" Name="Amperemeter" Description="Ein Gerät, das den aktuellen Stromfluss in einem Stromkreis liest und anzeigt.">
+  <IfcClassificationReference id="i1676" Identification="AMMETER" Name="Amperemeter" Description="Sensor inkl. Anzeige zur Darstellung der fließenden Stromstärke.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1675" />
     </ReferencedSource>
@@ -13679,7 +13679,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1675" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1680" Identification="PRESSUREGAUGE" Name="Manometer" Description="Ein Gerät, das einen Druckwert an einem Punkt oder die Druckdifferenz zwischen zwei Punkten liest und anzeigt.">
+  <IfcClassificationReference id="i1680" Identification="PRESSUREGAUGE" Name="Manometer" Description="Sensor inkl. Anzeige zur Darstellung von Drücken.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1675" />
     </ReferencedSource>
@@ -13694,7 +13694,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1675" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1683" Identification="THERMOMETER" Name="Thermometer" Description="Ein Gerät, das einen Temperaturwert an einem Punkt liest und anzeigt.">
+  <IfcClassificationReference id="i1683" Identification="THERMOMETER" Name="Thermometer" Description="Sensor inkl. Anzeige zur Darstellung von Tempearturen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1675" />
     </ReferencedSource>
@@ -13869,7 +13869,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1714" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1718" Identification="CAMERA" Name="Kamera" Description="Ein Gerät, das Bilder aufzeichnet, entweder als Standfoto oder als bewegte Bilder, bekannt als Videos oder Filme. Hinweis: Eine Kamera kann mit Licht aus dem sichtbaren Spektrum oder aus anderen Teilen des elektromagnetischen Spektrums wie Infrarot oder Ultraviolett arbeiten.">
+  <IfcClassificationReference id="i1718" Identification="CAMERA" Name="Kamera" Description="Ein Gerät, das Bilder aufzeichnet, entweder als Standfoto oder als bewegte Bilder, bekannt als Videos oder Filme. Hinweis: Eine Kamera kann mit Licht aus dem sichtbaren Spektrum oder aus anderen Teilen des elektromagnetischen Spektrums wie Infrarot oder U">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1714" />
     </ReferencedSource>
@@ -13879,7 +13879,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1714" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1720" Identification="MICROPHONE" Name="Mikrofon" Description="Ein akustisch-elektrischer Wandler oder Sensor, der Schall in ein elektrisches Signal umwandelt.  Die zum Einsatz kommenden Mikrofontypen basieren auf elektromagnetischer Induktion (dynamische Mikrofone), Nutzung der Kapazitätsänderung von Schalldruck und Schallwelle (Kondensatormikrofone) oder Druckschwankungen der Luft (piezoelektrische Mikrofone).">
+  <IfcClassificationReference id="i1720" Identification="MICROPHONE" Name="Mikrofon" Description="Ein akustisch-elektrischer Wandler oder Sensor, der Schall in ein elektrisches Signal umwandelt.  Die zum Einsatz kommenden Mikrofontypen basieren auf elektromagnetischer Induktion (dynamische Mikrofone), Nutzung der Kapazitätsänderung von Schalldruck und">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1714" />
     </ReferencedSource>
@@ -13984,7 +13984,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1729" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1741" Identification="REPEATER" Name="Repeater" Description="Ein Repeater ist ein elektronisches Gerät, das ein Signal empfängt und es mit einem höheren Pegel und/oder höherer Leistung oder auf die andere Seite eines Hindernisses weiterleitet, so dass das Signal längere Strecken ohne Beeinträchtigung zurücklegen kann.">
+  <IfcClassificationReference id="i1741" Identification="REPEATER" Name="Repeater" Description="Ein Repeater ist ein elektronisches Gerät, das ein Signal empfängt und es mit einem höheren Pegel und/oder höherer Leistung oder auf die andere Seite eines Hindernisses weiterleitet, so dass das Signal längere Strecken ohne Beeinträchtigung zurücklegen ka">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1729" />
     </ReferencedSource>
@@ -14089,7 +14089,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1745" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1762" Identification="TUMBLEDRYER" Name="Wäschetrockner" Description="Ein elektrisches Gerät, das als Hauptfunktion das Trocknen von Kleidungsstücken hat.">
+  <IfcClassificationReference id="i1762" Identification="TUMBLEDRYER" Name="Wäschetrockner" Description="Ein elektrisches Gerät, das die Hauptfunktion des Trocknen von Kleidungsstücken hat.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1745" />
     </ReferencedSource>
@@ -14244,7 +14244,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1790" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1793" Identification="INDUCTION" Name="Induktionsmotor" Description="Ein Wechselstrommotor, bei dem die Primärwicklung auf einem Element (in der Regel dem Stator) mit der Stromquelle verbunden ist und eine Sekundärwicklung oder eine Sekundärwicklung mit Kurzschlussläufer auf dem anderen Element (in der Regel der Rotor) den Induktionsstrom überträgt.">
+  <IfcClassificationReference id="i1793" Identification="INDUCTION" Name="Induktionsmotor" Description="Ein Wechselstrommotor, bei dem die Primärwicklung auf einem Element (in der Regel dem Stator) mit der Stromquelle verbunden ist und eine Sekundärwicklung oder eine Sekundärwicklung mit Kurzschlussläufer auf dem anderen Element (in der Regel der Rotor) den">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1790" />
     </ReferencedSource>
@@ -14564,22 +14564,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1857" Identification="EARTHLEAKAGECIRCUITBREAKER" Name="Erdschluss-Schutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und über einen Kurzschlussschutz, aber keinen Überlastschutz verfügt. Er versucht, den Stromkreis bei einem Stromausfall von Phase zu Erde zu unterbrechen, indem er die Spannung auf dem Schutzleiter misst.">
+  <IfcClassificationReference id="i1857" Identification="EARTHLEAKAGECIRCUITBREAKER" Name="Erdschluss-Schutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und über einen Kurzschlussschutz, aber keinen Überlastschutz verfügt. Er versucht, den Stromkreis bei einem Stromausfall von Phase zu Erde zu unterbrechen, indem er die Spannung auf dem Schutz">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1858" Identification="EARTHINGSWITCH" Name="Erdungsschalter" Description="Eine Sicherheitseinrichtung, die dazu dient, einen Stromkreis zu öffnen oder zu schließen, wenn kein Strom vorhanden ist. Dient zur Isolierung eines Teils eines Stromkreises, einer Maschine, eines Teils einer Oberleitung oder einer unterirdischen Leitung, um eine sichere Wartung und Instandhaltung zu ermöglichen.">
+  <IfcClassificationReference id="i1858" Identification="EARTHINGSWITCH" Name="Erdungsschalter" Description="Eine Sicherheitseinrichtung, die dazu dient, einen Stromkreis zu öffnen oder zu schließen, wenn kein Strom vorhanden ist. Dient zur Isolierung eines Teils eines Stromkreises, einer Maschine, eines Teils einer Oberleitung oder einer unterirdischen Leitung,">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1859" Identification="RESIDUALCURRENTCIRCUITBREAKER" Name="Fehlerstrom/Leitungsschutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und mit einem Kurzschluss- und Überlastschutz versehen ist. Es wird versucht, den Stromkreis zu unterbrechen, wenn ein Stromunterschied zwischen zwei beliebigen Phasen besteht. Kann auch als ´FI/LS-Schalter´ bezeichnet werden">
+  <IfcClassificationReference id="i1859" Identification="RESIDUALCURRENTCIRCUITBREAKER" Name="Fehlerstrom/Leitungsschutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und mit einem Kurzschluss- und Überlastschutz versehen ist. Es wird versucht, den Stromkreis zu unterbrechen, wenn ein Stromunterschied zwischen zwei beliebigen Phasen besteht. Kann auch als ´">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1860" Identification="RESIDUALCURRENTSWITCH" Name="Fehlerstrom-Schutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und ist mit keinem Kurzschluss- und Überlastschutz versehen ist. Es wird versucht, den Stromkreis zu unterbrechen, wenn ein Stromunterschied zwischen zwei beliebigen Phasen besteht. Kann auch als ´FI'-Schalter´ bezeichnet werden.">
+  <IfcClassificationReference id="i1860" Identification="RESIDUALCURRENTSWITCH" Name="Fehlerstrom-Schutzschalter" Description="Ein Gerät, das einen Stromkreis öffnet, schließt oder isoliert und ist mit keinem Kurzschluss- und Überlastschutz versehen ist. Es wird versucht, den Stromkreis zu unterbrechen, wenn ein Stromunterschied zwischen zwei beliebigen Phasen besteht. Kann auch ">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
@@ -14589,7 +14589,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1862" Identification="CIRCUITBREAKER" Name="Schutzschalter" Description="Eine mechanische Schaltvorrichtung, die in der Lage ist, unter normalen Stromkreisbedingungen Ströme zu übertragen und unter bestimmten anormalen Stromkreisbedingungen wie z.B. zu hohem Strom die Leitungen vor Überhitzung durch Unterbrechung des Stromkreises zu schützen.">
+  <IfcClassificationReference id="i1862" Identification="CIRCUITBREAKER" Name="Schutzschalter" Description="Eine mechanische Schaltvorrichtung, die in der Lage ist, unter normalen Stromkreisbedingungen Ströme zu übertragen und unter bestimmten anormalen Stromkreisbedingungen wie z.B. zu hohem Strom die Leitungen vor Überhitzung durch Unterbrechung des Stromkrei">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1855" />
     </ReferencedSource>
@@ -14914,7 +14914,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1920" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1927" Identification="HV" Name="Heizung, Lüftung, Klimatechnik" Description="Das IfcHvacDomain-Schema definiert grundlegende Objektkonzepte, die für die Interoperabilität innerhalb der Heizungs-, Lüftungs- und Klimatechnik (HVAC) erforderlich sind. Es erweitert Konzepte, die im Schema IfcSharedBldgServiceElements definiert sind.">
+  <IfcClassificationReference id="i1927" Identification="HV" Name="Heizung, Lüftung, Klimatechnik" Description="Das Schema &quot;Heizung, Lüftung, Klimatechnik&quot; (IfcHvacDomain) definiert grundlegende Objektkonzepte, die für die Interoperabilität innerhalb der Heizungs-, Lüftungs- und Klimatechnik (HVAC) erforderlich sind. Es erweitert Konzepte, die im Schema IfcSharedBldgServiceElements definiert sind.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1625" />
     </ReferencedSource>
@@ -14994,7 +14994,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i1927" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1943" Identification="IfcCoil" Name="Wärmeübertragerschlange" Description="Ein Bauteil zur Wärmeübertragung von sich nicht mischenden Medien. Ein typisches Beispiel ist eine Kühlschlange, bei der eine Rippenwicklung verwendet wird, in der gekühltes Wasser, Frostschutzmittel oder Kältemittel zirkuliert, um die Wärme aus der Luft zu entfernen, die sich über die Oberfläche der Wicklung bewegt. Eine Wärmeübertragerschlange kann entweder zum Heizen oder Kühlen verwendet werden, durch Platzierung von einer Reihe von Rohrleitungen (Wärmeübertragerschlange) in den Luftstrom, gefüllt mit Heiz- oder Kühlflüssigkeit. Die Wärmeübertragerschlange kann aus Rohrbündeln in gewickelter Form oder als Rippenrohr ausgebildet sein, um eine Vergrößerung der Oberfläche zu erreichen. Wärmeübertragerschlange können auch ohne Luftdurchströmung genutzt werden, wie z. B. in Geschoßdecken.">
+  <IfcClassificationReference id="i1943" Identification="IfcCoil" Name="Kühlschlange" Description="Ein Bauteil zur Wärmeübertragung von sich nicht mischenden Medien. Ein typisches Beispiel ist eine Kühlschlange, bei der eine Rippenwicklung verwendet wird, in der gekühltes Wasser, Frostschutzmittel oder Kältemittel zirkuliert, um die Wärme aus der Luft zu entfernen, die sich über die Oberfläche der Wicklung bewegt. Eine Kühlschlange kann entweder zum Heizen oder Kühlen verwendet werden, durch Platzierung von einer Reihe von Rohrleitungen (Kühlschlange) in den Luftstrom, gefüllt mit Heiz- oder Kühlflüssigkeit. Die Kühlschlange kann aus Rohrbündeln in gewickelter Form oder als Rippenrohr ausgebildet sein, um eine Vergrößerung der Oberfläche zu erreichen. Kühlschlangen können auch ohne Luftdurchströmung genutzt werden, wie z. B. in Geschoßdecken.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1927" />
     </ReferencedSource>
@@ -15554,7 +15554,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2049" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2055" Identification="DIRECTEVAPORATIVEAIRWASHER" Name="Direktverdunstungs-Luftwäscher" Description="Ein Direktverdunstungs-Luftwäscher: Kühlt den Luftstrom, indem Wasser direkt im Luftstrom eingedampft wird, wobei Kühler mit Sprühluftwäscher verwendet werden, die aus einer Kammer oder einem Gehäuse mit Sprühdüsen, einem Behälter für die Sammlung von Sprühwasser und einem Abscheider bestehen">
+  <IfcClassificationReference id="i2055" Identification="DIRECTEVAPORATIVEAIRWASHER" Name="Direktverdunstungs-Luftwäscher" Description="Ein Direktverdunstungs-Luftwäscher: Kühlt den Luftstrom, indem Wasser direkt im Luftstrom eingedampft wird, wobei Kühler mit Sprühluftwäscher verwendet werden, die aus einer Kammer oder einem Gehäuse mit Sprühdüsen, einem Behälter für die Sammlung von Spr">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2049" />
     </ReferencedSource>
@@ -15564,7 +15564,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2049" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2057" Identification="INDIRECTDIRECTCOMBINATION" Name="kombinierte direkte und indirekte Verdunstung" Description="Eine kombinierte direkte und indirekte Verdunstung: Kühlt den Luftstrom durch indirektes Verdampfen von Wasser und ohne Zugabe von Feuchtigkeit in den Luftstrom mit Hilfe eines zweistufigen Kühlers mit einem indirekten Verdunstungskühler der ersten Stufe und einem direkten Verdunstungskühler der zweiten Stufe.">
+  <IfcClassificationReference id="i2057" Identification="INDIRECTDIRECTCOMBINATION" Name="kombinierte direkte und indirekte Verdunstung" Description="Eine kombinierte direkte und indirekte Verdunstung: Kühlt den Luftstrom durch indirektes Verdampfen von Wasser und ohne Zugabe von Feuchtigkeit in den Luftstrom mit Hilfe eines zweistufigen Kühlers mit einem indirekten Verdunstungskühler der ersten Stufe ">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2049" />
     </ReferencedSource>
@@ -16119,7 +16119,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2166" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2168" Identification="SPLITCASE" Name="mit axial geteiltem Gehäuse" Description="Eine axial geteilte Pumpe hat bei waagrechter Montage auf jeder Seite des Laufrads einen Ein- und Auslauf. Das Laufrad kann leicht zugänglich gemacht werden, indem man die Vorderseite des Laufradgehäuses abnimmt. Es kann einen direkten oder direkt gekoppelten Motor haben.">
+  <IfcClassificationReference id="i2168" Identification="SPLITCASE" Name="mit axial geteiltem Gehäuse" Description="Eine axial geteilte Pumpe hat bei waagrechter Montage auf jeder Seite des Laufrads einen Ein- und Auslauf. Das Laufrad kann leicht zugänglich gemacht werden, indem man die Vorderseite des Laufradgehäuses abnimmt. Es kann einen direkten oder direkt gekoppe">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2166" />
     </ReferencedSource>
@@ -16234,7 +16234,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2183" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2191" Identification="STORAGE" Name="Speicher" Description="Ein offener oder geschlossener Behälter, der zur Lagerung eines Fluids bei Umgebungsdruck verwendet wird und von dem aus es dem Flüssigkeitsverteilungssystem zugeführt werden kann. Es gibt viele Beispiele für Lagertanks, wie z.B. Trinkwasserspeicher, Kraftstoffspeicher">
+  <IfcClassificationReference id="i2191" Identification="STORAGE" Name="Speicher" Description="Ein offener oder geschlossener Behälter, der zur Lagerung eines Fluids bei Umgebungsdruck verwendet wird und von dem aus es dem Flüssigkeitsverteilungssystem zugeführt werden kann. Es gibt viele Beispiele für Lagertanks, wie z.B. Trinkwasserspeicher, Kraf">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2183" />
     </ReferencedSource>
@@ -16489,7 +16489,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2240" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2242" Identification="STEAM" Name="Dampf" Description="Geschlossenes beheiztes Gefäß oder ein Druckrohrsystem, das dem Zweck dient, Wasserdampf von höherem als atmosphärischem Druck (p &gt; 1,013 bar absolut) oder Heißwasser mit Temperaturen oberhalb von 100 °C für Heiz- und Betriebszwecke zu erzeugen.">
+  <IfcClassificationReference id="i2242" Identification="STEAM" Name="Dampf" Description="Dampfmenge, die während des in der Zeitreihe angegebenen Zeitraums verbraucht wurde.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2240" />
     </ReferencedSource>
@@ -16559,7 +16559,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2250" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2256" Identification="SPRINKLER" Name="Sprinkler" Description="Vorrichtung zum Besprühen von Wasser aus einer unter Druck stehenden Leitung über eine Fläche.&#xD;&#xA;">
+  <IfcClassificationReference id="i2256" Identification="SPRINKLER" Name="Sprinkler" Description="Vorrichtung zum Beregnen mit Wasser aus einer unter Druck stehenden Leitung über einer Fläche.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2250" />
     </ReferencedSource>
@@ -16794,7 +16794,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2303" Identification="IfcStructuralItem" Name="Tragelement - Tragverbindung - Auflager (allgemein)" Description="Die abstrakte Entität IfcStructuralItem ist die Verallgemeinerung von Strukturbauteilen und strukturellen Verbindungen, d.h. die Analyse von Idealisierungen von Elementen im Gebäudemodell, und definiert die Beziehung zwischen Strukturbauteilen und Verbindungen mit strukturellen Aktivitäten (Aktionen und Reaktionen).&#xD;&#xA;&#xA;&#xD;&#xA;Relationships zwischen Elementen im Gebäudemodell und strukturellen Elementen, da ihre Idealisierungen durch Instanzen von IfcRelAssignsToProduct ausgedrückt werden können.">
+  <IfcClassificationReference id="i2303" Identification="IfcStructuralItem" Name="Tragelement - Tragverbindung - Auflager (allgemein)" Description="Die abstrakte Entität IfcStructuralItem ist die Verallgemeinerung von tragenden Bauteilen &#xD;&#xA;und konstruktiven Verbindungen, d.h. die Analyse von Idealisierungen von Elementen im &#xD;&#xA;Gebäudemodell, und definiert die Beziehung von konstruktiven Bauteilen und Verbindungen mit einwirkenden Kräften  (Aktionen und Reaktionen).&#xD;&#xA;&#xD;&#xA;Beziehungen zwischen Elementen im Gebäudemodell und strukturellen Elementen, sowie deren Idealisierungen, können durch Instanzen von IfcRelAssignsToProduct ausgedrückt werden.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16814,7 +16814,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2307" Identification="IfcStructuralPointAction" Name="Einzel- oder Punktlast" Description="Diese Entität definiert eine Aktion, die auf einen Punkt wirkt: Eine Punktaktion ist typischerweise mit einer Punktverbindung verbunden, kann aber auch mit einem Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein.">
+  <IfcClassificationReference id="i2307" Identification="IfcStructuralPointAction" Name="Einzel- oder Punktlast" Description="Diese Entität definiert eine Einwirkung, die auf einen Punkt wirkt: Eine Einzellast ist  typischerweise mit einer Punktverbindung verbunden, kann aber auch mit einem &#xD;&#xA;Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16824,7 +16824,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2309" Identification="IfcStructuralPointReaction" Name="Auflagerreaktion" Description="Eine Punktreaktion ist typischerweise mit einer Punktverbindung verbunden, kann aber auch mit einem Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein.">
+  <IfcClassificationReference id="i2309" Identification="IfcStructuralPointReaction" Name="Auflagerreaktion" Description="Diese Entität definiert eine Auflagerreaktion, die an einem Punkt auftritt. Eine Auflagerreaktion tritt normalerweise in Verbindung mit einer Punktauflager auf. Es kann aber auch mit einem Linienelement, Linienverbindung, Flächenelement oder Flächenverbindung verbunden sein.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16834,7 +16834,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2311" Identification="IfcStructuralSurfaceAction" Name="Flächenlast (gleichförmig oder veränderlich)" Description="Diese Entitität definiert eine Aktion die über eine Fläche verteilt ist. Eine Oberflächenaktion kann mit einem Oberflächenelement oder einer Oberflächenverbindung verbunden sein.">
+  <IfcClassificationReference id="i2311" Identification="IfcStructuralSurfaceAction" Name="Flächenlast (gleichförmig oder veränderlich)" Description="Diese Entitität definiert eine Einwirkung die über eine Fläche verteilt ist. Eine &#xD;&#xA;Oberflächeneinwirkung kann mit einem Oberflächenelement oder einer &#xD;&#xA;Oberflächenverbindung verbunden sein">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16859,7 +16859,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2316" Identification="IfcStructuralAction" Name="Belastung - Einwirkung (allgemein)" Description="Eine Belastung ist eine strukturelle Einwirkung die auf ein Bauelement wirkt.">
+  <IfcClassificationReference id="i2316" Identification="IfcStructuralAction" Name="Last - Einwirkung (allgemein)" Description="Eine Lasteinwirkung ist eine strukturelle Einwirkung die auf ein Bauelement wirkt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16874,7 +16874,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2319" Identification="IfcStructuralCurveAction" Name="veränderliche Linienlast" Description="Eine Strukturkurvenaktion definiert eine Aktion, die über eine Kurve verteilt ist, wobei eine Kurvenaktion mit einem Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein kann.">
+  <IfcClassificationReference id="i2319" Identification="IfcStructuralCurveAction" Name="veränderliche Linienlast" Description="Eine Strukturkurvenaktion definiert eine Einwirkung, die über eine Kurve verteilt ist, wobei &#xD;&#xA;eine Kurvenaktion mit einem Kurvenglied oder einer Kurvenverbindung, einem &#xD;&#xA;Flächenelement oder einer Flächenverbindung verbunden sein kann.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16894,22 +16894,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i2321" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2323" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Spezielle Typen von Fundamenten, die den spezifischen örtlichen Anforderungen entsprechen.">
+  <IfcClassificationReference id="i2323" Identification="FOOTING_BEAM" Name="Balkenfundament" Description="Auf Biegung beanspruchte Fundamente, die nicht vollständig durch den Boden abgestützt sind. Sie werden normalerweise zwischen Pfeilern, Pfählen oder Pfahlkappen gespannt. Sie unterscheiden sich von Balken im Gebäudeüberbau, da sie in der Regel eine gering">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2322" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2324" Identification="CAISSON_FOUNDATION" Name="Caisson-Fundament" Description="Eine Fundamentkonstruktion, die im Unterwasserbau verwendet wird.">
+  <IfcClassificationReference id="i2324" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Spezielle Typen von Fundamenten, die den spezifischen örtlichen Anforderungen entsprechen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2322" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2325" Identification="PAD_FOOTING" Name="Einzelfundament" Description="Ein Element, das die Last einer einzelnen Säule (möglicherweise zwei) auf den Boden überträgt.">
+  <IfcClassificationReference id="i2325" Identification="CAISSON_FOUNDATION" Name="Caisson-Fundament" Description="Eine Fundamentkonstruktion, die im Unterwasserbau verwendet wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2322" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2326" Identification="FOOTING_BEAM" Name="Fundamentbalken" Description="Sich biegende Fundamente, die bodenfrei abgestützt sind. Sie werden normalerweise zwischen Pfeilern, Pfählen oder Pfahlkappen gespannt. Sie unterscheiden sich von Balken im Gebäudeüberbau, da sie in der Regel eine geringere Oberflächengüte erfordern. Sie ">
+  <IfcClassificationReference id="i2326" Identification="PAD_FOOTING" Name="Einzelfundament" Description="Ein Element, das die Last einer einzelnen Säule (möglicherweise zwei) auf den Boden überträgt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2322" />
     </ReferencedSource>
@@ -16954,22 +16954,22 @@
       <IfcClassificationReference xsi:nil="true" ref="i2321" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2335" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Eine benutzerdefinierte Art von Oberflächenmerkmal.">
+  <IfcClassificationReference id="i2335" Identification="TREATMENT" Name="Bearbeitung" Description="Ein subtraktives Oberflächenmerkmal, z. B. der Schliff, oder ein additives Oberflächenmerkmal, z. B. Beschichtung, oder eine Imprägnierbehandlung, oder eine Reihe von Behandlungen dieser Art.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2334" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2336" Identification="TREATMENT" Name="Beschichtung" Description="Ein subtraktives Oberflächenmerkmal, z. B. der Schliff, oder ein additives Oberflächenmerkmal, z. B. Beschichtung, oder eine Imprägnierbehandlung, oder eine Reihe von Behandlungen dieser Art.">
+  <IfcClassificationReference id="i2336" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Eine benutzerdefinierte Art von Oberflächenmerkmal.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2334" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2337" Identification="MARK" Name="Markierung" Description="Eine Punkt-, Linien-, Kreuz- oder andere Markierung, die beispielsweise zur leichteren Justierung von Elementen während der Montage verwendet wird.">
+  <IfcClassificationReference id="i2337" Identification="TAG" Name="Etikett" Description="Ein Etikett, das es ermöglicht, ein Element während der Produktion, Lieferung und Montage zu identifizieren. Kann auf unterschiedliche Weise hergestellt werden, z.B. durch Bedrucken oder Stanzen des Tracking-Codes auf dem Element oder durch Anbringen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2334" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2338" Identification="TAG" Name="Namensschild" Description="Ein Namensschild, das es ermöglicht, ein Element während der Produktion, Lieferung und Montage zu identifizieren. Kann auf unterschiedliche Weise hergestellt werden, z.B. durch Bedrucken oder Stanzen des Tracking-Codes auf dem Element oder durch Anbringen">
+  <IfcClassificationReference id="i2338" Identification="MARK" Name="Markierung" Description="Eine Punkt-, Linien-, Kreuz- oder andere Markierung, die beispielsweise zur leichteren Justierung von Elementen während der Montage verwendet wird.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2334" />
     </ReferencedSource>
@@ -17019,7 +17019,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2321" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2348" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Die Art des Sehnenankers ist benutzerdefiniert.">
+  <IfcClassificationReference id="i2348" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Die Art des Spannankers ist benutzerdefiniert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2347" />
     </ReferencedSource>
@@ -17039,7 +17039,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2347" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2352" Identification="NOTDEFINED" Name="Nicht definiert" Description="Der Typ des Sehnenankers ist nicht definiert.">
+  <IfcClassificationReference id="i2352" Identification="NOTDEFINED" Name="Nicht definiert" Description="Der Typ des Spannanker ist nicht definiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2347" />
     </ReferencedSource>
@@ -17119,7 +17119,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2368" Identification="JETGROUTING" Name="Düsenstrahlverfahren" Description="Eine gespritzte, pfahlartige Konstruktion.">
+  <IfcClassificationReference id="i2368" Identification="JETGROUTING" Name="Düsenstrahlverfahren" Description="Eine injizierte, pfahlartige Konstruktion.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>
@@ -17134,17 +17134,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2371" Identification="DRIVEN" Name="Rammpfahl" Description="Ein gerammter, vibrierender oder anderweitig gerammter Pfahl.">
+  <IfcClassificationReference id="i2371" Identification="DRIVEN" Name="Rammpfahl" Description="Ein gerammter, durch Vibration oder anderweitig eingebrachter Pfahl.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2372" Identification="FRICTION" Name="Reibungspfahl" Description="Ein Reibungshaufen.">
+  <IfcClassificationReference id="i2372" Identification="FRICTION" Name="Reibungspfahl" Description="Ein Reibungspfahl.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2373" Identification="SUPPORT" Name="Stützpfahl" Description="Ein Stützstapel.">
+  <IfcClassificationReference id="i2373" Identification="SUPPORT" Name="Stützpfahl" Description="Ein Stützpfahl.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2365" />
     </ReferencedSource>

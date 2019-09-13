@@ -14039,7 +14039,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i584" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i591" Identification="FREEZER" Name="FREEZER" Description="an electrical appliance that has the primary function of storing food at temperatures below the freezing point of water">
+  <IfcClassificationReference id="i591" Identification="FREEZER" Name="FREEZER" Description="An electrical appliance that has the primary function of storing food at temperatures below the freezing point of water">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i584" />
     </ReferencedSource>
