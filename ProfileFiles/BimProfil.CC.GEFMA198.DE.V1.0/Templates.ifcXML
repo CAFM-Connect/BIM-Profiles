@@ -8667,7 +8667,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i147efd63-fc9e-48d1-bbdc-3ecc7a00a454" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9319f491-43b7-45fe-ad16-034a716e8498" Identification="B3.6" Name="Produktkatalog/ Leistungsprofil FM" Description="">
+  <IfcClassificationReference id="i9319f491-43b7-45fe-ad16-034a716e8498" Identification="B3.6" Name="Produktkatalog/Leistungsprofil FM" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7b4c2b57-d951-4292-b7f9-cb6987a89f7c" />
     </ReferencedSource>
