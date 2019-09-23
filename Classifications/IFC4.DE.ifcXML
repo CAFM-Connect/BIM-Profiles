@@ -4047,16 +4047,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1667</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//75ef1b98-a3ee-47ee-ab7b-6bb60b0a27f7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>75ef1b98-a3ee-47ee-ab7b-6bb60b0a27f7</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1rxnkOe_v7xgjxQxOB2YVt</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1668</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//87249bac-6f00-42a5-9eac-2bd304a66eea</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>87249bac-6f00-42a5-9eac-2bd304a66eea</IfcIdentifier-wrapper>
@@ -4065,7 +4055,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1669</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1668</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//14760708-7d51-471a-8cb0-2089b064c9b2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4075,7 +4065,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1670</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1669</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//9598b842-77c0-426d-80ea-8de1862a1537</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4085,7 +4075,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1671</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1670</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//ecab8971-fd5e-433a-bfcd-5e6468bef9d9</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4095,7 +4085,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1672</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1671</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//b180522b-f7f4-4ab9-ba92-e0bc641cc70f</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4105,12 +4095,22 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1673</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1672</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//f1069e60-5368-4749-aac2-a1c87d8a1b90</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>f1069e60-5368-4749-aac2-a1c87d8a1b90</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>3n1fvWKsX7IQh2eSXzYXkG</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1673</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//75ef1b98-a3ee-47ee-ab7b-6bb60b0a27f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>75ef1b98-a3ee-47ee-ab7b-6bb60b0a27f7</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1rxnkOe_v7xgjxQxOB2YVt</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4257,126 +4257,6 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1688</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62845a60-e8dc-4b5b-88f0-bd540ae731c2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>62845a60-e8dc-4b5b-88f0-bd540ae731c2</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1YX5fWwDnBMuZmlLGAvp72</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1689</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//576833dd-2deb-4925-8bbb-42566a153720</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>576833dd-2deb-4925-8bbb-42566a153720</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1NQ3FTBUj99OkxGbPg5JSW</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1690</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//86407887-9c6b-44d7-8a0c-fd78132d2dad</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>86407887-9c6b-44d7-8a0c-fd78132d2dad</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>26G7Y7d6j4rueC$NWJBIsj</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1691</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//36dd325f-4e55-4255-ae8d-56977d57230b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>36dd325f-4e55-4255-ae8d-56977d57230b</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0stJ9VJbL2LQwDLfTzLoCB</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1692</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//9a449859-7aad-4b9f-80d2-d35a0acf2dff</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>9a449859-7aad-4b9f-80d2-d35a0acf2dff</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2QH9XPUgrBdu3IqreApot$</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1693</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//33442944-ad04-4493-908f-244169f86da6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>33442944-ad04-4493-908f-244169f86da6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0pH2b4hGH4av2F945f_6sc</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1694</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//bf6dc61e-9864-4a84-be7d-a9bfba59f18f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>bf6dc61e-9864-4a84-be7d-a9bfba59f18f</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>2$RSOUc6HAXBvzgR_wMV6F</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1695</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//204ce828-dedb-4eca-9717-f4b61b901a09</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>204ce828-dedb-4eca-9717-f4b61b901a09</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0WJEWetjjEofSNzBORa1e9</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1696</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//03548f67-425f-466d-b713-41dd06cacad1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>03548f67-425f-466d-b713-41dd06cacad1</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>03L8zdGbz6RRSJGTq6oihH</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1697</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//70190c5e-6131-4a2c-9b95-7c9d54eda8e6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>70190c5e-6131-4a2c-9b95-7c9d54eda8e6</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1m6GnUOJ5AB9kLV9rKxQZc</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1698</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//19fbde4e-c657-4d03-acf3-8e438d7c92dc</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>19fbde4e-c657-4d03-acf3-8e438d7c92dc</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0P_zvEnbTD0wppZaEDV9BS</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1699</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//662f495a-7ad5-4a07-9046-931d24bf8305</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>662f495a-7ad5-4a07-9046-931d24bf8305</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1cBqbQUjLA1v16anqaluC5</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1700</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//ade9987e-121e-41be-9b6e-0909dfb5ff80</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>ade9987e-121e-41be-9b6e-0909dfb5ff80</IfcIdentifier-wrapper>
@@ -4385,17 +4265,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1701</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//2b2f5a1d-06ff-46da-adfd-ad675dba6699</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>2b2f5a1d-06ff-46da-adfd-ad675dba6699</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>0hBreT1lz6sgtzhMTTkcQP</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1702</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1689</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//3ba3517e-c660-4573-8e6e-f83673ce5e23</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4405,7 +4275,107 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1703</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1690</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//576833dd-2deb-4925-8bbb-42566a153720</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>576833dd-2deb-4925-8bbb-42566a153720</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1NQ3FTBUj99OkxGbPg5JSW</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1691</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//2b2f5a1d-06ff-46da-adfd-ad675dba6699</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>2b2f5a1d-06ff-46da-adfd-ad675dba6699</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0hBreT1lz6sgtzhMTTkcQP</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1692</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//204ce828-dedb-4eca-9717-f4b61b901a09</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>204ce828-dedb-4eca-9717-f4b61b901a09</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0WJEWetjjEofSNzBORa1e9</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1693</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//9a449859-7aad-4b9f-80d2-d35a0acf2dff</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>9a449859-7aad-4b9f-80d2-d35a0acf2dff</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2QH9XPUgrBdu3IqreApot$</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1694</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//70190c5e-6131-4a2c-9b95-7c9d54eda8e6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>70190c5e-6131-4a2c-9b95-7c9d54eda8e6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1m6GnUOJ5AB9kLV9rKxQZc</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1695</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//547d2501-8e6c-459c-a3c0-2ca62ecbd9a5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>547d2501-8e6c-459c-a3c0-2ca62ecbd9a5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1KVIK1Zcn5dAF0BAOkozcb</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1696</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//33442944-ad04-4493-908f-244169f86da6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>33442944-ad04-4493-908f-244169f86da6</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0pH2b4hGH4av2F945f_6sc</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1697</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//19fbde4e-c657-4d03-acf3-8e438d7c92dc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>19fbde4e-c657-4d03-acf3-8e438d7c92dc</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0P_zvEnbTD0wppZaEDV9BS</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1698</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//662f495a-7ad5-4a07-9046-931d24bf8305</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>662f495a-7ad5-4a07-9046-931d24bf8305</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1cBqbQUjLA1v16anqaluC5</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1699</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//03548f67-425f-466d-b713-41dd06cacad1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>03548f67-425f-466d-b713-41dd06cacad1</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>03L8zdGbz6RRSJGTq6oihH</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1700</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//c7315739-594b-4080-a312-eb75ff15e7df</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4415,7 +4385,27 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1704</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1701</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//bf6dc61e-9864-4a84-be7d-a9bfba59f18f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>bf6dc61e-9864-4a84-be7d-a9bfba59f18f</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2$RSOUc6HAXBvzgR_wMV6F</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1702</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//86407887-9c6b-44d7-8a0c-fd78132d2dad</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>86407887-9c6b-44d7-8a0c-fd78132d2dad</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>26G7Y7d6j4rueC$NWJBIsj</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1703</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//84c5ef6c-2659-442d-b54a-d1af8f036322</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4425,7 +4415,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1705</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1704</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//49611ea8-fbae-4448-b35b-8f19452532fb</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4435,7 +4425,27 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i1705</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//36dd325f-4e55-4255-ae8d-56977d57230b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>36dd325f-4e55-4255-ae8d-56977d57230b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>0stJ9VJbL2LQwDLfTzLoCB</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>i1706</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//cb50cf6e-4355-47ef-853d-48a865a147fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper />
+          <IfcIdentifier-wrapper>cb50cf6e-4355-47ef-853d-48a865a147fe</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>3BKCzkGrL7xuKzIAXbeKV_</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i1707</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//51b678b2-a655-4085-9827-a2df31a57c46</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4445,7 +4455,7 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1707</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1708</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//b307a098-8198-413e-b633-f624ccbbe195</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
@@ -4455,22 +4465,12 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i1708</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>i1709</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//1c8cf847-64dd-4139-b93b-2ba283071571</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
           <IfcIdentifier-wrapper>1c8cf847-64dd-4139-b93b-2ba283071571</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>0SZFX7PDr1ERaxAwA31nLn</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>i1709</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//cb50cf6e-4355-47ef-853d-48a865a147fe</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>cb50cf6e-4355-47ef-853d-48a865a147fe</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>3BKCzkGrL7xuKzIAXbeKV_</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -4487,10 +4487,10 @@
         <RowCells>
           <IfcIdentifier-wrapper>i1711</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org//547d2501-8e6c-459c-a3c0-2ca62ecbd9a5</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org//62845a60-e8dc-4b5b-88f0-bd540ae731c2</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper />
-          <IfcIdentifier-wrapper>547d2501-8e6c-459c-a3c0-2ca62ecbd9a5</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1KVIK1Zcn5dAF0BAOkozcb</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>62845a60-e8dc-4b5b-88f0-bd540ae731c2</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1YX5fWwDnBMuZmlLGAvp72</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -13614,37 +13614,37 @@
       <IfcClassificationReference xsi:nil="true" ref="i1633" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1667" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefinierter Typ.">
+  <IfcClassificationReference id="i1667" Identification="FLOATING" Name="FLOATING" Description="Ausgang mit einer Genauigkeit einer 32-Bit-Zahl gem. IEEE-754 (einfache Präzision)">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1668" Identification="FLOATING" Name="fließend" Description="Die Leistung steigt oder sinkt mit konstanter oder beschleunigter Geschwindigkeit.">
+  <IfcClassificationReference id="i1668" Identification="MULTIPOSITION" Name="MULTIPOSITION" Description="Der Ausgang ist ein diskreter Wert, er kann einer von drei oder mehr Werten sein.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1669" Identification="MULTIPOSITION" Name="Mehrpunkt" Description="Die Leistung ist ein diskreter Wert, er kann einer von drei oder mehr Werten sein.">
+  <IfcClassificationReference id="i1669" Identification="NOTDEFINED" Name="NOTDEFINED" Description="Undefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1670" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefinierter Typ.">
+  <IfcClassificationReference id="i1670" Identification="PROGRAMMABLE" Name="PROGRAMMABLE" Description="Der Ausgang ist mit einer Automationseinrichtung programmierbar  (z.B.  DDC oder SPS).">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1671" Identification="PROGRAMMABLE" Name="programmierbar" Description="Die Leistung ist programmierbar, wie z.B. Discrete Digital Control (DDC).">
+  <IfcClassificationReference id="i1671" Identification="PROPORTIONAL" Name="proportional" Description="Die Regelausgangsgöße ist proportional zur Regeldifferenz. Weitere Varianten sind integrierende und differenzierende Regler.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1672" Identification="PROPORTIONAL" Name="proportional" Description="Die Leistung ist proportional zum Regelfehler und optional zeitintegral und ableitend.">
+  <IfcClassificationReference id="i1672" Identification="TWOPOSITION" Name="TWOPOSITION" Description="Der Ausgang kann wahlweise ein- oder ausgeschaltet werden.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1673" Identification="TWOPOSITION" Name="Zweipunkt" Description="Die Leistung kann wahlweise ein- oder ausgeschaltet werden.">
+  <IfcClassificationReference id="i1673" Identification="USERDEFINED" Name="USERDEFINED" Description="Benutzerdefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1666" />
     </ReferencedSource>
@@ -13719,122 +13719,122 @@
       <IfcClassificationReference xsi:nil="true" ref="i1633" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1688" Identification="USERDEFINED" Name="Benutzerdefiniert" Description="Benutzerdefinierter Typ.">
+  <IfcClassificationReference id="i1688" Identification="CO2SENSOR" Name="CO2SENSOR" Description="Ein Gerät, das Kohlendioxid erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1689" Identification="CONTACTSENSOR" Name="Berührungssensor" Description="Ein Gerät, das einen Kontakt erfasst oder erkennt, z.B. um zu erkennen, ob eine Tür geschlossen ist.">
+  <IfcClassificationReference id="i1689" Identification="CONDUCTANCESENSOR" Name="CONDUCTANCESENSOR" Description="Ein Gerät, das elektrische Leitfähigkeit erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1690" Identification="MOVEMENTSENSOR" Name="Bewegungssensor" Description="Ein Gerät, das Bewegungen wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1690" Identification="CONTACTSENSOR" Name="CONTACTSENSOR" Description="Ein Gerät, das einen Kontakt erfasst oder erkennt, z.B. um zu erkennen, ob eine Tür geschlossen ist.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1691" Identification="PRESSURESENSOR" Name="Drucksensor" Description="Ein Gerät, das Druck misst oder erfasst.">
+  <IfcClassificationReference id="i1691" Identification="COSENSOR" Name="COSENSOR" Description="Ein Gerät, das Kohlenmonoxid erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1692" Identification="FLOWSENSOR" Name="Durchflusssensor" Description="Ein Gerät, das die Strömung oder den Fluss in einer Flüssigkeit erfasst oder erkennt.">
+  <IfcClassificationReference id="i1692" Identification="FIRESENSOR" Name="FIRESENSOR" Description="Ein Gerät, das Feuer wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1693" Identification="HUMIDITYSENSOR" Name="Feuchtesensor" Description="Ein Gerät, das Feuchtigkeit erfasst oder erkennt.">
+  <IfcClassificationReference id="i1693" Identification="FLOWSENSOR" Name="FLOWSENSOR" Description="Ein Gerät, das die Strömung oder den Durchfluss in einer Flüssigkeit erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1694" Identification="MOISTURESENSOR" Name="Feuchtigkeitssensor" Description="Ein Gerät, das Feuchtigkeit erfasst oder erkennt.">
+  <IfcClassificationReference id="i1694" Identification="GASSENSOR" Name="Gassensor" Description="Ein Gerät, das die Gaskonzentration (außer CO2) erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1695" Identification="FIRESENSOR" Name="Feuersensor" Description="Ein Gerät, das Feuer wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1695" Identification="HEATSENSOR" Name="HEATSENSOR" Description="Ein Gerät, das Wärme wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1696" Identification="LEVELSENSOR" Name="Füllstandsensor" Description="Ein Gerät, das den Füllstand erfasst oder erkennt, z.B. für einen Tank.">
+  <IfcClassificationReference id="i1696" Identification="HUMIDITYSENSOR" Name="HUMIDITYSENSOR" Description="Ein Gerät, das Feuchtigkeit erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1697" Identification="GASSENSOR" Name="Gassensor" Description="Ein Gerät, das die Gaskonzentration (außer CO2) erfasst oder erkennt.">
+  <IfcClassificationReference id="i1697" Identification="IDENTIFIERSENSOR" Name="IDENTIFIERSENSOR" Description="Ein Gerät, das ein Etikett liest, z.B. um Zugang zu einer Tür oder einem Aufzug zu erhalten.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1698" Identification="IDENTIFIERSENSOR" Name="IDENTIFIKATOR-Sensor" Description="Ein Gerät, das ein Etikett liest, z.B. um Zugang zu einer Tür oder einem Aufzug zu erhalten.">
+  <IfcClassificationReference id="i1698" Identification="IONCONCENTRATIONSENSOR" Name="IONCONCENTRATIONSENSOR" Description="Ein Gerät, das die Ionenkonzentration, z.B. für die Wasserhärte, erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1699" Identification="IONCONCENTRATIONSENSOR" Name="Ionenkonzentrationssensor" Description="Ein Gerät, das die Ionenkonzentration, z.B. für die Wasserhärte, erfasst oder erkennt.">
+  <IfcClassificationReference id="i1699" Identification="LEVELSENSOR" Name="LEVELSENSOR" Description="Ein Gerät, das den Füllstand erfasst oder erkennt, z.B. für einen Tank.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1700" Identification="CO2SENSOR" Name="Kohlendioxid-Sensor" Description="Ein Gerät, das Kohlendioxid erfasst oder erkennt.">
+  <IfcClassificationReference id="i1700" Identification="LIGHTSENSOR" Name="LIGHTSENSOR" Description="Ein Gerät, das Licht wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1701" Identification="COSENSOR" Name="Kohlenmonooxid-Sensor&#xA;" Description="Ein Gerät, das Kohlenmonoxid erfasst oder erkennt.">
+  <IfcClassificationReference id="i1701" Identification="MOISTURESENSOR" Name="MOISTURESENSOR" Description="Ein Gerät, das Feuchtigkeit erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1702" Identification="CONDUCTANCESENSOR" Name="Leitwertsensor" Description="Ein Gerät, das elektrische Leitfähigkeit erfasst oder erkennt.">
+  <IfcClassificationReference id="i1702" Identification="MOVEMENTSENSOR" Name="MOVEMENTSENSOR" Description="Ein Gerät, das Bewegungen wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1703" Identification="LIGHTSENSOR" Name="Lichtsensor" Description="Ein Gerät, das Licht wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1703" Identification="NOTDEFINED" Name="NOTDEFINED" Description="Undefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1704" Identification="NOTDEFINED" Name="Nicht definiert" Description="Undefinierter Typ.">
+  <IfcClassificationReference id="i1704" Identification="PHSENSOR" Name="PHSENSOR" Description="Ein Gerät, das den Säuregehalt erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1705" Identification="PHSENSOR" Name="pH-Wert-Sensor" Description="Ein Gerät, das den Säuregehalt erfasst oder erkennt.">
+  <IfcClassificationReference id="i1705" Identification="PRESSURESENSOR" Name="PRESSURESENSOR" Description="Ein Gerät, das Druck misst oder erfasst.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1706" Identification="RADIOACTIVITYSENSOR" Name="Radioaktivitätssensor" Description="Ein Gerät, das den atomaren Zerfall erfasst oder erkennt.">
+  <IfcClassificationReference id="i1706" Identification="RADIATIONSENSOR" Name="RADIATIONSENSOR" Description="Ein Gerät, das Strahlung erfasst oder detektiert.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1707" Identification="SMOKESENSOR" Name="Rauchsensor" Description="Ein Gerät, das Rauch wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1707" Identification="RADIOACTIVITYSENSOR" Name="RADIOACTIVITYSENSOR" Description="Ein Gerät, das den atomaren Zerfall erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1708" Identification="SOUNDSENSOR" Name="Schallsensor" Description="Ein Gerät, das Geräusche wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1708" Identification="SMOKESENSOR" Name="SMOKESENSOR" Description="Ein Gerät, das Rauch wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1709" Identification="RADIATIONSENSOR" Name="Strahlungssensor" Description="Ein Gerät, das Strahlung erfasst oder detektiert.">
+  <IfcClassificationReference id="i1709" Identification="SOUNDSENSOR" Name="SOUNDSENSOR" Description="Ein Gerät, das Geräusche wahrnimmt oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1710" Identification="TEMPERATURESENSOR" Name="Temperatursensor" Description="Ein Gerät, das die Temperatur erfasst oder erkennt.">
+  <IfcClassificationReference id="i1710" Identification="TEMPERATURESENSOR" Name="TEMPERATURESENSOR" Description="Ein Gerät, das die Temperatur erfasst oder erkennt.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1711" Identification="HEATSENSOR" Name="Wärmefühler" Description="Ein Gerät, das Wärme wahrnimmt oder erkennt.">
+  <IfcClassificationReference id="i1711" Identification="USERDEFINED" Name="USERDEFINED" Description="Benutzerdefinierter Typ.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i1687" />
     </ReferencedSource>
@@ -16794,7 +16794,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2303" Identification="IfcStructuralItem" Name="Tragelement - Tragverbindung - Auflager (allgemein)" Description="Die abstrakte Entität IfcStructuralItem ist die Verallgemeinerung von tragenden Bauteilen &#xD;&#xA;und konstruktiven Verbindungen, d.h. die Analyse von Idealisierungen von Elementen im &#xD;&#xA;Gebäudemodell, und definiert die Beziehung von konstruktiven Bauteilen und Verbindungen mit einwirkenden Kräften  (Aktionen und Reaktionen).&#xD;&#xA;&#xD;&#xA;Beziehungen zwischen Elementen im Gebäudemodell und strukturellen Elementen, sowie deren Idealisierungen, können durch Instanzen von IfcRelAssignsToProduct ausgedrückt werden.">
+  <IfcClassificationReference id="i2303" Identification="IfcStructuralItem" Name="Tragelement - Tragverbindung - Auflager (allgemein)" Description="Die abstrakte Entität IfcStructuralItem ist die Verallgemeinerung von Strukturbauteilen und strukturellen Verbindungen, d.h. die Analyse von Idealisierungen von Elementen im Gebäudemodell, und definiert die Beziehung zwischen Strukturbauteilen und Verbindungen mit strukturellen Aktivitäten (Aktionen und Reaktionen).&#xD;&#xA;&#xA;&#xD;&#xA;Relationships zwischen Elementen im Gebäudemodell und strukturellen Elementen, da ihre Idealisierungen durch Instanzen von IfcRelAssignsToProduct ausgedrückt werden können.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16814,7 +16814,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2307" Identification="IfcStructuralPointAction" Name="Einzel- oder Punktlast" Description="Diese Entität definiert eine Einwirkung, die auf einen Punkt wirkt: Eine Einzellast ist  typischerweise mit einer Punktverbindung verbunden, kann aber auch mit einem &#xD;&#xA;Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein.">
+  <IfcClassificationReference id="i2307" Identification="IfcStructuralPointAction" Name="Einzel- oder Punktlast" Description="Diese Entität definiert eine Einwirkung, die auf einen Punkt wirkt: Eine Punktaktion ist typischerweise mit einer Punktverbindung verbunden, kann aber auch mit einem Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16834,7 +16834,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2311" Identification="IfcStructuralSurfaceAction" Name="Flächenlast (gleichförmig oder veränderlich)" Description="Diese Entitität definiert eine Einwirkung die über eine Fläche verteilt ist. Eine &#xD;&#xA;Oberflächeneinwirkung kann mit einem Oberflächenelement oder einer &#xD;&#xA;Oberflächenverbindung verbunden sein">
+  <IfcClassificationReference id="i2311" Identification="IfcStructuralSurfaceAction" Name="Flächenlast (gleichförmig oder veränderlich)" Description="Diese Entitität definiert eine Aktion die über eine Fläche verteilt ist. Eine Oberflächenaktion kann mit einem Oberflächenelement oder einer Oberflächenverbindung verbunden sein.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
@@ -16874,7 +16874,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2319" Identification="IfcStructuralCurveAction" Name="veränderliche Linienlast" Description="Eine Strukturkurvenaktion definiert eine Einwirkung, die über eine Kurve verteilt ist, wobei &#xD;&#xA;eine Kurvenaktion mit einem Kurvenglied oder einer Kurvenverbindung, einem &#xD;&#xA;Flächenelement oder einer Flächenverbindung verbunden sein kann.">
+  <IfcClassificationReference id="i2319" Identification="IfcStructuralCurveAction" Name="veränderliche Linienlast" Description="Eine Strukturkurvenaktion definiert eine Aktion, die über eine Kurve verteilt ist, wobei eine Kurvenaktion mit einem Kurvenglied oder einer Kurvenverbindung, einem Flächenelement oder einer Flächenverbindung verbunden sein kann.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i2299" />
     </ReferencedSource>
