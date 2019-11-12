@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>Classification file from IFC Navigator Germany</name>
     <time_stamp>2018-12-27T00:00:00</time_stamp>
@@ -8599,7 +8599,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i147efd63-fc9e-48d1-bbdc-3ecc7a00a454" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9319f491-43b7-45fe-ad16-034a716e8498" Identification="B3.6" Name="Produktkatalog/ Leistungsprofil FM" Description="">
+  <IfcClassificationReference id="i9319f491-43b7-45fe-ad16-034a716e8498" Identification="B3.6" Name="Produktkatalog/Leistungsprofil FM" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7b4c2b57-d951-4292-b7f9-cb6987a89f7c" />
     </ReferencedSource>

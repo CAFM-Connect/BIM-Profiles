@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Fördertechnische Anlagen inspizieren und warten</name>
     <time_stamp>2018-08-17T00:00:00</time_stamp>
@@ -983,8 +983,8 @@
       <IfcSimplePropertyTemplate id="ia872c21f-4eda-4f7e-b7d3-1338a1316e9c" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="icb083bec-738f-4e6a-8cc7-f576b52a3e84" GlobalId="2D_Z7xcjPDdOI6InSVi9Mq" Name="Anzahl Haltestellen" Description="Anzahl von Haltestellen einer Aufzugsanlage." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="id8359839-34f0-4e39-af14-bc506526f671" GlobalId="15FiIuf292A8Z_5IFKGAJk" Name="Anzahl Zugangsstellen" Description="Zugangsstellen/Türen zu einer Aufzugsanlage" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
-      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art des Aufzug" Description="Gibt die  Art des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
-        <Enumerators Name="Enumeration for Art des Aufzug">
+      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art des Aufzugs" Description="Gibt die  Art des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+        <Enumerators Name="Enumeration for Art des Aufzugs">
           <EnumerationValues>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_4098a36d-8a3a-4f35-ba3c-e01c30ac9555" pos="1">Feuerwehraufzug</IfcLabel-wrapper>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_728ebd18-3051-4b1a-99a5-89fb08198962" pos="2">Güteraufzug</IfcLabel-wrapper>
@@ -1014,7 +1014,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie hoch die Förderhöhe des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie hoch die Förderhöhe des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_id1c061cf-4632-4cf7-a3ea-6a56696291e3" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>

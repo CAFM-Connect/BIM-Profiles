@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Provisionierung GLT,Sensorik,IoT</name>
     <time_stamp>2017-06-08T00:00:00</time_stamp>
@@ -89,6 +89,16 @@
           <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>ic34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>c34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>33IqvGYp57YvnQuV4EOCpW</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -5602,6 +5612,11 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="ic34b4e50-8b31-478b-9c5a-e1f10e60cce0" Location="" Identification="" Name="test" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
   <IfcClassificationReference id="ibabcec2f-f64a-4810-8b99-4295cdf05852" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
@@ -5662,7 +5677,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i6695390b-01ea-40a4-86a5-3b14abf67225" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i69631ff9-10e4-4134-a8ca-0330ae234039" Location="IfcWall/USERDEFINED" Identification="337" Name="Elementierte Außenwände" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen">
+  <IfcClassificationReference id="i69631ff9-10e4-4134-a8ca-0330ae234039" Location="IfcWall/USERDEFINED" Identification="337" Name="Elementierte Außeanwände" Description="Raumseitige Bekleidungen, einschließlich Putz-, Dichtungs-, Dämm-, Schutzschichten an Außenwänden und -stützen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i6695390b-01ea-40a4-86a5-3b14abf67225" />
     </ReferencedSource>
@@ -6627,7 +6642,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i51033852-c25d-4788-839e-2ea835d8f50b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ic4e75afb-8f8f-41e6-8922-bfd4eee18220" Location="IfcPumpe/USERDEFINED" Identification="434.35" Name="Druckhaltung" Description="">
+  <IfcClassificationReference id="ic4e75afb-8f8f-41e6-8922-bfd4eee18220" Location="IfcPump/USERDEFINED" Identification="434.35" Name="Druckhaltung" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i51033852-c25d-4788-839e-2ea835d8f50b" />
     </ReferencedSource>
@@ -6977,12 +6992,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i9522b51a-03ce-4aef-b2f4-c85887849506" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="18" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
+  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="IfcBuildingElementProxy/USERDEFINED" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="18" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
+  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="IfcBuildingElementProxy/USERDEFINED" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
     </ReferencedSource>
@@ -7462,42 +7477,42 @@
       <IfcClassificationReference xsi:nil="true" ref="ia9bdef55-0fcb-446e-afc8-97264b1fbeb2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ia2e0e551-a61c-47d9-911b-bbd36e40838b" Location="18" Identification="525.10" Name="Sportrasenfläche" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ia2e0e551-a61c-47d9-911b-bbd36e40838b" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.10" Name="Sportrasenfläche" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i4d289023-f3b3-4f70-9e7d-cef0d6e89428" Location="18" Identification="525.20" Name="Kunststoffrasenfläche" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i4d289023-f3b3-4f70-9e7d-cef0d6e89428" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.20" Name="Kunststoffrasenfläche" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="if924b736-9a4a-4428-94f3-90d9888ccc67" Location="18" Identification="525.30" Name="Tennenfläche" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="if924b736-9a4a-4428-94f3-90d9888ccc67" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.30" Name="Tennenfläche" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ie7c97e30-225a-41cb-ad3d-f28c17742d5d" Location="18" Identification="525.40" Name="Kunststofffläche" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ie7c97e30-225a-41cb-ad3d-f28c17742d5d" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.40" Name="Kunststofffläche" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ifbe85a2e-8fea-467c-8d9c-adf131cdea56" Location="18" Identification="525.50" Name="Sandfläche" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ifbe85a2e-8fea-467c-8d9c-adf131cdea56" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.50" Name="Sandfläche" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i99af81e6-a74a-4198-85ec-e756ccf06765" Location="18" Identification="525.61" Name="Spielfeld Fußball" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i99af81e6-a74a-4198-85ec-e756ccf06765" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.61" Name="Spielfeld Fußball" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i93b0340e-1ece-4b7e-ba13-1277b824b20c" Location="18" Identification="525.62" Name="Spielfeld Hockey" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i93b0340e-1ece-4b7e-ba13-1277b824b20c" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.62" Name="Spielfeld Hockey" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i64b93525-cb9b-4fcb-b956-ce1a2e210e15" Location="18" Identification="525.63" Name="Spielfeld Tennis" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i64b93525-cb9b-4fcb-b956-ce1a2e210e15" Location="IfcBuildingElementProxy/USERDEFINED" Identification="525.63" Name="Spielfeld Tennis" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i115f0f29-5bec-4896-b377-747676fd45fa" />
     </ReferencedSource>
@@ -7582,17 +7597,17 @@
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i934a0ae2-9193-4ea2-9042-cac914367ce8" Location="18" Identification="532.34" Name="Ballfangzaun" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i934a0ae2-9193-4ea2-9042-cac914367ce8" Location="IfcBuildingElementProxy/USERDEFINED" Identification="532.34" Name="Ballfangzaun" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i72dbe673-d4ad-456a-9791-5459f5a01dbe" Location="18" Identification="532.35" Name="Bande" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i72dbe673-d4ad-456a-9791-5459f5a01dbe" Location="IfcBuildingElementProxy/USERDEFINED" Identification="532.35" Name="Bande" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e" Location="18" Identification="532.36" Name="Barriere" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="iad404e6d-acc8-4ad3-b582-4fd8a12bcb0e" Location="IfcBuildingElementProxy/USERDEFINED" Identification="532.36" Name="Barriere" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i5e6c70da-1e07-4717-9848-a9a4a25b1f05" />
     </ReferencedSource>
@@ -7607,7 +7622,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i339a6480-476d-4fe0-a293-7ffd60a74215" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ie0767f49-548f-4027-960e-6507a75233e0" Location="18" Identification="534.10" Name="Tribüne" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ie0767f49-548f-4027-960e-6507a75233e0" Location="IfcBuildingElementProxy/USERDEFINED" Identification="534.10" Name="Tribüne" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i0cd09b47-df00-4759-b8b3-9ae4ca4ee1bf" />
     </ReferencedSource>
@@ -7652,7 +7667,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i940affb8-7ece-4b44-ae96-d7f7fd397bdf" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i46921dd8-aeeb-44a3-811e-0b2ff1a36763" Location="18" Identification="537.60" Name="Ablauf" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i46921dd8-aeeb-44a3-811e-0b2ff1a36763" Location="IfcBuildingElementProxy/USERDEFINED" Identification="537.60" Name="Ablauf" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i940affb8-7ece-4b44-ae96-d7f7fd397bdf" />
     </ReferencedSource>
@@ -7672,7 +7687,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i84385824-7c08-450f-9ada-ee2f243e841b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="18" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
+  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="IfcBuildingElementProxy/USERDEFINED" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i761c1244-eb78-4ff8-8b02-75f7bba008e5" />
     </ReferencedSource>
@@ -7787,7 +7802,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i22c49508-76b6-49f6-a228-57da2b3f91ff" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ia845b74f-9fc9-442e-96f3-f7d63630cb8f" Location="18" Identification="546.54" Name="Flutlichtmast" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ia845b74f-9fc9-442e-96f3-f7d63630cb8f" Location="IfcBuildingElementProxy/USERDEFINED" Identification="546.54" Name="Flutlichtmast" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i22c49508-76b6-49f6-a228-57da2b3f91ff" />
     </ReferencedSource>
@@ -7877,102 +7892,102 @@
       <IfcClassificationReference xsi:nil="true" ref="id59a90da-cbd6-4d90-aefe-66e6d19b3189" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i6d23ae4f-8768-409d-98f6-9b515f24af55" Location="18" Identification="552.30" Name="Fußballtor, festeingebaut" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i6d23ae4f-8768-409d-98f6-9b515f24af55" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.30" Name="Fußballtor, festeingebaut" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i7d2ebbd0-08d8-4574-b32e-f918940d3601" Location="18" Identification="552.31" Name="Fußballtor, mobil" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i7d2ebbd0-08d8-4574-b32e-f918940d3601" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.31" Name="Fußballtor, mobil" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="id79eb54b-2f33-4be7-befc-62402ca37a97" Location="18" Identification="552.32" Name="Handballtor, festeingebaut" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="id79eb54b-2f33-4be7-befc-62402ca37a97" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.32" Name="Handballtor, festeingebaut" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i2d37e984-17e2-4baf-8d7e-901884944c22" Location="18" Identification="552.33" Name="Handballtor, mobil" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i2d37e984-17e2-4baf-8d7e-901884944c22" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.33" Name="Handballtor, mobil" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="idaf8dae1-9617-44f4-96e5-b6c7a88d3a21" Location="18" Identification="552.34" Name="Hockeytor, festeingebaut" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="idaf8dae1-9617-44f4-96e5-b6c7a88d3a21" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.34" Name="Hockeytor, festeingebaut" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i02aaa82e-7d0e-4ef7-bd3a-8a9e7d161546" Location="18" Identification="552.35" Name="Hockeytor, mobil" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i02aaa82e-7d0e-4ef7-bd3a-8a9e7d161546" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.35" Name="Hockeytor, mobil" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i923b2a30-ff5e-4970-b4e2-311d2ab1eab6" Location="18" Identification="552.36" Name="Basketball Korbständer" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i923b2a30-ff5e-4970-b4e2-311d2ab1eab6" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.36" Name="Basketball Korbständer" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i24ca49e8-e520-4697-bc14-deb44303f546" Location="18" Identification="552.37" Name="Kopfballpendel" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i24ca49e8-e520-4697-bc14-deb44303f546" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.37" Name="Kopfballpendel" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ieadb4dc4-f9d9-4c64-b418-2325c764730e" Location="18" Identification="552.38" Name="Leichtathletikgerät" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ieadb4dc4-f9d9-4c64-b418-2325c764730e" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.38" Name="Leichtathletikgerät" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i92e7e6cb-224c-40c4-bce0-69668060cfea" Location="18" Identification="552.39" Name="Sprunganlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i92e7e6cb-224c-40c4-bce0-69668060cfea" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.39" Name="Sprunganlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ifd48b258-2eb6-41e8-998c-838159b29128" Location="18" Identification="552.40" Name="Sprunggrube" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ifd48b258-2eb6-41e8-998c-838159b29128" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.40" Name="Sprunggrube" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i5e2ea39d-2248-4667-b4fd-379d0bb77b7f" Location="18" Identification="552.41" Name="Wurfanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i5e2ea39d-2248-4667-b4fd-379d0bb77b7f" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.41" Name="Wurfanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="if66588ba-885e-4063-bf94-55c022a438a8" Location="18" Identification="552.42" Name="Wurfkreis" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="if66588ba-885e-4063-bf94-55c022a438a8" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.42" Name="Wurfkreis" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i82a86398-3093-4f8b-ad69-cf0af4c53a9f" Location="18" Identification="552.43" Name="Laufbahn" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i82a86398-3093-4f8b-ad69-cf0af4c53a9f" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.43" Name="Laufbahn" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ibc548361-dab2-4b72-b468-35c9a65c10cf" Location="18" Identification="552.44" Name="Wassergraben" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ibc548361-dab2-4b72-b468-35c9a65c10cf" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.44" Name="Wassergraben" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="ic42ef303-edfc-42f9-a75d-00fc3144985e" Location="18" Identification="552.45" Name="Tennisanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="ic42ef303-edfc-42f9-a75d-00fc3144985e" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.45" Name="Tennisanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i819c4bc4-0270-414d-a245-17f13a8d399a" Location="18" Identification="552.46" Name="Volleyballanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i819c4bc4-0270-414d-a245-17f13a8d399a" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.46" Name="Volleyballanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i1f1d5908-2367-4b2c-ab19-272d0bc89e37" Location="18" Identification="552.47" Name="Badmintonanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i1f1d5908-2367-4b2c-ab19-272d0bc89e37" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.47" Name="Badmintonanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i0d27ff68-bd87-49a4-8cb3-8ee8188c2926" Location="18" Identification="552.48" Name="Beachsportanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i0d27ff68-bd87-49a4-8cb3-8ee8188c2926" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.48" Name="Beachsportanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i9bef0a4d-c620-4f9f-97bb-13e9c7c018d8" Location="18" Identification="552.49" Name="Faustballanlage" Description="Sven Axt, topomatik">
+  <IfcClassificationReference id="i9bef0a4d-c620-4f9f-97bb-13e9c7c018d8" Location="IfcBuildingElementProxy/USERDEFINED" Identification="552.49" Name="Faustballanlage" Description="Sven Axt, topomatik">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i7e463a14-b338-42ec-8c3c-67b20f9c544f" />
     </ReferencedSource>
@@ -8032,22 +8047,22 @@
       <IfcClassificationReference xsi:nil="true" ref="ic3c84ec9-0a6b-4f8a-8915-eadc44ee79e0" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="18" Identification="574.11" Name="Kronen" Description="Baumkronen">
+  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.11" Name="Kronen" Description="Baumkronen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="18" Identification="574.12" Name="Stämme" Description="Baumstämme">
+  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.12" Name="Stämme" Description="Baumstämme">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="18" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
+  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i556aa391-a199-4281-955f-4fb7eb55e1e0" Location="18" Identification="574.16" Name="Nistkästen" Description="Nistkästen in Bäumen und Sträuchern">
+  <IfcClassificationReference id="i556aa391-a199-4281-955f-4fb7eb55e1e0" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.16" Name="Nistkästen" Description="Nistkästen in Bäumen und Sträuchern">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>

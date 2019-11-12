@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil Betreiberpflichten</name>
     <time_stamp>2019-07-25T00:00:00</time_stamp>
@@ -26713,6 +26713,16 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>i65897f1e-3f3c-43fa-881d-ccaca6d00326_794e344a-15ee-4128-82e2-c1e6481122ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcLabelwrapper</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/794e344a-15ee-4128-82e2-c1e6481122ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>794e344a-15ee-4128-82e2-c1e6481122ea</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1vJZHA5Uv1A8BYmUP84IBg</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>ibec9e30c-4169-4db2-b6b2-d6af61d6ec61</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcSimplePropertyTemplate</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org//21a9e411-66bc-45c1-ae5d-7263063874a8</IfcIdentifier-wrapper>
@@ -30619,12 +30629,12 @@
       <IfcClassificationReference xsi:nil="true" ref="ib1b3e3fd-e58d-49f0-9dcb-38d3e8908a92" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="ic4e75afb-8f8f-41e6-8922-bfd4eee18220" Location="IfcPumpe/USERDEFINED" Identification="434.35" Name="Druckhaltung" Description="">
+  <IfcClassificationReference id="ic4e75afb-8f8f-41e6-8922-bfd4eee18220" Location="IfcPump/USERDEFINED" Identification="434.35" Name="Druckhaltung" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i51033852-c25d-4788-839e-2ea835d8f50b" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipsetc4e75afb-8f8f-41e6-8922-bfd4eee18220" GlobalId="34vrhxZuz1veaYlzJkuO8W" Name="434.35" Description="PropertySet Template for 'CAFMConnect.DE Druckhaltung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcPumpe/USERDEFINED">
+  <IfcPropertySetTemplate id="ipsetc4e75afb-8f8f-41e6-8922-bfd4eee18220" GlobalId="34vrhxZuz1veaYlzJkuO8W" Name="434.35" Description="PropertySet Template for 'CAFMConnect.DE Druckhaltung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcPump/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i45e7ab09-d17b-4fd2-84ea-ae61e5d2daf8" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i5ae6b3f7-da78-4ddf-be31-8e21b6a30c71" GlobalId="1zBK3qyg5B$QfZHlECdUOQ" Name="Förderhöhe" Description="Gibt die nutzbare Arbeit an, die von der Pumpe auf das Fördermedium übertragen wird, bezogen auf das Gewicht des Mediums." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
@@ -32378,12 +32388,12 @@
       <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="18" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
+  <IfcClassificationReference id="i10174809-d497-44b6-bca5-63444f07a6b2" Location="IfcBuildingElementProxy/USERDEFINED" Identification="456.11" Name="Automatische Brandmelder" Description="Brandmelder, welcher automatisch auslöst">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipset10174809-d497-44b6-bca5-63444f07a6b2" GlobalId="0G5qW9r9T4jhobOqHF1wQo" Name="456.11" Description="PropertySet Template for 'CAFMConnect.DE Automatische Brandmelder'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipset10174809-d497-44b6-bca5-63444f07a6b2" GlobalId="0G5qW9r9T4jhobOqHF1wQo" Name="456.11" Description="PropertySet Template for 'CAFMConnect.DE Automatische Brandmelder'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i293c828b-d548-4e3b-b311-3df88d199d16" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i91515101-b055-4f74-a190-7e0b82f2a2b2" GlobalId="2H41TsuHTChukX7lsUASw2" Name="Bauart (Brandmelder)" Description="Gibt die Bauart des Brandmelders an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
@@ -32407,12 +32417,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i10174809-d497-44b6-bca5-63444f07a6b2" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="18" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
+  <IfcClassificationReference id="ida1868f2-b691-42c7-b7e5-48b826c86e98" Location="IfcBuildingElementProxy/USERDEFINED" Identification="456.12" Name="Funkbrandmelder" Description="Brandmelder, welcher über Funk vernetzt ist">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="ibf4cefc9-5085-4654-a18d-0d2b40bf5987" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipsetda1868f2-b691-42c7-b7e5-48b826c86e98" GlobalId="3Q66Zojf52nxVbIBWco6wO" Name="456.12" Description="PropertySet Template for 'CAFMConnect.DE Funkbrandmelder'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipsetda1868f2-b691-42c7-b7e5-48b826c86e98" GlobalId="3Q66Zojf52nxVbIBWco6wO" Name="456.12" Description="PropertySet Template for 'CAFMConnect.DE Funkbrandmelder'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i52e88384-4326-4ba8-b10b-4443afda786f" GlobalId="1A5LyOZ4r6yOXYmvfudGJr" Name="Hersteller" Description="Gibt den Hersteller des Bauteils an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
       <IfcSimplePropertyTemplate id="i84e0ffd8-efc0-4d1b-8f49-59a62673b81d" GlobalId="0SKVgfzGj7VOdmNLXwdfLv" Name="Bauart (Funkbrandmelder)" Description="Gibt die Bauart des Funkbrandmelders an.&#xD;&#xA;nach DIN 14675 und VDE 0833-2; nach DIN 14676" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
@@ -32684,8 +32694,8 @@
       <IfcSimplePropertyTemplate id="ia872c21f-4eda-4f7e-b7d3-1338a1316e9c" GlobalId="0bWd0t$7v8_PsbMeFpO1us" Name="Baujahr" Description="Gibt das Baujahr an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcInteger" />
       <IfcSimplePropertyTemplate id="icb083bec-738f-4e6a-8cc7-f576b52a3e84" GlobalId="2D_Z7xcjPDdOI6InSVi9Mq" Name="Anzahl Haltestellen" Description="Anzahl von Haltestellen einer Aufzugsanlage." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="id8359839-34f0-4e39-af14-bc506526f671" GlobalId="15FiIuf292A8Z_5IFKGAJk" Name="Anzahl Zugangsstellen" Description="Zugangsstellen/Türen zu einer Aufzugsanlage" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
-      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art des Aufzug" Description="Gibt die  Art des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
-        <Enumerators Name="Enumeration for Art des Aufzug">
+      <IfcSimplePropertyTemplate id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b" GlobalId="0YmJlrTebEFOrKGU7eVZXf" Name="Art des Aufzugs" Description="Gibt die  Art des Aufzugs an." TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcText">
+        <Enumerators Name="Enumeration for Art des Aufzugs">
           <EnumerationValues>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_4098a36d-8a3a-4f35-ba3c-e01c30ac9555" pos="1">Feuerwehraufzug</IfcLabel-wrapper>
             <IfcLabel-wrapper id="ib4a184ce-c2ea-465b-ba5c-fd458333e82b_728ebd18-3051-4b1a-99a5-89fb08198962" pos="2">Güteraufzug</IfcLabel-wrapper>
@@ -32716,7 +32726,7 @@
         </Enumerators>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="ia80ab85b-ee9a-456c-9b1f-c19044e115dc" GlobalId="3sufsfURf4QxIGAsgDDUDK" Name="Fabriknummer" Description="Gibt die Fabriknummer des Aufzugs an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
-      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie hoch die Förderhöhe des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal">
+      <IfcSimplePropertyTemplate id="id1c061cf-4632-4cf7-a3ea-6a56696291e3" GlobalId="0LVQDTbrX4YQ1EWldy9GA_" Name="Förderhöhe (Aufzug)" Description="Gibt an, wie hoch die Förderhöhe des Aufzugs ist." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
         <PrimaryUnit>
           <IfcSIUnit id="unit_id1c061cf-4632-4cf7-a3ea-6a56696291e3" UnitType="lengthunit" Name="metre" />
         </PrimaryUnit>
@@ -34896,12 +34906,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i761c1244-eb78-4ff8-8b02-75f7bba008e5" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="18" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
+  <IfcClassificationReference id="i81c0810b-09d6-477e-81b4-19b5bc4dd634" Location="IfcBuildingElementProxy/USERDEFINED" Identification="538.42" Name="Notbrunnen" Description="Trinkwasser-Notbrunnen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i761c1244-eb78-4ff8-8b02-75f7bba008e5" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipset81c0810b-09d6-477e-81b4-19b5bc4dd634" GlobalId="21m84B2TP7Ve6q6RMyJTOq" Name="538.42" Description="PropertySet Template for 'CAFMConnect.DE Notbrunnen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipset81c0810b-09d6-477e-81b4-19b5bc4dd634" GlobalId="21m84B2TP7Ve6q6RMyJTOq" Name="538.42" Description="PropertySet Template for 'CAFMConnect.DE Notbrunnen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="i78ea4295-9740-4408-90d3-0ce80584d84c" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
     </HasPropertyTemplates>
@@ -35294,7 +35304,13 @@
         </PrimaryUnit>
       </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="i2679238b-ccb7-4537-b8b2-1c23bd7c04e5" GlobalId="3Zavhg2B9A7ebWyZXi8ber" Name="Baumnummer" Description="Gibt die Nummer der Baumes an" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
-      <IfcSimplePropertyTemplate id="i65897f1e-3f3c-43fa-881d-ccaca6d00326" GlobalId="2JRYblAHf3Av2UGssqaOQw" Name="Baumart" Description="Gibt die Baumart an" TemplateType="p_singlevalue" PrimaryMeasureType="IfcLabel" />
+      <IfcSimplePropertyTemplate id="i65897f1e-3f3c-43fa-881d-ccaca6d00326" GlobalId="2JRYblAHf3Av2UGssqaOQw" Name="Baumart" Description="Gibt die Baumart an" TemplateType="p_enumeratedvalue" PrimaryMeasureType="IfcLabel">
+        <Enumerators Name="Enumeration for Baumart">
+          <EnumerationValues>
+            <IfcLabel-wrapper id="i65897f1e-3f3c-43fa-881d-ccaca6d00326_794e344a-15ee-4128-82e2-c1e6481122ea" pos="1">Bsp. Blautanne (Abies procera) Sorte: 'Glauca'</IfcLabel-wrapper>
+          </EnumerationValues>
+        </Enumerators>
+      </IfcSimplePropertyTemplate>
       <IfcSimplePropertyTemplate id="ibec9e30c-4169-4db2-b6b2-d6af61d6ec61" GlobalId="0XgUGHPhn5mQvTScC6E7Ie" Name="Stämmigkeit" Description="Gibt die Stämmigkeit des Baumes an" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
@@ -35306,12 +35322,12 @@
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="18" Identification="574.11" Name="Kronen" Description="Baumkronen">
+  <IfcClassificationReference id="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.11" Name="Kronen" Description="Baumkronen">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipsetf58b296d-5cc4-4f69-a505-6131e4a1d6e5" GlobalId="3rYobjNCHFQQK5OJ7aeTRb" Name="574.11" Description="PropertySet Template for 'CAFMConnect.DE Kronen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipsetf58b296d-5cc4-4f69-a505-6131e4a1d6e5" GlobalId="3rYobjNCHFQQK5OJ7aeTRb" Name="574.11" Description="PropertySet Template for 'CAFMConnect.DE Kronen'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="ida02f238-458b-4bc1-ab3c-5b8d8cdf03d3" GlobalId="0f5AE_1R1CARqigr5Kl97C" Name="Kronendurchmesser" Description="Gibt den Kronendurchmessers des Baums an." TemplateType="p_singlevalue" PrimaryMeasureType="IfcLengthMeasure">
         <PrimaryUnit>
@@ -35328,12 +35344,12 @@
       <IfcClassificationReference xsi:nil="true" ref="if58b296d-5cc4-4f69-a505-6131e4a1d6e5" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="18" Identification="574.12" Name="Stämme" Description="Baumstämme">
+  <IfcClassificationReference id="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.12" Name="Stämme" Description="Baumstämme">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipset91b3a384-6bda-4715-8dc6-b7d9bd1d208a" GlobalId="2HiwE4Qzf75Ot6jzcz7I2A" Name="574.12" Description="PropertySet Template for 'CAFMConnect.DE Stämme'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipset91b3a384-6bda-4715-8dc6-b7d9bd1d208a" GlobalId="2HiwE4Qzf75Ot6jzcz7I2A" Name="574.12" Description="PropertySet Template for 'CAFMConnect.DE Stämme'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="ia1ed0368-3165-434d-b36a-d2bcaa8b8fd8" GlobalId="1p5C4meC1DRxMVLXXvMJii" Name="Stammdurchmesser" Description="Stammdurchmesser, gemessen in 1,30m Höhe." TemplateType="p_singlevalue" PrimaryMeasureType="IfcPositiveLengthMeasure">
         <PrimaryUnit>
@@ -35355,12 +35371,12 @@
       <IfcClassificationReference xsi:nil="true" ref="i91b3a384-6bda-4715-8dc6-b7d9bd1d208a" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="18" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
+  <IfcClassificationReference id="i00809d90-647f-4895-8588-6e34f5e30af6" Location="IfcBuildingElementProxy/USERDEFINED" Identification="574.15" Name="Kronensicherung" Description="Sicherungen der Baumkrone">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="if8260c71-16b9-4fa5-84a3-7dd2358cffe2" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcPropertySetTemplate id="ipset00809d90-647f-4895-8588-6e34f5e30af6" GlobalId="00W9sGP7z8bOM8RZJrumhs" Name="574.15" Description="PropertySet Template for 'CAFMConnect.DE Kronensicherung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="18">
+  <IfcPropertySetTemplate id="ipset00809d90-647f-4895-8588-6e34f5e30af6" GlobalId="00W9sGP7z8bOM8RZJrumhs" Name="574.15" Description="PropertySet Template for 'CAFMConnect.DE Kronensicherung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="ie3c8852a-5cc0-441b-8106-2f5da488cc5f" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
       <IfcSimplePropertyTemplate id="id426b2b5-d1f2-444d-99c2-84de2f119c20" GlobalId="2B9nqbKg50YxPYYnf99iKe" Name="Einbauzeitpunkt" Description="Gibt den Einbauzeitpunkt an.&#xD;&#xA;Das Jahr ist entscheidend. Jedes Jahr wird eine andersfarbige Scheibe eingebaut." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
