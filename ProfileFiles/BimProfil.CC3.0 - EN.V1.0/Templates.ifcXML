@@ -17192,7 +17192,7 @@
       <IfcClassificationReference xsi:nil="true" ref="i82ba6d8e-09cc-4038-83f7-9b1dac415196" />
     </ReferencedSource>
   </IfcClassificationReference>
-  <IfcClassificationReference id="i97b2fe4d-6112-4660-b34d-a348e57c8432" Location="IfcTankIfcProxy/USERDEFINED" Identification="548.22" Name="Tankläger &gt; 10.000 l" Description="">
+  <IfcClassificationReference id="i97b2fe4d-6112-4660-b34d-a348e57c8432" Location="IfcTank/USERDEFINED" Identification="548.22" Name="Tankläger &gt; 10.000 l" Description="">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="i82ba6d8e-09cc-4038-83f7-9b1dac415196" />
     </ReferencedSource>

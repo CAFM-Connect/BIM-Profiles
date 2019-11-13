@@ -32038,7 +32038,7 @@
           </EnumerationValues>
         </Enumerators>
       </IfcSimplePropertyTemplate>
-      <IfcSimplePropertyTemplate id="ie984ffde-328d-4fa5-b5d5-e1b96bac57af" GlobalId="2jNdfSAmbBYghhlG2fXYFO" Name="Einhausung" Description="Einhausung des Lasers&#xD;&#xA;TROS-Laserstrahlung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
+      <IfcSimplePropertyTemplate id="ie984ffde-328d-4fa5-b5d5-e1b96bac57af" GlobalId="2jNdfSAmbBYghhlG2fXYFO" Name="Einhausung" Description="Einhausung des Lasers TROS-Laserstrahlung" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
       <IfcSimplePropertyTemplate id="i80bc551d-46cb-45ac-807f-48f22ac5b5d7" GlobalId="0z06x1wTPDOP_2uDTyaNBR" Name="Schutzabschirmung" Description="Schutzabschirmung des Lasers" TemplateType="p_singlevalue" PrimaryMeasureType="IfcReal" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
@@ -35379,7 +35379,7 @@
   <IfcPropertySetTemplate id="ipset00809d90-647f-4895-8588-6e34f5e30af6" GlobalId="00W9sGP7z8bOM8RZJrumhs" Name="574.15" Description="PropertySet Template for 'CAFMConnect.DE Kronensicherung'" TemplateType="pset_typedrivenoverride" ApplicableEntity="IfcBuildingElementProxy/USERDEFINED">
     <HasPropertyTemplates>
       <IfcSimplePropertyTemplate id="ie3c8852a-5cc0-441b-8106-2f5da488cc5f" GlobalId="1S8vNpBWvB880wkXLc5Ar1" Name="Beschreibung" Description="Freitextfeld zur allgemeinen Beschreibung von Objektinformationen" TemplateType="p_singlevalue" PrimaryMeasureType="IfcText" />
-      <IfcSimplePropertyTemplate id="id426b2b5-d1f2-444d-99c2-84de2f119c20" GlobalId="2B9nqbKg50YxPYYnf99iKe" Name="Einbauzeitpunkt" Description="Gibt den Einbauzeitpunkt an.&#xD;&#xA;Das Jahr ist entscheidend. Jedes Jahr wird eine andersfarbige Scheibe eingebaut." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
+      <IfcSimplePropertyTemplate id="id426b2b5-d1f2-444d-99c2-84de2f119c20" GlobalId="2B9nqbKg50YxPYYnf99iKe" Name="Einbauzeitpunkt" Description="Gibt den Einbauzeitpunkt an. Das Jahr ist entscheidend. Jedes Jahr wird eine andersfarbige Scheibe eingebaut." TemplateType="p_singlevalue" PrimaryMeasureType="IfcDate" />
     </HasPropertyTemplates>
   </IfcPropertySetTemplate>
   <IfcRelAssociatesClassification id="i00809d90-647f-4895-8588-6e34f5e30af6_ipset00809d90-647f-4895-8588-6e34f5e30af6" GlobalId="00W9sGP7z8bOM8RZJrumhs">
