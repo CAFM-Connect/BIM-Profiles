@@ -8583,18 +8583,18 @@
       </IfcTableRow>
     </Rows>
   </IfcTable>
-  <IfcClassification id="CAFMConnectCatalogueOfSpaceTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2019-09-20T00:00:00.0000000" Name="Document types according to GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
+  <IfcClassification id="CAFMConnectCatalogueOfDocumentTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2019-09-20T00:00:00.0000000" Name="Document types according to GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
   <IfcRelAssociatesClassification id="i104" GlobalId="0EY75QBWf8leDvhxGTxcVZ">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
     </RelatedObjects>
     <RelatingClassification>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
   <IfcClassificationReference id="i725f1cac-2bd1-4979-8dd9-6708472ef0e4" Identification="A" Name="General data" Description="General data">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i1c9632c9-fc4c-4bd8-a68c-a1baa69a3b54" Identification="A1" Name="Facility data" Description="Facility data">
@@ -8639,7 +8639,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i147efd63-fc9e-48d1-bbdc-3ecc7a00a454" Identification="B" Name="Management" Description="Management">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ibcc0b2d5-ef5a-433b-84d7-35e025b1fa9d" Identification="B1" Name="Real estate strategy" Description="real estate strategy">
@@ -8684,7 +8684,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i18f75cfd-be38-440c-aa0a-084c357c6b7f" Identification="C" Name="Organization" Description="organization">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ic754ced6-dbee-4db7-859e-b9378cbb9955" Identification="C1" Name="Structural/process organization" Description="Structural/process organization">
@@ -9039,7 +9039,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="if60c3561-33f7-46b3-8d5c-83b1cf9e4073" Identification="D" Name="Contracts/Contracts" Description="Contracts/Contracts">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i5c21c48f-23b0-4fca-8655-5e2d51ba9d20" Identification="D1" Name="user contracts" Description="user contracts">
@@ -9229,7 +9229,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i6c655a2e-40af-46f5-a7a7-78f718ccc3fc" Identification="E" Name="areas" Description="areas">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="id45f7bd1-aea5-4ebf-8e34-7ee7f337dfc9" Identification="E1" Name="room book" Description="room book">
@@ -9299,7 +9299,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="iabdc5de8-789b-46c2-bae7-021a65e25960" Identification="F" Name="Architecture+Technology" Description="Architecture+Technology">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i7f65973f-0685-431a-bae2-3f6e5c940e5d" Identification="F1" Name="General building documentation" Description="General building documentation">
@@ -12689,7 +12689,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i72c55648-598a-42d3-a4ec-3f6fee9ab795" Identification="G" Name="Infrastructural services" Description="Infrastructural services">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i68fc67f2-3871-4687-ae68-4ff2f92f92f0" Identification="G1" Name="Supply Objects" Description="Supply Objects">
@@ -12769,7 +12769,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i0984f1b2-8fba-4eed-80fd-d21632023022" Identification="I" Name="projects" Description="projects">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfSpaceTypes" />
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfDocumentTypes" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i8090311c-1c28-45bf-934b-ab288bac6c04" Identification="I1" Name="Construction, Orga, DL, etc." Description="Construction, Orga, DL, etc.">
