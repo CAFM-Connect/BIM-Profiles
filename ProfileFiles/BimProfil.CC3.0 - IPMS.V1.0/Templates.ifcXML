@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ifcXML xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
+<ifcXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ifc="http://www.buildingsmart-tech.org/ifcXML/IFC4/final" id="ifcXML4" xsi:schemaLocation="http://www.buildingsmart-tech.org/ifcXML/IFC4/final https://standards.buildingsmart.org/IFC/RELEASE/IFC4/FINAL/XML/ifcXML4.xsd" xmlns="http://www.buildingsmart-tech.org/ifcXML/IFC4/final">
   <header>
     <name>BIM Profil CAFM-Connect Gesamtkatalog mit IPMS</name>
     <time_stamp>2019-09-23T00:00:00</time_stamp>
@@ -89,16 +89,6 @@
           <IfcIdentifier-wrapper>Namespace</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>Uuid</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcGlobalId</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
-          <IfcIdentifier-wrapper>ic34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/c34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>c34b4e50-8b31-478b-9c5a-e1f10e60cce0</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>33IqvGYp57YvnQuV4EOCpW</IfcIdentifier-wrapper>
         </RowCells>
       </IfcTableRow>
       <IfcTableRow>
@@ -14512,11 +14502,6 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="ic34b4e50-8b31-478b-9c5a-e1f10e60cce0" Location="" Identification="" Name="test" Description="">
-    <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="ibabcec2f-f64a-4810-8b99-4295cdf05852" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
@@ -17268,7 +17253,7 @@
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassification id="CAFMConnectCatalogueOfSpaceTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2019-09-11T00:00:00.0000000" Name="Internationale Flächenermittlungsstandards für Immobilien: Bürogebäude" Description="CAFMConnectCatalogueOfSpaceTypes" />
-  <IfcRelAssociatesClassification id="i657" GlobalId="0NbSJPCln07xgpgmr2VbdI">
+  <IfcRelAssociatesClassification id="i656" GlobalId="0NbSJPCln07xgpgmr2VbdI">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
     </RelatedObjects>
@@ -17482,7 +17467,7 @@
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassification id="CAFMConnectCatalogueOfDocumentTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
-  <IfcRelAssociatesClassification id="i700" GlobalId="0NbSJPCln07xgpgmr2VbdI">
+  <IfcRelAssociatesClassification id="i699" GlobalId="0NbSJPCln07xgpgmr2VbdI">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
     </RelatedObjects>
