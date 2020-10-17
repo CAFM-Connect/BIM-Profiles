@@ -6,7 +6,7 @@ Key | Value |
 Code | TESTIPMS |  
 AreaOfApplication | Deutschland |  
 Language | de |  
-License |  |  
+License | - |  
 LifeCyclePhase | Planen, Bauen, Betreiben |  
 Publisher | [International Organization for Standardization]() |  
 PublisherTeam | OBET |  

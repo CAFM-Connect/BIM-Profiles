@@ -93,6 +93,26 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
+          <IfcIdentifier-wrapper>ib238908b-2903-4c5b-8e25-f0274af1501b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/b238908b-2903-4c5b-8e25-f0274af1501b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>b238908b-2903-4c5b-8e25-f0274af1501b</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>2oE92BAGDCMuuby2TAyL0R</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
+          <IfcIdentifier-wrapper>i4ecac7bd-1213-49c6-b37b-10fc8db7f328</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/4ecac7bd-1213-49c6-b37b-10fc8db7f328</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>CAFMConnect.DE</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>4ecac7bd-1213-49c6-b37b-10fc8db7f328</IfcIdentifier-wrapper>
+          <IfcIdentifier-wrapper>1EoiUz4XD9nhDx4FoDj$Ce</IfcIdentifier-wrapper>
+        </RowCells>
+      </IfcTableRow>
+      <IfcTableRow>
+        <RowCells>
           <IfcIdentifier-wrapper>ibabcec2f-f64a-4810-8b99-4295cdf05852</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/CAFMConnect.DE/babcec2f-f64a-4810-8b99-4295cdf05852</IfcIdentifier-wrapper>
@@ -14502,6 +14522,16 @@
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
+  <IfcClassificationReference id="ib238908b-2903-4c5b-8e25-f0274af1501b" Location="" Identification="" Name="Objekt" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
+  <IfcClassificationReference id="i4ecac7bd-1213-49c6-b37b-10fc8db7f328" Location="" Identification="" Name="Bauteil" Description="">
+    <ReferencedSource>
+      <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
+    </ReferencedSource>
+  </IfcClassificationReference>
   <IfcClassificationReference id="ibabcec2f-f64a-4810-8b99-4295cdf05852" Location="IfcBuildingElementProxy/USERDEFINED" Identification="300" Name="BAUWERK - BAUKONSTRUKTIONEN" Description="Kosten von Bauleistungen und Lieferungen zur Herstellung des Bauwerks, jedoch ohne die Technischen Anlagen (Kostengruppe 400). Dazu gehören auch die mit dem Bauwerk fest verbundenen Einbauten, die der besonderen Zweckbestimmung dienen, sowie übergreifende Maßnahmen in Zusammenhang mit den Baukonstruktionen.   Bei Umbauten und Modernisierungen zählen hierzu auch die Kosten von Teilabbruch-, Instandsetzungs-, Sicherungs- und Demontagearbeiten. Die Kosten sind bei den betreffenden Kostengruppen auszuweisen.">
     <ReferencedSource>
       <IfcClassificationReference xsi:nil="true" ref="CAFMConnectCatalogueOfObjectTypes" />
@@ -17253,7 +17283,7 @@
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassification id="CAFMConnectCatalogueOfSpaceTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2019-09-11T00:00:00.0000000" Name="Internationale Flächenermittlungsstandards für Immobilien: Bürogebäude" Description="CAFMConnectCatalogueOfSpaceTypes" />
-  <IfcRelAssociatesClassification id="i656" GlobalId="0NbSJPCln07xgpgmr2VbdI">
+  <IfcRelAssociatesClassification id="i658" GlobalId="0NbSJPCln07xgpgmr2VbdI">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
     </RelatedObjects>
@@ -17467,7 +17497,7 @@
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassification id="CAFMConnectCatalogueOfDocumentTypes" Source="https://www.cafm-connect.org" Edition="1.0" EditionDate="2018-12-27T00:00:00.0000000" Name="Dokumententypen nach GEFMA 198" Description="CAFMConnectCatalogueOfDocumentTypes" />
-  <IfcRelAssociatesClassification id="i699" GlobalId="0NbSJPCln07xgpgmr2VbdI">
+  <IfcRelAssociatesClassification id="i701" GlobalId="0NbSJPCln07xgpgmr2VbdI">
     <RelatedObjects>
       <IfcProject xsi:nil="true" ref="i1" Name="" />
     </RelatedObjects>

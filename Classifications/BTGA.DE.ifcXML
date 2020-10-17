@@ -25,16 +25,6 @@
       </IfcTableRow>
       <IfcTableRow>
         <RowCells>
-          <IfcIdentifier-wrapper>i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>https://www.cafm-connect.org/BTGA.DE/4cfbc909-c7c1-4b6a-a668-b7db23ee8dca</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>BTGA.DE</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>4cfbc909-c7c1-4b6a-a668-b7db23ee8dca</IfcIdentifier-wrapper>
-          <IfcIdentifier-wrapper>1C_ya9ny5BQgPejziZxetA</IfcIdentifier-wrapper>
-        </RowCells>
-      </IfcTableRow>
-      <IfcTableRow>
-        <RowCells>
           <IfcIdentifier-wrapper>i4df1e772-affa-4e6c-ab0c-f475625b134e</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>IfcClassificationReference</IfcIdentifier-wrapper>
           <IfcIdentifier-wrapper>https://www.cafm-connect.org/BTGA.DE/4df1e772-affa-4e6c-ab0c-f475625b134e</IfcIdentifier-wrapper>
@@ -16014,14 +16004,9 @@
       <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </RelatingClassification>
   </IfcRelAssociatesClassification>
-  <IfcClassificationReference id="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" Identification="TGA" Name="Technische Gebäudeausrüstung" Description="">
-    <ReferencedSource>
-      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
-    </ReferencedSource>
-  </IfcClassificationReference>
   <IfcClassificationReference id="i4df1e772-affa-4e6c-ab0c-f475625b134e" Identification="TGA.01" Name="Gemeinsame TGA Bauteile" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ib78ccb6c-02a8-411a-acb1-532a230e370a" Identification="TGA.01.01" Name="Rohre, Formstücke und Zubehör" Description="">
@@ -16551,7 +16536,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i7deb2a10-a23c-4c89-80b4-93b765e2b2a3" Identification="TGA.02" Name="Heizung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i0307e78b-35d2-4cc2-9090-faf37ea75d17" Identification="TGA.02.02" Name="Wärmeerzeuger" Description="">
@@ -16786,7 +16771,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="ib7c5b46e-356c-4331-8086-7d3e7c1d67fc" Identification="TGA.03" Name="Kühlung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i26087d39-950b-4948-9c21-3d56a4927076" Identification="TGA.03.01" Name="Kaltwassererzeuger" Description="">
@@ -16896,7 +16881,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="if9149d3d-b8e0-4b2d-b67b-504eeb972679" Identification="TGA.04" Name="Klima- und Raumlufttechnik" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="iaaec8530-e179-4a78-a165-b080b5e5467e" Identification="TGA.04.01" Name="Luftdurchlass" Description="">
@@ -17376,7 +17361,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="if1ce7915-ded7-460e-809a-99bef224a2f7" Identification="TGA.05" Name="Brandschutzsystem (passiv)" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="ib301d65e-ef34-4078-912e-cc89e6d11a67" Identification="TGA.05.01" Name="Kabelabschottung" Description="">
@@ -17551,7 +17536,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i754e975a-4af1-4678-8e8c-56d190781621" Identification="TGA.06" Name="Befestigungstechnik" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i49277fc7-25fa-4fbe-9676-29d66f6cf8b9" Identification="TGA.06.01" Name="Einlegeanker" Description="">
@@ -18126,7 +18111,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="ie2f5e189-12b5-4e9b-bc1a-c5ab9c59ebd6" Identification="TGA.07" Name="Wasserbehandlung" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i40f7786e-afe3-4d39-8226-aed89a937c26" Identification="TGA.07.01" Name="Wasseraufbereitung für Trinkwasser" Description="">
@@ -19071,7 +19056,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="ie2a10193-3b3d-48fe-a0ad-843f22288ecd" Identification="TGA.08" Name="Sanitär" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i9fa3e6da-7ff7-4cd8-97ef-6b8b16cc6691" Identification="TGA.08.01" Name="Einrichtungsgegenstände" Description="">
@@ -20246,7 +20231,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i8ffd25c8-7dfb-429c-bb3b-84ba0729877e" Identification="TGA.09" Name="Gebäudeautomation" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i3f290720-bcef-4119-83da-f6c87a91566c" Identification="TGA.09.01" Name="Messwertgeber" Description="">
@@ -21286,7 +21271,7 @@
   </IfcClassificationReference>
   <IfcClassificationReference id="i32103e96-1501-4b16-ba55-a5b9452f041a" Identification="TGA.10" Name="Elektro" Description="">
     <ReferencedSource>
-      <IfcClassificationReference xsi:nil="true" ref="i4cfbc909-c7c1-4b6a-a668-b7db23ee8dca" />
+      <IfcClassification xsi:nil="true" ref="i383fcf08-aed5-4cdf-819b-4413764a0c69" />
     </ReferencedSource>
   </IfcClassificationReference>
   <IfcClassificationReference id="i35a5db2e-e39d-4668-bfb4-d0f2d96f1817" Identification="TGA.10.01" Name="Antennentechnik" Description="">
